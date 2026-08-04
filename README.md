@@ -40,6 +40,7 @@ ActionsのVariables（Secretsと同じ画面の「Variables」）は必要な場
 |---|---:|---|
 | `MAX_ARTICLES` | `20` | 1日最大件数（プログラム上限100） |
 | `DAYS_BACK` | `7` | 何日前まで検索するか（通常は7日、最大3650日） |
+| `START_YEAR` | `2020` | この年の1月1日以降を検索。設定時は`DAYS_BACK`より優先 |
 | `DRY_RUN` | `false` | `true`なら検索・解析だけ行い、保存しない |
 | `ENABLE_CINII` | `true` | CiNii検索を使うか |
 | `ENABLE_PUBMED_JAPANESE` | `false` | 将来拡張用。初期版では`true`でも検索しない |
@@ -73,7 +74,7 @@ Windows PowerShellでは有効化を`.venv\Scripts\Activate.ps1`で行います�
 - カテゴリー用語：`src/classifier.py`の`CATEGORY_KEYWORDS`
 - 重要度：`src/scorer.py`の`BASE_RULES`、`BONUS`、`PENALTY`
 - 最大件数：GitHub Variableまたは`.env`の`MAX_ARTICLES`
-- 検索期間：GitHub Variableまたは`.env`の`DAYS_BACK`
+- 検索期間：GitHub Variableまたは`.env`の`START_YEAR`（未設定時は`DAYS_BACK`）
 
 検索語を増やしすぎるとAPIアクセス数が増えます。まず少数を追加し、公式の[J-STAGE WebAPI利用規約](https://www.jstage.jst.go.jp/static/pages/WebAPI/-char/ja)、[J-STAGE WebAPIマニュアル](https://www.jstage.jst.go.jp/static/files/ja/manual_api.pdf)、[CiNii Research OpenSearch仕様](https://support.nii.ac.jp/ja/cir/r_opensearch)と利用条件を確認してください。本実装はHTML画面をスクレイピングせず、User-Agent、20秒のタイムアウト、最大3回の指数バックオフ、リクエスト間隔を設定しています。
 
