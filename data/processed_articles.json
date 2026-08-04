@@ -181,5 +181,1351 @@
     "free_full_text": false,
     "retrieved_at": "2026-08-04T22:29:36.560696+00:00",
     "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.3918/jsicm.32_r45",
+    "jstage_article_id": "jsicm/32_32_R45",
+    "cinii_id": "記載なし",
+    "doi": "10.3918/jsicm.32_R45",
+    "title_ja": "小児集中治療部設置のための指針　2025年改訂版",
+    "title_en": "Guidelines for pediatric intensive care unit design and organization: 2025 revised edition",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "日本集中治療医学会小児集中治療部設置指針改訂タスクフォース"
+    ],
+    "affiliations": [],
+    "journal": "日本集中治療医学会雑誌",
+    "issn": "1882-966X",
+    "volume": "32",
+    "issue": "0",
+    "start_page": "記載なし",
+    "end_page": "記載なし",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-10-23T09:00+09:00",
+    "updated_date": "2025-10-23T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "その他"
+    ],
+    "matched_keywords": [],
+    "importance_score": 5,
+    "importance_reason": "「指針」に一致した基礎点5。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jsicm/32/0/32_32_R45/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.3918/jsicm.32_R45",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jsicm/32/0/32_32_R45/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.4264/numa.84.4_127",
+    "jstage_article_id": "numa/84_127",
+    "cinii_id": "記載なし",
+    "doi": "10.4264/numa.84.4_127",
+    "title_ja": "日本版敗血症診療ガイドライン2024 (J-SSCG 2024) 要約",
+    "title_en": "The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 (J-SSCG2024) Summary",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "桑名 司"
+    ],
+    "affiliations": [],
+    "journal": "日大医学雑誌",
+    "issn": "1884-0779",
+    "volume": "84",
+    "issue": "4",
+    "start_page": "127",
+    "end_page": "134",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-08-31T09:00+09:00",
+    "updated_date": "2025-08-31T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "敗血症"
+    ],
+    "matched_keywords": [
+      "敗血症",
+      "sepsis"
+    ],
+    "importance_score": 5,
+    "importance_reason": "「診療ガイドライン」に一致した基礎点5。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/numa/84/4/84_127/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.4264/numa.84.4_127",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/numa/84/4/84_127/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.18902/jaen.28.0_1",
+    "jstage_article_id": "jaen/28_1",
+    "cinii_id": "記載なし",
+    "doi": "10.18902/jaen.28.0_1",
+    "title_ja": "救急看護の専門的継続教育による救急看護実践への貢献",
+    "title_en": "Contribution to emergency nursing practice through continuing professional education in emergency nursing: A survey of the impact of educational courses and seminars sponsored by the Japanese Association for Emergency Nursing",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "石川 幸司"
+    ],
+    "affiliations": [],
+    "journal": "日本救急看護学会雑誌",
+    "issn": "2189-6771",
+    "volume": "28",
+    "issue": "0",
+    "start_page": "1",
+    "end_page": "10",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2025-12-26T09:00+09:00",
+    "updated_date": "2025-12-26T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "救急看護"
+    ],
+    "matched_keywords": [
+      "救急看護"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 看護実践。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jaen/28/0/28_1/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.18902/jaen.28.0_1",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jaen/28/0/28_1/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11240/jsem.28.661",
+    "jstage_article_id": "jsem/28_661",
+    "cinii_id": "記載なし",
+    "doi": "10.11240/jsem.28.661",
+    "title_ja": "救急看護領域におけるエキスパートナースの熱傷看護実践",
+    "title_en": "Burn nursing practice among expert nurses in the field of emergency nursing",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "村中 沙織"
+    ],
+    "affiliations": [],
+    "journal": "日本臨床救急医学会雑誌",
+    "issn": "2187-9001",
+    "volume": "28",
+    "issue": "4",
+    "start_page": "661",
+    "end_page": "668",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-08-31T09:00+09:00",
+    "updated_date": "2025-08-31T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "救急看護"
+    ],
+    "matched_keywords": [
+      "救急看護"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 看護実践。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jsem/28/4/28_661/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11240/jsem.28.661",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jsem/28/4/28_661/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.50903/respcare.43.1_98",
+    "jstage_article_id": "respcare/43_98",
+    "cinii_id": "記載なし",
+    "doi": "10.50903/respcare.43.1_98",
+    "title_ja": "救命救急センターにおける人工呼吸管理を要した精神疾患併存患者に対する早期離床プロトコルが臨床経過に及ぼす影響：後方視的観察研究",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "松本 忠義"
+    ],
+    "affiliations": [],
+    "journal": "呼吸療法",
+    "issn": "2759-4289",
+    "volume": "43",
+    "issue": "1",
+    "start_page": "98",
+    "end_page": "104",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-07-03T09:00+09:00",
+    "updated_date": "2026-07-03T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "人工呼吸",
+      "呼吸管理",
+      "早期離床"
+    ],
+    "matched_keywords": [
+      "人工呼吸",
+      "呼吸管理",
+      "早期離床"
+    ],
+    "importance_score": 3,
+    "importance_reason": "「観察研究」に一致した基礎点3。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/respcare/43/1/43_98/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.50903/respcare.43.1_98",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/respcare/43/1/43_98/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.2199/jjsca.45.1",
+    "jstage_article_id": "jjsca/45_1",
+    "cinii_id": "記載なし",
+    "doi": "10.2199/jjsca.45.1",
+    "title_ja": "腰椎の椎間板摘除術または椎弓切除術に対するTLIPブロックの鎮痛効果─単施設後方観察研究─",
+    "title_en": "Efficacy of Thoracolumbar Interfascial Plane（TLIP）Block in Patients Undergoing Lumbar Discectomy or Laminectomy：A Single-Site Study",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "大島 貴裕"
+    ],
+    "affiliations": [],
+    "journal": "日本臨床麻酔学会誌",
+    "issn": "1349-9149",
+    "volume": "45",
+    "issue": "1",
+    "start_page": "1",
+    "end_page": "7",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-01-15T09:00+09:00",
+    "updated_date": "2026-01-15T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "鎮痛"
+    ],
+    "matched_keywords": [
+      "鎮痛"
+    ],
+    "importance_score": 3,
+    "importance_reason": "「観察研究」に一致した基礎点3。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jjsca/45/1/45_1/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.2199/jjsca.45.1",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jjsca/45/1/45_1/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11272/jssabst.50.0_s207",
+    "jstage_article_id": "jssabst/50_S207",
+    "cinii_id": "記載なし",
+    "doi": "10.11272/jssabst.50.0_S207",
+    "title_ja": "心臓超音波検査中の心停止事例から考える生理検査室の医療安全",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "高木 真子"
+    ],
+    "affiliations": [],
+    "journal": "超音波検査技術抄録集",
+    "issn": "記載なし",
+    "volume": "50",
+    "issue": "0",
+    "start_page": "S207",
+    "end_page": "S207",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-02-27T09:00+09:00",
+    "updated_date": "2026-02-27T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "心停止・蘇生後管理",
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "心停止",
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jssabst/50/0/50_S207/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11272/jssabst.50.0_S207",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jssabst/50/0/50_S207/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.57487/jjsas.27.1_9",
+    "jstage_article_id": "jjsas/27_26-12",
+    "cinii_id": "記載なし",
+    "doi": "10.57487/jjsas.27.1_9",
+    "title_ja": "ドクターヘリ覚知時要請プロトコル導入の影響と通信指令員の意識変化：後ろ向き観察研究",
+    "title_en": "Doctor-Helicopter activation request protocol and dispatcher awareness survey",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "宮崎 伊佐夫"
+    ],
+    "affiliations": [],
+    "journal": "日本航空医療学会雑誌",
+    "issn": "2758-4399",
+    "volume": "27",
+    "issue": "1",
+    "start_page": "9",
+    "end_page": "18",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-06-30T09:00+09:00",
+    "updated_date": "2026-06-30T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "フライトナース"
+    ],
+    "matched_keywords": [
+      "ドクターヘリ",
+      "航空医療"
+    ],
+    "importance_score": 3,
+    "importance_reason": "「観察研究」に一致した基礎点3。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jjsas/27/1/27_26-12/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.57487/jjsas.27.1_9",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jjsas/27/1/27_26-12/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.69232/ynj.25-11",
+    "jstage_article_id": "ynj/24_25-11",
+    "cinii_id": "記載なし",
+    "doi": "10.69232/ynj.25-11",
+    "title_ja": "看護実践・看護教育とAIの共存",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "平林 慶史"
+    ],
+    "affiliations": [],
+    "journal": "山梨大学看護学会誌",
+    "issn": "2759-6486",
+    "volume": "24",
+    "issue": "0",
+    "start_page": "24",
+    "end_page": "25",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-03-05T09:00+09:00",
+    "updated_date": "2026-03-05T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "看護教育"
+    ],
+    "matched_keywords": [
+      "看護教育"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 看護実践。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/ynj/24/0/24_25-11/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.69232/ynj.25-11",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/ynj/24/0/24_25-11/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11401/jsvs.25-suppl-s32",
+    "jstage_article_id": "jsvs/34_25-suppl-S32",
+    "cinii_id": "記載なし",
+    "doi": "10.11401/jsvs.25-suppl-S32",
+    "title_ja": "医療安全講習会",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [],
+    "affiliations": [],
+    "journal": "日本血管外科学会雑誌",
+    "issn": "1881-767X",
+    "volume": "34",
+    "issue": "Supplement",
+    "start_page": "記載なし",
+    "end_page": "記載なし",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-09-11T09:00+09:00",
+    "updated_date": "2025-09-11T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jsvs/34/Supplement/34_25-suppl-S32/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11401/jsvs.25-suppl-S32",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jsvs/34/Supplement/34_25-suppl-S32/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11272/jss.k646",
+    "jstage_article_id": "jss/51_k646",
+    "cinii_id": "記載なし",
+    "doi": "10.11272/jss.k646",
+    "title_ja": "医療安全マニュアル　Ver.1.2",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "一般社団法人日本超音波検査学会"
+    ],
+    "affiliations": [],
+    "journal": "超音波検査技術",
+    "issn": "1881-4514",
+    "volume": "51",
+    "issue": "3",
+    "start_page": "391",
+    "end_page": "421",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-05-20T09:00+09:00",
+    "updated_date": "2026-05-20T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jss/51/3/51_k646/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11272/jss.k646",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jss/51/3/51_k646/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.69356/koreanstudies.13.0_131",
+    "jstage_article_id": "koreanstudies/13_131",
+    "cinii_id": "記載なし",
+    "doi": "10.69356/koreanstudies.13.0_131",
+    "title_ja": "韓国における「患者安全事故」報告システムと医療安全への取組み―医療安全関連事情調査報告",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "李 庸吉"
+    ],
+    "affiliations": [],
+    "journal": "コリアン・スタディーズ",
+    "issn": "2760-0025",
+    "volume": "13",
+    "issue": "0",
+    "start_page": "131",
+    "end_page": "145",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-01-08T09:00+09:00",
+    "updated_date": "2026-01-08T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/koreanstudies/13/0/13_131/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.69356/koreanstudies.13.0_131",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/koreanstudies/13/0/13_131/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.57561/tmjutmed.36.1_1",
+    "jstage_article_id": "tmjutmed/36_1",
+    "cinii_id": "記載なし",
+    "doi": "10.57561/tmjutmed.36.1_1",
+    "title_ja": "医療安全学再考",
+    "title_en": "Patient Safety; Beginning of a New Era on Patient Safety Research in Japan",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "長島 久"
+    ],
+    "affiliations": [],
+    "journal": "Toyama Medical Journal",
+    "issn": "2758-6014",
+    "volume": "36",
+    "issue": "1",
+    "start_page": "1",
+    "end_page": "6",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-03-31T09:00+09:00",
+    "updated_date": "2026-03-31T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/tmjutmed/36/1/36_1/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.57561/tmjutmed.36.1_1",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/tmjutmed/36/1/36_1/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.2468/jbes.77.192",
+    "jstage_article_id": "jbes/77_192",
+    "cinii_id": "記載なし",
+    "doi": "10.2468/jbes.77.192",
+    "title_ja": "睡眠と医療安全",
+    "title_en": "Sleep and Medical Safety",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "内村 直尚"
+    ],
+    "affiliations": [],
+    "journal": "日本気管食道科学会会報",
+    "issn": "1880-6848",
+    "volume": "77",
+    "issue": "2",
+    "start_page": "192",
+    "end_page": "195",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-04-10T09:00+09:00",
+    "updated_date": "2026-04-10T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jbes/77/2/77_192/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.2468/jbes.77.192",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jbes/77/2/77_192/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.34597/npc.2025.2.0_s1-5",
+    "jstage_article_id": "npc/2025.2_S1-5",
+    "cinii_id": "記載なし",
+    "doi": "10.34597/npc.2025.2.0_S1-5",
+    "title_ja": "医療安全管理者としての看護師の役割",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "今﨑 由起子"
+    ],
+    "affiliations": [],
+    "journal": "看護薬理学カンファレンス",
+    "issn": "2435-8460",
+    "volume": "2025.2",
+    "issue": "0",
+    "start_page": "S1-5",
+    "end_page": "記載なし",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-12-02T09:00+09:00",
+    "updated_date": "2025-12-02T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/npc/2025.2/0/2025.2_S1-5/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.34597/npc.2025.2.0_S1-5",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/npc/2025.2/0/2025.2_S1-5/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.2504/kds.80.ts00015",
+    "jstage_article_id": "kds/80_TS00015",
+    "cinii_id": "記載なし",
+    "doi": "10.2504/kds.80.TS00015",
+    "title_ja": "医療安全教育で安全な臨床実習につなげよう",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "磯部 彩香"
+    ],
+    "affiliations": [],
+    "journal": "九州歯科学会雑誌",
+    "issn": "1880-8719",
+    "volume": "80",
+    "issue": "1",
+    "start_page": "TS00015",
+    "end_page": "記載なし",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-04-28T09:00+09:00",
+    "updated_date": "2026-04-28T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/kds/80/1/80_TS00015/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.2504/kds.80.TS00015",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/kds/80/1/80_TS00015/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.3950/jibiinkotokeibu.129.4_478",
+    "jstage_article_id": "jibiinkotokeibu/129_478",
+    "cinii_id": "記載なし",
+    "doi": "10.3950/jibiinkotokeibu.129.4_478",
+    "title_ja": "4. 医療安全のパラダイムシフト　―手順の管理から適応キャパシティ向上の支援へ（医療安全)",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "司会：荒木 幸仁"
+    ],
+    "affiliations": [],
+    "journal": "日本耳鼻咽喉科頭頸部外科学会会報",
+    "issn": "2436-5866",
+    "volume": "129",
+    "issue": "4",
+    "start_page": "478",
+    "end_page": "記載なし",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-06-12T09:00+09:00",
+    "updated_date": "2026-06-12T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jibiinkotokeibu/129/4/129_478/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.3950/jibiinkotokeibu.129.4_478",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jibiinkotokeibu/129/4/129_478/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.24489/jjphe.e09011",
+    "jstage_article_id": "jjphe/9_e09011",
+    "cinii_id": "記載なし",
+    "doi": "10.24489/jjphe.e09011",
+    "title_ja": "医療安全教育のレビュー",
+    "title_en": "Review of medical safety education",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "飯島 久子"
+    ],
+    "affiliations": [],
+    "journal": "薬学教育",
+    "issn": "2433-4774",
+    "volume": "9",
+    "issue": "0",
+    "start_page": "記載なし",
+    "end_page": "記載なし",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-12-20T09:00+09:00",
+    "updated_date": "2025-12-20T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jjphe/9/0/9_e09011/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.24489/jjphe.e09011",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jjphe/9/0/9_e09011/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.18943/safety.64.5_295",
+    "jstage_article_id": "safety/64_295",
+    "cinii_id": "記載なし",
+    "doi": "10.18943/safety.64.5_295",
+    "title_ja": "医療安全文化の醸成に向けた教育の重要性",
+    "title_en": "Promoting Safety Culture in Healthcare: The Critical Role of Education",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "田中 和美"
+    ],
+    "affiliations": [],
+    "journal": "安全工学",
+    "issn": "2424-0656",
+    "volume": "64",
+    "issue": "5",
+    "start_page": "295",
+    "end_page": "301",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-10-15T09:00+09:00",
+    "updated_date": "2025-10-15T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/safety/64/5/64_295/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.18943/safety.64.5_295",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/safety/64/5/64_295/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.57274/jgets.75.0_376",
+    "jstage_article_id": "jgets/75_376",
+    "cinii_id": "記載なし",
+    "doi": "10.57274/jgets.75.0_376",
+    "title_ja": "内視鏡診療と医療安全",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "日山 亨"
+    ],
+    "affiliations": [],
+    "journal": "日本消化器内視鏡技師会会報",
+    "issn": "2436-9012",
+    "volume": "75",
+    "issue": "0",
+    "start_page": "376",
+    "end_page": "378",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-09-30T09:00+09:00",
+    "updated_date": "2025-09-30T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jgets/75/0/75_376/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.57274/jgets.75.0_376",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jgets/75/0/75_376/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.3950/jibiinkotokeibu.128.4_505",
+    "jstage_article_id": "jibiinkotokeibu/128_505",
+    "cinii_id": "記載なし",
+    "doi": "10.3950/jibiinkotokeibu.128.4_505",
+    "title_ja": "2. 　トラブルを未然に防ぐカルテの書き方 (医療安全)",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "司会：荒木 幸仁"
+    ],
+    "affiliations": [],
+    "journal": "日本耳鼻咽喉科頭頸部外科学会会報",
+    "issn": "2436-5866",
+    "volume": "128",
+    "issue": "4",
+    "start_page": "505",
+    "end_page": "505",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-10-18T09:00+09:00",
+    "updated_date": "2025-10-18T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jibiinkotokeibu/128/4/128_505/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.3950/jibiinkotokeibu.128.4_505",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jibiinkotokeibu/128/4/128_505/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.18943/safety.65.1_19",
+    "jstage_article_id": "safety/65_19",
+    "cinii_id": "記載なし",
+    "doi": "10.18943/safety.65.1_19",
+    "title_ja": "医療安全におけるチームワークと心理的安全性",
+    "title_en": "The Role of Teamwork and Psychological Safety in Patient Safety",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "辰巳 陽一"
+    ],
+    "affiliations": [],
+    "journal": "安全工学",
+    "issn": "2424-0656",
+    "volume": "65",
+    "issue": "1",
+    "start_page": "19",
+    "end_page": "27",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-02-15T09:00+09:00",
+    "updated_date": "2026-02-15T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/safety/65/1/65_19/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.18943/safety.65.1_19",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/safety/65/1/65_19/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.2199/jjsca.45.207",
+    "jstage_article_id": "jjsca/45_207",
+    "cinii_id": "記載なし",
+    "doi": "10.2199/jjsca.45.207",
+    "title_ja": "手術室の医療安全：点滴漏れと誤薬防止",
+    "title_en": "Patient Safety in the Pediatric Operating Room：Extravasation and Medication Errors",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "西部 伸一"
+    ],
+    "affiliations": [],
+    "journal": "日本臨床麻酔学会誌",
+    "issn": "1349-9149",
+    "volume": "45",
+    "issue": "3",
+    "start_page": "207",
+    "end_page": "214",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-05-15T09:00+09:00",
+    "updated_date": "2026-05-15T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jjsca/45/3/45_207/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.2199/jjsca.45.207",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jjsca/45/3/45_207/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.82602/jpeds.25-0039",
+    "jstage_article_id": "jpeds/130_25-0039",
+    "cinii_id": "記載なし",
+    "doi": "10.82602/jpeds.25-0039",
+    "title_ja": "小児専門病院における医療安全管理体制・活動に関する全国調査",
+    "title_en": "National Survey for Patient Safety at Children&apos;s Hospitals and Related Institutions in Japan",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "山本 啓央"
+    ],
+    "affiliations": [],
+    "journal": "日本小児科学会雑誌",
+    "issn": "2760-3180",
+    "volume": "130",
+    "issue": "3",
+    "start_page": "476",
+    "end_page": "486",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-03-26T09:00+09:00",
+    "updated_date": "2026-03-26T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jpeds/130/3/130_25-0039/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.82602/jpeds.25-0039",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jpeds/130/3/130_25-0039/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11226/ojjaes.42.2_90",
+    "jstage_article_id": "ojjaes/42_90",
+    "cinii_id": "記載なし",
+    "doi": "10.11226/ojjaes.42.2_90",
+    "title_ja": "若手内分泌外科医に伝えたいインシデント報告を通した医療安全教育の在り方",
+    "title_en": "Approaches to patient safety education through incident reporting: Messages for young endocrine surgeons",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "中野 正吾"
+    ],
+    "affiliations": [],
+    "journal": "日本内分泌外科学会雑誌",
+    "issn": "2758-8785",
+    "volume": "42",
+    "issue": "2",
+    "start_page": "90",
+    "end_page": "96",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-08-29T09:00+09:00",
+    "updated_date": "2025-08-29T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "医療安全"
+    ],
+    "matched_keywords": [
+      "医療安全"
+    ],
+    "importance_score": 3,
+    "importance_reason": "資料種別を特定できないため基礎点2。加点候補: 医療安全。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/ojjaes/42/2/42_90/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11226/ojjaes.42.2_90",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/ojjaes/42/2/42_90/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11441/shinshumedj.73.431",
+    "jstage_article_id": "shinshumedj/73_431",
+    "cinii_id": "記載なし",
+    "doi": "10.11441/shinshumedj.73.431",
+    "title_ja": "救急集中治療医学教室",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "今村 浩"
+    ],
+    "affiliations": [],
+    "journal": "信州医学雑誌",
+    "issn": "1884-6580",
+    "volume": "73",
+    "issue": "6",
+    "start_page": "431",
+    "end_page": "431",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-01-13T09:00+09:00",
+    "updated_date": "2026-01-13T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "その他"
+    ],
+    "matched_keywords": [],
+    "importance_score": 2,
+    "importance_reason": "資料種別を特定できないため基礎点2。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/shinshumedj/73/6/73_431/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11441/shinshumedj.73.431",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/shinshumedj/73/6/73_431/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11386/jst.60.supplement_s180_1",
+    "jstage_article_id": "jst/60_s180_1",
+    "cinii_id": "記載なし",
+    "doi": "10.11386/jst.60.Supplement_s180_1",
+    "title_ja": "ECMO装着下ドナーの集中治療管理",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "内藤 宏道"
+    ],
+    "affiliations": [],
+    "journal": "移植",
+    "issn": "2188-0034",
+    "volume": "60",
+    "issue": "Supplement",
+    "start_page": "s180_1",
+    "end_page": "s180_1",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-03-28T09:00+09:00",
+    "updated_date": "2026-03-28T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "ECMO"
+    ],
+    "matched_keywords": [
+      "ecmo"
+    ],
+    "importance_score": 2,
+    "importance_reason": "資料種別を特定できないため基礎点2。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jst/60/Supplement/60_s180_1/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11386/jst.60.Supplement_s180_1",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jst/60/Supplement/60_s180_1/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.69232/ynj.25-16",
+    "jstage_article_id": "ynj/24_25-16",
+    "cinii_id": "記載なし",
+    "doi": "10.69232/ynj.25-16",
+    "title_ja": "集中治療室における特定看護師の活動報告",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "坂本 友紀"
+    ],
+    "affiliations": [],
+    "journal": "山梨大学看護学会誌",
+    "issn": "2759-6486",
+    "volume": "24",
+    "issue": "0",
+    "start_page": "30",
+    "end_page": "30",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2026-03-05T09:00+09:00",
+    "updated_date": "2026-03-05T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "その他"
+    ],
+    "matched_keywords": [],
+    "importance_score": 2,
+    "importance_reason": "資料種別を特定できないため基礎点2。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/ynj/24/0/24_25-16/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.69232/ynj.25-16",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/ynj/24/0/24_25-16/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.3918/jsicm.33_r3",
+    "jstage_article_id": "jsicm/33_33_R3",
+    "cinii_id": "記載なし",
+    "doi": "10.3918/jsicm.33_R3",
+    "title_ja": "遠隔集中治療に関するガイドライン",
+    "title_en": "Telecritical care guidelines",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "日本集中治療医学会遠隔集中治療タスクフォース"
+    ],
+    "affiliations": [],
+    "journal": "日本集中治療医学会雑誌",
+    "issn": "1882-966X",
+    "volume": "33",
+    "issue": "0",
+    "start_page": "記載なし",
+    "end_page": "記載なし",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-02-01T09:00+09:00",
+    "updated_date": "2026-02-01T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "その他"
+    ],
+    "matched_keywords": [],
+    "importance_score": 2,
+    "importance_reason": "資料種別を特定できないため基礎点2。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jsicm/33/0/33_33_R3/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.3918/jsicm.33_R3",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jsicm/33/0/33_33_R3/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.11534/jsmm.66.suppl1.0_54",
+    "jstage_article_id": "jsmm/66.Suppl1_54",
+    "cinii_id": "記載なし",
+    "doi": "10.11534/jsmm.66.Suppl1.0_54",
+    "title_ja": "EL7 救急・集中治療領域における真菌感染症",
+    "title_en": "記載なし",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "佐々木 淳一"
+    ],
+    "affiliations": [],
+    "journal": "日本医真菌学会総会プログラム・抄録集",
+    "issn": "0916-4804",
+    "volume": "66.Suppl1",
+    "issue": "0",
+    "start_page": "54",
+    "end_page": "記載なし",
+    "publication_year": "2025",
+    "publication_date": "記載なし",
+    "online_date": "2025-11-10T09:00+09:00",
+    "updated_date": "2025-11-10T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "その他"
+    ],
+    "matched_keywords": [],
+    "importance_score": 2,
+    "importance_reason": "資料種別を特定できないため基礎点2。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/jsmm/66.Suppl1/0/66.Suppl1_54/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.11534/jsmm.66.Suppl1.0_54",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/jsmm/66.Suppl1/0/66.Suppl1_54/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
+    "manual_review_status": "未確認"
   }
 ]
