@@ -6,7 +6,7 @@ from datetime import date, datetime, timedelta, timezone
 
 from src import cinii_client, jstage_client
 from src.classifier import classify
-from src.config import SEARCH_GROUPS, Config
+from src.config import SEARCH_GROUPS, Config, jst_today
 from src.deduplicator import duplicate_of, merge_articles
 from src.models import Article, NA
 from src.scorer import score
@@ -21,7 +21,7 @@ def is_japanese(article: Article) -> bool:
 
 
 def is_recent(article: Article, days: int, today: date | None = None) -> bool:
-    today = today or date.today()
+    today = today or jst_today()
     cutoff = today - timedelta(days=days)
     for value in (article.updated_date, article.online_date, article.publication_date):
         if value == NA:
@@ -79,7 +79,7 @@ def run(config: Config) -> int:
     processed_path = config.root / "data" / "processed_articles.json"
     append_articles(data_path, articles)
     save_processed(processed_path, load_articles(processed_path) + articles)
-    path = write_report(config.root, articles, date.today())
+    path = write_report(config.root, articles, jst_today())
     LOG.info("%d件を保存しました: %s", len(articles), path)
     return len(articles)
 

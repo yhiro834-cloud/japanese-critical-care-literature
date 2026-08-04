@@ -1,4 +1,7 @@
+from datetime import datetime, timezone
+
 from src.config import Config
+from src.config import jst_today
 from src.main import collect, run
 from src.models import Article
 
@@ -22,3 +25,8 @@ def test_dry_run_writes_nothing(monkeypatch, tmp_path):
     monkeypatch.setattr("src.main.collect", lambda config: [Article(article_key="x")])
     assert run(Config(root=tmp_path, cinii_app_id=None, dry_run=True)) == 1
     assert list(tmp_path.iterdir()) == []
+
+
+def test_jst_date_after_utc_day_boundary():
+    instant = datetime(2026, 8, 4, 22, 30, tzinfo=timezone.utc)
+    assert str(jst_today(instant)) == "2026-08-05"

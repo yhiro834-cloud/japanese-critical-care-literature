@@ -2,9 +2,21 @@ from __future__ import annotations
 
 import os
 from dataclasses import dataclass
+from datetime import date, datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
+
+JST = ZoneInfo("Asia/Tokyo")
+
+
+def jst_today(now: datetime | None = None) -> date:
+    """GitHub ActionsのUTC環境でも日本時間の日付を返す。"""
+    instant = now or datetime.now(timezone.utc)
+    if instant.tzinfo is None:
+        instant = instant.replace(tzinfo=timezone.utc)
+    return instant.astimezone(JST).date()
 
 SEARCH_GROUPS = {
     "集中治療": ["集中治療", "集中治療室", "ICU", "クリティカルケア", "重症患者"],

@@ -3,11 +3,12 @@ from __future__ import annotations
 import logging
 import time
 import xml.etree.ElementTree as ET
-from datetime import date, datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
 
 import requests
 
+from src.config import jst_today
 from src.models import Article, NA
 
 LOG = logging.getLogger(__name__)
@@ -74,14 +75,15 @@ def search(groups: dict[str, list[str]], days_back: int = 7, interval: float = 1
            session: requests.Session | None = None) -> list[Article]:
     session = session or requests.Session()
     now = datetime.now(timezone.utc)
-    year = (date.today() - timedelta(days=days_back)).year
+    today = jst_today()
+    year = (today - timedelta(days=days_back)).year
     found: list[Article] = []
     for words in groups.values():
         # APIでは同一項目内の空白はANDになるため、代表語を個別検索する。
         for word in words[:2]:
             try:
                 xml = _request(session, {"service": 3, "article": word, "pubyearfrom": year,
-                                         "pubyearto": date.today().year, "count": 20})
+                                         "pubyearto": today.year, "count": 20})
                 found.extend(parse_jstage(xml, now.isoformat()))
             except (requests.RequestException, ET.ParseError) as exc:
                 LOG.warning("J-STAGE検索を継続できない語がありました (%s): %s", word, exc)
