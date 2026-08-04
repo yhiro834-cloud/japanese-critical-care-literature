@@ -30,3 +30,8 @@ def test_dry_run_writes_nothing(monkeypatch, tmp_path):
 def test_jst_date_after_utc_day_boundary():
     instant = datetime(2026, 8, 4, 22, 30, tzinfo=timezone.utc)
     assert str(jst_today(instant)) == "2026-08-05"
+
+
+def test_days_back_from_environment(monkeypatch, tmp_path):
+    monkeypatch.setenv("DAYS_BACK", "365")
+    assert Config.from_env(tmp_path).days_back == 365

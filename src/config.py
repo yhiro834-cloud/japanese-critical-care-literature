@@ -52,10 +52,12 @@ class Config:
     def from_env(cls, root: Path | None = None) -> "Config":
         load_dotenv()
         value = max(1, min(100, int(os.getenv("MAX_ARTICLES", "20"))))
+        days = max(1, min(3650, int(os.getenv("DAYS_BACK", "7"))))
         return cls(
             root=(root or Path.cwd()).resolve(),
             cinii_app_id=os.getenv("CINII_APP_ID") or None,
             max_articles=value,
+            days_back=days,
             dry_run=_bool("DRY_RUN", False),
             enable_cinii=_bool("ENABLE_CINII", True),
             enable_pubmed_japanese=_bool("ENABLE_PUBMED_JAPANESE", False),
