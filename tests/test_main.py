@@ -1,4 +1,4 @@
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 
 from src.config import Config
 from src.config import jst_today
@@ -33,5 +33,13 @@ def test_jst_date_after_utc_day_boundary():
 
 
 def test_days_back_from_environment(monkeypatch, tmp_path):
+    monkeypatch.delenv("START_YEAR", raising=False)
     monkeypatch.setenv("DAYS_BACK", "365")
     assert Config.from_env(tmp_path).days_back == 365
+
+
+def test_start_year_overrides_days_back(monkeypatch, tmp_path):
+    monkeypatch.setenv("START_YEAR", "2020")
+    monkeypatch.setenv("DAYS_BACK", "7")
+    expected = (jst_today() - date(2020, 1, 1)).days + 1
+    assert Config.from_env(tmp_path).days_back == expected

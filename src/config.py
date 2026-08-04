@@ -53,6 +53,11 @@ class Config:
         load_dotenv()
         value = max(1, min(100, int(os.getenv("MAX_ARTICLES", "20"))))
         days = max(1, min(3650, int(os.getenv("DAYS_BACK", "7"))))
+        start_year = os.getenv("START_YEAR", "").strip()
+        if start_year:
+            today = jst_today()
+            year = max(1900, min(today.year, int(start_year)))
+            days = (today - date(year, 1, 1)).days + 1
         return cls(
             root=(root or Path.cwd()).resolve(),
             cinii_app_id=os.getenv("CINII_APP_ID") or None,
