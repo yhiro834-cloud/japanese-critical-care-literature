@@ -38,7 +38,7 @@ ActionsのVariables（Secretsと同じ画面の「Variables」）は必要な場
 
 | 名前 | 初期値 | 用途 |
 |---|---:|---|
-| `MAX_ARTICLES` | `20` | 1日最大件数（プログラム上限100） |
+| `MAX_ARTICLES` | `50` | 1日最大件数（プログラム上限100） |
 | `DAYS_BACK` | `7` | 何日前まで検索するか（通常は7日、最大3650日） |
 | `START_YEAR` | `2020` | この年の1月1日以降を検索。設定時は`DAYS_BACK`より優先 |
 | `DRY_RUN` | `false` | `true`なら検索・解析だけ行い、保存しない |

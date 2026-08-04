@@ -43,3 +43,8 @@ def test_start_year_overrides_days_back(monkeypatch, tmp_path):
     monkeypatch.setenv("DAYS_BACK", "7")
     expected = (jst_today() - date(2020, 1, 1)).days + 1
     assert Config.from_env(tmp_path).days_back == expected
+
+
+def test_default_max_articles_is_fifty(monkeypatch, tmp_path):
+    monkeypatch.delenv("MAX_ARTICLES", raising=False)
+    assert Config.from_env(tmp_path).max_articles == 50
