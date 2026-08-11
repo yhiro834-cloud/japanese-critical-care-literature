@@ -264,6 +264,15 @@
 - **臨床的に何が変わったか:** 医学的推奨の変更なし
 - **要確認:** 各TopicのEvidenceレビューはPhase 2以降
 
+### 2026-08-12 — Special Populations / Infection Safety Depth Phase 30
+
+- **テーマ:** 高齢・frailty・免疫不全・肥満、小児・妊産婦、標準/経路別予防策、device-associated infection
+- **変更内容:** 4本の既存SSOTをphenotype、初期認識、task-based exposure、device lifecycle/source controlの現場判断へ深化
+- **新しいEvidence:** CDC Core Practices 2024、CDC/HICPAC Isolation Precautions、US PHS occupational HIV PEP 2025、SHEA Compendium 2022、WHO ETAT 2016、ACOG PB211 reaffirmed 2025
+- **臨床的に何が変わったか:** 年齢/BMI/免疫不全labelによる一括判断、成人protocolの単純流用、病原体確定待ちの隔離遅延、PPEのみの感染対策、培養結果のみのdevice判断を防ぐ再評価構造を追加
+- **影響ページ:** `docs/30_Special_Populations/`、`docs/17_Infection_Control/`
+- **要確認:** pediatric/obstetric/geriatric/hematology/transplant/IPC/occupational health専門家と施設protocol review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic
