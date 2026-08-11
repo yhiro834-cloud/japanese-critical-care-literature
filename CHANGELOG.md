@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Nutrition / Refeeding Depth Phase 23
+
+- **テーマ:** critical-care nutrition delivery、route safety、EN intolerance、organ support、refeeding prevention/response
+- **変更内容:** Nutrition/Refeeding SSOTと既存症例を、実投与量・hidden carbohydrate・monitoring・handoff中心に深化
+- **新しいEvidence:** ASPEN adult critical care guideline/library、ESPEN ICU nutrition practical guideline 2023、ASPEN refeeding consensus
+- **臨床的に何が変わったか:** prescribed rate＝delivery、gastric residual＝intolerance、normal baseline electrolyte＝low risk、electrolyte補正＝解決という短絡を防ぐloopを追加
+- **影響ページ:** `docs/14_Nutrition/`、refeeding case
+- **要確認:** dietitian/pharmacy/critical care review、local tube/EN/PN/electrolyte/thiamine protocolとの整合
+
 ### 2026-08-12 — Fundamentals Depth Phase 22
 
 - **テーマ:** critical-care physiology、clinical reasoning、systematic ICU assessment、human factors/communication
