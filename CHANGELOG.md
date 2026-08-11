@@ -273,6 +273,15 @@
 - **影響ページ:** `docs/30_Special_Populations/`、`docs/17_Infection_Control/`
 - **要確認:** pediatric/obstetric/geriatric/hematology/transplant/IPC/occupational health専門家と施設protocol review
 
+### 2026-08-12 — Cardiac / PADIS / Temporary MCS / Nursing Depth Phase 31
+
+- **テーマ:** 不安定不整脈、PADIS、IABP/microaxial pump、systematic ICU nursing
+- **変更内容:** 4本の短い高risk SSOTを、2025 AHA/PADIS/ACCと2024 SCCM family-centered guidanceに照合して深化
+- **新しいEvidence:** AHA Adult ALS 2025、SCCM PADIS Focused Update 2025、ACC Cardiogenic Shock CCG 2025、SCCM Family-Centered Care 2024
+- **臨床的に何が変わったか:** polymorphic VTの同期誤用、条件付きPADIS推奨の過剰一般化、MCS console値のみの判断、未実施careの暗黙化を防ぐ構造を追加
+- **影響ページ:** `docs/08_Cardiac_Critical_Care/`、`docs/09_ECMO_MCS/`、`docs/15_Pain_Sedation_Delirium/`、`docs/22_Nursing/`
+- **要確認:** electrophysiology/shock-team/device specialist/pharmacy/nursing/local protocol review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

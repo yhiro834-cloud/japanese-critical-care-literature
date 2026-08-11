@@ -2,8 +2,8 @@
 title: "Pain, Sedation, Delirium, Sleep, and Withdrawal"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -25,6 +25,8 @@ ssot: true
 
 疼痛を予防/治療し、必要最小限の鎮静で患者目標を満たす。drug choiceはhemodynamics、ventilation、organ function、delirium risk、withdrawal、procedureで個別化する。SAT/SBTを安全screen後に連携し、鎮静中断を目的化しない。
 
+毎shift、目標RASS、現在値、乖離理由、累積曝露、次に減量できる時刻を記録する。2025 focused updateのdexmedetomidine優先は条件付き推奨であり、徐脈/低血圧、必要な鎮静深度、費用・離脱を含めpropofol等と患者別に選ぶ。
+
 > [!CAUTION]
 > paralysisはsedationを保証しない。NMBA中もanalgesia/sedation、ventilation、eye/skin careを独立して保証する。RASS不能を「快適」と記録しない。
 
@@ -36,9 +38,18 @@ nonpharmacologic bundle（orientation、hearing/vision aids、daylight、sleep�
 
 noise/light/procedure clustering、circadian cues、pain/dyspnea、ventilator synchronyを整える。長期opioid/benzodiazepine/α₂ agonist等は急停止でwithdrawalを生じるため、曝露量・症状・taper planをhandoverする。alcohol/other substance withdrawalは別protocolでrisk stratifyする。
 
+2025 updateのmelatoninとenhanced mobilizationも条件付きで、睡眠薬だけに依存しない。anxietyは痛み、呼吸困難、communication failure、delirium、withdrawalと分け、benzodiazepineを一律に追加しない。
+
 ## ABCDEF daily round
 
 A pain、B SAT/SBT、C drug choice、D delirium、E mobility、F familyを別々のcheckboxでなく相互作用として扱う。毎日、患者のcommunication/comfort goalと「今日減らせるbarrier」を明記する。
+
+| 再評価契機 | 必ず見直す項目 |
+|---|---|
+| 急なagitation | ABC、pain、device、retention/constipation、seizure、withdrawal |
+| 深鎮静化 | 新規臓器障害、薬剤蓄積、stroke/seizure、shock、目標変更 |
+| extubation前 | cough/secretions、airway、delirium、withdrawal、communication |
+| transfer | 24時間曝露、最終score、taper、睡眠、家族が知るbaseline |
 
 ## References
 
@@ -47,4 +58,5 @@ A pain、B SAT/SBT、C drug choice、D delirium、E mobility、F familyを別々
 
 ## Review log
 
-- 2026-08-11: PADIS/ICU Liberation review; local nursing/pharmacy tool validation required.
+- 2026-08-12: 2025 focused updateの条件付き推奨、goal-exposure gap、anxiety/withdrawal、trigger-based reassessmentを追加。local validation required.
+- 2026-08-11: PADIS/ICU Liberation review.
