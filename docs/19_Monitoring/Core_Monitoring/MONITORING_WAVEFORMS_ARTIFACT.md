@@ -2,8 +2,8 @@
 title: "Monitoring, Waveforms, and Artifact"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -22,17 +22,31 @@ unexpected value/alarm → look at patient/pulse/perfusion
 → compare independent modality → intervene → confirm response
 ```
 
+## Signal chain
+
+`physiology → sensor/interface → transmission/tubing → transducer/algorithm → display/alarm → clinician interpretation`の各段階でerrorが起こる。artifactと真の変化は同時に存在し得るため、signal修復とpatient supportを並行する。
+
 ## ECG
 
 electrode contact/placement、lead selection、motion/electrical artifactを確認し、monitor rhythmをpulse/arterial waveformと照合する。ischemia/diagnosisにはappropriate 12-leadとserial changeを用い、single-lead telemetryだけで断定しない。QT interpretationはrate/QRS/lead/drug/electrolyteを考慮する。
+
+alarm tachycardiaをECG rateだけでなくpulse/pleth/A-lineと照合し、double counting、lead reversal、pacing artifactを考える。asystole/VT表示でも患者と独立したpulse signalを即時確認する。
 
 ## SpO₂ and ETCO₂
 
 SpO₂はpleth quality、perfusion、motion、pigmentation、dyshemoglobin、probe siteを確認し、疑わしければABG/co-oximetry等で照合する。ETCO₂はairway/ventilation、perfusion/cardiac output、dead space、sampling/circuit leakの影響を受け、PaCO₂とのgapは固定でない。
 
+SpO₂ trendはprobe/site/device/oxygen settingが変わった時点を記録する。ETCO₂の突然消失はairway/circuit/sampling、severe low flow/arrestを緊急評価し、値の低下を単に「換気良好」と解釈しない。
+
 ## Invasive pressure
 
 A-line/CVP等はtransducerをappropriate referenceへlevel/zeroし、bag pressure、tubing/air/clot、flush、dynamic response、waveform dampingを確認する。数値だけを補正せず、over/underdampingとpatient perfusionを評価する。
+
+level errorはhydrostatic pressureとしてsystematic biasを作る。zero、level、patient position変更、square-wave/dynamic response、cuff/palpated pulseとの一致を確認する。CVP waveformはrhythm、ventilation、tricuspid/pericardial contextを含め、単一mean値でvolume statusを決めない。
+
+## Output and organ monitors
+
+CO/ScvO₂、ICP/CPP、urine output、temperature等は測定法、校正、time averaging、drain/clamp、diuretic/KRT、sedation/ventilationの影響を記録する。尿量低下ではcollection systemのkink/position/obstructionを患者病態と並行確認する。
 
 > [!CAUTION]
 > CVP、ScvO₂、lactate、CO、ICP、urine outputの単一値はdiagnosisでもtargetでもない。measurement validity、baseline、trajectory、intervention responseを統合する。
@@ -40,6 +54,8 @@ A-line/CVP等はtransducerをappropriate referenceへlevel/zeroし、bag pressur
 ## Alarm design and handover
 
 alarm limits/delayはpatient-specificに設定するが、危険alarmを無効化しない。baseline waveform screenshot/値、sensor/site、zero/reference、known limitation、次回校正/検査をhandoverする。alarm burdenはfalse alarmだけでなくmissed deteriorationもquality reviewする。
+
+monitor開始/転棟時にpatient identity、profile、lead/source、alarm volume/priority、limits、remote monitoring、battery/networkを確認する。limit変更は誰がいつ戻すかを明記する。
 
 ## References
 
@@ -49,4 +65,5 @@ alarm limits/delayはpatient-specificに設定するが、危険alarmを無効�
 
 ## Review log
 
+- 2026-08-12: signal-chain, ECG/pulse verification, SpO₂/ETCO₂ transitions, invasive-pressure bias, organ monitor, and alarm ownership expanded.
 - 2026-08-11: Primary/professional sources reviewed; biomedical/local monitoring validation required.

@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Technical Bedside Safety Depth Phase 27
+
+- **テーマ:** procedural safety、vascular/pleural/lumbar procedures、monitoring、device lifecycle、alarm/emergency response
+- **変更内容:** 5 SSOTをindication/consent/timeoutからsignal chain、dependency/backup、failure、post-event closureまで深化
+- **新しいEvidence:** WHO procedural safety、CDC core/safe injection practices、FDA device/pulse-oximeter safety、AACN monitoring resources、AHA ALS
+- **臨床的に何が変わったか:** placement＝使用可能、device装着＝安全、monitor値＝患者、alarm silence＝解決、同じattempt反復＝進展という短絡を防ぐ構造を追加
+- **影響ページ:** `docs/18_Procedures/`、`docs/19_Monitoring/`、`docs/20_Devices/`、`docs/21_Emergency_Troubleshooting/`
+- **要確認:** procedure specialists/clinical engineering/nursing review、manufacturer manuals/local credentialing/device/alarm/rapid-response policyとの整合
+
 ### 2026-08-12 — Toxicology / Environmental / Systems Depth Phase 26
 
 - **テーマ:** unknown poisoning、decontamination/antidote、temperature/drowning/electrical injury、transport/disaster/QI/downtime
