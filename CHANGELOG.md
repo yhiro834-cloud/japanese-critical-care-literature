@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Special Populations / Toxicology / Safety Systems Phase 20
+
+- **テーマ:** 小児・妊産婦・complex adults、中毒・環境急変、shared decision/end-of-life、human factors/搬送/災害/QI
+- **変更内容:** 6本体SSOT、unknown poisoning症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** WHO pediatric ETAT/BEC/IITT、ACOG Critical Care in Pregnancy、AHA toxicology/drowning、SCCM family-centered care、AHRQ TeamSTEPPS
+- **臨床的に何が変わったか:** 成人基準の無批判な外挿、toxidromeの確定診断化、原因同定待ち、DNARの自動拡張、個人責任だけのincident review、無計画搬送を防ぐframeworkを追加
+- **影響ページ:** `docs/30_Special_Populations/`、`docs/31_Toxicology_Environmental/`、`docs/32_Ethics_Safety_Systems/`、Cases、CQ、Quiz、Slide Ready
+- **要確認:** pediatric/obstetric/toxicology/geriatrics/ethics/organ donation/safety specialists、local legal・transport・disaster protocolとの整合
+
 ### 2026-08-11 — Bedside Systems / Nursing Phase 19
 
 - **テーマ:** monitoring、device lifecycle、急変・alarm troubleshooting、系統的ICU看護、家族・終末期支援

@@ -63,6 +63,10 @@
 | GL-2007-001 | Isolation precautions | Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings | CDC/HICPAC | 2007; web updates, replacement under development | earlier CDC isolation guidance | https://www.cdc.gov/infection-control/hcp/isolation-precautions/ | verified-current-published | 2026-08-11 | 2026-11-11 | [Precautions](../17_Infection_Control/Precautions/STANDARD_TRANSMISSION_PRECAUTIONS.md) |
 | GL-2022-008 | CLABSI prevention | Strategies to prevent CLABSI in acute-care hospitals: 2022 Update | SHEA/IDSA/APIC/AHA/TJC; Buetti N, et al. | 2022 | 2014 | https://doi.org/10.1017/ice.2022.87 | verified-current | 2026-08-11 | 2027-02-11 | [Device Infection](../17_Infection_Control/Device_Infection_Prevention/DEVICE_INFECTION_PREVENTION.md) |
 | GL-2022-009 | CAUTI prevention | Strategies to prevent CAUTI in acute-care hospitals: 2022 Update | SHEA/IDSA/APIC/AHA/TJC; Calderwood MS, et al. | 2022 | 2014 | https://doi.org/10.1017/ice.2022.137 | verified-current | 2026-08-11 | 2027-02-11 | [Device Infection](../17_Infection_Control/Device_Infection_Prevention/DEVICE_INFECTION_PREVENTION.md) |
+| GL-2016-003 | Pediatric emergency care | Paediatric emergency triage, assessment and treatment: care of critically-ill children | WHO | 2016 | updates selected ETAT recommendations | https://www.who.int/publications/i/item/9789241510219 | verified-current-on-WHO-site | 2026-08-11 | 2027-02-11 | [Pediatric/Obstetric](../30_Special_Populations/Pediatric_Obstetric/PEDIATRIC_OBSTETRIC_CRITICAL_CARE.md) |
+| GL-2019-002 | Obstetric critical care | Critical Care in Pregnancy, Practice Bulletin No. 211 | ACOG | 2019; reaffirmed 2025 | — | https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2019/05/critical-care-in-pregnancy | verified-current-reaffirmed | 2026-08-11 | 2027-02-11 | [Pediatric/Obstetric](../30_Special_Populations/Pediatric_Obstetric/PEDIATRIC_OBSTETRIC_CRITICAL_CARE.md) |
+| GL-2023-009 | Life-threatening poisoning | 2023 AHA Focused Update on Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning | AHA; Lavonas EJ, et al. | 2023 | updates relevant 2020 recommendations | https://professional.heart.org/en/science-news/2023-american-heart-association-focused-update-on-the-management-of-patients-with-cardiac-arrest | verified | 2026-08-11 | 2027-02-11 | [Toxicology](../31_Toxicology_Environmental/Toxicology/TOXICOLOGY_INITIAL_APPROACH.md) |
+| GL-2024-009 | Adult ICU family-centered care | SCCM Guidelines on Family-Centered Care for Adult ICUs: 2024 | SCCM; Hwang DY, et al. | 2024; published 2025 | updates 2017 guidance | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-family-centered-care-for-adult-icus-2024 | verified-current | 2026-08-11 | 2027-02-11 | [Goals and Shared Decisions](../32_Ethics_Safety_Systems/Ethics/GOALS_SHARED_DECISION_END_OF_LIFE.md) |
 
 ## Status
 
@@ -145,3 +149,7 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2007-001: CDC official current-published isolation guideline; HICPAC update in development
 - GL-2022-008 DOI: `10.1017/ice.2022.87`; PMID: `35437133`
 - GL-2022-009 DOI: `10.1017/ice.2022.137`; PMID: `36123181`
+- GL-2016-003: WHO guideline, ISBN `9789241510219`; DOI/PMID not assigned
+- GL-2019-002 DOI: `10.1097/AOG.0000000000003241`; PMID: `31022122`
+- GL-2023-009 DOI: `10.1161/CIR.0000000000001161`; PMID: `37721023`
+- GL-2024-009: official SCCM guideline page; DOI/PMID to verify at next review
