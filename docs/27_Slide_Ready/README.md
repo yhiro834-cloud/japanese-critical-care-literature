@@ -11,3 +11,4 @@
 - [Renal：中堅ICU看護師向け30分](RENAL_30MIN.md)
 - [Infection / Sepsis：中堅ICU看護師向け30分](INFECTION_SEPSIS_30MIN.md)
 - [Trauma / Burns：中堅ICU看護師向け30分](TRAUMA_BURNS_30MIN.md)
+- [Cardiac Critical Care：中堅ICU看護師向け30分](CARDIAC_CRITICAL_CARE_30MIN.md)

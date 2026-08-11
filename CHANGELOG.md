@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Cardiac Critical Care Phase 11
+
+- **テーマ:** ACS、急性心不全/cardiogenic shock、不整脈、心停止、PCAS、temperature control
+- **変更内容:** 4本体SSOT、ROSC後悪化症例、CQ、Quiz、30分教材を追加し、神経予後SSOTへ接続
+- **新しいEvidence:** ACC/AHA ACS 2025、ACC cardiogenic shock CCG 2025、AHA ALS/Post-Arrest 2025
+- **臨床的に何が変わったか:** 単回ECGによるACS除外、rhythm名だけの治療、ROSC後hyperoxia/早期CAGの一律化、早期予後断定を防ぐloopを追加
+- **影響ページ:** `docs/08_Cardiac_Critical_Care/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines registry
+- **要確認:** cardiology/EP/resuscitation/pharmacy、local cath/code/temperature protocolとの整合
+
 ### 2026-08-11 — Trauma / Burns Phase 10
 
 - **テーマ:** primary/secondary survey、出血性shock、damage control、胸腹部・骨盤外傷、熱傷初期管理

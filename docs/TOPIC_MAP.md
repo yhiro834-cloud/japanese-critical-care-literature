@@ -31,7 +31,7 @@ Last Updated: 2026-08-11
 - [x] Renal: [AKI/尿量](05_Renal/AKI/AKI.md)、[電解質](05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md)、[RRT/CRRT](05_Renal/CRRT/CRRT.md)、[酸塩基SSOT](02_Breathing/ABG/ABG_INTERPRETATION.md)
 - [x] Infection/Sepsis: [感染評価/培養](06_Infection_Sepsis/Infection_Assessment/INFECTION_ASSESSMENT.md)、[抗菌薬/source control](06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md)、[septic shock](03_Circulation/Shock/SEPTIC_SHOCK.md)
 - [x] Trauma/Burns: [primary/secondary survey](07_Trauma/Initial_Assessment/TRAUMA_INITIAL_ASSESSMENT.md)、[出血/damage control/胸腹部・骨盤](07_Trauma/Hemorrhage_Damage_Control/TRAUMA_HEMORRHAGE_DAMAGE_CONTROL.md)、[熱傷](07_Trauma/Burns/BURN_INITIAL_MANAGEMENT.md)、[TBI SSOT](04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md)
-- [ ] Cardiac critical care: ACS、心不全、arrhythmia、cardiac arrest、PCAS
+- [x] Cardiac critical care: [ACS](08_Cardiac_Critical_Care/ACS/ACUTE_CORONARY_SYNDROME.md)、[急性心不全/cardiogenic shock](08_Cardiac_Critical_Care/Heart_Failure_Shock/ACUTE_HEART_FAILURE_CARDIOGENIC_SHOCK.md)、[arrhythmia](08_Cardiac_Critical_Care/Arrhythmias/UNSTABLE_ARRHYTHMIAS.md)、[cardiac arrest/PCAS/temperature](08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ARREST.md)
 
 ## 09–18 Advanced support and whole-body care
 
