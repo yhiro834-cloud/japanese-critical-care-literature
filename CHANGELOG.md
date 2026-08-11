@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Endocrine / Metabolic Phase 13
+
+- **テーマ:** DKA/HHS、重症患者血糖、副腎・甲状腺危機、体温異常
+- **変更内容:** 3本体SSOT、euglycemic DKA症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** ADA/EASD hyperglycemic crises 2024、SCCM glycemic control 2024、Endocrine Society adrenal 2016/2024、ATA 2016
+- **臨床的に何が変わったか:** glucoseだけのDKA判定、低K下insulin、栄養中断中の低血糖、adrenal crisisの結果待ち、heat strokeへの解熱薬依存を防ぐloopを追加
+- **影響ページ:** `docs/10_Endocrine_Metabolic/`、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** endocrine/pharmacy/laboratory/toxicology、local insulin/electrolyte/cooling protocolとの整合
+
 ### 2026-08-11 — ECMO / MCS Phase 12
 
 - **テーマ:** VV/VA-ECMO、IABP、microaxial flow pump、合併症、emergency、搬送
