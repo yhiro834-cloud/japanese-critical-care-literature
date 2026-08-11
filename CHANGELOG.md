@@ -309,6 +309,15 @@
 - **影響ページ:** `VISUAL_ASSET_PLAN.md`、`FIGURE_INDEX.md`、`assets/`、ABCDE Map、Critical Care Fundamentals Slide Ready、tests
 - **要確認:** Figureは教育用。施設protocol、dose、procedure cardを置換しない。臨床専門家/教育担当者のsign-offは継続課題
 
+### 2026-08-12 — ABCDE Visual Japanese Labels
+
+- **テーマ:** ABCDE Visual Seriesの日本語可読性
+- **変更内容:** 6枚のSVGを日本語約8割へ変更し、臨床で必要な略語・初出英語のみ維持。Design Systemへ言語規則を追加
+- **新しいEvidence:** なし（医学的意味を変更しない表記改善）
+- **臨床的に何が変わったか:** 危険徴候、即時対応、再評価を日本語で素早く読み取れるようにした
+- **影響ページ:** `assets/general/abcde_*.svg`、`assets/README.md`、ABCDE Figure review log
+- **要確認:** 施設内で一般的でない略語は各勉強会で初出時に説明する
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

@@ -22,6 +22,7 @@
 - font stackは`Arial, Helvetica, sans-serif`。本文24 px以上、見出し32 px以上。
 - arrow markerは血流・因果・手順の方向を明確にし、両方向を不用意に使わない。
 - Figure ID、教育用である旨、Evidence/SSOT参照をfooterへ記載する。
+- 図内は日本語約8割を基本とし、SpO₂、ETCO₂、ABG、MAP、GCS、ECGなど臨床で共通する略語と初出の英語だけを残す。
 - 数値、dose、推奨強度は、確認済みSSOTに存在する場合だけ掲載する。
 
 ## Quality checklist
@@ -33,4 +34,3 @@
 5. Accessibility: 色以外の区別、十分なcontrast、意味のあるalt textがあるか。
 6. Evidence: Figure IndexからSSOT/Evidenceへ追跡できるか。
 7. Copyright: オリジナル構成で第三者図を模写していないか。
-
