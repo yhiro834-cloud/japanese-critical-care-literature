@@ -49,6 +49,10 @@
 | GL-2024-006 | ICU glycemic control | SCCM Guidelines on Glycemic Control for Critically Ill Children and Adults | SCCM; Honarmand K, et al. | 2024 | SCCM/ACCM 2012 | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-glycemic-control-for-critically-ill | verified-current | 2026-08-11 | 2027-02-11 | [ICU Glycemic Control](../10_Endocrine_Metabolic/Glycemic_Control/ICU_GLYCEMIC_CONTROL.md) |
 | GL-2016-002 | Primary adrenal insufficiency | Diagnosis and Treatment of Primary Adrenal Insufficiency: Endocrine Society CPG | Endocrine Society; Bornstein SR, et al. | 2016 | — | https://www.endocrine.org/clinical-practice-guidelines/primary-adrenal-insufficiency | verified-current-on-society-site | 2026-08-11 | 2027-02-11 | [Endocrine Emergencies](../10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md) |
 | GL-2024-007 | Glucocorticoid-induced adrenal insufficiency | ESE/Endocrine Society Joint Clinical Guideline | ESE / Endocrine Society; Beuschlein F, et al. | 2024 | — | https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency | verified-current | 2026-08-11 | 2027-02-11 | [Endocrine Emergencies](../10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md) |
+| GL-2021-003 | Upper GI bleeding | ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding | ACG; Laine L, et al. | 2021 | ACG 2012 | https://doi.org/10.14309/ajg.0000000000001245 | verified-current-on-ACG-list | 2026-08-11 | 2027-02-11 | [GI Bleeding](../11_GI_Liver/GI_Bleeding/ACUTE_GI_BLEEDING.md) |
+| GL-2023-006 | Acute liver failure | ACG Clinical Guideline: Acute Liver Failure | ACG; Shingina A, et al. | 2023 | — | https://doi.org/10.14309/ajg.0000000000002340 | verified-current-on-ACG-list | 2026-08-11 | 2027-02-11 | [ALF/HE](../11_GI_Liver/Acute_Liver_Failure/ACUTE_LIVER_FAILURE_HE.md) |
+| GL-2024-008 | Acute pancreatitis | ACG Guideline: Management of Acute Pancreatitis | ACG; Tenner S, et al. | 2024 | ACG 2013 | https://doi.org/10.14309/ajg.0000000000002645 | verified-current-on-ACG-list | 2026-08-11 | 2027-02-11 | [Acute Pancreatitis](../11_GI_Liver/Pancreatitis/ACUTE_PANCREATITIS.md) |
+| GL-2013-002 | IAH / ACS | Updated WSACS consensus definitions and clinical practice guidelines | WSACS; Kirkpatrick AW, et al. | 2013; update under development | 2006/2007 | https://doi.org/10.1007/s00134-013-2906-z | verified-current-published | 2026-08-11 | 2026-11-11 | [IAH/ACS](../11_GI_Liver/IAH_ACS/INTRA_ABDOMINAL_HYPERTENSION.md) |
 
 ## Status
 
@@ -117,3 +121,7 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2024-006: official SCCM guideline page; DOI/PMID to verify at next review
 - GL-2016-002 DOI: `10.1210/jc.2015-1710`; PMID: `26760044`
 - GL-2024-007 DOI: `10.1210/clinem/dgae250`; PMID: `38730045`
+- GL-2021-003 DOI: `10.14309/ajg.0000000000001245`; PMID: `33929377`
+- GL-2023-006 DOI: `10.14309/ajg.0000000000002340`; PMID: `37167343`
+- GL-2024-008 DOI: `10.14309/ajg.0000000000002645`; PMID: `38857482`
+- GL-2013-002 DOI: `10.1007/s00134-013-2906-z`; PMID: `23673399`; update under development on WSACS site

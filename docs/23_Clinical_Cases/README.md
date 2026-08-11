@@ -18,3 +18,4 @@
 - [ROSC後の循環悪化](CASE_POST_ROSC_DETERIORATION.md)
 - [ECMO low flow](CASE_ECMO_LOW_FLOW.md)
 - [Euglycemic DKA](CASE_EUGLYCEMIC_DKA.md)
+- [GI出血の再shock](CASE_GI_BLEED_RESHOCK.md)

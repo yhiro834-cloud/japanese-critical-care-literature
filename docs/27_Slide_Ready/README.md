@@ -14,3 +14,4 @@
 - [Cardiac Critical Care：中堅ICU看護師向け30分](CARDIAC_CRITICAL_CARE_30MIN.md)
 - [ECMO / MCS：中堅ICU看護師向け30分](ECMO_MCS_30MIN.md)
 - [Endocrine / Metabolic：中堅ICU看護師向け30分](ENDOCRINE_METABOLIC_30MIN.md)
+- [GI / Liver / Pancreas：中堅ICU看護師向け30分](GI_LIVER_PANCREAS_30MIN.md)

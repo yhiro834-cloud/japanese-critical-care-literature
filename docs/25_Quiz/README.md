@@ -14,3 +14,4 @@
 - [Cardiac Critical Care Quiz](QUIZ_CARDIAC_CRITICAL_CARE.md)
 - [ECMO / MCS Quiz](QUIZ_ECMO_MCS.md)
 - [Endocrine / Metabolic Quiz](QUIZ_ENDOCRINE_METABOLIC.md)
+- [GI / Liver / Pancreas Quiz](QUIZ_GI_LIVER_PANCREAS.md)
