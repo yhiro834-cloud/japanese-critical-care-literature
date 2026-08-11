@@ -18,6 +18,11 @@
 | GL-2022-003 | Intubation confirmation | Preventing unrecognised oesophageal intubation: PUMA and international airway societies consensus guideline | PUMA / international airway societies; Chrimes N, et al. | 2022 | — | https://www.universalairway.org/puoi | verified-current | 2026-08-11 | 2027-02-11 | [RSI and Difficult Airway](../01_Airway/Intubation_Difficult_Airway/RSI_DIFFICULT_AIRWAY.md) |
 | GL-2012-001 | Extubation | Difficult Airway Society Guidelines for the management of tracheal extubation | DAS; Popat M, et al. | 2012 | — | https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/j.1365-2044.2012.07075.x | verified | 2026-08-11 | 2027-02-11 | [Artificial Airway Care](../01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md) |
 | GL-2022-004 | VAP/VAE/NV-HAP prevention | Strategies to prevent ventilator-associated pneumonia, ventilator-associated events, and nonventilator hospital-acquired pneumonia in acute-care hospitals: 2022 Update | SHEA / IDSA / APIC; Klompas M, et al. | 2022 | 2014 strategy | https://doi.org/10.1017/ice.2022.88 | verified-current | 2026-08-11 | 2027-02-11 | [Artificial Airway Care](../01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md) |
+| GL-2025-001 | Shock monitoring | ESICM guidelines on circulatory shock and hemodynamic monitoring 2025 | ESICM; Monnet X, et al. | 2025 | ESICM 2014 consensus | https://www.esicm.org/esicm-guideline-circulatory-shock-haemodynamic-monitoring/ | verified-current | 2026-08-11 | 2027-02-11 | [Hemodynamic Monitoring](../03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md) |
+| GL-2024-002 | Fluid choice | ESICM clinical practice guideline on fluid therapy, Part 1: choice of resuscitation fluids | ESICM; Arabi YM, et al. | 2024 | — | https://doi.org/10.1007/s00134-024-07369-9 | verified-current | 2026-08-11 | 2027-02-11 | [Fluid Therapy](../03_Circulation/Fluid_Therapy/FLUID_THERAPY.md) |
+| GL-2025-002 | Fluid volume | ESICM 2025 clinical practice guideline on fluid therapy, Part 2: volume of resuscitation fluids | ESICM | 2025 | — | https://doi.org/10.1007/s00134-025-07840-1 | verified-current | 2026-08-11 | 2027-02-11 | [Fluid Therapy](../03_Circulation/Fluid_Therapy/FLUID_THERAPY.md) |
+| GL-2025-003 | Fluid removal | ESICM clinical practice guideline on fluid therapy, Part 3: fluid removal at de-escalation phase | ESICM; Ostermann M, et al. | 2025 | — | https://doi.org/10.1007/s00134-025-08058-x | verified-current | 2026-08-11 | 2027-02-11 | [Fluid Therapy](../03_Circulation/Fluid_Therapy/FLUID_THERAPY.md) |
+| GL-2024-003 | Critical care ultrasound | SCCM Guidelines on Adult Critical Care Ultrasonography: Focused Update 2024 | SCCM; Díaz-Gómez JL, et al. | 2024 | SCCM 2016 | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-adult-critical-care-ultrasonography-focused-update-2024 | verified-current | 2026-08-11 | 2027-02-11 | [Hemodynamic POCUS](../03_Circulation/POCUS/HEMODYNAMIC_POCUS.md) |
 
 ## Status
 
@@ -55,3 +60,8 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2022-003 DOI: `10.1111/anae.15817`; PMID: `35977431`
 - GL-2012-001 DOI: `10.1111/j.1365-2044.2012.07075.x`; PMID: `22321104`
 - GL-2022-004 DOI: `10.1017/ice.2022.88`; PMID: `35589091`
+- GL-2025-001 DOI: `10.1007/s00134-025-08137-z`; PMID: `41236566`
+- GL-2024-002 DOI: `10.1007/s00134-024-07369-9`; PMID: `38771364`
+- GL-2025-002 DOI: `10.1007/s00134-025-07840-1`; PMID: `40163133`
+- GL-2025-003 DOI: `10.1007/s00134-025-08058-x`; PMID: `40828463`
+- GL-2024-003 DOI: `10.1097/CCM.0000000000006530`; PMID: `39982182`
