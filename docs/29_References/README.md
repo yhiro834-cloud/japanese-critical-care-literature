@@ -17,6 +17,7 @@
 | REF-2000-001 | ARDS ventilation | Ventilation with lower tidal volumes as compared with traditional tidal volumes | ARDS Network | N Engl J Med | 2000 | 10.1056/NEJM200005043421801 | 10793162 | Multicenter RCT | verified | 2026-08-11 | [Mechanical Ventilation](../02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md) |
 | REF-2013-001 | ARDS prone | Prone Positioning in Severe ARDS | Guérin C, et al. | N Engl J Med | 2013 | 10.1056/NEJMoa1214103 | 23688302 | Multicenter RCT | verified | 2026-08-11 | [ARDS](../02_Breathing/ARDS/ARDS.md) |
 | REF-2019-002 | HFNC failure | An Index Combining Respiratory Rate and Oxygenation to Predict Outcome of Nasal High-Flow Therapy | Roca O, et al. | J Crit Care | 2019 | 10.1016/j.jcrc.2019.07.002 | 31499277 | Prospective observational cohort | verified | 2026-08-11 | [HFNC](../02_Breathing/HFNC/HFNC.md) |
+| REF-2015-001 | Critical care EEG | ACNS Consensus Statement on Continuous EEG in Critically Ill Adults and Children, Part I: Indications | Herman ST, et al. | J Clin Neurophysiol | 2015 | 10.1097/WNP.0000000000000166 | 25626778 | Consensus statement | verified | 2026-08-11 | [Seizure/EEG](../04_Neurology/Seizure_EEG/SEIZURE_NCSE_EEG.md) |
 
 ## Reference ID
 

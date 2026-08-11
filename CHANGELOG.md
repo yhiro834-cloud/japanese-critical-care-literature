@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Neurocritical Care Phase 7
+
+- **テーマ:** 意識/瞳孔、stroke/ICH/SAH、TBI、ICP/CPP、seizure/NCSE、神経予後
+- **変更内容:** 5本体SSOT、急性神経悪化症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** AHA/ASA AIS 2026・ICH 2022・aSAH 2023、BTF severe TBI 4th、NCS cerebral edema 2020・neuroprognostication 2023、ACNS cEEG
+- **臨床的に何が変わったか:** AISを2026版へ更新し、score/ICP/単一検査の断定を避けるserial・multimodal・deconfounded reasoningを標準化
+- **影響ページ:** `docs/04_Neurology/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines/References registries
+- **要確認:** neurocritical/stroke/neurosurgery/EEG専門家、施設stroke/EVD/status protocolとの整合
+
 ### 2026-08-11 — Hemodynamics Phase 6
 
 - **テーマ:** 血行動態monitoring、fluid responsiveness/therapy、POCUS、vasopressor/inotrope

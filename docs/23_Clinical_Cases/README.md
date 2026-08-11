@@ -11,3 +11,4 @@
 - [呼吸support escalation](CASE_RESPIRATORY_SUPPORT_ESCALATION.md)
 - [気道急変と挿管確認](CASE_AIRWAY_EMERGENCY.md)
 - [低血圧とfluid responsiveness](CASE_FLUID_RESPONSIVENESS.md)
+- [急性神経悪化](CASE_ACUTE_NEUROLOGICAL_DECLINE.md)

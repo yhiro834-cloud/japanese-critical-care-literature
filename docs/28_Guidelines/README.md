@@ -23,6 +23,13 @@
 | GL-2025-002 | Fluid volume | ESICM 2025 clinical practice guideline on fluid therapy, Part 2: volume of resuscitation fluids | ESICM | 2025 | — | https://doi.org/10.1007/s00134-025-07840-1 | verified-current | 2026-08-11 | 2027-02-11 | [Fluid Therapy](../03_Circulation/Fluid_Therapy/FLUID_THERAPY.md) |
 | GL-2025-003 | Fluid removal | ESICM clinical practice guideline on fluid therapy, Part 3: fluid removal at de-escalation phase | ESICM; Ostermann M, et al. | 2025 | — | https://doi.org/10.1007/s00134-025-08058-x | verified-current | 2026-08-11 | 2027-02-11 | [Fluid Therapy](../03_Circulation/Fluid_Therapy/FLUID_THERAPY.md) |
 | GL-2024-003 | Critical care ultrasound | SCCM Guidelines on Adult Critical Care Ultrasonography: Focused Update 2024 | SCCM; Díaz-Gómez JL, et al. | 2024 | SCCM 2016 | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-adult-critical-care-ultrasonography-focused-update-2024 | verified-current | 2026-08-11 | 2027-02-11 | [Hemodynamic POCUS](../03_Circulation/POCUS/HEMODYNAMIC_POCUS.md) |
+| GL-2026-002 | Acute ischemic stroke | 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke | AHA / ASA; Prabhakaran S, et al. | 2026 | 2018 guideline / 2019 update | https://professional.heart.org/en/science-news/2026-guideline-for-the-early-management-of-patients-with-acute-ischemic-stroke | verified-current | 2026-08-11 | 2027-02-11 | [Acute Stroke](../04_Neurology/Stroke_SAH/ACUTE_STROKE_SAH.md) |
+| GL-2022-005 | Spontaneous ICH | 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage | AHA / ASA; Greenberg SM, et al. | 2022 | 2015 | https://doi.org/10.1161/STR.0000000000000407 | verified-current | 2026-08-11 | 2027-02-11 | [Acute Stroke](../04_Neurology/Stroke_SAH/ACUTE_STROKE_SAH.md) |
+| GL-2023-002 | Aneurysmal SAH | 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage | AHA / ASA; Hoh BL, et al. | 2023 | 2012 | https://doi.org/10.1161/STR.0000000000000436 | verified-current | 2026-08-11 | 2027-02-11 | [Acute Stroke](../04_Neurology/Stroke_SAH/ACUTE_STROKE_SAH.md) |
+| GL-2017-004 | Severe TBI | Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition | Brain Trauma Foundation; Carney N, et al. | 2017 | 3rd edition | https://braintrauma.org/coma/guidelines/severe-tbi | verified-current-on-BTF-site | 2026-08-11 | 2027-02-11 | [ICP/CPP/TBI](../04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md) |
+| GL-2020-001 | Cerebral edema | Guidelines for the Acute Treatment of Cerebral Edema in Neurocritical Care Patients | Neurocritical Care Society; Cook AM, et al. | 2020 | — | https://www.neurocriticalcare.org/Portals/0/Docs/Resources/Cook2020_Article_GuidelinesForTheAcuteTreatment.pdf | verified-current-on-NCS-list | 2026-08-11 | 2027-02-11 | [ICP/CPP/TBI](../04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md) |
+| GL-2023-003 | Neuroprognostication | Guidelines for Neuroprognostication in Comatose Adult Survivors of Cardiac Arrest | Neurocritical Care Society; Rajajee V, et al. | 2023 | — | https://doi.org/10.1007/s12028-023-01688-3 | verified-current-on-NCS-list | 2026-08-11 | 2027-02-11 | [Neuroprognostication](../04_Neurology/Neuroprognostication/NEUROPROGNOSTICATION.md) |
+| GL-2012-002 | Status epilepticus | Guidelines for the Evaluation and Management of Status Epilepticus | Neurocritical Care Society; Brophy GM, et al. | 2012 | — | https://doi.org/10.1007/s12028-012-9695-z | verified-on-NCS-list | 2026-08-11 | 2027-02-11 | [Seizure/EEG](../04_Neurology/Seizure_EEG/SEIZURE_NCSE_EEG.md) |
 
 ## Status
 
@@ -65,3 +72,10 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2025-002 DOI: `10.1007/s00134-025-07840-1`; PMID: `40163133`
 - GL-2025-003 DOI: `10.1007/s00134-025-08058-x`; PMID: `40828463`
 - GL-2024-003 DOI: `10.1097/CCM.0000000000006530`; PMID: `39982182`
+- GL-2026-002 DOI: `10.1161/STR.0000000000000513`; PMID not yet indexed/confirmed on review date
+- GL-2022-005 DOI: `10.1161/STR.0000000000000407`; PMID: `35579034`
+- GL-2023-002 DOI: `10.1161/STR.0000000000000436`; PMID: `37212182`
+- GL-2017-004 DOI: `10.1227/NEU.0000000000001432`; PMID: `27654000`
+- GL-2020-001 DOI: `10.1007/s12028-020-00959-7`; PMID: `32227294`
+- GL-2023-003 DOI: `10.1007/s12028-023-01688-3`; PMID: `36949360`
+- GL-2012-002 DOI: `10.1007/s12028-012-9695-z`; PMID: `22528274`

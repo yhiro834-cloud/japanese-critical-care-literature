@@ -7,3 +7,4 @@
 - [Respiratory Support Quiz](QUIZ_RESPIRATORY_SUPPORT.md)
 - [Airway Quiz](QUIZ_AIRWAY.md)
 - [Hemodynamics Quiz](QUIZ_HEMODYNAMICS.md)
+- [Neurocritical Care Quiz](QUIZ_NEUROCRITICAL.md)
