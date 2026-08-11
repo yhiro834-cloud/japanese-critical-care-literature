@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Fundamentals Depth Phase 22
+
+- **テーマ:** critical-care physiology、clinical reasoning、systematic ICU assessment、human factors/communication
+- **変更内容:** 4 SSOTをベッドサイド実用レベルへ深化し、conflicting signals症例、CQ、基礎/中級/上級/症例Quiz、30分教材を追加
+- **新しいEvidence:** AHRQ Diagnostic Safety/TeamSTEPPS、SCCM CCUS 2024 focused update、WHO Patient Safety
+- **臨床的に何が変わったか:** oxygenation＝delivery、MAP＝perfusion、陰性検査＝除外、alarm＝artifact、再教育＝安全対策という短絡を防ぎ、measurement-to-action、diagnostic timeout、daily goals、closed loopを実装
+- **影響ページ:** `docs/00_Fundamentals/`、Cases、Clinical Questions、Quiz、Slide Ready
+- **要確認:** multidisciplinary clinical review、施設のrapid response/handoff/POCUS/incident policyとの整合
+
 ### 2026-08-11 — Final Requirements Audit Phase 21
 
 - **テーマ:** Fundamentals、教材再構成、portal/status、全要件監査
