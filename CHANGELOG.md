@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Infection / Sepsis Phase 9
+
+- **テーマ:** 感染評価、培養、抗菌薬、source control、diagnostic/antibiotic timeout
+- **変更内容:** 2本体SSOT、culture-negative sepsis症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** SSC Adult 2026、IDSA/SHEA stewardship 2016、CDC Hospital Core Elements 2019/2022
+- **臨床的に何が変わったか:** 培養採取による治療遅延、低品質検体の過剰解釈、culture-negative時の漫然継続、source control遅延を防ぐ再評価loopを追加
+- **影響ページ:** `docs/06_Infection_Sepsis/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines registry
+- **要確認:** ID/microbiology/pharmacy/surgery、local antibiogram・culture採取protocolとの整合
+
 ### 2026-08-11 — Renal Phase 8
 
 - **テーマ:** AKI/尿量、electrolyte emergencies、KRT/CRRT

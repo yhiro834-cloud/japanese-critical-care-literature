@@ -9,3 +9,4 @@
 - [Hemodynamics Quiz](QUIZ_HEMODYNAMICS.md)
 - [Neurocritical Care Quiz](QUIZ_NEUROCRITICAL.md)
 - [Renal Quiz](QUIZ_RENAL.md)
+- [Infection / Sepsis Quiz](QUIZ_INFECTION_SEPSIS.md)
