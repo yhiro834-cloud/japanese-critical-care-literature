@@ -59,6 +59,7 @@
 | GL-2022-007 | ICU nutrition | ASPEN Guidelines for Provision of Nutrition Support Therapy in the Adult Critically Ill Patient | ASPEN; Compher C, et al. | 2022 | ASPEN/SCCM 2016 selected questions | https://doi.org/10.1002/jpen.2267 | verified-current | 2026-08-11 | 2027-02-11 | [Critical Care Nutrition](../14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md) |
 | GL-2023-008 | ICU nutrition | ESPEN practical and partially revised guideline: Clinical nutrition in the ICU | ESPEN; Singer P, et al. | 2023 | ESPEN 2019 partial revision | https://doi.org/10.1016/j.clnu.2023.07.011 | verified-current-on-ESPEN-list | 2026-08-11 | 2027-02-11 | [Critical Care Nutrition](../14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md) |
 | GL-2020-002 | Refeeding syndrome | ASPEN Consensus Recommendations for Refeeding Syndrome | ASPEN; da Silva JSV, et al. | 2020 | — | https://doi.org/10.1002/ncp.10474 | verified-current | 2026-08-11 | 2027-02-11 | [Refeeding](../14_Nutrition/Refeeding/REFEEDING_SYNDROME.md) |
+| GL-2018-002 | PADIS | Clinical Practice Guidelines for Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adults in the ICU | SCCM; Devlin JW, et al. | 2018; focused update 2025 | PAD 2013 | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-prevention-and-management-of-pa | verified-current-with-update | 2026-08-11 | 2027-02-11 | [PADIS](../15_Pain_Sedation_Delirium/PADIS/PADIS_BEDSIDE_CARE.md), [Mobility](../16_Rehabilitation_PICS/Early_Mobility/ICU_EARLY_MOBILITY.md) |
 
 ## Status
 
@@ -137,3 +138,4 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2022-007 DOI: `10.1002/jpen.2267`; PMID: `34784064`
 - GL-2023-008 DOI: `10.1016/j.clnu.2023.07.011`; PMID: `37517372`
 - GL-2020-002 DOI: `10.1002/ncp.10474`; PMID: `32115791`
+- GL-2018-002 DOI: `10.1097/CCM.0000000000003299`; PMID: `30113379`; SCCM lists 2025 focused update

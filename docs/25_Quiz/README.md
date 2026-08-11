@@ -17,3 +17,4 @@
 - [GI / Liver / Pancreas Quiz](QUIZ_GI_LIVER_PANCREAS.md)
 - [Hematology Quiz](QUIZ_HEMATOLOGY.md)
 - [Pharmacology / Nutrition Quiz](QUIZ_PHARMACOLOGY_NUTRITION.md)
+- [PADIS / Rehabilitation / PICS Quiz](QUIZ_PADIS_REHAB_PICS.md)

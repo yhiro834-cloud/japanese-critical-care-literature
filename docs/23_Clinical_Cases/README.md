@@ -21,3 +21,4 @@
 - [GI出血の再shock](CASE_GI_BLEED_RESHOCK.md)
 - [ICUでの急性血小板低下](CASE_ACUTE_PLATELET_FALL.md)
 - [Refeeding後の呼吸困難](CASE_REFEEDED_PATIENT_DYSPNEA.md)
+- [Agitation・筋力低下・回復支援](CASE_AGITATION_WEAKNESS_RECOVERY.md)

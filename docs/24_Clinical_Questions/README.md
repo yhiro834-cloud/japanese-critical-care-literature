@@ -17,3 +17,4 @@
 - [GI / Liver / Pancreas Questions](GI_LIVER_PANCREAS_QUESTIONS.md)
 - [Hematology Questions](HEMATOLOGY_QUESTIONS.md)
 - [Pharmacology / Nutrition Questions](PHARMACOLOGY_NUTRITION_QUESTIONS.md)
+- [PADIS / Rehabilitation / PICS Questions](PADIS_REHAB_PICS_QUESTIONS.md)
