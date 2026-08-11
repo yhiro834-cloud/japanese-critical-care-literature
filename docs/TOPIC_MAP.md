@@ -63,11 +63,11 @@ Last Updated: 2026-08-11
 
 初期案に不足していた以下を明示的に対象へ加えます。
 
-- 小児・妊産婦・高齢者などspecial populations
-- Toxicology / environmental emergencies
+- [x] [小児・妊産婦](30_Special_Populations/Pediatric_Obstetric/PEDIATRIC_OBSTETRIC_CRITICAL_CARE.md)、[高齢/frailty・免疫不全・obesity](30_Special_Populations/Complex_Adults/COMPLEX_ADULT_POPULATIONS.md)などspecial populations
+- [x] [Toxicology](31_Toxicology_Environmental/Toxicology/TOXICOLOGY_INITIAL_APPROACH.md) / [environmental emergencies](31_Toxicology_Environmental/Environmental/ENVIRONMENTAL_EMERGENCIES.md)
 - Burns
-- ICU ethics、shared decision-making、end-of-life care、organ donation
-- Patient safety、human factors、transport、disaster/mass casualty
+- [x] [ICU ethics、shared decision-making、end-of-life care、organ donation](32_Ethics_Safety_Systems/Ethics/GOALS_SHARED_DECISION_END_OF_LIFE.md)
+- [x] [Patient safety、human factors、transport、disaster/mass casualty、QI](32_Ethics_Safety_Systems/Safety_Systems/HUMAN_FACTORS_TRANSPORT_DISASTER_QI.md)
 - POCUS（診断そのものではなく臨床文脈との統合を重視）
 
 これらは `30_Special_Populations`、`31_Toxicology_Environmental`、`32_Ethics_Safety_Systems` に配置します。

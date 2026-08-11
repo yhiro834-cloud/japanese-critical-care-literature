@@ -20,3 +20,4 @@
 - [PADIS / Rehabilitation / PICS：中堅ICU看護師向け30分](PADIS_REHAB_PICS_30MIN.md)
 - [Infection Control / Procedures：中堅ICU看護師向け30分](INFECTION_CONTROL_PROCEDURES_30MIN.md)
 - [Bedside Systems / Nursing：中堅ICU看護師向け30分](BEDSIDE_SYSTEMS_NURSING_30MIN.md)
+- [Special Populations / Toxicology / Systems：中堅ICU看護師向け30分](SPECIAL_TOXICOLOGY_SYSTEMS_30MIN.md)

@@ -1,3 +1,6 @@
 # 31 Toxicology and Environmental Emergencies
 
-Planned: toxidrome、decontamination、antidote principles、hyper/hypothermia、drowning、electrical injury。地域の中毒情報機関と専門家相談を重視します。
+- [中毒初期対応・toxidrome・antidote原則](Toxicology/TOXICOLOGY_INITIAL_APPROACH.md)
+- [高/低体温・溺水・電撃傷](Environmental/ENVIRONMENTAL_EMERGENCIES.md)
+
+地域の中毒情報機関と専門家への早期相談を重視します。
