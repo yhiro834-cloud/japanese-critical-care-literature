@@ -2,8 +2,8 @@
 title: "Endocrine and Temperature Emergencies"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -35,9 +35,13 @@ thyrotoxicosis検査値だけでなく、hyperthermia、marked tachycardia/arrhy
 
 core temperatureを測定し、heat stroke、sepsis、serotonin syndrome、NMS、malignant hyperthermia、thyroid storm、anticholinergic/sympathomimetic toxicityを機転・neuromuscular/autonomic所見・薬剤で分ける。heat strokeは迅速なactive coolingを優先し、shivering、electrolyte、rhabdomyolysis、DIC、renal/hepatic/CNS injuryを監視する。antipyreticは非pyrogenic hyperthermiaの冷却代替にならない。
 
+冷却は方法、開始時刻、core temperature trend、停止目標、skin/line riskを記録し、原因特異的antidote/pathwayを並行起動する。表面温や発汗の有無だけで重症度を決めない。
+
 ## Accidental hypothermia
 
 gentle handling、core temperature、pulse/rhythm、glucose、K、coagulation、cold exposure/secondary causesを評価する。wet clothing除去・insulationからactive external/internal rewarmingまでseverityと循環で選び、arrhythmia、afterdrop、rewarming shockを監視する。重症/不安定例はECLS-capable centerへの早期相談を検討する。
+
+短時間のpulse checkで無脈と断定せず、低流量・測定困難を考慮してECG/ultrasound等を補助にする。搬送遅延を避け、rewarming modalityと受入能力を早期に照合する。
 
 ## Nursing red flags
 
@@ -54,4 +58,5 @@ gentle handling、core temperature、pulse/rhythm、glucose、K、coagulation、
 
 ## Review log
 
-- 2026-08-11: Endocrine guidance review; toxicology/endocrine/local medication protocol review required.
+- 2026-08-12: cooling documentation/stop point、低体温時のpulse確認とECLS transfer、handover safeguardsを深化。local review required.
+- 2026-08-11: Endocrine guidance review.

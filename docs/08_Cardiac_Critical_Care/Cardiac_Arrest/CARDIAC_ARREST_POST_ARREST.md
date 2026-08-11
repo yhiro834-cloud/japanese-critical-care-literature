@@ -2,8 +2,8 @@
 title: "Cardiac Arrest and Post-Cardiac Arrest Care"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -29,6 +29,8 @@ arrestを認識しcode activation、高品質CPR、defibrillator/AEDを直ちに
 4. persistent ST elevation、shock、electrical instability、ongoing ischemiaは緊急coronary pathway。これらがない昏睡患者のroutine immediate angiographyは推奨されない。
 5. glucose、seizure、ventilation、temperature、infection、organ injuryをprotocol化する。
 
+ventilationはPaCO₂を測定して極端なhypo/hypercapniaを避け、目標は原因と脳圧riskで個別化する。arterial line、continuous ECG、serial blood gas/lactateを用い、post-arrest myocardial dysfunctionとvasoplegia、ongoing causeを時間経過で分ける。
+
 ## Temperature control
 
 verbal commandに反応しない成人では、発熱を防ぎ、選択した温度管理strategyを少なくとも36時間維持するAHA 2025 guidanceに沿う。目標・device・開始/rewarming時刻、shivering、sedation/NMB、electrolyte/glucose、skin/device complicationsを記録する。
@@ -51,6 +53,7 @@ ROSC → stabilize oxygen/ventilation/circulation
 - no-flow/low-flow、rhythm、shock/medication、ROSC、ECG、temperature、sedation、neurologic findingsをtimestamp。
 - arterial pressure、SpO₂/ABG/ETCO₂、urine/lactate、rhythm、shivering、glucose/electrolytes、skinをtrend化。
 - code後のstructured debrief、家族への不確実性を含む説明、survivor/caregiver emotional distress評価を行う。
+- handoffでは未確認のcause、coronary decision、temperature strategy/終了時刻、sedative/NMBA、EEG、予後評価可能時刻と交絡を明示する。
 
 ## References
 
@@ -59,4 +62,5 @@ ROSC → stabilize oxygen/ventilation/circulation
 
 ## Review log
 
-- 2026-08-11: AHA 2025 review; local resuscitation/cath/temperature-control review required.
+- 2026-08-12: PaCO₂、post-arrest shock phenotype、予後評価可能時刻を含むhandoverを深化。local review required.
+- 2026-08-11: AHA 2025 review.
