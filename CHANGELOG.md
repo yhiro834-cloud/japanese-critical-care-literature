@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Respiratory Physiology / ABG Phase 3
+
+- **テーマ:** 呼吸生理、ABG、酸塩基
+- **変更内容:** Oxygenation/ventilation/delivery、V/Q、ABG 8-step、compensation、検体安全、症例、Quiz、Slide Readyを追加
+- **新しいEvidence:** AARC BGA/hemoximetry CPG、VBG meta-analysis、ABG preanalytical study、FDA pulse oximeter safety information、pulse oximetry paired-measurement study
+- **臨床的に何が変わったか:** SpO₂の限界、VBGの適用限界、検体条件を明示し、数値単独判断を防ぐ構造を追加
+- **影響ページ:** `docs/02_Breathing/`、Cases、Quiz、Slide Ready、Guidelines/References registries
+- **要確認:** 呼吸/臨床検査領域専門家レビュー、施設採血protocolとの整合
+
 ### 2026-08-11 — Shock / Septic Shock Phase 2
 
 - **テーマ:** Shock、Septic Shock

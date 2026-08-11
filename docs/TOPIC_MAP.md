@@ -19,7 +19,8 @@ Last Updated: 2026-08-11
 ## 01–03 Airway / Breathing / Circulation
 
 - [ ] Airway: 評価、閉塞、挿管、RSI、difficult airway、抜管、気管切開、吸引、VAP予防
-- [ ] Breathing: 呼吸生理、ABG、酸塩基、酸素療法、HFNC、NIV、人工呼吸、ARDS、weaning
+- [x] Breathing foundation: [呼吸生理](02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md)、[ABG・酸塩基](02_Breathing/ABG/ABG_INTERPRETATION.md)
+- [ ] Breathing remaining: 酸素療法、HFNC、NIV、人工呼吸、ARDS、weaning
 - [ ] Ventilation SSOT: PEEP、Pplat、driving pressure、compliance、resistance、auto-PEEP、waveform、asynchrony
 - [x] Circulation: [shock phenotype / 灌流 / septic shock](03_Circulation/Shock/SHOCK.md)
 - [ ] Circulation remaining: 輸液反応性、POCUS、血管作動薬、血行動態モニタリングの個別SSOT
