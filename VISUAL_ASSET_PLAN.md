@@ -57,3 +57,4 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 
 - 2026-08-12 Phase 1 complete: FIG-G-ABCDE-001–006。
 - 2026-08-12 Phase 2A complete: FIG-P-RESP-001–003。次はairway pressure componentsとnormal/abnormal ventilator waveform series。
+- 2026-08-12 Phase 2B complete: FIG-V-VENT-001–004。次はpatient–ventilator asynchronyとARDS visual series。

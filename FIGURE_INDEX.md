@@ -13,6 +13,10 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-P-RESP-001 | 肺胞ガス交換 | 換気・拡散・灌流を分けて理解 | `assets/physiology/alveolar_gas_exchange.svg` | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | SVG medical schematic | Yes | 呼吸生理導入・機序説明 | Respiratory Physiology SSOT | 2026-08-12 |
 | FIG-P-RESP-002 | V/Q連続体 | shuntからdead spaceまでを比較 | `assets/physiology/vq_shunt_dead_space.svg` | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | SVG comparison | Yes | 低酸素血症・症例討議 | Respiratory Physiology SSOT | 2026-08-12 |
 | FIG-P-RESP-003 | 酸素解離曲線 | PaO₂と飽和度の非線形関係を理解 | `assets/physiology/oxyhemoglobin_curve.svg` | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | SVG graph | Yes | SpO₂解釈・酸素運搬導入 | Respiratory Physiology SSOT | 2026-08-12 |
+| FIG-V-VENT-001 | 気道内圧の構成 | Ppeak・Pplat・PEEPtotalを抵抗と弾性へ分解 | `assets/ventilation/airway_pressure_components.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG waveform schematic | Yes | 人工呼吸mechanics導入 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
+| FIG-V-VENT-002 | PpeakとPplat | 抵抗上昇とcompliance低下を比較 | `assets/ventilation/peak_vs_plateau_pressure.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG comparison | Yes | 高圧alarm推論 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
+| FIG-V-VENT-003 | 正常時間波形 | 圧・流量・容量を同じ時間軸で読む | `assets/ventilation/normal_time_waveforms.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG waveform | Yes | 波形読解導入 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
+| FIG-V-VENT-004 | auto-PEEP波形 | 呼気flowのzero復帰からair trappingを疑う | `assets/ventilation/auto_peep_waveform.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG comparison algorithm | Yes | auto-PEEP推論 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
 
 ## Index rules
 
