@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Airway Phase 5
+
+- **テーマ:** 気道評価、閉塞、RSI/DAM、ETCO₂、ETT/カフ、気管切開、吸引、VAP、抜管
+- **変更内容:** airway assessment/rescue、physiologically difficult airway、挿管確認、人工気道care、症例、CQ、Quiz、20分教材を追加
+- **新しいEvidence:** SCCM RSI 2023、ASA Difficult Airway 2022、PUMA oesophageal intubation 2022、DAS extubation 2012、SHEA/IDSA/APIC VAP update 2022
+- **臨床的に何が変わったか:** SpO₂低下待ち、同一手技反復、聴診のみの挿管確認、挿管後鎮静忘れ、抜管時の再確保計画不足を防ぐ構造を追加
+- **影響ページ:** `docs/01_Airway/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines registry
+- **要確認:** 気道専門家、感染管理、各施設Difficult Airway/気管切開protocolとの整合
+
 ### 2026-08-11 — Respiratory Support Phase 4
 
 - **テーマ:** 酸素療法、HFNC、NIV、人工呼吸器、ARDS、人工呼吸器離脱

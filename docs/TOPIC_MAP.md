@@ -18,7 +18,7 @@ Last Updated: 2026-08-11
 
 ## 01–03 Airway / Breathing / Circulation
 
-- [ ] Airway: 評価、閉塞、挿管、RSI、difficult airway、抜管、気管切開、吸引、VAP予防
+- [x] Airway: [評価・閉塞](01_Airway/Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md)、[挿管・RSI・difficult airway・ETCO₂](01_Airway/Intubation_Difficult_Airway/RSI_DIFFICULT_AIRWAY.md)、[抜管・気管切開・吸引・VAP予防](01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md)
 - [x] Breathing foundation: [呼吸生理](02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md)、[ABG・酸塩基](02_Breathing/ABG/ABG_INTERPRETATION.md)
 - [x] Breathing remaining: [酸素療法](02_Breathing/Oxygen_Therapy/OXYGEN_THERAPY.md)、[HFNC](02_Breathing/HFNC/HFNC.md)、[NIV](02_Breathing/NIV/NIV.md)、[人工呼吸](02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md)、[ARDS](02_Breathing/ARDS/ARDS.md)、[weaning](02_Breathing/Weaning/VENTILATOR_LIBERATION.md)
 - [x] Ventilation SSOT: PEEP、Pplat、driving pressure、compliance、resistance、auto-PEEP、waveform、asynchrony
