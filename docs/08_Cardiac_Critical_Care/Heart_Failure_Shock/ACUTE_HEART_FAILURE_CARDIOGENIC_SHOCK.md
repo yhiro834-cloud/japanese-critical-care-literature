@@ -2,8 +2,8 @@
 title: "Acute Heart Failure and Cardiogenic Shock"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -43,6 +43,8 @@ congestion? + hypoperfusion?
 
 vasopressor/inotropeはMAPだけでなくflow、congestion、arrhythmia、lactate、末梢/臓器灌流への反応で最小有効量を調整する。詳細は[vasoactive SSOT](../../03_Circulation/Vasoactive_Medications/VASOPRESSORS_INOTROPES.md)。temporary MCSの詳細はPhase 12の[ECMO/MCS](../../09_ECMO_MCS/README.md)へ接続する。
 
+shock stage/trajectoryを1時間・24時間の節目で再評価し、薬剤増量を同じ戦略の反復にしない。悪化時はhemodynamic phenotype、source/cause control、transfer、MCSの`escalate / reconfigure / wean`をshock teamで更新する。MCS開始時点でexit criteriaと無益性再評価点を決める。
+
 ## Nursing surveillance
 
 呼吸仕事量、rhythm、A-line waveform、末梢灌流、尿量、体重、fluid balance、electrolytes、renal/liver trend、vasoactive lineを追う。新規murmur、pulse loss、急な肺水腫、recurrent VT、lactate/尿量悪化、薬剤需要増加はshock escalation。
@@ -54,4 +56,5 @@ vasopressor/inotropeはMAPだけでなくflow、congestion、arrhythmia、lactat
 
 ## Review log
 
-- 2026-08-11: Current ACC guidance review; shock-team/local MCS review required.
+- 2026-08-12: 1/24-hour trajectory、escalate/reconfigure/wean、exit criteriaを2025 ACC guidanceに沿って追加。local review required.
+- 2026-08-11: Current ACC guidance review.

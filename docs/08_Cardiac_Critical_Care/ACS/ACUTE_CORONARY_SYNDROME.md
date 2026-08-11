@@ -2,8 +2,8 @@
 title: "Acute Coronary Syndrome"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -32,6 +32,8 @@ ssot: true
 
 再胸痛/ST変化、arrhythmia、acute MR/VSD/free-wall rupture、RV infarction、pulmonary edema、shock、vascular/access bleeding、contrast-associated kidney injuryを監視する。突然の低血圧は“MIだからpump failure”と固定せず、機械的合併症、出血、tamponade、薬剤を再評価する。
 
+再灌流後も`pain–ST–rhythm–perfusion`を同じtimelineで追い、no-reflow、stent thrombosis、recurrent ischemiaを拾う。抗血栓薬の種類・最終投与時刻・腎機能・出血部位と、CABG/手技予定をhandoverする。
+
 ```text
 symptoms / instability → ECG + monitoring + focused differential
 → STEMI-equivalent or ongoing ischemia/instability?
@@ -52,4 +54,5 @@ symptoms / instability → ECG + monitoring + focused differential
 
 ## Review log
 
-- 2026-08-11: 2025 guideline review; cardiology/pharmacy/local PCI pathway review required.
+- 2026-08-12: reperfusion後trajectory、抗血栓handover、機械的合併症の再評価を深化。local review required.
+- 2026-08-11: 2025 guideline review.

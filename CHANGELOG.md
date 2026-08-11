@@ -282,6 +282,15 @@
 - **影響ページ:** `docs/08_Cardiac_Critical_Care/`、`docs/09_ECMO_MCS/`、`docs/15_Pain_Sedation_Delirium/`、`docs/22_Nursing/`
 - **要確認:** electrophysiology/shock-team/device specialist/pharmacy/nursing/local protocol review
 
+### 2026-08-12 — Cardiac / Endocrine High-Risk Depth Phase 32
+
+- **テーマ:** ACS、cardiogenic shock、post-arrest、DKA/HHS、内分泌・体温緊急
+- **変更内容:** 5本の短い高risk SSOTへtrajectory、handover、移行・停止基準を追加
+- **新しいEvidence:** ACC/AHA ACS 2025、ACC Cardiogenic Shock 2025、AHA Post-Arrest 2025、Hyperglycemic Crises Consensus 2024、Endocrine Society/ESE guidance
+- **臨床的に何が変わったか:** 再灌流後監視、shock戦略の惰性継続、早期神経予後固定、glucose/anion gapのみのDKA終了、体表所見のみの温度評価を防ぐ構造を追加
+- **影響ページ:** `docs/08_Cardiac_Critical_Care/`、`docs/10_Endocrine_Metabolic/`
+- **要確認:** cardiology/endocrine/emergency/pharmacy/local pathway review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic
