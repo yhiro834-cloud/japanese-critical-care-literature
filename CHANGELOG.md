@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Recovery / Family / Goals Depth Phase 25
+
+- **テーマ:** early mobility、ICU-acquired weakness、PICS/PICS-F、family-centered care、shared decisions/end of life
+- **変更内容:** 3 SSOTをreadiness/dose/recovery、退院移行、capacity/family conference/time-limited trial/comfort planまで深化
+- **新しいEvidence:** SCCM ICU Liberation A–F、SCCM Family-Centered Care for Adult ICUs 2024
+- **臨床的に何が変わったか:** device/vasopressor＝bed rest、退院＝回復、家族＝代理意思決定者のみ、DNAR＝care制限、time-limited trial＝曖昧な経過観察という短絡を防ぐ構造を追加
+- **影響ページ:** `docs/16_Rehabilitation_PICS/`、`docs/32_Ethics_Safety_Systems/Ethics/`
+- **要確認:** PT/OT/SLT/psychology/palliative/ethics/legal review、local mobility/follow-up/end-of-life/organ donation policyとの整合
+
 ### 2026-08-12 — Medication Safety Depth Phase 24
 
 - **テーマ:** critical-care PK/PD、TDM、extracorporeal clearance、high-alert infusion、smart pump/line safety
