@@ -18,3 +18,4 @@
 - [Hematology Questions](HEMATOLOGY_QUESTIONS.md)
 - [Pharmacology / Nutrition Questions](PHARMACOLOGY_NUTRITION_QUESTIONS.md)
 - [PADIS / Rehabilitation / PICS Questions](PADIS_REHAB_PICS_QUESTIONS.md)
+- [Infection Control / Procedures Questions](INFECTION_CONTROL_PROCEDURES_QUESTIONS.md)

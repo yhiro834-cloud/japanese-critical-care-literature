@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Infection Control / Procedures Phase 18
+
+- **テーマ:** standard/transmission precautions、職業曝露、CLABSI/CAUTI/VAP、手技安全
+- **変更内容:** 4本体SSOT、line break/曝露症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** CDC Core/Isolation/Injection Safety、SHEA Compendium CLABSI/CAUTI/VAP 2022、WHO procedure safety
+- **臨床的に何が変わったか:** glovesによるhand hygiene代替、病原体確定待ち、device culture短絡、timeout省略、placement後確認漏れ、曝露報告遅延を防ぐ構造を追加
+- **影響ページ:** `docs/17_Infection_Control/`、`docs/18_Procedures/`、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** IPC/occupational health/procedure specialists、local PPE/PEP/device/procedure policyとの整合
+
 ### 2026-08-11 — PADIS / Rehabilitation / PICS Phase 17
 
 - **テーマ:** pain、sedation、delirium、sleep/withdrawal、early mobility、ICU-AW、PICS/PICS-F
