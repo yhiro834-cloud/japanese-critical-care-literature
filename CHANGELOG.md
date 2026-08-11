@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Hemodynamics Phase 6
+
+- **テーマ:** 血行動態monitoring、fluid responsiveness/therapy、POCUS、vasopressor/inotrope
+- **変更内容:** pressure–flow–perfusion、dynamic assessment、fluid phases、CCUS QA、薬剤delivery safety、症例/CQ/Quiz/30分教材を追加
+- **新しいEvidence:** ESICM shock/monitoring 2025、ESICM fluid Parts 1–3、SCCM CCUS 2024、SSC 2026
+- **臨床的に何が変わったか:** MAP/CVP/IVC/lactate単独判断を避け、need–responsiveness–toleranceと介入後再評価を標準化
+- **影響ページ:** `docs/03_Circulation/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines registry
+- **要確認:** hemodynamics/CCUS/pharmacy専門家、施設A-line/vasoactive/fluid protocolとの整合
+
 ### 2026-08-11 — Airway Phase 5
 
 - **テーマ:** 気道評価、閉塞、RSI/DAM、ETCO₂、ETT/カフ、気管切開、吸引、VAP、抜管

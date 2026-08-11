@@ -10,3 +10,4 @@
 - [SpO₂突然低下とPaCO₂上昇](CASE_DESATURATION_HYPERCAPNIA.md)
 - [呼吸support escalation](CASE_RESPIRATORY_SUPPORT_ESCALATION.md)
 - [気道急変と挿管確認](CASE_AIRWAY_EMERGENCY.md)
+- [低血圧とfluid responsiveness](CASE_FLUID_RESPONSIVENESS.md)
