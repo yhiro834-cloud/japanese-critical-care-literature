@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — ECMO / MCS Phase 12
+
+- **テーマ:** VV/VA-ECMO、IABP、microaxial flow pump、合併症、emergency、搬送
+- **変更内容:** 3本体SSOT、low-flow症例、CQ、Quiz、30分教材、Devices/Emergency cross-linkを追加
+- **新しいEvidence:** ELSO VV/VA 2021、circuit/anticoagulation/transport 2022、ACC cardiogenic shock 2025
+- **臨床的に何が変わったか:** flow/saturation単独判断、chatteringへのblind fluid、無訓練の回路操作、device-first MCS選択を防ぐ構造を追加
+- **影響ページ:** `docs/09_ECMO_MCS/`、Devices、Emergency、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** ECMO director/perfusion/device specialist、機種固有manual・施設emergency cardとの整合
+
 ### 2026-08-11 — Cardiac Critical Care Phase 11
 
 - **テーマ:** ACS、急性心不全/cardiogenic shock、不整脈、心停止、PCAS、temperature control

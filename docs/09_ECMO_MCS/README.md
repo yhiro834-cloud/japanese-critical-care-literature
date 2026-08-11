@@ -1,3 +1,9 @@
 # 09 ECMO and Mechanical Circulatory Support
 
-Planned: VA/VV-ECMO、IABP、Impella、適応の考え方、monitoring、合併症、emergency troubleshooting。
+## Knowledge
+
+- [ECMO Foundations and Daily Management](ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md)
+- [ECMO Emergency Troubleshooting](ECMO_Emergencies/ECMO_EMERGENCY_TROUBLESHOOTING.md)
+- [Temporary MCS: IABP / Microaxial Flow Pump](Temporary_MCS/TEMPORARY_MCS.md)
+
+> ECMO/MCSは熟練multidisciplinary teamと施設protocol下で運用する。本章はdevice manual、bedside checklist、perfusionist/ECMO specialistを置き換えない。

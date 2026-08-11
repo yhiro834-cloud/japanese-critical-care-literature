@@ -42,6 +42,9 @@
 | GL-2025-005 | Cardiogenic shock | 2025 Concise Clinical Guidance: An ACC Expert Consensus Statement on the Evaluation and Management of Cardiogenic Shock | ACC; Geller BJ, et al. | 2025 | — | https://doi.org/10.1016/j.jacc.2025.02.018 | verified-current | 2026-08-11 | 2027-02-11 | [Cardiogenic Shock](../08_Cardiac_Critical_Care/Heart_Failure_Shock/ACUTE_HEART_FAILURE_CARDIOGENIC_SHOCK.md) |
 | GL-2025-006 | Adult ALS | Part 9: Adult Advanced Life Support: 2025 AHA Guidelines for CPR and ECC | AHA | 2025 | 2020 / 2023 update | https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support | verified-current | 2026-08-11 | 2027-02-11 | [Arrhythmias](../08_Cardiac_Critical_Care/Arrhythmias/UNSTABLE_ARRHYTHMIAS.md), [Cardiac Arrest](../08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ARREST.md) |
 | GL-2025-007 | Post-cardiac arrest | Part 11: Post-Cardiac Arrest Care: 2025 AHA Guidelines for CPR and ECC | AHA; Hirsch KG, et al. | 2025 | 2020 / 2023 update | https://doi.org/10.1161/CIR.0000000000001375 | verified-current | 2026-08-11 | 2027-02-11 | [Post-Arrest Care](../08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ARREST.md) |
+| GL-2021-001 | Adult VV-ECMO | ELSO Guideline for Adult Respiratory Failure Managed with Venovenous ECMO | ELSO; Tonna JE, et al. | 2021 | — | https://doi.org/10.1097/MAT.0000000000001432 | verified-current-on-ELSO-list | 2026-08-11 | 2027-02-11 | [ECMO Foundations](../09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md) |
+| GL-2021-002 | Adult VA-ECMO | ELSO Interim Guidelines for Venoarterial ECMO in Adult Cardiac Patients | ELSO; Lorusso R, et al. | 2021 | — | https://doi.org/10.1097/MAT.0000000000001510 | verified-current-on-ELSO-list | 2026-08-11 | 2027-02-11 | [ECMO Foundations](../09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md) |
+| GL-2022-006 | ECMO circuits / transport / anticoagulation | ELSO circuit, transport, and anticoagulation guidelines | ELSO | 2022 | earlier ELSO guidance | https://www.elso.org/ecmo-resources/elso-ecmo-guidelines.aspx | verified-current-on-ELSO-list | 2026-08-11 | 2027-02-11 | [ECMO Emergencies](../09_ECMO_MCS/ECMO_Emergencies/ECMO_EMERGENCY_TROUBLESHOOTING.md) |
 
 ## Status
 
@@ -103,3 +106,6 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2025-005 DOI: `10.1016/j.jacc.2025.02.018`; PMID: `40100174`
 - GL-2025-006: official AHA 2025 ALS guideline page; identifiers to verify at next review
 - GL-2025-007 DOI: `10.1161/CIR.0000000000001375`; PMID to verify at next review
+- GL-2021-001 DOI: `10.1097/MAT.0000000000001432`; PMID: `33657547`
+- GL-2021-002 DOI: `10.1097/MAT.0000000000001510`; PMID: `34339398`
+- GL-2022-006: ELSO official portal; component identifiers require separate verification on next review
