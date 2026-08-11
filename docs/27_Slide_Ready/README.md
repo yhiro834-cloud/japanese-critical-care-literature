@@ -8,3 +8,4 @@
 - [Airway：中堅ICU看護師向け20分](AIRWAY_20MIN.md)
 - [Hemodynamics：中堅ICU看護師向け30分](HEMODYNAMICS_30MIN.md)
 - [Neurocritical Care：中堅ICU看護師向け30分](NEUROCRITICAL_30MIN.md)
+- [Renal：中堅ICU看護師向け30分](RENAL_30MIN.md)

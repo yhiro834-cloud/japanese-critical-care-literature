@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Renal Phase 8
+
+- **テーマ:** AKI/尿量、electrolyte emergencies、KRT/CRRT
+- **変更内容:** 3本体SSOT、乏尿/CRRT症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** KDIGO AKI 2012（現行最終版）、KDIGO controversies 2020、UKKA hyperkalemia 2023、European hyponatremia 2014、STARRT-AKI
+- **臨床的に何が変わったか:** KDIGO 2026草案を未確定として分離し、oliguriaへのblind fluid、電解質補正後の再検漏れ、CRRT alarm reset反復を防ぐ構造を追加
+- **影響ページ:** `docs/05_Renal/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines/References registries
+- **要確認:** KDIGO最終版公開時の更新、nephrology/CRRT/pharmacy/施設protocol review
+
 ### 2026-08-11 — Neurocritical Care Phase 7
 
 - **テーマ:** 意識/瞳孔、stroke/ICH/SAH、TBI、ICP/CPP、seizure/NCSE、神経予後

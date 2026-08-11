@@ -8,3 +8,4 @@
 - [Airway Quiz](QUIZ_AIRWAY.md)
 - [Hemodynamics Quiz](QUIZ_HEMODYNAMICS.md)
 - [Neurocritical Care Quiz](QUIZ_NEUROCRITICAL.md)
+- [Renal Quiz](QUIZ_RENAL.md)

@@ -12,3 +12,4 @@
 - [気道急変と挿管確認](CASE_AIRWAY_EMERGENCY.md)
 - [低血圧とfluid responsiveness](CASE_FLUID_RESPONSIVENESS.md)
 - [急性神経悪化](CASE_ACUTE_NEUROLOGICAL_DECLINE.md)
+- [乏尿とCRRT alarm](CASE_OLIGURIA_CRRT_ALARM.md)
