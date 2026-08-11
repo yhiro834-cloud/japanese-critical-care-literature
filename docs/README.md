@@ -1,6 +1,6 @@
 # Documentation Portal
 
-## Phase 1成果物
+## Core architecture and operations
 
 - [Topic Map](TOPIC_MAP.md): 集中治療領域全体とSingle Source of Truthの配置
 - [Knowledge Page Template](_templates/knowledge-page.md)
@@ -12,6 +12,7 @@
 - [Evidence review workflow](29_References/EVIDENCE_WORKFLOW.md)
 - [更新ルール](../CONTRIBUTING.md)
 - [変更履歴](../CHANGELOG.md)
+- [実装状況と残るレビュー](IMPLEMENTATION_STATUS.md)
 
 ## Status legend
 

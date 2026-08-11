@@ -1,3 +1,17 @@
+---
+title: "Pharmacology / Nutrition — Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # Pharmacology / Nutrition — Clinical Questions
 
 1. **AKIならloading doseも必ず減らす？** Vdとclearanceを分けて考える。

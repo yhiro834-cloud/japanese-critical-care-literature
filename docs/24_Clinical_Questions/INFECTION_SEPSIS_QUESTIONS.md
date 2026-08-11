@@ -1,3 +1,17 @@
+---
+title: "Infection / Sepsis — Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # Infection / Sepsis — Clinical Questions
 
 1. **培養のため抗菌薬を待つか。** 適切な検体を迅速に採るが、septic shock等でmeaningful delayを作らない。

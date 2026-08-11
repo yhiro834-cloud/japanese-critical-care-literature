@@ -1,3 +1,17 @@
+---
+title: "Infection Control / Procedures — Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # Infection Control / Procedures — Clinical Questions
 
 1. **glovesでhand hygiene不要？** いいえ。着脱前後と適切な時点で行う。

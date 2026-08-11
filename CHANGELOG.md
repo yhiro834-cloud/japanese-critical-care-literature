@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Final Requirements Audit Phase 21
+
+- **テーマ:** Fundamentals、教材再構成、portal/status、全要件監査
+- **変更内容:** physiology/reasoning/ICU assessment/human factors本体、ABCDE handoff、5/10/20/30分×3対象の教材workflowとshock例、Implementation Statusを追加し、学習・運用ページのreview metadataを統一
+- **新しいEvidence:** WHO/ICRC Basic Emergency Care、AHRQ TeamSTEPPS、WHO Patient Safety。既存領域Evidenceは変更なし
+- **臨床的に何が変わったか:** 単一値中心の生理理解、premature closure、非系統的round、memory依存の安全対策を補い、完成範囲と専門家review未完了を明確に分離
+- **影響ページ:** `README.md`、`docs/00_Fundamentals/`、Teaching Materials、Topic Map、Documentation Portal、Implementation Status
+- **要確認:** multidisciplinary specialist sign-off、local protocol alignment、継続Evidence surveillance
+
 ### 2026-08-11 — Special Populations / Toxicology / Safety Systems Phase 20
 
 - **テーマ:** 小児・妊産婦・complex adults、中毒・環境急変、shared decision/end-of-life、human factors/搬送/災害/QI

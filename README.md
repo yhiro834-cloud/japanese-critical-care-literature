@@ -23,6 +23,7 @@
 | 勉強会・スライド | [Teaching Materials](docs/26_Teaching_Materials/README.md) / [Slide Ready](docs/27_Slide_Ready/README.md) |
 | ガイドライン・論文 | [Guidelines Index](docs/28_Guidelines/README.md) / [References Index](docs/29_References/README.md) |
 | 全体構造・執筆状況 | [docs portal](docs/README.md) |
+| 実装監査・残るレビュー | [Implementation Status](docs/IMPLEMENTATION_STATUS.md) |
 
 ## 基本思考：ABCDE + 再評価
 
@@ -58,7 +59,7 @@
 
 ## 現在の段階
 
-**段階的構築中**です。Phase 1で分類・テンプレート・Evidence管理を整備し、Shock/Septic Shock、呼吸生理/ABG、呼吸supportを追加しました。空の領域や `planned` は未完成です。内容が存在するように見せるためのダミー本文は置きません。
+初期Topic Mapの全領域に、学習開始点となるSSOT本文とCases/CQ/Quiz/Slide Readyへの導線を実装しました。これは「専門家レビュー完了」を意味しません。本文は原則 `review-needed` であり、施設固有protocolとの整合、各領域専門家による臨床レビュー、Evidence surveillanceを継続します。範囲と残る作業は[Implementation Status](docs/IMPLEMENTATION_STATUS.md)を参照してください。
 
 ## 自動文献収集（既存機能）
 

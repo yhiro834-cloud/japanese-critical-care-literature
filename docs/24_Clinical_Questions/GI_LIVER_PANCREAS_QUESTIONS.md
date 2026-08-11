@@ -1,3 +1,17 @@
+---
+title: "GI / Liver / Pancreas — Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # GI / Liver / Pancreas — Clinical Questions
 
 1. **初期Hb正常なら大量GI出血なし？** いいえ。acute lossは単発Hbで除外しない。

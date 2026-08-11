@@ -1,3 +1,17 @@
+---
+title: "日本語文献自動収集 設定・実行ガイド"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # 日本語文献自動収集 設定・実行ガイド
 
 J-STAGEと、任意でCiNii Researchの公式APIを毎日検索し、日本語の集中治療・救急・救急看護関連文献をMarkdownとJSONへ保存します。GitHub Actionsは毎朝7時17分（日本時間）に動きます。外部生成AI、有料文献データベース、有料APIは使いません。
