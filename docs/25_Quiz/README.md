@@ -10,3 +10,4 @@
 - [Neurocritical Care Quiz](QUIZ_NEUROCRITICAL.md)
 - [Renal Quiz](QUIZ_RENAL.md)
 - [Infection / Sepsis Quiz](QUIZ_INFECTION_SEPSIS.md)
+- [Trauma / Burns Quiz](QUIZ_TRAUMA_BURNS.md)

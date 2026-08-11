@@ -10,3 +10,4 @@
 - [Neurocritical Care Questions](NEUROCRITICAL_QUESTIONS.md)
 - [Renal Questions](RENAL_QUESTIONS.md)
 - [Infection / Sepsis Questions](INFECTION_SEPSIS_QUESTIONS.md)
+- [Trauma / Burns Questions](TRAUMA_BURNS_QUESTIONS.md)

@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Trauma / Burns Phase 10
+
+- **テーマ:** primary/secondary survey、出血性shock、damage control、胸腹部・骨盤外傷、熱傷初期管理
+- **変更内容:** 3本体SSOT、潜在性出血症例、CQ、Quiz、30分教材を追加し、TBIは既存神経SSOTへ接続
+- **新しいEvidence:** European major trauma bleeding guideline 6th 2023、ACS TQP Best Practices、ABA burn shock resuscitation 2024、WSES pelvic trauma
+- **臨床的に何が変わったか:** 単発の正常vital/Hb/eFASTによる除外、CT優先による止血遅延、MTPの漫然継続、熱傷輸液式のautopilot化を防ぐ再評価loopを追加
+- **影響ページ:** `docs/07_Trauma/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines registry
+- **要確認:** trauma/burn/transfusion/surgery、local MTP・転送protocolとの整合
+
 ### 2026-08-11 — Infection / Sepsis Phase 9
 
 - **テーマ:** 感染評価、培養、抗菌薬、source control、diagnostic/antibiotic timeout
