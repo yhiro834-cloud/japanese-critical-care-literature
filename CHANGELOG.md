@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Hematology Phase 15
+
+- **テーマ:** DIC、血小板減少、輸血/PBM、抗凝固/拮抗、VTE
+- **変更内容:** 3本体SSOT、急性血小板低下症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** AABB RBC 2023、AABB/ICTMG platelet 2025、ASH VTE 2018、ISTH DIC communications、ACC bleeding pathway 2020
+- **臨床的に何が変わったか:** DICへの早期固定、HIT/TTP見逃し、閾値だけの製剤投与、輸血反応見逃し、agent非特異的拮抗、VTE予防更新漏れを防ぐ構造を追加
+- **影響ページ:** `docs/12_Hematology/`、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** hematology/transfusion/pharmacy/laboratory、local antidote/transfusion/VTE protocolとの整合
+
 ### 2026-08-11 — GI / Liver / Pancreas Phase 14
 
 - **テーマ:** GI bleeding、ALF/HE、acute pancreatitis、IAH/ACS
