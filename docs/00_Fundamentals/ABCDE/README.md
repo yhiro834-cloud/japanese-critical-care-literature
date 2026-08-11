@@ -73,4 +73,5 @@ ABCDEは章ではなく、全ページを横断する初期評価と再評価の
 
 ## Figure review log
 
+- 2026-08-12: 図内表記を日本語中心へ統一し、臨床で必要な略語・初出英語のみ維持。再描画して文字切れを確認。
 - 2026-08-12: FIG-G-ABCDE-001–006を追加。ABCDE本文、Airway/Breathing/Circulation/Neurology/Trauma/Infection各SSOTと照合し、SVG/XML、label、矢印、16:9 readabilityを確認。
