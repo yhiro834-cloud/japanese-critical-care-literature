@@ -62,7 +62,7 @@
 
 ## 自動文献収集（既存機能）
 
-GitHub ActionsがCiNii ResearchとJ-STAGEから日本語文献候補を収集し、`literature/YYYY/MM/` に日次レポートを保存します。これはEvidence探索の入口であり、Knowledgeへの採用には原文確認とレビューが必要です。実行設定は[自動収集の説明](docs/29_References/AUTOMATED_LITERATURE_INBOX.md)を参照してください。
+GitHub ActionsがCiNii ResearchとJ-STAGEから日本語文献候補を収集し、`literature/YYYY/MM/` に日次レポートを保存します。これはEvidence探索の入口であり、Knowledgeへの採用には原文確認とレビューが必要です。[Evidence上の位置づけ](docs/29_References/AUTOMATED_LITERATURE_INBOX.md)と[設定・実行ガイド](docs/29_References/LITERATURE_AUTOMATION_GUIDE.md)を参照してください。
 
 ## Contributing
 

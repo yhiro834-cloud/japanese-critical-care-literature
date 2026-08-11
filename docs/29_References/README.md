@@ -20,3 +20,4 @@ Guidelineは[Guidelines Index](../28_Guidelines/README.md)へ置きます。こ�
 
 - [Evidence review workflow](EVIDENCE_WORKFLOW.md)
 - [Automated literature inbox](AUTOMATED_LITERATURE_INBOX.md)
+- [Literature automation setup and operations](LITERATURE_AUTOMATION_GUIDE.md)
