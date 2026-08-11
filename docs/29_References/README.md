@@ -6,7 +6,11 @@
 
 | ID | Topic | Title | Authors / Group | Journal | Year | DOI | PMID | Evidence type | Status | Verified on | Used by |
 |---|---|---|---|---|---:|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | registry-empty | — | — |
+| REF-2016-001 | Sepsis definition | The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) | Singer M, et al. | JAMA | 2016 | 10.1001/jama.2016.0287 | 26903338 | Consensus | verified | 2026-08-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
+| REF-2019-001 | Perfusion target | ANDROMEDA-SHOCK | Hernández G, et al. | JAMA | 2019 | 10.1001/jama.2019.0071 | 30772908 | Multicenter RCT | verified | 2026-08-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
+| REF-2022-001 | Fluid strategy | CLASSIC | Meyhoff TS, et al. | N Engl J Med | 2022 | 10.1056/NEJMoa2202707 | 35709019 | Multicenter RCT | verified | 2026-08-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
+| REF-2023-001 | Fluid strategy | CLOVERS | Shapiro NI, et al. | N Engl J Med | 2023 | 10.1056/NEJMoa2212663 | 36688507 | Multicenter RCT | verified | 2026-08-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
+| REF-2025-001 | Personalized resuscitation | ANDROMEDA-SHOCK-2 | ANDROMEDA-SHOCK-2 Investigators | JAMA | 2025 | 10.1001/jama.2025.20402 | 41159835 | Multicenter RCT | verified-identity | 2026-08-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
 
 ## Reference ID
 
