@@ -6,6 +6,7 @@
 
 ## Cases
 
+- [Conflicting signalsとdiagnostic timeout](CASE_CONFLICTING_SIGNALS_DIAGNOSTIC_TIMEOUT.md)
 - [血圧突然低下：Septic Shock](CASE_SUDDEN_HYPOTENSION_SEPTIC_SHOCK.md)
 - [SpO₂突然低下とPaCO₂上昇](CASE_DESATURATION_HYPERCAPNIA.md)
 - [呼吸support escalation](CASE_RESPIRATORY_SUPPORT_ESCALATION.md)
