@@ -13,6 +13,11 @@
 | GL-2017-002 | NIV | Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure | ERS / ATS; Rochwerg B, et al. | 2017 | — | https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf | verified-current | 2026-08-11 | 2027-02-11 | [NIV](../02_Breathing/NIV/NIV.md) |
 | GL-2024-001 | ARDS | An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline | ATS; Qadir N, et al. | 2024 | updates 2017 selected questions | https://doi.org/10.1164/rccm.202311-2011ST | verified-current | 2026-08-11 | 2027-02-11 | [ARDS](../02_Breathing/ARDS/ARDS.md) |
 | GL-2017-003 | Ventilator liberation | ATS/CHEST guideline: Liberation from Mechanical Ventilation in Critically Ill Adults | ATS / CHEST; Girard TD, et al. | 2017 | — | https://www.thoracic.org/statements/resources/cc/weaning-rehab-protocols-CLT.pdf | verified-current | 2026-08-11 | 2027-02-11 | [Ventilator Liberation](../02_Breathing/Weaning/VENTILATOR_LIBERATION.md) |
+| GL-2023-001 | RSI | SCCM Clinical Practice Guidelines for Rapid Sequence Intubation in the Critically Ill Adult Patient | SCCM; Acquisto NM, et al. | 2023 | — | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-rapid-sequence-intubation | verified-current | 2026-08-11 | 2027-02-11 | [RSI and Difficult Airway](../01_Airway/Intubation_Difficult_Airway/RSI_DIFFICULT_AIRWAY.md) |
+| GL-2022-002 | Difficult airway | 2022 ASA Practice Guidelines for Management of the Difficult Airway | ASA; Apfelbaum JL, et al. | 2022 | ASA 2013 | https://pubs.asahq.org/anesthesiology/article/136/1/31/117915/ | verified-current | 2026-08-11 | 2027-02-11 | [Airway Assessment](../01_Airway/Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md) |
+| GL-2022-003 | Intubation confirmation | Preventing unrecognised oesophageal intubation: PUMA and international airway societies consensus guideline | PUMA / international airway societies; Chrimes N, et al. | 2022 | — | https://www.universalairway.org/puoi | verified-current | 2026-08-11 | 2027-02-11 | [RSI and Difficult Airway](../01_Airway/Intubation_Difficult_Airway/RSI_DIFFICULT_AIRWAY.md) |
+| GL-2012-001 | Extubation | Difficult Airway Society Guidelines for the management of tracheal extubation | DAS; Popat M, et al. | 2012 | — | https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/j.1365-2044.2012.07075.x | verified | 2026-08-11 | 2027-02-11 | [Artificial Airway Care](../01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md) |
+| GL-2022-004 | VAP/VAE/NV-HAP prevention | Strategies to prevent ventilator-associated pneumonia, ventilator-associated events, and nonventilator hospital-acquired pneumonia in acute-care hospitals: 2022 Update | SHEA / IDSA / APIC; Klompas M, et al. | 2022 | 2014 strategy | https://doi.org/10.1017/ice.2022.88 | verified-current | 2026-08-11 | 2027-02-11 | [Artificial Airway Care](../01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md) |
 
 ## Status
 
@@ -45,3 +50,8 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2017-002 DOI: `10.1183/13993003.02426-2016`; PMID: `28860265`
 - GL-2024-001 DOI: `10.1164/rccm.202311-2011ST`; PMID: `38032683`
 - GL-2017-003 DOI: `10.1164/rccm.201610-2075ST`; PMID: `27762595`
+- GL-2023-001 DOI: `10.1097/CCM.0000000000006000`; PMID: `37707379`
+- GL-2022-002 DOI: `10.1097/ALN.0000000000004002`; PMID: `34762729`
+- GL-2022-003 DOI: `10.1111/anae.15817`; PMID: `35977431`
+- GL-2012-001 DOI: `10.1111/j.1365-2044.2012.07075.x`; PMID: `22321104`
+- GL-2022-004 DOI: `10.1017/ice.2022.88`; PMID: `35589091`

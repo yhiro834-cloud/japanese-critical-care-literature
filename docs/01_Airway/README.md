@@ -1,3 +1,11 @@
 # 01 Airway
 
-Planned: 気道評価、閉塞、挿管/RSI、difficult airway、ETCO₂、チューブ/カフ管理、抜管、気管切開、吸引、VAP予防。
+気道評価から人工気道管理までを「open / maintainable / rescuable」で整理します。
+
+## Knowledge
+
+- [Airway Assessment and Emergencies](Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md)
+- [RSI and Difficult Airway Management](Intubation_Difficult_Airway/RSI_DIFFICULT_AIRWAY.md)
+- [Endotracheal Tube and Tracheostomy Care](Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md)
+
+呼吸器離脱の本体は[Ventilator Liberation](../02_Breathing/Weaning/VENTILATOR_LIBERATION.md)です。
