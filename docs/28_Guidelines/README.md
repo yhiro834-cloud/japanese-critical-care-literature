@@ -45,6 +45,10 @@
 | GL-2021-001 | Adult VV-ECMO | ELSO Guideline for Adult Respiratory Failure Managed with Venovenous ECMO | ELSO; Tonna JE, et al. | 2021 | — | https://doi.org/10.1097/MAT.0000000000001432 | verified-current-on-ELSO-list | 2026-08-11 | 2027-02-11 | [ECMO Foundations](../09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md) |
 | GL-2021-002 | Adult VA-ECMO | ELSO Interim Guidelines for Venoarterial ECMO in Adult Cardiac Patients | ELSO; Lorusso R, et al. | 2021 | — | https://doi.org/10.1097/MAT.0000000000001510 | verified-current-on-ELSO-list | 2026-08-11 | 2027-02-11 | [ECMO Foundations](../09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md) |
 | GL-2022-006 | ECMO circuits / transport / anticoagulation | ELSO circuit, transport, and anticoagulation guidelines | ELSO | 2022 | earlier ELSO guidance | https://www.elso.org/ecmo-resources/elso-ecmo-guidelines.aspx | verified-current-on-ELSO-list | 2026-08-11 | 2027-02-11 | [ECMO Emergencies](../09_ECMO_MCS/ECMO_Emergencies/ECMO_EMERGENCY_TROUBLESHOOTING.md) |
+| GL-2024-005 | Hyperglycemic crises | Hyperglycemic Crises in Adults With Diabetes: A Consensus Report | ADA/EASD/AACE/JBDS/DTS; Umpierrez GE, et al. | 2024 | ADA 2009 | https://doi.org/10.2337/dci24-0032 | verified-current | 2026-08-11 | 2027-02-11 | [DKA/HHS](../10_Endocrine_Metabolic/Hyperglycemic_Crises/DKA_HHS.md) |
+| GL-2024-006 | ICU glycemic control | SCCM Guidelines on Glycemic Control for Critically Ill Children and Adults | SCCM; Honarmand K, et al. | 2024 | SCCM/ACCM 2012 | https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-glycemic-control-for-critically-ill | verified-current | 2026-08-11 | 2027-02-11 | [ICU Glycemic Control](../10_Endocrine_Metabolic/Glycemic_Control/ICU_GLYCEMIC_CONTROL.md) |
+| GL-2016-002 | Primary adrenal insufficiency | Diagnosis and Treatment of Primary Adrenal Insufficiency: Endocrine Society CPG | Endocrine Society; Bornstein SR, et al. | 2016 | — | https://www.endocrine.org/clinical-practice-guidelines/primary-adrenal-insufficiency | verified-current-on-society-site | 2026-08-11 | 2027-02-11 | [Endocrine Emergencies](../10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md) |
+| GL-2024-007 | Glucocorticoid-induced adrenal insufficiency | ESE/Endocrine Society Joint Clinical Guideline | ESE / Endocrine Society; Beuschlein F, et al. | 2024 | — | https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency | verified-current | 2026-08-11 | 2027-02-11 | [Endocrine Emergencies](../10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md) |
 
 ## Status
 
@@ -109,3 +113,7 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2021-001 DOI: `10.1097/MAT.0000000000001432`; PMID: `33657547`
 - GL-2021-002 DOI: `10.1097/MAT.0000000000001510`; PMID: `34339398`
 - GL-2022-006: ELSO official portal; component identifiers require separate verification on next review
+- GL-2024-005 DOI: `10.2337/dci24-0032`; PMID: `38907161`
+- GL-2024-006: official SCCM guideline page; DOI/PMID to verify at next review
+- GL-2016-002 DOI: `10.1210/jc.2015-1710`; PMID: `26760044`
+- GL-2024-007 DOI: `10.1210/clinem/dgae250`; PMID: `38730045`

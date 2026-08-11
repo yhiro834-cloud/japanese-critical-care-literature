@@ -36,7 +36,7 @@ Last Updated: 2026-08-11
 ## 09–18 Advanced support and whole-body care
 
 - [x] ECMO/MCS: [VV/VA-ECMO・daily management](09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md)、[emergency/合併症/搬送](09_ECMO_MCS/ECMO_Emergencies/ECMO_EMERGENCY_TROUBLESHOOTING.md)、[IABP/microaxial flow pump](09_ECMO_MCS/Temporary_MCS/TEMPORARY_MCS.md)
-- [ ] Endocrine/metabolic: DKA、HHS、血糖、甲状腺・副腎危機、体温異常
+- [x] Endocrine/metabolic: [DKA/HHS](10_Endocrine_Metabolic/Hyperglycemic_Crises/DKA_HHS.md)、[ICU血糖](10_Endocrine_Metabolic/Glycemic_Control/ICU_GLYCEMIC_CONTROL.md)、[甲状腺・副腎危機/体温異常](10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md)
 - [ ] GI/liver/pancreas: 消化管出血、急性肝不全、肝性脳症、腹腔内圧、急性膵炎
 - [ ] Hematology: DIC、凝固、血小板、輸血、抗凝固、血栓
 - [ ] Pharmacology; nutrition; pain/sedation/delirium/sleep; rehabilitation/PICS
