@@ -9,3 +9,4 @@
 - [Hemodynamics：中堅ICU看護師向け30分](HEMODYNAMICS_30MIN.md)
 - [Neurocritical Care：中堅ICU看護師向け30分](NEUROCRITICAL_30MIN.md)
 - [Renal：中堅ICU看護師向け30分](RENAL_30MIN.md)
+- [Infection / Sepsis：中堅ICU看護師向け30分](INFECTION_SEPSIS_30MIN.md)

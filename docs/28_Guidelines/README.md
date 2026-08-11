@@ -34,6 +34,8 @@
 | GL-2026-003 | AKI/AKD | KDIGO 2026 AKI/AKD Guideline Public Review Draft | KDIGO | public-review draft March 2026 | intended update to 2012 | https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf | draft-not-for-clinical-adoption | 2026-08-11 | 2026-11-11 | status note only; not used as recommendation |
 | GL-2023-004 | Hyperkalemia | UKKA Clinical Practice Guideline: Management of Hyperkalaemia in Adults | UK Kidney Association; Alfonzo A, et al. | 2023 | 2020 | https://www.ukkidney.org/health-professionals/guidelines/treatment-acute-hyperkalaemia-adults-0 | verified-current | 2026-08-11 | 2026-10-19 | [Electrolytes](../05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md) |
 | GL-2014-001 | Hyponatremia | Clinical practice guideline on diagnosis and treatment of hyponatraemia | European Society of Endocrinology and partners; Spasovski G, et al. | 2014 | — | https://doi.org/10.1530/EJE-13-1020 | verified | 2026-08-11 | 2027-02-11 | [Electrolytes](../05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md) |
+| GL-2016-001 | Antibiotic stewardship | Implementing an Antibiotic Stewardship Program: IDSA/SHEA Clinical Practice Guidelines | IDSA / SHEA; Barlam TF, et al. | 2016 | — | https://www.idsociety.org/practice-guideline/implementing-an-ASP/ | verified-current-on-IDSA-site | 2026-08-11 | 2027-02-11 | [Antimicrobial Therapy](../06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md) |
+| GL-2019-001 | Hospital antibiotic stewardship | Core Elements of Hospital Antibiotic Stewardship Programs | CDC | 2019; implementation priorities updated 2022 | 2014 | https://www.cdc.gov/antibiotic-use/hcp/core-elements/hospital.html | verified-current | 2026-08-11 | 2027-02-11 | [Antimicrobial Therapy](../06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md) |
 
 ## Status
 
@@ -87,3 +89,5 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2026-003: public-review draft; no DOI/PMID; not adopted
 - GL-2023-004: official UKKA guideline; DOI/PMID not assigned
 - GL-2014-001 DOI: `10.1530/EJE-13-1020`; PMID: `24569125`
+- GL-2016-001 DOI: `10.1093/cid/ciw118`; PMID: `27080992`
+- GL-2019-001: CDC official framework; DOI/PMID not assigned

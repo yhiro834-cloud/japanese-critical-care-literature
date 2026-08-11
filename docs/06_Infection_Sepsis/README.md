@@ -1,5 +1,7 @@
 # 06 Infection and Sepsis
 
-Planned: 感染評価、培養、抗菌薬、source control、sepsis/septic shock、臓器障害、再評価。
+## Knowledge
 
-- [Septic Shock（本体）](../03_Circulation/Shock/SEPTIC_SHOCK.md)
+- [Infection Assessment](Infection_Assessment/INFECTION_ASSESSMENT.md)
+- [Antimicrobial Therapy and Source Control](Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md)
+- [Septic Shock（循環管理SSOT）](../03_Circulation/Shock/SEPTIC_SHOCK.md)
