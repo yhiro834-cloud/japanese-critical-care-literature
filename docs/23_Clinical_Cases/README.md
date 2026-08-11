@@ -20,3 +20,4 @@
 - [Euglycemic DKA](CASE_EUGLYCEMIC_DKA.md)
 - [GI出血の再shock](CASE_GI_BLEED_RESHOCK.md)
 - [ICUでの急性血小板低下](CASE_ACUTE_PLATELET_FALL.md)
+- [Refeeding後の呼吸困難](CASE_REFEEDED_PATIENT_DYSPNEA.md)
