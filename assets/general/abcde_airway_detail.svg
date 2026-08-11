@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">ABCDE Airway detail</title><desc id="desc">Airway assessment, monitoring, red flags and immediate actions arranged in four cards.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#5B5BD6"/></marker></defs>
+  <rect width="1600" height="900" fill="#fff"/><rect x="0" y="0" width="1600" height="145" fill="#DCEFF7"/>
+  <text x="80" y="70" font-family="Arial" font-size="44" font-weight="700" fill="#1976A3">A · Airway</text><text x="80" y="112" font-family="Arial" font-size="24" fill="#172B3A">発声・気道音・開通性・deviceをpatient firstで確認</text>
+  <g font-family="Arial">
+    <rect x="80" y="205" width="330" height="400" rx="24" fill="#F4F8FA" stroke="#31546D" stroke-width="3"/><text x="115" y="260" font-size="29" font-weight="700" fill="#31546D">ASSESS</text>
+    <text x="115" y="315" font-size="24" fill="#172B3A"><tspan x="115" dy="0">• Voice / speech</tspan><tspan x="115" dy="48">• Snoring · stridor</tspan><tspan x="115" dy="48">• Secretions · blood</tspan><tspan x="115" dy="48">• Face / neck swelling</tspan><tspan x="115" dy="48">• Tube / tracheostomy</tspan></text>
+    <rect x="445" y="205" width="330" height="400" rx="24" fill="#F4F8FA" stroke="#31546D" stroke-width="3"/><text x="480" y="260" font-size="29" font-weight="700" fill="#31546D">MONITOR</text>
+    <text x="480" y="315" font-size="24" fill="#172B3A"><tspan x="480" dy="0">• Chest movement</tspan><tspan x="480" dy="48">• SpO₂ trend</tspan><tspan x="480" dy="48">• ETCO₂ waveform</tspan><tspan x="480" dy="48">• Tube depth / cuff</tspan><tspan x="480" dy="48">• Work of breathing</tspan></text>
+    <rect x="810" y="205" width="330" height="400" rx="24" fill="#FFF4F2" stroke="#C74440" stroke-width="4"/><text x="845" y="260" font-size="29" font-weight="700" fill="#C74440">RED FLAG</text>
+    <text x="845" y="315" font-size="24" fill="#172B3A"><tspan x="845" dy="0">◆ Silent airway</tspan><tspan x="845" dy="48">◆ Severe stridor</tspan><tspan x="845" dy="48">◆ Cannot protect airway</tspan><tspan x="845" dy="48">◆ Tube displacement</tspan><tspan x="845" dy="48">◆ ETCO₂ lost</tspan></text>
+    <rect x="1175" y="205" width="345" height="400" rx="24" fill="#E6F5F2" stroke="#16856B" stroke-width="4"/><text x="1210" y="260" font-size="29" font-weight="700" fill="#16856B">ACT NOW</text>
+    <text x="1210" y="315" font-size="24" fill="#172B3A"><tspan x="1210" dy="0">1  Call for airway help</tspan><tspan x="1210" dy="48">2  Position · suction</tspan><tspan x="1210" dy="48">3  Oxygenate / ventilate</tspan><tspan x="1210" dy="48">4  Remove obvious cause</tspan><tspan x="1210" dy="48">5  Rescue / backup plan</tspan></text>
+  </g>
+  <path d="M410 405H437M775 405H802M1140 405H1167" stroke="#5B5BD6" stroke-width="6" marker-end="url(#a)"/>
+  <rect x="250" y="670" width="1100" height="105" rx="28" fill="#F6F7FF" stroke="#5B5BD6" stroke-width="4"/><text x="800" y="713" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#5B5BD6">REASSESS</text><text x="800" y="752" text-anchor="middle" font-family="Arial" font-size="23" fill="#172B3A">声・胸郭・SpO₂・持続呼気CO₂・device position・患者の反応</text>
+  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-002 · Use current difficult-airway and device protocol for procedures · Reviewed 2026-08-12</text>
+</svg>

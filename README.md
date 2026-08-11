@@ -21,6 +21,7 @@
 | Clinical Question | [Clinical Questions](docs/24_Clinical_Questions/README.md) |
 | Quiz | [Quiz](docs/25_Quiz/README.md) |
 | 勉強会・スライド | [Teaching Materials](docs/26_Teaching_Materials/README.md) / [Slide Ready](docs/27_Slide_Ready/README.md) |
+| 視覚教材 | [Figure Index](FIGURE_INDEX.md) / [Visual Asset Plan](VISUAL_ASSET_PLAN.md) / [Design System](assets/README.md) |
 | ガイドライン・論文 | [Guidelines Index](docs/28_Guidelines/README.md) / [References Index](docs/29_References/README.md) |
 | 全体構造・執筆状況 | [docs portal](docs/README.md) |
 | 実装監査・残るレビュー | [Implementation Status](docs/IMPLEMENTATION_STATUS.md) |

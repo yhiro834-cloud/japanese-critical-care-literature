@@ -1,4 +1,5 @@
 import re
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
@@ -80,3 +81,31 @@ def test_learning_asset_topic_sets_remain_aligned():
     assert questions == expected
     assert quizzes == expected
     assert slides == expected
+
+
+def test_svg_visual_assets_are_parseable_accessible_and_widescreen():
+    failures = []
+    for asset in (ROOT / "assets").rglob("*.svg"):
+        try:
+            root = ET.parse(asset).getroot()
+        except ET.ParseError as exc:
+            failures.append(f"{asset.relative_to(ROOT)}: invalid XML ({exc})")
+            continue
+        view_box = root.attrib.get("viewBox", "").split()
+        if view_box != ["0", "0", "1600", "900"]:
+            failures.append(f"{asset.relative_to(ROOT)}: expected 1600x900 viewBox")
+        if root.attrib.get("role") != "img" or "aria-labelledby" not in root.attrib:
+            failures.append(f"{asset.relative_to(ROOT)}: missing accessible image role/labels")
+        namespace = {"svg": "http://www.w3.org/2000/svg"}
+        if root.find("svg:title", namespace) is None or root.find("svg:desc", namespace) is None:
+            failures.append(f"{asset.relative_to(ROOT)}: missing title/desc")
+    assert not failures, "SVG asset failures:\n" + "\n".join(failures)
+
+
+def test_completed_figure_index_files_exist():
+    index = (ROOT / "FIGURE_INDEX.md").read_text()
+    missing = []
+    for target in re.findall(r"`(assets/[^`]+\.(?:svg|png))`", index):
+        if not (ROOT / target).exists():
+            missing.append(target)
+    assert not missing, "Indexed figures missing:\n" + "\n".join(missing)
