@@ -8,9 +8,9 @@
     <rect x="1105" y="200" width="410" height="300" rx="28" fill="#F4F8FA" stroke="#D97706" stroke-width="4"/><text x="1310" y="255" text-anchor="middle" font-size="30" font-weight="700" fill="#D97706">呼吸仕事量</text><text x="1145" y="315" font-size="24" fill="#172B3A"><tspan x="1145">努力呼吸・補助筋</tspan><tspan x="1145" dy="50">同調性・疲弊</tspan><tspan x="1145" dy="50">呼吸音・左右差</tspan></text>
   </g>
   <path d="M495 350H585M1005 350H1095" stroke="#5B5BD6" stroke-width="5" stroke-dasharray="12 8" marker-end="url(#a)"/>
-  <rect x="120" y="570" width="620" height="150" rx="24" fill="#FFF4F2" stroke="#C74440" stroke-width="4"/><text x="155" y="615" font-family="Arial" font-size="28" font-weight="700" fill="#C74440">危険な徴候</text><text x="155" y="655" font-family="Arial" font-size="22" fill="#172B3A"><tspan x="155">無呼吸・疲弊・silent chest</tspan><tspan x="155" dy="34">高度低酸素・突然の左右差</tspan></text>
+  <rect x="120" y="570" width="620" height="150" rx="24" fill="#FFF4F2" stroke="#C74440" stroke-width="4"/><text x="155" y="615" font-family="Arial" font-size="28" font-weight="700" fill="#C74440">危険な徴候</text><text x="155" y="655" font-family="Arial" font-size="22" fill="#172B3A"><tspan x="155">無呼吸・疲弊・呼吸音消失</tspan><tspan x="155" dy="34">高度低酸素・突然の左右差</tspan></text>
   <rect x="860" y="570" width="620" height="150" rx="24" fill="#E6F5F2" stroke="#16856B" stroke-width="4"/><text x="895" y="615" font-family="Arial" font-size="28" font-weight="700" fill="#16856B">全身管理＋原因治療</text><text x="895" y="655" font-family="Arial" font-size="22" fill="#172B3A"><tspan x="895">体位・酸素化／換気・デバイス確認</tspan><tspan x="895" dy="34">原因に応じた治療＋反応確認</tspan></text>
   <path d="M740 640H850" stroke="#5B5BD6" stroke-width="6" marker-end="url(#a)"/>
   <text x="800" y="790" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#5B5BD6">変更のたびに3領域すべてを再評価</text>
-  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-003 · 目標値は患者と施設protocolに応じて設定 · 確認日 2026-08-12</text>
+  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-003 · 目標値は患者と施設プロトコルに応じて設定 · 確認日 2026-08-12</text>
 </svg>

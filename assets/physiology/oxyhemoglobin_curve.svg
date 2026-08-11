@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">酸素ヘモグロビン解離曲線の読み方</title>
+  <desc id="desc">PaO2とヘモグロビン酸素飽和度のS字関係、plateauとsteep領域、右方・左方移動を定性的に示すグラフ。</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#5B5BD6"/></marker></defs>
+  <rect width="1600" height="900" fill="#fff"/>
+  <text x="80" y="78" font-family="Arial" font-size="42" font-weight="700" fill="#172B3A">酸素ヘモグロビン解離曲線：PaO₂と飽和度は直線関係ではない</text>
+  <text x="80" y="120" font-family="Arial" font-size="24" fill="#526B7A">曲線は概念図。患者個別の測定値や酸素投与目標を示すものではない</text>
+
+  <line x1="175" y1="710" x2="970" y2="710" stroke="#31546D" stroke-width="5"/>
+  <line x1="175" y1="710" x2="175" y2="205" stroke="#31546D" stroke-width="5"/>
+  <text x="575" y="770" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#31546D">PaO₂（酸素分圧）</text>
+  <text x="65" y="455" transform="rotate(-90 65 455)" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#31546D">Hb酸素飽和度</text>
+
+  <rect x="175" y="205" width="795" height="505" fill="#F9FBFC"/>
+  <rect x="175" y="205" width="360" height="505" fill="#FFF2D9" opacity=".55"/>
+  <rect x="535" y="205" width="435" height="505" fill="#E6F5F2" opacity=".65"/>
+  <path d="M190 690 C280 682 345 640 405 545 C475 430 540 310 665 260 C760 222 860 216 955 214" fill="none" stroke="#C74440" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="420" cy="520" r="10" fill="#C74440"/><circle cx="700" cy="245" r="10" fill="#C74440"/>
+  <text x="350" y="270" font-family="Arial" font-size="28" font-weight="700" fill="#D97706">急峻部</text>
+  <text x="350" y="310" font-family="Arial" font-size="22" fill="#172B3A">PaO₂変化で飽和度が</text><text x="350" y="342" font-family="Arial" font-size="22" fill="#172B3A">大きく変わりやすい</text>
+  <text x="720" y="330" font-family="Arial" font-size="28" font-weight="700" fill="#16856B">平坦部</text>
+  <text x="720" y="370" font-family="Arial" font-size="22" fill="#172B3A">PaO₂変化に対して飽和度が</text><text x="720" y="402" font-family="Arial" font-size="22" fill="#172B3A">変わりにくい領域</text>
+
+  <g font-family="Arial">
+    <rect x="1060" y="205" width="455" height="215" rx="28" fill="#FFF2D9" stroke="#D97706" stroke-width="4"/>
+    <text x="1100" y="260" font-size="30" font-weight="700" fill="#D97706">右方移動</text>
+    <text x="1100" y="305" font-size="23" fill="#172B3A">pH低下・PaCO₂上昇・体温上昇など</text>
+    <text x="1100" y="350" font-size="23" fill="#172B3A">同じPaO₂でも飽和度は低め</text>
+    <text x="1100" y="390" font-size="21" fill="#526B7A">組織へO₂を放しやすい方向</text>
+    <rect x="1060" y="470" width="455" height="215" rx="28" fill="#EAF6FB" stroke="#1976A3" stroke-width="4"/>
+    <text x="1100" y="525" font-size="30" font-weight="700" fill="#1976A3">左方移動</text>
+    <text x="1100" y="570" font-size="23" fill="#172B3A">pH上昇・PaCO₂低下・体温低下など</text>
+    <text x="1100" y="615" font-size="23" fill="#172B3A">同じPaO₂でも飽和度は高め</text>
+    <text x="1100" y="655" font-size="21" fill="#526B7A">HbがO₂を保持しやすい方向</text>
+  </g>
+  <path d="M1115 445H1455" stroke="#5B5BD6" stroke-width="5" marker-end="url(#arr)"/>
+  <path d="M1455 445H1115" stroke="#5B5BD6" stroke-width="5" marker-end="url(#arr)"/>
+  <rect x="1035" y="730" width="505" height="80" rx="22" fill="#FFF4F2" stroke="#C74440" stroke-width="3"/>
+  <text x="1288" y="765" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#C74440">SpO₂は酸素運搬量（CaO₂ / DO₂）そのものではない</text>
+  <text x="1288" y="795" text-anchor="middle" font-family="Arial" font-size="19" fill="#172B3A">Hbと心拍出量も合わせて評価</text>
+  <text x="80" y="865" font-family="Arial" font-size="19" fill="#526B7A">FIG-P-RESP-003 · 定性的な教育用曲線 · SSOT: Respiratory Physiology · 確認日 2026-08-12</text>
+</svg>

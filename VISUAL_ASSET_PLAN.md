@@ -53,3 +53,7 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 4. Phase 4: ICP/CPP + CRRT + ECMO/MCS circuits。
 5. Phase 5: emergency clinical reasoning seriesとPOCUS模式図。
 
+## Implementation status
+
+- 2026-08-12 Phase 1 complete: FIG-G-ABCDE-001–006。
+- 2026-08-12 Phase 2A complete: FIG-P-RESP-001–003。次はairway pressure componentsとnormal/abnormal ventilator waveform series。

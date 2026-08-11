@@ -5,15 +5,15 @@
   <text x="80" y="70" font-family="Arial" font-size="44" font-weight="700" fill="#1976A3">A · 気道（Airway）</text><text x="80" y="112" font-family="Arial" font-size="24" fill="#172B3A">発声・気道音・開通性・気道デバイスを患者で直接確認</text>
   <g font-family="Arial">
     <rect x="80" y="205" width="330" height="400" rx="24" fill="#F4F8FA" stroke="#31546D" stroke-width="3"/><text x="115" y="260" font-size="29" font-weight="700" fill="#31546D">評価</text>
-    <text x="115" y="315" font-size="24" fill="#172B3A"><tspan x="115" dy="0">• 発声・会話</tspan><tspan x="115" dy="48">• いびき音・stridor</tspan><tspan x="115" dy="48">• 分泌物・血液</tspan><tspan x="115" dy="48">• 顔面・頸部腫脹</tspan><tspan x="115" dy="48">• 気管tube・気管切開</tspan></text>
+    <text x="115" y="315" font-size="24" fill="#172B3A"><tspan x="115" dy="0">• 発声・会話</tspan><tspan x="115" dy="48">• いびき音・吸気性喘鳴</tspan><tspan x="115" dy="48">• 分泌物・血液</tspan><tspan x="115" dy="48">• 顔面・頸部腫脹</tspan><tspan x="115" dy="48">• 気管チューブ・気管切開</tspan></text>
     <rect x="445" y="205" width="330" height="400" rx="24" fill="#F4F8FA" stroke="#31546D" stroke-width="3"/><text x="480" y="260" font-size="29" font-weight="700" fill="#31546D">確認する指標</text>
-    <text x="480" y="315" font-size="24" fill="#172B3A"><tspan x="480" dy="0">• 胸郭運動</tspan><tspan x="480" dy="48">• SpO₂の推移</tspan><tspan x="480" dy="48">• ETCO₂波形</tspan><tspan x="480" dy="48">• tube深度・cuff</tspan><tspan x="480" dy="48">• 呼吸仕事量</tspan></text>
+    <text x="480" y="315" font-size="24" fill="#172B3A"><tspan x="480" dy="0">• 胸郭運動</tspan><tspan x="480" dy="48">• SpO₂の推移</tspan><tspan x="480" dy="48">• ETCO₂波形</tspan><tspan x="480" dy="48">• チューブ深度・カフ</tspan><tspan x="480" dy="48">• 呼吸仕事量</tspan></text>
     <rect x="810" y="205" width="330" height="400" rx="24" fill="#FFF4F2" stroke="#C74440" stroke-width="4"/><text x="845" y="260" font-size="29" font-weight="700" fill="#C74440">危険な徴候</text>
-    <text x="845" y="315" font-size="24" fill="#172B3A"><tspan x="845" dy="0">◆ 気道音の消失</tspan><tspan x="845" dy="48">◆ 高度stridor</tspan><tspan x="845" dy="48">◆ 気道防御不能</tspan><tspan x="845" dy="48">◆ tube位置異常</tspan><tspan x="845" dy="48">◆ ETCO₂消失</tspan></text>
+    <text x="845" y="315" font-size="24" fill="#172B3A"><tspan x="845" dy="0">◆ 気道音の消失</tspan><tspan x="845" dy="48">◆ 高度な吸気性喘鳴</tspan><tspan x="845" dy="48">◆ 気道防御不能</tspan><tspan x="845" dy="48">◆ チューブ位置異常</tspan><tspan x="845" dy="48">◆ ETCO₂消失</tspan></text>
     <rect x="1175" y="205" width="345" height="400" rx="24" fill="#E6F5F2" stroke="#16856B" stroke-width="4"/><text x="1210" y="260" font-size="29" font-weight="700" fill="#16856B">直ちに対応</text>
     <text x="1210" y="315" font-size="24" fill="#172B3A"><tspan x="1210" dy="0">1  気道応援を要請</tspan><tspan x="1210" dy="48">2  体位調整・吸引</tspan><tspan x="1210" dy="48">3  酸素化・換気</tspan><tspan x="1210" dy="48">4  明らかな原因を解除</tspan><tspan x="1210" dy="48">5  救助手段・代替案</tspan></text>
   </g>
   <path d="M410 405H437M775 405H802M1140 405H1167" stroke="#5B5BD6" stroke-width="6" marker-end="url(#a)"/>
   <rect x="250" y="670" width="1100" height="105" rx="28" fill="#F6F7FF" stroke="#5B5BD6" stroke-width="4"/><text x="800" y="713" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#5B5BD6">再評価</text><text x="800" y="752" text-anchor="middle" font-family="Arial" font-size="23" fill="#172B3A">声・胸郭・SpO₂・持続呼気CO₂・デバイス位置・患者の反応</text>
-  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-002 · 手技は最新の困難気道・施設protocolを使用 · 確認日 2026-08-12</text>
+  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-002 · 手技は最新の困難気道・施設プロトコルを使用 · 確認日 2026-08-12</text>
 </svg>

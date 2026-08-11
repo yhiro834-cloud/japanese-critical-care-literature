@@ -318,6 +318,15 @@
 - **影響ページ:** `assets/general/abcde_*.svg`、`assets/README.md`、ABCDE Figure review log
 - **要確認:** 施設内で一般的でない略語は各勉強会で初出時に説明する
 
+### 2026-08-12 — Respiratory Physiology Visual Phase 2A
+
+- **テーマ:** 肺胞ガス交換、V/Q、酸素ヘモグロビン解離曲線
+- **変更内容:** 日本語中心の16:9 SVGを3枚作成し、Caption、Figure Interpretation、Clinical Meaning、Slide Ready、Figure Indexへ統合
+- **新しいEvidence:** 新規推奨なし。既存Respiratory Physiology SSOTと登録済みABG/SpO₂ Referencesに限定
+- **臨床的に何が変わったか:** 低酸素/高CO₂を換気・拡散・灌流へ分解し、shunt/dead spaceとSpO₂/PaO₂/oxygen deliveryの混同を視覚的に防ぐ
+- **影響ページ:** `assets/physiology/`、Respiratory Physiology、Respiratory Physiology / ABG Slide Ready、Figure Index、Visual Asset Plan
+- **要確認:** 図は定性的な教育用模式図。呼吸専門家による臨床sign-offは継続課題
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

@@ -2,11 +2,11 @@
 title: "Slide Ready: Respiratory Physiology / ABG"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 audience: intermediate-icu-nurse
 duration_minutes: 20
 source_pages: [../02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md, ../02_Breathing/ABG/ABG_INTERPRETATION.md]
-evidence_reviewed: 2026-08-11
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 ---
 
@@ -44,8 +44,9 @@ next_review: 2027-02-11
 
 | Figure | Purpose | Status |
 |---|---|---|
-| alveolus–capillary V/Q diagram | shunt/dead space | 未作成 |
-| oxyhemoglobin curve | PaO₂/SaO₂ | 未作成 |
+| [肺胞ガス交換](../../assets/physiology/alveolar_gas_exchange.svg) | 換気・拡散・灌流 | FIG-P-RESP-001、利用可能 |
+| [V/Q連続体](../../assets/physiology/vq_shunt_dead_space.svg) | shunt/low-high V/Q/dead space | FIG-P-RESP-002、利用可能 |
+| [酸素解離曲線](../../assets/physiology/oxyhemoglobin_curve.svg) | PaO₂/飽和度・曲線移動 | FIG-P-RESP-003、利用可能 |
 | ABG interpretation flow | 8-step | 本文から自作可能 |
 | compensation matrix | mixed disorder | 本文表を再利用可能 |
 

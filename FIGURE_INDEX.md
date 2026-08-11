@@ -10,6 +10,9 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-G-ABCDE-004 | Circulation detail | pressureだけでなくperfusionを評価 | `assets/general/abcde_circulation_detail.svg` | `docs/00_Fundamentals/ABCDE/README.md` | SVG cards | Yes | ABCDE C・Shock導入 | Circulation SSOT series | 2026-08-12 |
 | FIG-G-ABCDE-005 | Disability detail | 意識変化の即時評価を構造化 | `assets/general/abcde_disability_detail.svg` | `docs/00_Fundamentals/ABCDE/README.md` | SVG cards | Yes | ABCDE D・Neuro導入 | Neurology SSOT series | 2026-08-12 |
 | FIG-G-ABCDE-006 | Exposure detail | 全身評価・保温・尊厳を統合 | `assets/general/abcde_exposure_detail.svg` | `docs/00_Fundamentals/ABCDE/README.md` | SVG cards | Yes | ABCDE E・Trauma/Infection導入 | Fundamentals/Trauma/Infection SSOT | 2026-08-12 |
+| FIG-P-RESP-001 | 肺胞ガス交換 | 換気・拡散・灌流を分けて理解 | `assets/physiology/alveolar_gas_exchange.svg` | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | SVG medical schematic | Yes | 呼吸生理導入・機序説明 | Respiratory Physiology SSOT | 2026-08-12 |
+| FIG-P-RESP-002 | V/Q連続体 | shuntからdead spaceまでを比較 | `assets/physiology/vq_shunt_dead_space.svg` | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | SVG comparison | Yes | 低酸素血症・症例討議 | Respiratory Physiology SSOT | 2026-08-12 |
+| FIG-P-RESP-003 | 酸素解離曲線 | PaO₂と飽和度の非線形関係を理解 | `assets/physiology/oxyhemoglobin_curve.svg` | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | SVG graph | Yes | SpO₂解釈・酸素運搬導入 | Respiratory Physiology SSOT | 2026-08-12 |
 
 ## Index rules
 
