@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Pharmacology / Nutrition Phase 16
+
+- **テーマ:** critical-care PK/PD、CRRT/ECMO dose、high-alert infusion、EN/PN、refeeding
+- **変更内容:** 4本体SSOT、refeeding症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** ASPEN nutrition 2022、ESPEN ICU nutrition 2023、ASPEN refeeding 2020、ISMP 2024–2025、critical-care TDM position paper
+- **臨床的に何が変わったか:** organ supportでの固定dose、濃度/単位/dead-space error、goal rate偏重、refeeding見逃しを防ぐ再評価loopを追加
+- **影響ページ:** `docs/13_Pharmacology/`、`docs/14_Nutrition/`、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** ICU pharmacist/dietitian/laboratory、local pump library/TDM/nutrition protocolとの整合
+
 ### 2026-08-11 — Hematology Phase 15
 
 - **テーマ:** DIC、血小板減少、輸血/PBM、抗凝固/拮抗、VTE

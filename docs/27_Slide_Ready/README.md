@@ -16,3 +16,4 @@
 - [Endocrine / Metabolic：中堅ICU看護師向け30分](ENDOCRINE_METABOLIC_30MIN.md)
 - [GI / Liver / Pancreas：中堅ICU看護師向け30分](GI_LIVER_PANCREAS_30MIN.md)
 - [Hematology：中堅ICU看護師向け30分](HEMATOLOGY_30MIN.md)
+- [Pharmacology / Nutrition：中堅ICU看護師向け30分](PHARMACOLOGY_NUTRITION_30MIN.md)

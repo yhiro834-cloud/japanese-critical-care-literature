@@ -56,6 +56,9 @@
 | GL-2023-007 | RBC transfusion | Red Blood Cell Transfusion: 2023 AABB International Guidelines | AABB; Carson JL, et al. | 2023 | AABB 2016 | https://doi.org/10.1001/jama.2023.12914 | verified-current | 2026-08-11 | 2027-02-11 | [Transfusion/PBM](../12_Hematology/Transfusion/TRANSFUSION_PBM.md) |
 | GL-2025-008 | Platelet transfusion | Platelet Transfusion: 2025 AABB and ICTMG International Clinical Practice Guidelines | AABB/ICTMG; Metcalf RA, et al. | 2025 | AABB 2015 | https://doi.org/10.1001/jama.2025.7529 | verified-current | 2026-08-11 | 2027-02-11 | [DIC/Platelets](../12_Hematology/DIC_Thrombocytopenia/DIC_THROMBOCYTOPENIA.md), [Transfusion/PBM](../12_Hematology/Transfusion/TRANSFUSION_PBM.md) |
 | GL-2018-001 | Medical-patient VTE prophylaxis | ASH 2018 Guidelines: Prophylaxis for Hospitalized and Nonhospitalized Medical Patients | ASH; Schünemann HJ, et al. | 2018 | — | https://doi.org/10.1182/bloodadvances.2018022954 | verified-current-on-ASH-hub | 2026-08-11 | 2027-02-11 | [Anticoagulation/VTE](../12_Hematology/Anticoagulation_VTE/ANTICOAGULATION_REVERSAL_VTE.md) |
+| GL-2022-007 | ICU nutrition | ASPEN Guidelines for Provision of Nutrition Support Therapy in the Adult Critically Ill Patient | ASPEN; Compher C, et al. | 2022 | ASPEN/SCCM 2016 selected questions | https://doi.org/10.1002/jpen.2267 | verified-current | 2026-08-11 | 2027-02-11 | [Critical Care Nutrition](../14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md) |
+| GL-2023-008 | ICU nutrition | ESPEN practical and partially revised guideline: Clinical nutrition in the ICU | ESPEN; Singer P, et al. | 2023 | ESPEN 2019 partial revision | https://doi.org/10.1016/j.clnu.2023.07.011 | verified-current-on-ESPEN-list | 2026-08-11 | 2027-02-11 | [Critical Care Nutrition](../14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md) |
+| GL-2020-002 | Refeeding syndrome | ASPEN Consensus Recommendations for Refeeding Syndrome | ASPEN; da Silva JSV, et al. | 2020 | — | https://doi.org/10.1002/ncp.10474 | verified-current | 2026-08-11 | 2027-02-11 | [Refeeding](../14_Nutrition/Refeeding/REFEEDING_SYNDROME.md) |
 
 ## Status
 
@@ -131,3 +134,6 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2023-007 DOI: `10.1001/jama.2023.12914`; PMID: `37824153`
 - GL-2025-008 DOI: `10.1001/jama.2025.7529`; PMID: `40440268`
 - GL-2018-001 DOI: `10.1182/bloodadvances.2018022954`; PMID: `30482763`
+- GL-2022-007 DOI: `10.1002/jpen.2267`; PMID: `34784064`
+- GL-2023-008 DOI: `10.1016/j.clnu.2023.07.011`; PMID: `37517372`
+- GL-2020-002 DOI: `10.1002/ncp.10474`; PMID: `32115791`
