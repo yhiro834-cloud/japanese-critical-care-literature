@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Toxicology / Environmental / Systems Depth Phase 26
+
+- **テーマ:** unknown poisoning、decontamination/antidote、temperature/drowning/electrical injury、transport/disaster/QI/downtime
+- **変更内容:** 3 SSOTをserial physiology、二次曝露、go/no-go、incident command、measurement/reconciliationまで深化
+- **新しいEvidence:** current AHA special-circumstances guidance、WHO/ICRC Basic Emergency Care/IITT、AHRQ TeamSTEPPS、WHO Patient Safety
+- **臨床的に何が変わったか:** toxidrome＝診断、screen陰性＝除外、初期無症状＝安全、皮膚損傷小＝軽症、搬送＝移動、QI＝before-after改善という短絡を防ぐ構造を追加
+- **影響ページ:** `docs/31_Toxicology_Environmental/`、`docs/32_Ethics_Safety_Systems/Safety_Systems/`
+- **要確認:** toxicology/environmental/disaster/transport/QI specialists、local poison center/hazmat/incident command/downtime policyとの整合
+
 ### 2026-08-12 — Recovery / Family / Goals Depth Phase 25
 
 - **テーマ:** early mobility、ICU-acquired weakness、PICS/PICS-F、family-centered care、shared decisions/end of life
