@@ -21,7 +21,8 @@ Last Updated: 2026-08-11
 - [ ] Airway: 評価、閉塞、挿管、RSI、difficult airway、抜管、気管切開、吸引、VAP予防
 - [ ] Breathing: 呼吸生理、ABG、酸塩基、酸素療法、HFNC、NIV、人工呼吸、ARDS、weaning
 - [ ] Ventilation SSOT: PEEP、Pplat、driving pressure、compliance、resistance、auto-PEEP、waveform、asynchrony
-- [ ] Circulation: 循環生理、shock phenotype、灌流、輸液反応性、POCUS、血管作動薬、血行動態モニタリング
+- [x] Circulation: [shock phenotype / 灌流 / septic shock](03_Circulation/Shock/SHOCK.md)
+- [ ] Circulation remaining: 輸液反応性、POCUS、血管作動薬、血行動態モニタリングの個別SSOT
 
 ## 04–08 Organ and syndrome-based care
 

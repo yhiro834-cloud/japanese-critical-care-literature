@@ -6,7 +6,7 @@
 
 | ID | Topic | Full title | Organization | Version / Year | Supersedes | Official URL | Status | Verified on | Next check | Used by |
 |---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | registry-empty | — | — | — |
+| GL-2026-001 | Adult sepsis / septic shock | Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026 | SCCM / ESICM; Prescott HC, et al. | 2026; correction 2026-05-05 | SSC 2021 | https://www.sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-adult-guidelines | verified-current | 2026-08-11 | 2027-02-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
 
 ## Status
 
@@ -27,4 +27,9 @@
 
 ## 優先登録領域
 
-Sepsis、ARDS/ventilation、resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocritical care、ECMO/MCS、infection preventionをPhase 2で公式情報から確認します。
+ARDS/ventilation、resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocritical care、ECMO/MCS、infection preventionを今後、公式情報から確認します。
+
+## Verified identifiers
+
+- GL-2026-001 DOI: `10.1007/s00134-026-08361-1`; PMID: `41870560`
+- Publisher correction DOI: `10.1007/s00134-026-08410-9`; PMID: `42084789`
