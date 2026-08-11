@@ -36,6 +36,8 @@
 | GL-2014-001 | Hyponatremia | Clinical practice guideline on diagnosis and treatment of hyponatraemia | European Society of Endocrinology and partners; Spasovski G, et al. | 2014 | — | https://doi.org/10.1530/EJE-13-1020 | verified | 2026-08-11 | 2027-02-11 | [Electrolytes](../05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md) |
 | GL-2016-001 | Antibiotic stewardship | Implementing an Antibiotic Stewardship Program: IDSA/SHEA Clinical Practice Guidelines | IDSA / SHEA; Barlam TF, et al. | 2016 | — | https://www.idsociety.org/practice-guideline/implementing-an-ASP/ | verified-current-on-IDSA-site | 2026-08-11 | 2027-02-11 | [Antimicrobial Therapy](../06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md) |
 | GL-2019-001 | Hospital antibiotic stewardship | Core Elements of Hospital Antibiotic Stewardship Programs | CDC | 2019; implementation priorities updated 2022 | 2014 | https://www.cdc.gov/antibiotic-use/hcp/core-elements/hospital.html | verified-current | 2026-08-11 | 2027-02-11 | [Antimicrobial Therapy](../06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md) |
+| GL-2023-005 | Major trauma bleeding | European guideline on management of major bleeding and coagulopathy following trauma: sixth edition | European multidisciplinary task force; Rossaint R, et al. | 6th ed; 2023 | 5th ed 2019 | https://doi.org/10.1186/s13054-023-04327-7 | verified-current | 2026-08-11 | 2027-02-11 | [Traumatic Hemorrhage](../07_Trauma/Hemorrhage_Damage_Control/TRAUMA_HEMORRHAGE_DAMAGE_CONTROL.md) |
+| GL-2024-004 | Burn shock resuscitation | American Burn Association Clinical Practice Guidelines on Burn Shock Resuscitation | ABA; Cartotto R, et al. | 2024 | — | https://doi.org/10.1093/jbcr/irad125 | verified-current | 2026-08-11 | 2027-02-11 | [Burn Initial Management](../07_Trauma/Burns/BURN_INITIAL_MANAGEMENT.md) |
 
 ## Status
 
@@ -91,3 +93,5 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2014-001 DOI: `10.1530/EJE-13-1020`; PMID: `24569125`
 - GL-2016-001 DOI: `10.1093/cid/ciw118`; PMID: `27080992`
 - GL-2019-001: CDC official framework; DOI/PMID not assigned
+- GL-2023-005 DOI: `10.1186/s13054-023-04327-7`; PMID: `36859355`
+- GL-2024-004 DOI: `10.1093/jbcr/irad125`; PMID: `38051821`

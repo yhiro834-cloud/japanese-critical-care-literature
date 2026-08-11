@@ -14,3 +14,4 @@
 - [急性神経悪化](CASE_ACUTE_NEUROLOGICAL_DECLINE.md)
 - [乏尿とCRRT alarm](CASE_OLIGURIA_CRRT_ALARM.md)
 - [Culture-negative sepsis再評価](CASE_CULTURE_NEGATIVE_SEPSIS.md)
+- [外傷後の潜在性出血](CASE_TRAUMA_OCCULT_HEMORRHAGE.md)
