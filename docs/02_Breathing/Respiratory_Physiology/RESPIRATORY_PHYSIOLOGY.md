@@ -2,8 +2,8 @@
 title: "Respiratory Physiology"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -58,6 +58,32 @@ PaO₂が高くてもHbまたはCOが低ければoxygen deliveryは不足し得�
 
 Gravity、lung volume、airway closure、血管障害により肺内V/Qは不均一です。
 
+## Visual Series: Gas Exchange and V/Q
+
+![肺胞ガス交換：換気・拡散・灌流](../../../assets/physiology/alveolar_gas_exchange.svg)
+
+**Figure FIG-P-RESP-001 — 肺胞ガス交換。** 換気、肺胞膜を介する拡散、肺毛細血管の灌流を別々の過程として示す。見るべき点は、肺胞へ空気が届くだけでも、血流があるだけでも、効率的なガス交換は成立しないこと。
+
+### Figure Interpretation
+
+O₂は肺胞から血液へ、CO₂は血液から肺胞へ移動する。肺動脈側と肺静脈側のlabelは肺循環内の位置を表し、一般体循環の動静脈とは酸素化の関係が逆になる。
+
+### Clinical Meaning
+
+低酸素血症または高CO₂血症を見たら、換気、拡散、灌流のどこが障害されているかを分ける。図の矢印は方向を示す模式図で、ガス移動量を定量化していない。
+
+![V/Qの連続体](../../../assets/physiology/vq_shunt_dead_space.svg)
+
+**Figure FIG-P-RESP-002 — V/Q、shunt、dead space。** 換気と灌流の相対関係を5つの状態で比較する。矢印の太さは相対量の概念であり、実測値ではない。
+
+### Figure Interpretation
+
+shuntでは換気がなく灌流が残り、dead spaceでは換気があって灌流がほぼない。low/high V/Qはその中間にあり、実際の肺では異なるV/Q領域が同時に存在する。
+
+### Clinical Meaning
+
+「低酸素＝酸素不足」と一括せず、airway closure、肺胞充満、肺血管障害、過膨張などの機序へ戻る。酸素への反応だけで病態を断定せず、呼吸仕事量、PaCO₂、循環、画像を統合する。
+
 ## 4. Pathophysiology
 
 ### Hypoxemiaの主要mechanism
@@ -111,6 +137,18 @@ FDAはpulse oximeterがpoor circulation、skin pigmentation、skin thickness/tem
 - PaO₂: plasmaに溶けたoxygen tension
 
 Oxyhemoglobin dissociation curveはpH、temperature、PaCO₂、2,3-DPG等でshiftします。同じPaO₂でもSaO₂は一定ではありません。
+
+![酸素ヘモグロビン解離曲線](../../../assets/physiology/oxyhemoglobin_curve.svg)
+
+**Figure FIG-P-RESP-003 — 酸素ヘモグロビン解離曲線。** PaO₂とHb酸素飽和度のS字関係、急峻部・平坦部、右方/左方移動を定性的に示す。患者固有の目標値を示す図ではない。
+
+### Figure Interpretation
+
+急峻部ではPaO₂の変化に伴い飽和度が大きく変わりやすく、平坦部では飽和度変化が小さい。pH、PaCO₂、体温などで曲線の位置が変わるため、同じPaO₂でも飽和度は一定ではない。
+
+### Clinical Meaning
+
+SpO₂が保たれていてもHb低下や心拍出量低下があれば酸素運搬は不足し得る。SpO₂、SaO₂、PaO₂、CaO₂、DO₂を同義語として扱わない。
 
 ### P/F ratio
 
@@ -215,4 +253,5 @@ ABG検査とSpO₂精度の検証済みReferencesは[ABG References](../ABG/ABG_
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | visual physiology / labels / directional accuracy | Three original SVGs added; respiratory expert review still needed |
 | 2026-08-11 | Codex | physiology / evidence identity / nursing safety | Evidence reviewed; respiratory/clinical expert review needed |
