@@ -18,6 +18,8 @@
 | REF-2013-001 | ARDS prone | Prone Positioning in Severe ARDS | Guérin C, et al. | N Engl J Med | 2013 | 10.1056/NEJMoa1214103 | 23688302 | Multicenter RCT | verified | 2026-08-11 | [ARDS](../02_Breathing/ARDS/ARDS.md) |
 | REF-2019-002 | HFNC failure | An Index Combining Respiratory Rate and Oxygenation to Predict Outcome of Nasal High-Flow Therapy | Roca O, et al. | J Crit Care | 2019 | 10.1016/j.jcrc.2019.07.002 | 31499277 | Prospective observational cohort | verified | 2026-08-11 | [HFNC](../02_Breathing/HFNC/HFNC.md) |
 | REF-2015-001 | Critical care EEG | ACNS Consensus Statement on Continuous EEG in Critically Ill Adults and Children, Part I: Indications | Herman ST, et al. | J Clin Neurophysiol | 2015 | 10.1097/WNP.0000000000000166 | 25626778 | Consensus statement | verified | 2026-08-11 | [Seizure/EEG](../04_Neurology/Seizure_EEG/SEIZURE_NCSE_EEG.md) |
+| REF-2020-002 | AKI update | Controversies in acute kidney injury: conclusions from a KDIGO Conference | Ostermann M, et al. | Kidney Int | 2020 | 10.1016/j.kint.2020.04.020 | 32709292 | Consensus conference report | verified | 2026-08-11 | [AKI](../05_Renal/AKI/AKI.md) |
+| REF-2020-003 | KRT timing | Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury (STARRT-AKI) | STARRT-AKI Investigators | N Engl J Med | 2020 | 10.1056/NEJMoa2000741 | 32668114 | Multicenter RCT | verified | 2026-08-11 | [CRRT](../05_Renal/CRRT/CRRT.md) |
 
 ## Reference ID
 

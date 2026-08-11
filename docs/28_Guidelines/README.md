@@ -30,6 +30,10 @@
 | GL-2020-001 | Cerebral edema | Guidelines for the Acute Treatment of Cerebral Edema in Neurocritical Care Patients | Neurocritical Care Society; Cook AM, et al. | 2020 | — | https://www.neurocriticalcare.org/Portals/0/Docs/Resources/Cook2020_Article_GuidelinesForTheAcuteTreatment.pdf | verified-current-on-NCS-list | 2026-08-11 | 2027-02-11 | [ICP/CPP/TBI](../04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md) |
 | GL-2023-003 | Neuroprognostication | Guidelines for Neuroprognostication in Comatose Adult Survivors of Cardiac Arrest | Neurocritical Care Society; Rajajee V, et al. | 2023 | — | https://doi.org/10.1007/s12028-023-01688-3 | verified-current-on-NCS-list | 2026-08-11 | 2027-02-11 | [Neuroprognostication](../04_Neurology/Neuroprognostication/NEUROPROGNOSTICATION.md) |
 | GL-2012-002 | Status epilepticus | Guidelines for the Evaluation and Management of Status Epilepticus | Neurocritical Care Society; Brophy GM, et al. | 2012 | — | https://doi.org/10.1007/s12028-012-9695-z | verified-on-NCS-list | 2026-08-11 | 2027-02-11 | [Seizure/EEG](../04_Neurology/Seizure_EEG/SEIZURE_NCSE_EEG.md) |
+| GL-2012-003 | AKI/KRT | KDIGO Clinical Practice Guideline for Acute Kidney Injury | KDIGO AKI Work Group | 2012 | 2026 update is public-review draft, not final | https://kdigo.org/guidelines/acute-kidney-injury/ | verified-current-final | 2026-08-11 | 2026-11-11 | [AKI](../05_Renal/AKI/AKI.md), [CRRT](../05_Renal/CRRT/CRRT.md) |
+| GL-2026-003 | AKI/AKD | KDIGO 2026 AKI/AKD Guideline Public Review Draft | KDIGO | public-review draft March 2026 | intended update to 2012 | https://kdigo.org/wp-content/uploads/2026/03/KDIGO-2026-AKI-AKD-Guideline-Public-Review-Draft-March-2026.pdf | draft-not-for-clinical-adoption | 2026-08-11 | 2026-11-11 | status note only; not used as recommendation |
+| GL-2023-004 | Hyperkalemia | UKKA Clinical Practice Guideline: Management of Hyperkalaemia in Adults | UK Kidney Association; Alfonzo A, et al. | 2023 | 2020 | https://www.ukkidney.org/health-professionals/guidelines/treatment-acute-hyperkalaemia-adults-0 | verified-current | 2026-08-11 | 2026-10-19 | [Electrolytes](../05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md) |
+| GL-2014-001 | Hyponatremia | Clinical practice guideline on diagnosis and treatment of hyponatraemia | European Society of Endocrinology and partners; Spasovski G, et al. | 2014 | — | https://doi.org/10.1530/EJE-13-1020 | verified | 2026-08-11 | 2027-02-11 | [Electrolytes](../05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md) |
 
 ## Status
 
@@ -79,3 +83,7 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2020-001 DOI: `10.1007/s12028-020-00959-7`; PMID: `32227294`
 - GL-2023-003 DOI: `10.1007/s12028-023-01688-3`; PMID: `36949360`
 - GL-2012-002 DOI: `10.1007/s12028-012-9695-z`; PMID: `22528274`
+- GL-2012-003: official KDIGO supplement; PubMed summary PMID `22890468`
+- GL-2026-003: public-review draft; no DOI/PMID; not adopted
+- GL-2023-004: official UKKA guideline; DOI/PMID not assigned
+- GL-2014-001 DOI: `10.1530/EJE-13-1020`; PMID: `24569125`
