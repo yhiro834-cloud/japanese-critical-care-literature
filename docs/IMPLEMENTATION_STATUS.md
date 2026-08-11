@@ -1,6 +1,6 @@
 # Implementation Status
 
-Last audited: 2026-08-11
+Last audited: 2026-08-12
 
 ## Coverage achieved
 
@@ -17,6 +17,10 @@ Last audited: 2026-08-11
 - Markdown frontmatter/status/date coverage for SSOT pages
 - placeholder/stale phase language search
 - `git diff --check`
+- 72 SSOT（template除外）のidentity/review log/minimum-depth gate
+- 20領域のClinical Questions・Quiz・Slide Readyの集合一致
+
+詳細結果は[Final Cross-Audit 2026-08-12](FINAL_CROSS_AUDIT_2026-08-12.md)を参照。
 
 ## Important limits
 
