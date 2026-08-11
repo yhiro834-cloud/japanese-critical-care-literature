@@ -327,6 +327,15 @@
 - **影響ページ:** `assets/physiology/`、Respiratory Physiology、Respiratory Physiology / ABG Slide Ready、Figure Index、Visual Asset Plan
 - **要確認:** 図は定性的な教育用模式図。呼吸専門家による臨床sign-offは継続課題
 
+### 2026-08-12 — Ventilator Mechanics Visual Phase 2B
+
+- **テーマ:** 気道内圧の構成、Ppeak/Pplat、正常時間波形、auto-PEEP
+- **変更内容:** 日本語中心の16:9 SVGを4枚作成し、測定条件、Caption、Figure Interpretation、Clinical Meaning、Slide Ready、Figure Indexへ統合
+- **新しいEvidence:** AARC Patient-Ventilator Assessment Clinical Practice Guideline 2024（PMID: 39048148）
+- **臨床的に何が変わったか:** 高い気道内圧を抵抗と弾性へ分け、圧・流量・容量の時間関係とair trappingの手掛かりを視覚的に学べるようにした
+- **影響ページ:** `assets/ventilation/`、Mechanical Ventilation、Respiratory Support Slide Ready、Figure Index、Visual Asset Plan
+- **要確認:** 波形は定性的な教育用模式図。測定条件と患者努力を確認し、単独で診断・設定変更に使わない。人工呼吸専門家のsign-offは継続課題
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

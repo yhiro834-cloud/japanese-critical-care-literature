@@ -2,8 +2,8 @@
 title: "Respiratory Support — 30-minute Slide Ready"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -38,7 +38,10 @@ ssot: false
 ## Key Figures Needed
 
 - 呼吸support escalationと再評価loop（未作成）
-- airway pressureの構成図（未作成）
+- [気道内圧の構成](../../assets/ventilation/airway_pressure_components.svg)（作成済み）
+- [PpeakとPplatの比較](../../assets/ventilation/peak_vs_plateau_pressure.svg)（作成済み）
+- [正常時間波形の基本](../../assets/ventilation/normal_time_waveforms.svg)（作成済み）
+- [auto-PEEPを疑う呼気流波形](../../assets/ventilation/auto_peep_waveform.svg)（作成済み）
 - ARDS heterogeneous lung概念図（未作成）
 - liberation decision tree（未作成）
 
@@ -51,4 +54,5 @@ ssot: false
 - ERS HFNC guideline 2022, DOI 10.1183/13993003.01574-2021
 - ERS/ATS NIV guideline 2017, DOI 10.1183/13993003.02426-2016
 - ATS ARDS update 2024, DOI 10.1164/rccm.202311-2011ST
+- AARC Patient-Ventilator Assessment guideline 2024, PMID 39048148
 - ATS/CHEST liberation guideline 2017, DOI 10.1164/rccm.201610-2075ST

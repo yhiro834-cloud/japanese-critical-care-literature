@@ -2,8 +2,8 @@
 title: "Mechanical Ventilation"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -32,6 +32,28 @@ ssot: true
 
 患者努力が強い場合、airway pressureだけではtranspulmonary stressを過小評価し得ます。
 
+### Visual Series：気道内圧をmechanicsへ分ける
+
+![気道内圧の構成](../../../assets/ventilation/airway_pressure_components.svg)
+
+*Caption — 一定吸気流のvolume controlを想定し、Ppeak、Pplat、PEEPtotalを抵抗・弾性・呼気終末圧へ分けた教育用模式図。*
+
+**Figure Interpretation**
+
+- Ppeak−Pplatは、吸気流があるときに生じる抵抗成分の手掛かりです。
+- Pplat−PEEPtotal（driving pressure）は呼吸器系の弾性負荷を反映しますが、患者努力、leak、hold条件が不適切なら誤読します。
+- 設定PEEPとauto-PEEPを含むPEEPtotalを区別します。
+
+**Clinical Meaning** — 数値だけを追わず、測定条件、患者努力、波形、診察を同時に確認します。
+
+![PpeakとPplatの比較](../../../assets/ventilation/peak_vs_plateau_pressure.svg)
+
+*Caption — 高いPpeakを、抵抗上昇とcompliance低下へ分けるための定性的比較。*
+
+**Figure Interpretation** — 同じvolume・flow条件で、Ppeakのみが主に上がるなら抵抗上昇、PpeakとPplatがともに上がるならcompliance低下を考えます。
+
+**Clinical Meaning** — 分泌物、気管支攣縮、tube屈曲、肺/胸壁病態などを仮説にし、患者と回路の評価で検証します。単一の圧差だけで診断を確定しません。
+
 ## 3. Modes and Controls
 
 Volume-targetedとpressure-targetedは「何を保証し、何が変動するか」が異なります。mode名は機種依存なので、trigger、target/control、cycle、backup、alarmを実機で確認します。FiO₂/PEEPはoxygenation、minute ventilationは主にPaCO₂、flow/rise/cycleはcomfortとsynchronyへ影響します。
@@ -51,6 +73,24 @@ Volume-targetedとpressure-targetedは「何を保証し、何が変動するか
 - expiratory flowが次の吸気前にzeroへ戻らない所見はair trappingを示唆するが、測定条件とpatient effortを確認
 - 高圧alarmは「tube obstruction/secretions/bronchospasm等のresistance」と「肺/胸壁compliance低下」をPpeak、Pplat、examで分ける
 - 低圧/低volume alarmはdisconnection、leak、cuff、回路を考える
+
+### Visual Series：時間波形を同じ呼吸で読む
+
+![正常時間波形の基本](../../../assets/ventilation/normal_time_waveforms.svg)
+
+*Caption — 一定吸気流のvolume controlと吸気pauseを例に、圧・流量・容量を同じ時間軸で並べた模式図。*
+
+**Figure Interpretation** — pause中はflowが0となり、気道内圧はPpeakからPplatへ低下します。呼気ではflowが反対方向となり、volumeは基線へ戻ります。
+
+**Clinical Meaning** — 波形形状はmode、設定、患者努力で変わるため、「正常形の暗記」ではなく各相の時間関係を読みます。
+
+![auto-PEEPを疑う呼気流波形](../../../assets/ventilation/auto_peep_waveform.svg)
+
+*Caption — 次の吸気前に呼気flowがzeroへ戻る例と、戻らない例を比較した教育用模式図。*
+
+**Figure Interpretation** — 呼気flowが基線へ戻る前に次の吸気が始まる所見はair trappingを示唆します。呼気時間、抵抗、compliance、呼吸数、VT、患者努力を一緒に確認します。
+
+**Clinical Meaning** — 波形は発見の手掛かりです。定量には適切な呼気終末holdなどが必要で、外因性PEEPを反射的に増減せず原因へ介入して再評価します。
 
 ## 6. Clinical Reasoning and Treatment
 
@@ -90,6 +130,7 @@ alarm/悪化 → 患者は換気・酸素化されているか → 不安定な�
 
 ## 11. References
 
+- Goodfellow LT, et al. AARC Clinical Practice Guideline: Patient-Ventilator Assessment. Respir Care. 2024;69:1042-1054. PMID: 39048148. [Official PDF](https://www.aarc.org/wp-content/uploads/2024/10/patient-ventilator-assessment-aarc-cpg.pdf).
 - Fan E, et al. ATS/ESICM/SCCM guideline: Mechanical Ventilation in Adult ARDS. Am J Respir Crit Care Med. 2017. DOI: 10.1164/rccm.201703-0548ST; PMID: 28459336.
 - Acute Respiratory Distress Syndrome Network. Lower tidal volumes versus traditional tidal volumes. N Engl J Med. 2000. DOI: 10.1056/NEJM200005043421801; PMID: 10793162.
 
@@ -97,4 +138,5 @@ alarm/悪化 → 患者は換気・酸素化されているか → 不安定な�
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | pressure mechanics / time waveforms / AARC CPG | Visuals and interpretation added; ventilator specialist review needed |
 | 2026-08-11 | Codex | physiology / guideline / nursing | Evidence reviewed; ventilator specialist review needed |
