@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — GI / Liver / Pancreas Depth Phase 29
+
+- **テーマ:** GI bleeding、acute liver failure/HE、acute pancreatitis、IAH/ACS
+- **変更内容:** 4 SSOTをtimeline、transfer/source control、monitored fluid/nutrition、standardized IAP responseまで深化
+- **新しいEvidence:** ACG UGIB 2021、ACG ALF 2023、ACG pancreatitis 2024、current published WSACS guidance
+- **臨床的に何が変わったか:** initial Hb＝出血量、INR＝出血risk、fluid量＝resuscitation成功、single IAP＝ACS評価という短絡を防ぐ構造を追加
+- **影響ページ:** `docs/11_GI_Liver/`
+- **要確認:** GI/hepatology/transplant/surgery/IR/nutrition review、local endoscopy/transfer/IAP/source-control policyとの整合
+
 ### 2026-08-12 — Hematology / Glycemic Safety Depth Phase 28
 
 - **テーマ:** transfusion/PBM、DIC/acute thrombocytopenia、ICU glycemic safety

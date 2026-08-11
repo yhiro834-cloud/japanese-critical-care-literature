@@ -2,8 +2,8 @@
 title: "Acute Pancreatitis"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -18,6 +18,8 @@ ssot: true
 
 typical pain、lipase/amylase elevation、characteristic imagingのうち2項目で診断する。臓器不全、SIRS、BUN/hematocrit/renal trend、hypoxemia、pleural effusion、comorbidityを反復評価する。早期routine CTは診断明確例で不要なことがあり、悪化/診断不確実/合併症評価で選ぶ。
 
+severity score一回で経過を確定せず、persistent organ failure、fluid tolerance、respiratory/renal trajectory、abdominal pressure、infection/bleedingを時間で追う。
+
 ## Early care
 
 - balanced crystalloidをhypovolemia、心腎機能、尿量/BUN/hematocrit、肺/腹部toleranceでmoderately titrateし、aggressive fixed-volume resuscitationを避ける。
@@ -25,12 +27,22 @@ typical pain、lipase/amylase elevation、characteristic imagingのうち2項目
 - toleratedなら早期oral/enteral nutrition。重症でもgut useを検討し、routine TPNを避ける。
 - biliary obstruction/cholangitis等はtimely ERCP pathway。原因（gallstone、alcohol、TG、drug、Ca等）を治療。
 
+## Fluid as a monitored trial
+
+indication、amount/rate、expected endpoint、reassessment time、stop/harm triggerを処方する。HR/BPだけでなくCRT、urine、BUN/Hct/lactate trend、lung oxygenation、edema、abdominal pressureを確認する。bolus反復で改善しないshockはbleeding、sepsis、cardiac/obstructive、ACSを再評価する。
+
+## Nutrition pathway
+
+pain完全消失やenzyme正常化を待たず、嚥下/GI function、nausea/ileus、perfusion、refeeding riskを評価してoral/ENを段階化する。中断理由と再開時刻を明示し、長期NPOを惰性で継続しない。
+
 > [!CAUTION]
 > fever/leukocytosis/necrosisだけで感染性壊死と断定しroutine prophylactic antibioticsを開始しない。clinical deterioration、gas、culture等で疑い、GI/surgery/IR/IDとsource-control strategyを決める。
 
 ## Necrosis and complications
 
 stable pancreatic necrosisのinterventionは可能なら成熟を待ち、endoscopic/radiologic/surgical step-upを専門teamで選ぶ。shock、bleeding、bowel ischemia/perforation、cholangitis、abdominal compartment syndromeは待機対象でない。
+
+infection疑いではclinical deterioration、gas/culture、他sourceを評価し、抗菌薬だけでsource controlを遅らせない。stable sterile necrosisへの予防的介入を避ける。
 
 ## Nursing surveillance
 
@@ -42,4 +54,5 @@ stable pancreatic necrosisのinterventionは可能なら成熟を待ち、endosc
 
 ## Review log
 
+- 2026-08-12: serial severity, monitored fluid trial, nutrition restart, and necrosis/source-control reasoning expanded.
 - 2026-08-11: ACG 2024 review; GI/surgery/nutrition/local pathway review required.
