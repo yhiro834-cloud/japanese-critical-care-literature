@@ -1,96 +1,69 @@
-# 国内集中治療・救急文献の自動収集
+# Critical Care Knowledge Base
 
-J-STAGEと、任意でCiNii Researchの公式APIを毎日検索し、日本語の集中治療・救急・救急看護関連文献をMarkdownとJSONへ保存する仕組みです。GitHub Actionsが毎朝7時17分（日本時間）に動きます。外部生成AI、有料文献データベース、有料APIは使いません。
+高度救命救急センター・ICUで必要な知識を、**基礎生理 → 病態生理 → 評価 → モニタリング → 臨床推論 → 治療 → 看護 → 症例学習 → 教育**の流れで育てるKnowledge Portalです。
 
-> [!IMPORTANT]
-> 分類と重要度は単純なキーワード規則による一次選別です。論文の質、臨床への適用可能性、医学的判断を保証しません。必ず原文を確認してください。
+> [!CAUTION]
+> 本リポジトリは医療従事者の教育・学習を目的とし、個別患者への診療指示を目的としません。実際の診療では、患者個別の病態、最新の公式ガイドライン、医師を含む医療チームの判断、各施設のプロトコルを優先してください。薬剤投与量、人工呼吸器設定、ECMO、CRRTなどの高リスク介入は、適応・禁忌・監視・施設体制を含めて個別に判断してください。
 
-## できること／できないこと
+## Knowledge Portal
 
-- 直近7日を目安に、日本語タイトルまたは日本語抄録を持つ文献を最大20件収集します。
-- DOI、各データベースID、正規化タイトル等で過去分と重複排除します。
-- タイトル、抄録、キーワード、誌名から複数カテゴリーと重要度1〜5を機械的に付与します。
-- `literature/YYYY/MM/YYYY-MM-DD.md` と `data/articles.json` に保存します。
-- APIが提供する書誌情報をそのまま保存し、欠損値は推測しません。AI要約、臨床応用の生成、PDF自動ダウンロード、医中誌Web検索、PubMed検索はしません。
+| 探し方 | 入口 |
+|---|---|
+| ABCDEから探す | [ABCDE Map](docs/00_Fundamentals/ABCDE/README.md) |
+| 臓器・病態から探す | [Topic Map](docs/TOPIC_MAP.md) |
+| 気道・呼吸 | [Airway](docs/01_Airway/README.md) / [Breathing](docs/02_Breathing/README.md) |
+| 循環・ショック | [Circulation](docs/03_Circulation/README.md) |
+| 神経・腎・感染 | [Neurology](docs/04_Neurology/README.md) / [Renal](docs/05_Renal/README.md) / [Infection & Sepsis](docs/06_Infection_Sepsis/README.md) |
+| デバイス・モニター | [Devices](docs/20_Devices/README.md) / [Monitoring](docs/19_Monitoring/README.md) |
+| 薬剤から探す | [Pharmacology](docs/13_Pharmacology/README.md) |
+| 看護から探す | [Nursing](docs/22_Nursing/README.md) |
+| 症例から探す | [Clinical Cases](docs/23_Clinical_Cases/README.md) |
+| Clinical Question | [Clinical Questions](docs/24_Clinical_Questions/README.md) |
+| Quiz | [Quiz](docs/25_Quiz/README.md) |
+| 勉強会・スライド | [Teaching Materials](docs/26_Teaching_Materials/README.md) / [Slide Ready](docs/27_Slide_Ready/README.md) |
+| ガイドライン・論文 | [Guidelines Index](docs/28_Guidelines/README.md) / [References Index](docs/29_References/README.md) |
+| 全体構造・執筆状況 | [docs portal](docs/README.md) |
 
-J-STAGEは科学技術振興機構（JST）が運営する国内学術刊行物の公開基盤です。CiNii Researchは国立情報学研究所（NII）が提供する国内学術情報検索サービスです。医中誌Webは有料契約が必要なため、無料運用という本プロジェクトの条件に合わせて使用しません。
+## 基本思考：ABCDE + 再評価
 
-## 全体の仕組み
+1. **A — Airway:** 開通性、閉塞、気道デバイス、ETCO₂
+2. **B — Breathing:** 酸素化、換気、呼吸仕事量、人工呼吸器・波形
+3. **C — Circulation:** 血圧だけでなく組織灌流、CO、前負荷・収縮力・後負荷・心拍数
+4. **D — Disability:** 意識、瞳孔、鎮痛・鎮静、せん妄、痙攣、頭蓋内病態
+5. **E — Exposure / Everything else:** 感染、外傷、腎、代謝、栄養、皮膚、家族、環境
+6. **Reassessment:** 介入の効果と有害事象を確認し、仮説を更新
 
-1. `src/config.py` の11領域を、領域ごとに公式APIで検索します。
-2. 公開日等をPythonでも確認し、日本語文字を含まない文献を除外します。
-3. `data/processed_articles.json` と照合し、同一文献を除きます。
-4. `src/classifier.py` と `src/scorer.py` の規則を適用します。
-5. 新規文献がある日だけJSONとMarkdownを更新し、GitHub Actionsがcommit/pushします。
+詳細は[ABCDE Map](docs/00_Fundamentals/ABCDE/README.md)を参照してください。
 
-利用するのはPython 3.12、通常の`ubuntu-latest`、標準`GITHUB_TOKEN`、`requests`、`python-dotenv`、`pytest`だけです。外部データベースや生成AI APIはありません。GitHub Actionsには公開リポジトリでは原則無料、非公開リポジトリではプランごとの無料枠・課金条件があります。GitHubの「Settings → Billing and licensing」で利用量と支出上限を確認してください。
+## 情報の信頼度
 
-## GitHubで最初に行う設定
+ページ本文と文献収集結果は同じ扱いにしません。
 
-1. このフォルダーの内容をGitHubリポジトリの既定ブランチへpushします。
-2. リポジトリの「Settings → Actions → General → Workflow permissions」で「Read and write permissions」を選び、保存します。組織ポリシーで変更できない場合は管理者へ確認します。
-3. CiNiiも使う場合だけ、[CiNii API利用登録](https://support.nii.ac.jp/ja/cinii/api/developer)からアプリケーションIDを取得します。登録画面の案内と利用条件に従い、短時間の大量アクセスを避けてください。
-4. 「Settings → Secrets and variables → Actions → Secrets → New repository secret」で、名前を`CINII_APP_ID`、値を発行されたIDとして保存します。IDをコードやIssueに貼らないでください。
+- `docs/`: 執筆・レビューされたKnowledge
+- `docs/28_Guidelines/`: 公式ガイドライン台帳
+- `docs/29_References/`: 重要論文台帳と引用規則
+- `literature/`: 自動収集された**未評価のEvidence inbox**。収載は推奨や妥当性を意味しません
+- `data/`: 自動収集・重複管理用データ
 
-必須Secretはありません。`GITHUB_TOKEN`はGitHubが実行ごとに自動発行します。任意Secretは`CINII_APP_ID`だけです。未登録なら警告後、J-STAGEだけで正常に動きます。
+各Knowledgeページには `Status`、`Evidence Reviewed`、`Next Review` を記録します。確認できない書誌情報や推奨は作らず、`要確認` と明示します。運用は[CONTRIBUTING.md](CONTRIBUTING.md)を参照してください。
 
-ActionsのVariables（Secretsと同じ画面の「Variables」）は必要な場合だけ設定します。
+## 学び方
 
-| 名前 | 初期値 | 用途 |
-|---|---:|---|
-| `MAX_ARTICLES` | `50` | 1日最大件数（プログラム上限100） |
-| `DAYS_BACK` | `7` | 何日前まで検索するか（通常は7日、最大3650日） |
-| `START_YEAR` | `2020` | この年の1月1日以降を検索。設定時は`DAYS_BACK`より優先 |
-| `DRY_RUN` | `false` | `true`なら検索・解析だけ行い、保存しない |
-| `ENABLE_CINII` | `true` | CiNii検索を使うか |
-| `ENABLE_PUBMED_JAPANESE` | `false` | 将来拡張用。初期版では`true`でも検索しない |
+1. Topic Mapからテーマを選ぶ
+2. Physiology / Pathophysiologyで「なぜ」を確認する
+3. Assessment → Interpretation → Clinical Reasoningで所見から仮説を組み立てる
+4. Nursing Points / Red Flags / Troubleshootingでベッドサイド行動に接続する
+5. Clinical CaseとQuizで想起練習する
+6. Slide Ready Summaryで他者へ説明し、理解を確かめる
 
-## 実行方法
+## 現在の段階
 
-### 手動実行
+**Phase 1: Knowledge Base設計**です。分類、入口、テンプレート、Evidence管理、更新ルールを整備しています。空の領域や `planned` は未完成です。内容が存在するように見せるためのダミー本文は置きません。
 
-GitHubで「Actions → Daily Japanese literature → Run workflow → Run workflow」を押します。結果は同じ画面の実行履歴を開き、失敗した赤いステップをクリックして確認できます。ログにはSecretを出しません。
+## 自動文献収集（既存機能）
 
-自動実行のcronは`17 22 * * *`です。UTC（世界の基準時）の22時17分は、日本標準時（UTC+9）の翌朝7時17分です。毎時0分を避けることで混雑による遅延を減らしますが、GitHub側の状況によっては開始が遅れる場合があります。
+GitHub ActionsがCiNii ResearchとJ-STAGEから日本語文献候補を収集し、`literature/YYYY/MM/` に日次レポートを保存します。これはEvidence探索の入口であり、Knowledgeへの採用には原文確認とレビューが必要です。[Evidence上の位置づけ](docs/29_References/AUTOMATED_LITERATURE_INBOX.md)と[設定・実行ガイド](docs/29_References/LITERATURE_AUTOMATION_GUIDE.md)を参照してください。
 
-### ローカル実行
+## Contributing
 
-```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-cp .env.example .env
-python -m pytest
-python -m src.main
-```
-
-Windows PowerShellでは有効化を`.venv\Scripts\Activate.ps1`で行います。CiNiiを使う場合だけ`.env`の`CINII_APP_ID=`の右側に自分のIDを書きます。`.env`はGitに保存されません。
-
-`DRY_RUN=true python -m src.main`なら、保存予定件数と文献IDだけ確認し、Markdown・JSON・重複管理ファイルを一切変更しません。
-
-## 調整する場所
-
-- 検索領域・検索語：`src/config.py`の`SEARCH_GROUPS`
-- カテゴリー用語：`src/classifier.py`の`CATEGORY_KEYWORDS`
-- 重要度：`src/scorer.py`の`BASE_RULES`、`BONUS`、`PENALTY`
-- 最大件数：GitHub Variableまたは`.env`の`MAX_ARTICLES`
-- 検索期間：GitHub Variableまたは`.env`の`START_YEAR`（未設定時は`DAYS_BACK`）
-
-検索語を増やしすぎるとAPIアクセス数が増えます。まず少数を追加し、公式の[J-STAGE WebAPI利用規約](https://www.jstage.jst.go.jp/static/pages/WebAPI/-char/ja)、[J-STAGE WebAPIマニュアル](https://www.jstage.jst.go.jp/static/files/ja/manual_api.pdf)、[CiNii Research OpenSearch仕様](https://support.nii.ac.jp/ja/cir/r_opensearch)と利用条件を確認してください。本実装はHTML画面をスクレイピングせず、User-Agent、20秒のタイムアウト、最大3回の指数バックオフ、リクエスト間隔を設定しています。
-
-## 保存結果と手動評価
-
-日別レポートは`literature`以下、全件JSONは`data/articles.json`、重複判定履歴は`data/processed_articles.json`です。日別Markdownの「手動確認欄」を読みながら編集し、研究デザイン、主な結果、限界、看護への応用、確認状況を記録できます。自動処理はこの欄を推測しません。
-
-## よくあるトラブル
-
-- **CiNiiが検索されない**：`CINII_APP_ID`の名前、Secretの保存先、`ENABLE_CINII`を確認します。IDなしでもJ-STAGEは動きます。
-- **pushが403で失敗**：Workflow permissionsが書き込み許可か、ブランチ保護がActionsの直接pushを禁じていないか確認します。
-- **新規ファイルがない**：直近7日・日本語・領域語・重複排除の条件に該当しない日は正常です。
-- **APIエラー**：一時障害なら次回実行を待つか手動再実行します。継続する場合は公式サービス状況・仕様変更・利用制限を確認します。
-- **pytestが失敗**：Actionsの失敗ステップを開き、最初の`FAILED`行とその直前のエラーを確認します。
-- **請求が心配**：SettingsのBillingでActions使用量と予算を確認します。本workflowは標準ランナーを最大15分だけ使いますが、アカウントの契約条件はGitHubの最新表示が優先です。
-
-## ファイル構成
-
-`src/jstage_client.py`と`src/cinii_client.py`が公式API、`classifier.py`が分類、`scorer.py`が重要度、`deduplicator.py`が重複排除、`storage.py`が安全なJSON追記とMarkdown生成、`main.py`が全体を担当します。テストは`tests/`、毎日実行の設定は`.github/workflows/daily_japanese_literature.yml`です。
+新規ページは[Knowledge Page Template](docs/_templates/knowledge-page.md)から作成し、更新時は[CHANGELOG.md](CHANGELOG.md)へ臨床的変更を記録してください。詳しいレビュー手順は[CONTRIBUTING.md](CONTRIBUTING.md)にあります。
