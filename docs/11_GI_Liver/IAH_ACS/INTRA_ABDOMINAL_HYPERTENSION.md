@@ -2,8 +2,8 @@
 title: "Intra-abdominal Hypertension and Abdominal Compartment Syndrome"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -18,9 +18,15 @@ ssot: true
 
 WSACS 2013ではIAHは持続/反復IAP ≥12 mmHg、ACSはIAP >20 mmHgに新規臓器障害を伴う状態。riskがあるcritical illnessでは腹部外観や触診だけで除外せず、standardized trans-bladder measurementを用いる。
 
+## Risk clusters
+
+reduced abdominal compliance、increased intraluminal/abdominal content、capillary leak/fluid accumulation、sepsis/shock、major trauma/burn/pancreatitis、mechanical ventilationを組み合わせてscreenする。肥満/妊娠等のbaseline IAP差を考慮する。
+
 ## Measurement quality
 
 supine、end-expiration、腹筋弛緩、mid-axillary levelでzero、膀胱内注入量をstandardizeし、体位/PEEP/咳/測定時刻を記録する。単発値でなく臓器functionとのtrendを追う。
+
+値が臨床像と合わない場合はzero/level、instillation、catheter obstruction、abdominal contraction、positionを確認して再測定する。異なる条件の値を同じtrendとして比較しない。
 
 ## Organ effects
 
@@ -34,6 +40,14 @@ supine、end-expiration、腹筋弛緩、mid-axillary levelでzero、膀胱内�
 4. temporary neuromuscular blockadeはselected bridgeで、原因治療の代替にしない。
 5. ACS + organ failureではsurgical decompressionを遅らせずconsult。
 
+## Intervention-response table
+
+decompression、position/sedation、drainage、fluid strategy、KRT/NMBA等ごとにIAPだけでなくventilator pressure/oxygenation、perfusion/vasopressor、urine/renal、abdominal examを再評価する。IAP低下なし・臓器悪化なら同じ介入を反復せずescalateする。
+
+## Nursing measurement record
+
+time、position、reference/zero、instillation method、PEEP、sedation/cough、IAP、MAP、urine、ventilator、vasoactive、腹部所見、介入/responseを同じ行に記録する。
+
 > [!DANGER]
 > oliguriaへblind fluidを反復するとIAHを悪化させ得る。IAP、perfusion、volume responsiveness/tolerance、obstruction、renal causesを統合する。
 
@@ -44,4 +58,5 @@ supine、end-expiration、腹筋弛緩、mid-axillary levelでzero、膀胱内�
 
 ## Review log
 
+- 2026-08-12: risk clusters, measurement troubleshooting, intervention-response, and nursing record expanded.
 - 2026-08-11: Current published WSACS guideline confirmed; update under development, surgery/local measurement review required.
