@@ -1,0 +1,70 @@
+---
+title: "Noninvasive Ventilation"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [niv, cpap, bipap, respiratory-failure]
+related: [../HFNC/HFNC.md, ../Mechanical_Ventilation/MECHANICAL_VENTILATION.md]
+ssot: true
+---
+
+# Noninvasive Ventilation
+
+> [!CAUTION]
+> NIVは監視可能な環境、熟練スタッフ、即時escalation能力を要します。airway protection不良、嘔吐/大量分泌、顔面interface困難、重度不安定、呼吸停止では不適切となり得ます。
+
+## 1. Overview / Physiology
+
+CPAPは主に持続陽圧でoxygenation/左室後負荷を、bilevel supportは吸気圧差でventilationとWOBを補助します。効果は病態、interface、leak、synchrony、患者協力に依存します。
+
+## 2. Evidence-based Uses
+
+ERS/ATS 2017は、acute hypercapnic respiratory failureを伴うCOPD exacerbationおよびacute cardiogenic pulmonary edemaでbilevel NIV/CPAPを強く推奨しています。de novo hypoxemic failure、post-extubation、palliation等は対象と文脈で推奨が異なり、一律適用しません。既に成立したpost-extubation respiratory failureをNIVで救済することは、選択されていない患者で挿管を遅らせ得ます。
+
+## 3. Assessment / Monitoring
+
+- indication、reversible cause、contraindication、goals、intubation plan
+- pH/PaCO₂、RR/WOB、意識、secretions/cough、hemodynamics
+- interface fit、pressure injury、leak、trigger/cycle、exhaled volume、alarm
+- 開始後早期の症状・gas・RR・意識・循環の方向性
+
+## 4. Clinical Reasoning
+
+```text
+病態がNIVに反応し得るか → airway/安定性/協力を確認
+→ interfaceとsupportを個別調整 → 同時に原因治療
+→ 明確な時間枠で再評価 → 改善なら継続と休息計画
+→ 改善なし/悪化ならmask調整だけを反復せず挿管評価
+```
+
+## 5. Nursing / Troubleshooting
+
+- 説明、姿勢、interface選択、皮膚保護、口腔ケア、加湿、aspiration riskを評価
+- leakは患者comfortと実測換気の双方に影響。過度なstrap tighteningは損傷を起こす
+- agitationを鎮静だけで抑える前にhypoxemia、CO₂、pain、delirium、asynchrony、mask intoleranceを探索
+- emergency removal、bag-mask、suction、挿管準備をチームで共有
+
+## 6. Red Flags / Pitfalls
+
+- pH/意識/WOB/循環の悪化、分泌排出不能、refractory hypoxemia、mask内嘔吐
+- contraindication無視、開始後gas未確認、過大leak放置、NIV成功をSpO₂だけで判断
+
+## 7. Take Home Messages
+
+1. NIVの利益は病態特異的である。
+2. 成功にはinterface、synchrony、原因治療、早期再評価が必要。
+3. NIV failure時の挿管遅延を防ぐ。
+
+## 8. References
+
+- Rochwerg B, et al. Official ERS/ATS clinical practice guidelines: NIV for acute respiratory failure. Eur Respir J. 2017;50:1602426. DOI: 10.1183/13993003.02426-2016; PMID: 28860265.
+
+## Review Log
+
+| Date | Reviewer | Scope | Result |
+|---|---|---|---|
+| 2026-08-11 | Codex | guideline / safety / nursing | Evidence reviewed; respiratory specialist review needed |

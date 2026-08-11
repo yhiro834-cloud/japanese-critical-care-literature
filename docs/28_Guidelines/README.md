@@ -8,6 +8,11 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | GL-2026-001 | Adult sepsis / septic shock | Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026 | SCCM / ESICM; Prescott HC, et al. | 2026; correction 2026-05-05 | SSC 2021 | https://www.sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-adult-guidelines | verified-current | 2026-08-11 | 2027-02-11 | [Septic Shock](../03_Circulation/Shock/SEPTIC_SHOCK.md) |
 | GL-2013-001 | Blood gas / hemoximetry | AARC Clinical Practice Guideline: Blood Gas Analysis and Hemoximetry: 2013 | AARC; Davis MD, et al. | 2013 | 2001 AARC CPG | https://www.aarc.org/resource/clinical-practice-guidelines/ | verified-current-on-AARC-list | 2026-08-11 | 2027-02-11 | [ABG](../02_Breathing/ABG/ABG_INTERPRETATION.md) |
+| GL-2017-001 | Oxygen | BTS guideline for oxygen use in adults in healthcare and emergency settings | British Thoracic Society; O'Driscoll BR, et al. | 2017 | BTS 2008 | https://thorax.bmj.com/content/72/Suppl_1/ii1 | verified | 2026-08-11 | 2027-02-11 | [Oxygen Therapy](../02_Breathing/Oxygen_Therapy/OXYGEN_THERAPY.md) |
+| GL-2022-001 | HFNC | ERS clinical practice guidelines: high-flow nasal cannula in acute respiratory failure | ERS; Oczkowski S, et al. | 2022 | — | https://publications.ersnet.org/content/erj/59/4/2101574 | verified-current | 2026-08-11 | 2027-02-11 | [HFNC](../02_Breathing/HFNC/HFNC.md) |
+| GL-2017-002 | NIV | Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure | ERS / ATS; Rochwerg B, et al. | 2017 | — | https://www.thoracic.org/statements/resources/cc/niv-guidelines.pdf | verified-current | 2026-08-11 | 2027-02-11 | [NIV](../02_Breathing/NIV/NIV.md) |
+| GL-2024-001 | ARDS | An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline | ATS; Qadir N, et al. | 2024 | updates 2017 selected questions | https://doi.org/10.1164/rccm.202311-2011ST | verified-current | 2026-08-11 | 2027-02-11 | [ARDS](../02_Breathing/ARDS/ARDS.md) |
+| GL-2017-003 | Ventilator liberation | ATS/CHEST guideline: Liberation from Mechanical Ventilation in Critically Ill Adults | ATS / CHEST; Girard TD, et al. | 2017 | — | https://www.thoracic.org/statements/resources/cc/weaning-rehab-protocols-CLT.pdf | verified-current | 2026-08-11 | 2027-02-11 | [Ventilator Liberation](../02_Breathing/Weaning/VENTILATOR_LIBERATION.md) |
 
 ## Status
 
@@ -28,10 +33,15 @@
 
 ## 優先登録領域
 
-ARDS/ventilation、resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocritical care、ECMO/MCS、infection preventionを今後、公式情報から確認します。
+resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocritical care、ECMO/MCS、infection preventionを今後、公式情報から確認します。
 
 ## Verified identifiers
 
 - GL-2026-001 DOI: `10.1007/s00134-026-08361-1`; PMID: `41870560`
 - Publisher correction DOI: `10.1007/s00134-026-08410-9`; PMID: `42084789`
 - GL-2013-001 DOI: `10.4187/respcare.02786`; PMID: `23901131`
+- GL-2017-001 DOI: `10.1136/thoraxjnl-2016-209729`; PMID: `28507176`
+- GL-2022-001 DOI: `10.1183/13993003.01574-2021`; PMID: `34649974`
+- GL-2017-002 DOI: `10.1183/13993003.02426-2016`; PMID: `28860265`
+- GL-2024-001 DOI: `10.1164/rccm.202311-2011ST`; PMID: `38032683`
+- GL-2017-003 DOI: `10.1164/rccm.201610-2075ST`; PMID: `27762595`

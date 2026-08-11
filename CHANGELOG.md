@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Respiratory Support Phase 4
+
+- **テーマ:** 酸素療法、HFNC、NIV、人工呼吸器、ARDS、人工呼吸器離脱
+- **変更内容:** support escalation、ventilator mechanics/waveform SSOT、ARDS肺保護、SBT/抜管評価、症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** BTS oxygen 2017、ERS HFNC 2022、ERS/ATS NIV 2017、ATS ARDS update 2024、ATS/CHEST liberation 2017、ARDSNet、PROSEVA、ROX validation
+- **臨床的に何が変わったか:** SpO₂単独評価、NIV/HFNC failureによる挿管遅延、pressure/waveform誤読、SBTと抜管判断の混同を防ぐ再評価loopを追加
+- **影響ページ:** `docs/02_Breathing/`、Cases、Clinical Questions、Quiz、Slide Ready、Guidelines/References registries
+- **要確認:** 呼吸療法・集中治療専門家レビュー、各施設protocol/機種との整合
+
 ### 2026-08-11 — Respiratory Physiology / ABG Phase 3
 
 - **テーマ:** 呼吸生理、ABG、酸塩基

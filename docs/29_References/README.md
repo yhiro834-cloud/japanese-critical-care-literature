@@ -14,6 +14,9 @@
 | REF-2014-001 | VBG / ABG | The role of venous blood gas in the emergency department | Bloom BM, et al. | Eur J Emerg Med | 2014 | 10.1097/MEJ.0b013e32836437cf | 23903783 | Systematic review/meta-analysis | verified | 2026-08-11 | [ABG](../02_Breathing/ABG/ABG_INTERPRETATION.md) |
 | REF-2020-001 | Pulse oximetry | Racial Bias in Pulse Oximetry Measurement | Sjoding MW, et al. | N Engl J Med | 2020 | 10.1056/NEJMc2029240 | 33326721 | Retrospective paired-measurement study | verified | 2026-08-11 | [Respiratory Physiology](../02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md) |
 | REF-2022-002 | ABG preanalytics | Detection of preanalytical errors in arterial blood gas analysis | Çuhadar S, et al. | Biochem Med (Zagreb) | 2022 | 10.11613/BM.2022.020708 | 35799987 | Experimental study | verified | 2026-08-11 | [ABG](../02_Breathing/ABG/ABG_INTERPRETATION.md) |
+| REF-2000-001 | ARDS ventilation | Ventilation with lower tidal volumes as compared with traditional tidal volumes | ARDS Network | N Engl J Med | 2000 | 10.1056/NEJM200005043421801 | 10793162 | Multicenter RCT | verified | 2026-08-11 | [Mechanical Ventilation](../02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md) |
+| REF-2013-001 | ARDS prone | Prone Positioning in Severe ARDS | Guérin C, et al. | N Engl J Med | 2013 | 10.1056/NEJMoa1214103 | 23688302 | Multicenter RCT | verified | 2026-08-11 | [ARDS](../02_Breathing/ARDS/ARDS.md) |
+| REF-2019-002 | HFNC failure | An Index Combining Respiratory Rate and Oxygenation to Predict Outcome of Nasal High-Flow Therapy | Roca O, et al. | J Crit Care | 2019 | 10.1016/j.jcrc.2019.07.002 | 31499277 | Prospective observational cohort | verified | 2026-08-11 | [HFNC](../02_Breathing/HFNC/HFNC.md) |
 
 ## Reference ID
 
