@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Hematology / Glycemic Safety Depth Phase 28
+
+- **テーマ:** transfusion/PBM、DIC/acute thrombocytopenia、ICU glycemic safety
+- **変更内容:** 3 SSOTをcomponent/phenotype matching、reaction/mimic response、data integrity、hypoglycemia/transitionまで深化
+- **新しいEvidence:** AABB RBC 2023/platelet 2025、ISTH DIC communications、SCCM glycemic control 2024
+- **臨床的に何が変わったか:** threshold＝自動輸血、coagulopathy＝DIC、normal fibrinogen＝非消費、single glucose＝真値、insulin停止＝低血糖解決という短絡を防ぐ構造を追加
+- **影響ページ:** `docs/12_Hematology/`、`docs/10_Endocrine_Metabolic/Glycemic_Control/`
+- **要確認:** hematology/transfusion/endocrine/pharmacy/laboratory review、local blood bank/HIT/TTP/insulin protocolとの整合
+
 ### 2026-08-12 — Technical Bedside Safety Depth Phase 27
 
 - **テーマ:** procedural safety、vascular/pleural/lumbar procedures、monitoring、device lifecycle、alarm/emergency response

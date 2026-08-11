@@ -2,8 +2,8 @@
 title: "Glycemic Management in Critical Illness"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -18,11 +18,15 @@ ssot: true
 
 SCCM 2024は成人ICUでpersistent hyperglycemia ≥180 mg/dL（10 mmol/L）にprotocolized managementを開始し、hypoglycemia riskの低いsystemを用いることを示す。急変、栄養、steroid、vasopressor、renal/hepatic functionでinsulin needは大きく変動する。
 
+この開始thresholdを全患者の単一点targetと解釈しない。target range、測定法、変動速度、糖尿病baseline、DKA/HHS、pregnancy/pediatric、nutrition/organ supportをprotocol scopeで確認する。
+
 ## Measurement safety
 
 - shock/poor perfusion、edema、anemia、薬剤/物質干渉ではcapillary POC精度に注意し、疑わしければarterial/venous laboratory methodで確認。
 - CGMはtrend補助となり得るが、ICUの治療判断はdevice/施設validationとconfirmatory measurementに従う。
 - 単位（mg/dL vs mmol/L）、患者ID、検体部位、採取時刻を確認する。
+
+unexpected resultでは症状、sample site、line contamination、poor perfusion、hematocrit、device/QC、timingを確認する。confirmatory sampleを待つ間も重症低血糖が疑われればrescueを遅らせない。
 
 ## Protocol elements
 
@@ -31,6 +35,22 @@ SCCM 2024は成人ICUでpersistent hyperglycemia ≥180 mg/dL（10 mmol/L）にp
 - IVからSC insulin移行時はbasal need、overlap、食事再開を計画
 - glycemic variabilityと低血糖回数をquality metricとしてreview
 
+## Change-event triggers
+
+EN/PN/IV dextrose開始・中断、steroid変更、vasopressor/temperature急変、KRT開始/停止、renal/hepatic変化、transport/procedure、pump/line change、SC/IV transition時は測定頻度とinsulin/dextrose planを即時reviewする。
+
+## Hypoglycemia response bundle
+
+1. ABC/neurologic symptomsを評価しprotocolで治療。
+2. timed recheckと再治療条件を設定。
+3. nutrition/dextrose/line/pump、renal/liver、sepsis、samplingを確認。
+4. 再開dose/timingを明示し、reboundを恐れてrescueを不足させない。
+5. severe/recurrent eventをhandoff、report、system reviewへつなぐ。
+
+## IV-to-SC transition
+
+metabolic crisis解決、nutrition、insulin requirement、renal function、steroid、食事能力を確認する。basal timing/overlap、correction、meal interruption、最初のmonitoring、教育/follow-upを決め、infusion停止とのgapを作らない。
+
 > [!DANGER]
 > insulin infusion中の栄養中断、採血遅延、line interruption、単位誤認は即時低血糖につながる。低血糖は遅滞なく治療し、原因修正と再測定を行う。
 
@@ -38,10 +58,13 @@ SCCM 2024は成人ICUでpersistent hyperglycemia ≥180 mg/dL（10 mmol/L）にp
 
 値だけでなく前回からの変化率、insulin/dextrose/nutrition、renal trajectoryを確認する。突然の低下は検体誤差も確認するが、症候性なら確認待ちでrescueを遅らせない。handoverには直近値、rate、栄養、次回測定、変更条件を含める。
 
+handoffには単位、sample method/site、target、直近trend、insulin concentration/rate、全glucose source、steroid/KRT、次回測定、rescueとtransition planを含める。
+
 ## References
 
 1. Honarmand K, et al. SCCM Guidelines on Glycemic Control for Critically Ill Children and Adults 2024. Crit Care Med. 2024. Official: https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-glycemic-control-for-critically-ill
 
 ## Review log
 
+- 2026-08-12: threshold scope, data integrity, change triggers, hypoglycemia bundle, and transition expanded.
 - 2026-08-11: SCCM 2024 review; laboratory/pharmacy/nutrition/local protocol review required.
