@@ -1,3 +1,17 @@
+---
+title: "Cardiac Critical Care — Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # Cardiac Critical Care — Clinical Questions
 
 1. **初回ECG/troponin正常ならACS除外？** いいえ。症状/時間軸に応じserial評価する。

@@ -1,3 +1,17 @@
+---
+title: "Trauma / Burns — Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # Trauma / Burns — Clinical Questions
 
 1. **eFAST陰性なら腹腔内出血なし？** いいえ。早期、少量、後腹膜、腸管損傷等を除外せず、機転・生理・serial examを統合する。

@@ -7,6 +7,7 @@ audience: intermediate-icu-nurse
 duration_minutes: 20
 source_pages: [../02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md, ../02_Breathing/ABG/ABG_INTERPRETATION.md]
 evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
 ---
 
 # Respiratory Physiology / ABG：中堅ICU看護師向け20分

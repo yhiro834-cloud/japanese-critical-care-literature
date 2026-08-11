@@ -1,6 +1,6 @@
 # Critical Care Topic Map
 
-Status: `planned`
+Status: `coverage-complete / specialist-review-needed`
 
 Created: 2026-08-11
 
@@ -10,11 +10,11 @@ Last Updated: 2026-08-11
 
 ## 00 Fundamentals
 
-- [ ] 生理学: 酸素運搬、DO₂/VO₂、微小循環、恒常性
-- [ ] ABCDE、初期評価、再評価、handoff
-- [ ] Clinical reasoning、problem representation、illness scripts、認知バイアス
-- [ ] ICU assessment、重症度、臓器障害、POCUSの位置づけ
-- [ ] 医療安全、human factors、team communication、倫理・意思決定
+- [x] [生理学: 酸素運搬、DO₂/VO₂、微小循環、恒常性](00_Fundamentals/Physiology/CRITICAL_CARE_PHYSIOLOGY.md)
+- [x] [ABCDE、初期評価、再評価、handoff](00_Fundamentals/ABCDE/README.md)
+- [x] [Clinical reasoning、problem representation、illness scripts、認知バイアス](00_Fundamentals/Clinical_Reasoning/CLINICAL_REASONING.md)
+- [x] [ICU assessment、重症度、臓器障害、POCUSの位置づけ](00_Fundamentals/ICU_Assessment/ICU_SYSTEMATIC_ASSESSMENT.md)
+- [x] [医療安全、human factors、team communication](00_Fundamentals/Human_Factors/HUMAN_FACTORS_COMMUNICATION.md)、[倫理・意思決定](32_Ethics_Safety_Systems/Ethics/GOALS_SHARED_DECISION_END_OF_LIFE.md)
 
 ## 01–03 Airway / Breathing / Circulation
 
@@ -51,13 +51,13 @@ Last Updated: 2026-08-11
 
 ## 23–29 Learning and evidence
 
-- [ ] Clinical Case Library
-- [ ] Clinical Questions
-- [ ] Quiz bank（基礎・中級・上級・症例）
-- [ ] Teaching Materials（5/10/20/30分 × 新人/中堅/リーダー）
-- [ ] Slide Ready summaries
-- [ ] Guidelines registry
-- [ ] Reference registry and evidence inbox
+- [x] [Clinical Case Library](23_Clinical_Cases/README.md)
+- [x] [Clinical Questions](24_Clinical_Questions/README.md)
+- [x] [Quiz bank（基礎・中級・上級・症例）](25_Quiz/README.md)
+- [x] [Teaching Materials（5/10/20/30分 × 新人/中堅/リーダー）](26_Teaching_Materials/TEACHING_RECOMPOSITION_GUIDE.md)
+- [x] [Slide Ready summaries](27_Slide_Ready/README.md)
+- [x] [Guidelines registry](28_Guidelines/README.md)
+- [x] [Reference registry and evidence inbox](29_References/README.md)
 
 ## 追加した重要領域
 
@@ -65,9 +65,9 @@ Last Updated: 2026-08-11
 
 - [x] [小児・妊産婦](30_Special_Populations/Pediatric_Obstetric/PEDIATRIC_OBSTETRIC_CRITICAL_CARE.md)、[高齢/frailty・免疫不全・obesity](30_Special_Populations/Complex_Adults/COMPLEX_ADULT_POPULATIONS.md)などspecial populations
 - [x] [Toxicology](31_Toxicology_Environmental/Toxicology/TOXICOLOGY_INITIAL_APPROACH.md) / [environmental emergencies](31_Toxicology_Environmental/Environmental/ENVIRONMENTAL_EMERGENCIES.md)
-- Burns
+- [x] [Burns](07_Trauma/Burns/BURN_INITIAL_MANAGEMENT.md)
 - [x] [ICU ethics、shared decision-making、end-of-life care、organ donation](32_Ethics_Safety_Systems/Ethics/GOALS_SHARED_DECISION_END_OF_LIFE.md)
 - [x] [Patient safety、human factors、transport、disaster/mass casualty、QI](32_Ethics_Safety_Systems/Safety_Systems/HUMAN_FACTORS_TRANSPORT_DISASTER_QI.md)
-- POCUS（診断そのものではなく臨床文脈との統合を重視）
+- [x] [POCUS（診断そのものではなく臨床文脈との統合を重視）](03_Circulation/POCUS/HEMODYNAMIC_POCUS.md)
 
 これらは `30_Special_Populations`、`31_Toxicology_Environmental`、`32_Ethics_Safety_Systems` に配置します。

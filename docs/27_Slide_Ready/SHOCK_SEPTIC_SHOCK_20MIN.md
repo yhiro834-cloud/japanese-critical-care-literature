@@ -7,6 +7,7 @@ audience: intermediate-icu-nurse
 duration_minutes: 20
 source_pages: [../03_Circulation/Shock/SHOCK.md, ../03_Circulation/Shock/SEPTIC_SHOCK.md]
 evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
 ---
 
 # Shock / Septic Shock：中堅ICU看護師向け20分

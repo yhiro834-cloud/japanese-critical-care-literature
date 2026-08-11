@@ -1,3 +1,17 @@
+---
+title: "Respiratory Physiology / ABG Clinical Questions"
+status: review-needed
+created: 2026-08-11
+last_updated: 2026-08-11
+evidence_reviewed: 2026-08-11
+next_review: 2027-02-11
+owners: []
+reviewers: [Codex evidence review]
+tags: [learning-artifact]
+related: []
+ssot: false
+---
+
 # Respiratory Physiology / ABG Clinical Questions
 
 1. [なぜ正常SpO₂でもventilatory failureを否定できないか？](../02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md#13-icu-nursing-pearls)
