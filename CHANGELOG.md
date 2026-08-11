@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Medication Safety Depth Phase 24
+
+- **テーマ:** critical-care PK/PD、TDM、extracorporeal clearance、high-alert infusion、smart pump/line safety
+- **変更内容:** 2 SSOTを深化し、濃度移行とdead-space急変症例を追加
+- **新しいEvidence:** ISMP 2024–2025 Best Practices、FDA infusion-pump safety、ASHP concentration standardization、critical-care antimicrobial TDM position paper
+- **臨床的に何が変わったか:** renal dysfunction＝loading減量、CRRT中＝固定dose、pump表示一致＝安全、double check＝追認、rate変更＝即時patient deliveryという短絡を防ぐloopを追加
+- **影響ページ:** `docs/13_Pharmacology/`、Clinical Cases
+- **要確認:** ICU pharmacist/clinical engineering review、local formulary/concentration/pump library/TDM/extravasation policyとの整合
+
 ### 2026-08-12 — Nutrition / Refeeding Depth Phase 23
 
 - **テーマ:** critical-care nutrition delivery、route safety、EN intolerance、organ support、refeeding prevention/response
