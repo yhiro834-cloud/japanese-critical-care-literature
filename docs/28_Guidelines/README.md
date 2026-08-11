@@ -53,6 +53,9 @@
 | GL-2023-006 | Acute liver failure | ACG Clinical Guideline: Acute Liver Failure | ACG; Shingina A, et al. | 2023 | — | https://doi.org/10.14309/ajg.0000000000002340 | verified-current-on-ACG-list | 2026-08-11 | 2027-02-11 | [ALF/HE](../11_GI_Liver/Acute_Liver_Failure/ACUTE_LIVER_FAILURE_HE.md) |
 | GL-2024-008 | Acute pancreatitis | ACG Guideline: Management of Acute Pancreatitis | ACG; Tenner S, et al. | 2024 | ACG 2013 | https://doi.org/10.14309/ajg.0000000000002645 | verified-current-on-ACG-list | 2026-08-11 | 2027-02-11 | [Acute Pancreatitis](../11_GI_Liver/Pancreatitis/ACUTE_PANCREATITIS.md) |
 | GL-2013-002 | IAH / ACS | Updated WSACS consensus definitions and clinical practice guidelines | WSACS; Kirkpatrick AW, et al. | 2013; update under development | 2006/2007 | https://doi.org/10.1007/s00134-013-2906-z | verified-current-published | 2026-08-11 | 2026-11-11 | [IAH/ACS](../11_GI_Liver/IAH_ACS/INTRA_ABDOMINAL_HYPERTENSION.md) |
+| GL-2023-007 | RBC transfusion | Red Blood Cell Transfusion: 2023 AABB International Guidelines | AABB; Carson JL, et al. | 2023 | AABB 2016 | https://doi.org/10.1001/jama.2023.12914 | verified-current | 2026-08-11 | 2027-02-11 | [Transfusion/PBM](../12_Hematology/Transfusion/TRANSFUSION_PBM.md) |
+| GL-2025-008 | Platelet transfusion | Platelet Transfusion: 2025 AABB and ICTMG International Clinical Practice Guidelines | AABB/ICTMG; Metcalf RA, et al. | 2025 | AABB 2015 | https://doi.org/10.1001/jama.2025.7529 | verified-current | 2026-08-11 | 2027-02-11 | [DIC/Platelets](../12_Hematology/DIC_Thrombocytopenia/DIC_THROMBOCYTOPENIA.md), [Transfusion/PBM](../12_Hematology/Transfusion/TRANSFUSION_PBM.md) |
+| GL-2018-001 | Medical-patient VTE prophylaxis | ASH 2018 Guidelines: Prophylaxis for Hospitalized and Nonhospitalized Medical Patients | ASH; Schünemann HJ, et al. | 2018 | — | https://doi.org/10.1182/bloodadvances.2018022954 | verified-current-on-ASH-hub | 2026-08-11 | 2027-02-11 | [Anticoagulation/VTE](../12_Hematology/Anticoagulation_VTE/ANTICOAGULATION_REVERSAL_VTE.md) |
 
 ## Status
 
@@ -125,3 +128,6 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2023-006 DOI: `10.14309/ajg.0000000000002340`; PMID: `37167343`
 - GL-2024-008 DOI: `10.14309/ajg.0000000000002645`; PMID: `38857482`
 - GL-2013-002 DOI: `10.1007/s00134-013-2906-z`; PMID: `23673399`; update under development on WSACS site
+- GL-2023-007 DOI: `10.1001/jama.2023.12914`; PMID: `37824153`
+- GL-2025-008 DOI: `10.1001/jama.2025.7529`; PMID: `40440268`
+- GL-2018-001 DOI: `10.1182/bloodadvances.2018022954`; PMID: `30482763`

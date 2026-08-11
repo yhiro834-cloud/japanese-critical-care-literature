@@ -19,3 +19,4 @@
 - [ECMO low flow](CASE_ECMO_LOW_FLOW.md)
 - [Euglycemic DKA](CASE_EUGLYCEMIC_DKA.md)
 - [GI出血の再shock](CASE_GI_BLEED_RESHOCK.md)
+- [ICUでの急性血小板低下](CASE_ACUTE_PLATELET_FALL.md)
