@@ -27,7 +27,7 @@ Last Updated: 2026-08-11
 
 ## 04–08 Organ and syndrome-based care
 
-- [ ] Neurology: 意識、stroke、SAH、TBI、seizure/NCSE、ICP/CPP、neuroprognostication
+- [x] Neurology: [意識/瞳孔](04_Neurology/Assessment/NEUROLOGICAL_ASSESSMENT.md)、[TBI/ICP/CPP](04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md)、[stroke/ICH/SAH](04_Neurology/Stroke_SAH/ACUTE_STROKE_SAH.md)、[seizure/NCSE](04_Neurology/Seizure_EEG/SEIZURE_NCSE_EEG.md)、[neuroprognostication](04_Neurology/Neuroprognostication/NEUROPROGNOSTICATION.md)
 - [ ] Renal: AKI、尿量、電解質、酸塩基、RRT/CRRT
 - [ ] Infection/Sepsis: source、培養、抗菌薬、source control、sepsis/septic shock
 - [ ] Trauma/Burns: primary/secondary survey、出血、TBI、胸腹部、骨盤、熱傷、damage control
