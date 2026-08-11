@@ -44,7 +44,7 @@ ssot: false
 - Rescue/Diagnose/Verify/Prevent/Communicateのparallel lanes
 - sender→receiver→sender→resultのclosed loop
 
-図は未作成。存在するように記載しない。
+利用可能な図： [ABCDE Visual Series](../00_Fundamentals/ABCDE/README.md#visual-series-abcde--reassessment)。導入・ABCDE詳細・SummaryへFIG-G-ABCDE-001–006を再利用できる。SVG原本は[Figure Index](../../FIGURE_INDEX.md)を参照。
 
 ## References for slides
 

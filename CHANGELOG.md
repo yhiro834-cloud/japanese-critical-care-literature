@@ -300,6 +300,15 @@
 - **影響ページ:** `tests/test_knowledge_base.py`、`docs/IMPLEMENTATION_STATUS.md`、`docs/FINAL_CROSS_AUDIT_2026-08-12.md`
 - **要確認:** 各医学SSOTの専門家/施設sign-offは継続課題
 
+### 2026-08-12 — Visual Learning Phase 1
+
+- **テーマ:** Visual Learning System基盤とABCDE Figure Series
+- **変更内容:** Visual Asset Plan、Figure Index、18分類のassets構造、Design System、6枚の16:9 SVG、本文Caption/解釈/Clinical Meaning、SVG回帰testを追加
+- **新しいEvidence:** WHO/ICRC Basic Emergency Care 2018と既存のFundamentals/Airway/Breathing/Circulation/Neurology/Trauma/Infection SSOTを再利用
+- **臨床的に何が変わったか:** ABCDEを直線的checklistでなく、red flagへの即時介入とresponse-driven reassessment loopとして視覚学習できるようにした
+- **影響ページ:** `VISUAL_ASSET_PLAN.md`、`FIGURE_INDEX.md`、`assets/`、ABCDE Map、Critical Care Fundamentals Slide Ready、tests
+- **要確認:** Figureは教育用。施設protocol、dose、procedure cardを置換しない。臨床専門家/教育担当者のsign-offは継続課題
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

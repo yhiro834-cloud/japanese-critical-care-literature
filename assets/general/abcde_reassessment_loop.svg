@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">ABCDE assessment and reassessment loop</title>
+  <desc id="desc">Safety and first impression lead through airway, breathing, circulation, disability and exposure, followed by immediate action, response assessment, hypothesis update and repetition.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#5B5BD6"/></marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#172B3A" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="80" y="82" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#172B3A">ABCDE is a reassessment loop</text>
+  <text x="80" y="126" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#526B7A">生命危機を優先し、介入の反応から次の仮説と行動を更新する</text>
+
+  <rect x="80" y="180" width="270" height="100" rx="24" fill="#EAF2F7" stroke="#31546D" stroke-width="3"/>
+  <text x="215" y="220" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#31546D">Safety + First look</text>
+  <text x="215" y="255" text-anchor="middle" font-family="Arial" font-size="22" fill="#172B3A">Patient first · Call for help</text>
+  <path d="M350 230H415" stroke="#5B5BD6" stroke-width="6" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="430" y="165" width="190" height="130" rx="28" fill="#DCEFF7" stroke="#1976A3" stroke-width="4"/>
+    <rect x="650" y="165" width="190" height="130" rx="28" fill="#E6F5F2" stroke="#16856B" stroke-width="4"/>
+    <rect x="870" y="165" width="190" height="130" rx="28" fill="#FFF2D9" stroke="#D97706" stroke-width="4"/>
+    <rect x="1090" y="165" width="190" height="130" rx="28" fill="#EEEAFE" stroke="#5B5BD6" stroke-width="4"/>
+    <rect x="1310" y="165" width="190" height="130" rx="28" fill="#FDE9E8" stroke="#C74440" stroke-width="4"/>
+  </g>
+  <g font-family="Arial" text-anchor="middle">
+    <text x="525" y="218" font-size="42" font-weight="700" fill="#1976A3">A</text><text x="525" y="258" font-size="24" fill="#172B3A">Airway</text>
+    <text x="745" y="218" font-size="42" font-weight="700" fill="#16856B">B</text><text x="745" y="258" font-size="24" fill="#172B3A">Breathing</text>
+    <text x="965" y="218" font-size="42" font-weight="700" fill="#D97706">C</text><text x="965" y="258" font-size="24" fill="#172B3A">Circulation</text>
+    <text x="1185" y="218" font-size="42" font-weight="700" fill="#5B5BD6">D</text><text x="1185" y="258" font-size="24" fill="#172B3A">Disability</text>
+    <text x="1405" y="218" font-size="42" font-weight="700" fill="#C74440">E</text><text x="1405" y="258" font-size="24" fill="#172B3A">Exposure</text>
+  </g>
+  <path d="M620 230H642M840 230H862M1060 230H1082M1280 230H1302" stroke="#5B5BD6" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g font-family="Arial">
+    <rect x="170" y="385" width="350" height="150" rx="24" fill="#FFF" stroke="#C74440" stroke-width="4"/>
+    <path d="M205 420L230 390L255 420Z" fill="#C74440"/><text x="275" y="420" font-size="28" font-weight="700" fill="#C74440">Red flag found?</text>
+    <text x="205" y="468" font-size="23" fill="#172B3A">不可逆的危機には直ちに介入</text>
+    <text x="205" y="505" font-size="21" fill="#526B7A">ABCDE完了を待たない</text>
+
+    <rect x="625" y="385" width="350" height="150" rx="24" fill="#E6F5F2" stroke="#16856B" stroke-width="4"/>
+    <text x="800" y="430" text-anchor="middle" font-size="29" font-weight="700" fill="#16856B">Immediate action</text>
+    <text x="800" y="475" text-anchor="middle" font-size="23" fill="#172B3A">原因への介入 + support</text>
+    <text x="800" y="510" text-anchor="middle" font-size="21" fill="#526B7A">action / owner / timeを共有</text>
+
+    <rect x="1080" y="385" width="350" height="150" rx="24" fill="#EEEAFE" stroke="#5B5BD6" stroke-width="4"/>
+    <text x="1255" y="430" text-anchor="middle" font-size="29" font-weight="700" fill="#5B5BD6">Response check</text>
+    <text x="1255" y="475" text-anchor="middle" font-size="23" fill="#172B3A">期待した反応 · 実際の反応</text>
+    <text x="1255" y="510" text-anchor="middle" font-size="21" fill="#526B7A">有害事象 · 次のtrigger</text>
+  </g>
+  <path d="M520 460H617M975 460H1072" stroke="#5B5BD6" stroke-width="6" marker-end="url(#arrow)"/>
+  <path d="M1255 535V620C1255 680 1195 705 1130 705H455C390 705 345 680 345 620V545" fill="none" stroke="#5B5BD6" stroke-width="7" stroke-dasharray="14 10" marker-end="url(#arrow)"/>
+  <rect x="560" y="640" width="480" height="125" rx="28" fill="#F6F7FF" stroke="#5B5BD6" stroke-width="4"/>
+  <text x="800" y="686" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#5B5BD6">Update hypothesis + priority</text>
+  <text x="800" y="730" text-anchor="middle" font-family="Arial" font-size="23" fill="#172B3A">改善しない／新しい異常 → ABCDEを再開</text>
+  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-001 · Educational schematic · SSOT: docs/00_Fundamentals/ABCDE/README.md · Reviewed 2026-08-12</text>
+</svg>
