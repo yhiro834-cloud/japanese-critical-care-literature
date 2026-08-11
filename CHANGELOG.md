@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — GI / Liver / Pancreas Phase 14
+
+- **テーマ:** GI bleeding、ALF/HE、acute pancreatitis、IAH/ACS
+- **変更内容:** 4本体SSOT、再出血症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** ACG UGIB 2021、ALF 2023、pancreatitis 2024、WSACS 2013 current published guidance
+- **臨床的に何が変わったか:** 初期Hb過信、移植相談遅延、ALF INRのroutine correction、膵炎の過剰輸液/予防的抗菌薬、IAHへのblind fluidを防ぐloopを追加
+- **影響ページ:** `docs/11_GI_Liver/`、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** GI/hepatology/transplant/surgery/nutrition、local endoscopy/transfer/IAP protocolとの整合
+
 ### 2026-08-11 — Endocrine / Metabolic Phase 13
 
 - **テーマ:** DKA/HHS、重症患者血糖、副腎・甲状腺危機、体温異常
