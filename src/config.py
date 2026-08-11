@@ -41,7 +41,7 @@ def _bool(name: str, default: bool) -> bool:
 class Config:
     root: Path
     cinii_app_id: str | None
-    max_articles: int = 20
+    max_articles: int = 50
     dry_run: bool = False
     enable_cinii: bool = True
     enable_pubmed_japanese: bool = False
@@ -51,7 +51,7 @@ class Config:
     @classmethod
     def from_env(cls, root: Path | None = None) -> "Config":
         load_dotenv()
-        value = max(1, min(100, int(os.getenv("MAX_ARTICLES", "20"))))
+        value = max(1, min(100, int(os.getenv("MAX_ARTICLES", "50"))))
         days = max(1, min(3650, int(os.getenv("DAYS_BACK", "7"))))
         start_year = os.getenv("START_YEAR", "").strip()
         if start_year:
