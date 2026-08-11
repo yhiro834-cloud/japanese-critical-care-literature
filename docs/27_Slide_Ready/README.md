@@ -19,3 +19,4 @@
 - [Pharmacology / Nutrition：中堅ICU看護師向け30分](PHARMACOLOGY_NUTRITION_30MIN.md)
 - [PADIS / Rehabilitation / PICS：中堅ICU看護師向け30分](PADIS_REHAB_PICS_30MIN.md)
 - [Infection Control / Procedures：中堅ICU看護師向け30分](INFECTION_CONTROL_PROCEDURES_30MIN.md)
+- [Bedside Systems / Nursing：中堅ICU看護師向け30分](BEDSIDE_SYSTEMS_NURSING_30MIN.md)

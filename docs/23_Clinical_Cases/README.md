@@ -23,3 +23,4 @@
 - [Refeeding後の呼吸困難](CASE_REFEEDED_PATIENT_DYSPNEA.md)
 - [Agitation・筋力低下・回復支援](CASE_AGITATION_WEAKNESS_RECOVERY.md)
 - [Line breakと職業曝露](CASE_LINE_BREAK_EXPOSURE.md)
+- [偽アラームに見えた真の急変](CASE_FALSE_ALARM_TRUE_DETERIORATION.md)

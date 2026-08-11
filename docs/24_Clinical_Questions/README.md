@@ -19,3 +19,4 @@
 - [Pharmacology / Nutrition Questions](PHARMACOLOGY_NUTRITION_QUESTIONS.md)
 - [PADIS / Rehabilitation / PICS Questions](PADIS_REHAB_PICS_QUESTIONS.md)
 - [Infection Control / Procedures Questions](INFECTION_CONTROL_PROCEDURES_QUESTIONS.md)
+- [Bedside Systems / Nursing Questions](BEDSIDE_SYSTEMS_NURSING_QUESTIONS.md)

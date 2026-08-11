@@ -44,10 +44,10 @@ Last Updated: 2026-08-11
 
 ## 19–22 Bedside systems and nursing
 
-- [ ] Monitoring: ECG、SpO₂、ETCO₂、A-line、CVP、CO、脳・腎モニター、artifact
-- [ ] Devices: airway、drain、catheter、pump、ECMO/MCS、CRRT
-- [ ] Emergency troubleshooting: low SpO₂、低血圧、alarm、回路・device failure
-- [ ] Nursing: 系統的観察、comfort、口腔・皮膚、体位、ライン安全、家族支援、終末期ケア
+- [x] Monitoring: [ECG、SpO₂、ETCO₂、A-line、CVP、CO、脳・腎モニター、artifact](19_Monitoring/Core_Monitoring/MONITORING_WAVEFORMS_ARTIFACT.md)
+- [x] Devices: [airway、drain、catheter、pump、ECMO/MCS、CRRTのlifecycleとbackup](20_Devices/Lifecycle/DEVICE_LIFECYCLE_BACKUP.md)
+- [x] Emergency troubleshooting: [low SpO₂、低血圧、alarm、回路・device failure](21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md)
+- [x] Nursing: [系統的観察、comfort、口腔・皮膚、体位、ライン安全、家族支援、終末期ケア](22_Nursing/Systematic_Care/SYSTEMATIC_ICU_NURSING_CARE.md)
 
 ## 23–29 Learning and evidence
 

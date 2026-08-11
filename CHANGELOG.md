@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — Bedside Systems / Nursing Phase 19
+
+- **テーマ:** monitoring、device lifecycle、急変・alarm troubleshooting、系統的ICU看護、家族・終末期支援
+- **変更内容:** 4本体SSOT、偽alarm/真の急変症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** FDA pulse oximeter safety、AARC blood gas guidance、AACN monitoring resources、SCCM family-centered care guidance
+- **臨床的に何が変わったか:** monitor値だけの治療、artifact決めつけ、line追跡不足、backup不在、device-first troubleshooting、handoff/comfort/家族支援の分断を防ぐ共通loopを追加
+- **影響ページ:** `docs/19_Monitoring/`、`docs/20_Devices/`、`docs/21_Emergency_Troubleshooting/`、`docs/22_Nursing/`、Cases、CQ、Quiz、Slide Ready
+- **要確認:** bedside nursing/clinical engineering/palliative care、local alarm/device/transport/escalation/end-of-life policyとの整合
+
 ### 2026-08-11 — Infection Control / Procedures Phase 18
 
 - **テーマ:** standard/transmission precautions、職業曝露、CLABSI/CAUTI/VAP、手技安全

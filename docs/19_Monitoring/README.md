@@ -1,3 +1,7 @@
 # 19 Monitoring
 
-Planned: ECG、SpO₂、ETCO₂、A-line、CVP、CO、ScvO₂、脳・腎モニター、trend、artifact、measurement limitations。
+## Knowledge
+
+- [Monitoring, Waveforms, and Artifact](Core_Monitoring/MONITORING_WAVEFORMS_ARTIFACT.md)
+
+領域固有monitoringは各SSOT（呼吸、循環、神経、腎、ECMO/CRRT）へ接続する。
