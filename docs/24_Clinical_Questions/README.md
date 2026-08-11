@@ -11,3 +11,4 @@
 - [Renal Questions](RENAL_QUESTIONS.md)
 - [Infection / Sepsis Questions](INFECTION_SEPSIS_QUESTIONS.md)
 - [Trauma / Burns Questions](TRAUMA_BURNS_QUESTIONS.md)
+- [Cardiac Critical Care Questions](CARDIAC_CRITICAL_CARE_QUESTIONS.md)

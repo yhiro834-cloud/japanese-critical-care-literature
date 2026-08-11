@@ -38,6 +38,10 @@
 | GL-2019-001 | Hospital antibiotic stewardship | Core Elements of Hospital Antibiotic Stewardship Programs | CDC | 2019; implementation priorities updated 2022 | 2014 | https://www.cdc.gov/antibiotic-use/hcp/core-elements/hospital.html | verified-current | 2026-08-11 | 2027-02-11 | [Antimicrobial Therapy](../06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md) |
 | GL-2023-005 | Major trauma bleeding | European guideline on management of major bleeding and coagulopathy following trauma: sixth edition | European multidisciplinary task force; Rossaint R, et al. | 6th ed; 2023 | 5th ed 2019 | https://doi.org/10.1186/s13054-023-04327-7 | verified-current | 2026-08-11 | 2027-02-11 | [Traumatic Hemorrhage](../07_Trauma/Hemorrhage_Damage_Control/TRAUMA_HEMORRHAGE_DAMAGE_CONTROL.md) |
 | GL-2024-004 | Burn shock resuscitation | American Burn Association Clinical Practice Guidelines on Burn Shock Resuscitation | ABA; Cartotto R, et al. | 2024 | — | https://doi.org/10.1093/jbcr/irad125 | verified-current | 2026-08-11 | 2027-02-11 | [Burn Initial Management](../07_Trauma/Burns/BURN_INITIAL_MANAGEMENT.md) |
+| GL-2025-004 | Acute coronary syndromes | 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes | ACC/AHA et al.; Rao SV, et al. | 2025 | STEMI 2013 / NSTE-ACS 2014 / PCI update 2015 | https://doi.org/10.1161/CIR.0000000000001309 | verified-current | 2026-08-11 | 2027-02-11 | [ACS](../08_Cardiac_Critical_Care/ACS/ACUTE_CORONARY_SYNDROME.md) |
+| GL-2025-005 | Cardiogenic shock | 2025 Concise Clinical Guidance: An ACC Expert Consensus Statement on the Evaluation and Management of Cardiogenic Shock | ACC; Geller BJ, et al. | 2025 | — | https://doi.org/10.1016/j.jacc.2025.02.018 | verified-current | 2026-08-11 | 2027-02-11 | [Cardiogenic Shock](../08_Cardiac_Critical_Care/Heart_Failure_Shock/ACUTE_HEART_FAILURE_CARDIOGENIC_SHOCK.md) |
+| GL-2025-006 | Adult ALS | Part 9: Adult Advanced Life Support: 2025 AHA Guidelines for CPR and ECC | AHA | 2025 | 2020 / 2023 update | https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support | verified-current | 2026-08-11 | 2027-02-11 | [Arrhythmias](../08_Cardiac_Critical_Care/Arrhythmias/UNSTABLE_ARRHYTHMIAS.md), [Cardiac Arrest](../08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ARREST.md) |
+| GL-2025-007 | Post-cardiac arrest | Part 11: Post-Cardiac Arrest Care: 2025 AHA Guidelines for CPR and ECC | AHA; Hirsch KG, et al. | 2025 | 2020 / 2023 update | https://doi.org/10.1161/CIR.0000000000001375 | verified-current | 2026-08-11 | 2027-02-11 | [Post-Arrest Care](../08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ARREST.md) |
 
 ## Status
 
@@ -95,3 +99,7 @@ resuscitation、AKI/RRT、pain/sedation/delirium、nutrition、trauma、neurocri
 - GL-2019-001: CDC official framework; DOI/PMID not assigned
 - GL-2023-005 DOI: `10.1186/s13054-023-04327-7`; PMID: `36859355`
 - GL-2024-004 DOI: `10.1093/jbcr/irad125`; PMID: `38051821`
+- GL-2025-004 DOI: `10.1161/CIR.0000000000001309`; PMID: `40014670`; correction PMID: `40163565`
+- GL-2025-005 DOI: `10.1016/j.jacc.2025.02.018`; PMID: `40100174`
+- GL-2025-006: official AHA 2025 ALS guideline page; identifiers to verify at next review
+- GL-2025-007 DOI: `10.1161/CIR.0000000000001375`; PMID to verify at next review
