@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-11 — PADIS / Rehabilitation / PICS Phase 17
+
+- **テーマ:** pain、sedation、delirium、sleep/withdrawal、early mobility、ICU-AW、PICS/PICS-F
+- **変更内容:** 3本体SSOT、agitation/回復症例、CQ、Quiz、30分教材を追加
+- **新しいEvidence:** SCCM PADIS 2018 + 2025 focused update、ICU Liberation A–F
+- **臨床的に何が変わったか:** agitationへの反射的深鎮静、NMBA中の苦痛見逃し、delirium薬物偏重、一律bed rest、退院＝回復という誤認を防ぐ構造を追加
+- **影響ページ:** `docs/15_Pain_Sedation_Delirium/`、`docs/16_Rehabilitation_PICS/`、Cases、CQ、Quiz、Slide Ready、Guidelines registry
+- **要確認:** nursing/pharmacy/PT/OT/SLT/psychology、local assessment/mobility/follow-up pathwayとの整合
+
 ### 2026-08-11 — Pharmacology / Nutrition Phase 16
 
 - **テーマ:** critical-care PK/PD、CRRT/ECMO dose、high-alert infusion、EN/PN、refeeding
