@@ -18,3 +18,4 @@
 - [Hematology Quiz](QUIZ_HEMATOLOGY.md)
 - [Pharmacology / Nutrition Quiz](QUIZ_PHARMACOLOGY_NUTRITION.md)
 - [PADIS / Rehabilitation / PICS Quiz](QUIZ_PADIS_REHAB_PICS.md)
+- [Infection Control / Procedures Quiz](QUIZ_INFECTION_CONTROL_PROCEDURES.md)

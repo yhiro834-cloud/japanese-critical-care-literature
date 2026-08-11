@@ -40,7 +40,7 @@ Last Updated: 2026-08-11
 - [x] GI/liver/pancreas: [消化管出血](11_GI_Liver/GI_Bleeding/ACUTE_GI_BLEEDING.md)、[急性肝不全/肝性脳症](11_GI_Liver/Acute_Liver_Failure/ACUTE_LIVER_FAILURE_HE.md)、[腹腔内圧](11_GI_Liver/IAH_ACS/INTRA_ABDOMINAL_HYPERTENSION.md)、[急性膵炎](11_GI_Liver/Pancreatitis/ACUTE_PANCREATITIS.md)
 - [x] Hematology: [DIC/血小板](12_Hematology/DIC_Thrombocytopenia/DIC_THROMBOCYTOPENIA.md)、[輸血/PBM](12_Hematology/Transfusion/TRANSFUSION_PBM.md)、[抗凝固/拮抗/VTE](12_Hematology/Anticoagulation_VTE/ANTICOAGULATION_REVERSAL_VTE.md)
 - [x] Pharmacology/nutrition/PADIS/rehabilitation: [critical care PK/PD](13_Pharmacology/PKPD/CRITICAL_CARE_PKPD.md)、[infusion safety](13_Pharmacology/Medication_Safety/HIGH_ALERT_INFUSION_SAFETY.md)、[nutrition](14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md)、[refeeding](14_Nutrition/Refeeding/REFEEDING_SYNDROME.md)、[pain/sedation/delirium/sleep](15_Pain_Sedation_Delirium/PADIS/PADIS_BEDSIDE_CARE.md)、[mobility/ICU-AW](16_Rehabilitation_PICS/Early_Mobility/ICU_EARLY_MOBILITY.md)、[PICS/PICS-F](16_Rehabilitation_PICS/PICS/PICS_RECOVERY.md)
-- [ ] Infection control; procedures
+- [x] Infection control/procedures: [standard/transmission precautions・曝露](17_Infection_Control/Precautions/STANDARD_TRANSMISSION_PRECAUTIONS.md)、[device-associated infection](17_Infection_Control/Device_Infection_Prevention/DEVICE_INFECTION_PREVENTION.md)、[procedure safety framework](18_Procedures/Safety_Framework/PROCEDURAL_SAFETY_FRAMEWORK.md)、[vascular/pleural/lumbar safety](18_Procedures/Common_Procedures/COMMON_PROCEDURE_SAFETY.md)
 
 ## 19–22 Bedside systems and nursing
 
