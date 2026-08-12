@@ -2,6 +2,8 @@
 
 問いからKnowledge本体へ戻る索引です。例: 「Septic shockでMAPだけを見てはいけないのはなぜか」。回答をここへ重複させず、SSOTページのClinical Reasoning節へリンクします。
 
+視覚的に確認したい問いは[図索引](../../FIGURE_INDEX.md)へ接続します。図は理解を助ける入口であり、適応・数値・限界はリンク先SSOTとガイドライン台帳で確認します。
+
 - [Shock / Septic Shock Questions](SHOCK_SEPTIC_SHOCK_QUESTIONS.md)
 - [Critical Care Fundamentals Questions](FUNDAMENTALS_QUESTIONS.md)
 - [Respiratory Physiology / ABG Questions](RESPIRATORY_PHYSIOLOGY_ABG_QUESTIONS.md)

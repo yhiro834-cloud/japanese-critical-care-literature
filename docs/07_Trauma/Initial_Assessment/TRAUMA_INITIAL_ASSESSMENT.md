@@ -14,6 +14,9 @@ ssot: true
 
 # Trauma Initial Assessment
 
+> [!NOTE]
+> **図で確認：** [外傷で見えない大出血を探す体腔図](../../../assets/trauma/occult_bleeding_cavities.svg) — 胸腔、腹腔・後腹膜、骨盤、長管骨、体外を同時に探索する。
+
 ## 0. まず覚える
 
 外傷初療（trauma initial assessment）は、けがの名前をすべて決める前に、**いま生命を脅かす問題を一定の順序で探し、見つけたらその場で処置し、同じ順序で確かめ直す**診療である。

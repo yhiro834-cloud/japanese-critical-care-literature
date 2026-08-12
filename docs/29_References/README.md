@@ -2,6 +2,8 @@
 
 重要論文・review・consensusの台帳です。書誌情報を確認できた文献だけを登録します。自動収集候補はこの台帳へ自動昇格しません。
 
+視覚教材から根拠を確認する場合は[図索引](../../FIGURE_INDEX.md)の関連SSOTを経由し、図だけを研究結果や推奨の代用にしません。一次研究の対象、介入、比較、転帰、限界は本文または原著で確認します。
+
 ## Registry
 
 | ID | Topic | Title | Authors / Group | Journal | Year | DOI | PMID | Evidence type | Status | Verified on | Used by |

@@ -2,6 +2,8 @@
 
 [Quiz Template](../_templates/quiz.md)を用い、基礎・中級・上級・症例問題を作ります。全問に解説、Knowledge本体、検証済みReferenceを付けます。
 
+図を用いる問題は[図索引](../../FIGURE_INDEX.md)の検証済み図を使い、設問画像へ正解や決定的な強調を埋め込みません。解答では所見の読み方、誤答が危険な理由、図の限界、SSOTへのリンクを示します。
+
 - [Shock / Septic Shock Quiz](QUIZ_SHOCK_SEPTIC_SHOCK.md)
 - [Critical Care Fundamentals Quiz](QUIZ_CRITICAL_CARE_FUNDAMENTALS.md)
 - [Respiratory Physiology / ABG Quiz](QUIZ_RESPIRATORY_PHYSIOLOGY_ABG.md)

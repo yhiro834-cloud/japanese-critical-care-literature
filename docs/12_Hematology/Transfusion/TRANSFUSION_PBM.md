@@ -14,6 +14,9 @@ ssot: true
 
 # Transfusion and Patient Blood Management
 
+> [!NOTE]
+> **図で確認：** [輸血反応を疑うときの初期対応](../../../assets/hematology/transfusion_reaction_response.svg) — 原因を決める前に輸血を止め、患者評価、照合、連絡、検査へ進む。
+
 ## 0. まず覚える
 
 輸血は、不足した血液成分を補い、酸素運搬や止血を支える治療である。**検査値を正常化するためでなく、患者の臨床問題、期待する効果、害を対応させて製剤を選ぶ。**

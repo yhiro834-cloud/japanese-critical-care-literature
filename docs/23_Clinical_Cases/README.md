@@ -2,6 +2,8 @@
 
 症例は[Clinical Case Template](../_templates/clinical-case.md)を使い、ABCDEと再評価で整理します。
 
+症例で用いる図は[図索引](../../FIGURE_INDEX.md)から選び、正解を図へ書き込まず、観察→仮説→介入→再評価を学習者が説明できる形で提示します。医学的内容は各症例からリンクするSSOTを正本とします。
+
 優先候補: SpO₂突然低下、血圧低下、尿量低下、lactate上昇、意識低下、high pressure alarm、low minute volume、auto-PEEP、asynchrony、VT/VF、ECMO low flow、CRRT alarm、ICP上昇。
 
 ## Cases

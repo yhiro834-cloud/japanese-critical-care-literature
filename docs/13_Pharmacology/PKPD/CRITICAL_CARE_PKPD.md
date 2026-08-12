@@ -14,6 +14,9 @@ ssot: true
 
 # Critical Care Pharmacokinetics and Dose Reassessment
 
+> [!NOTE]
+> **図で確認：** [重症患者の薬物動態と投与量再評価](../../../assets/pharmacology/pkpd_dose_reassessment.svg) — 初回負荷量と維持量を分け、臓器・体外循環・効果・毒性の変化で再評価する。
+
 ## 0. まず覚える
 
 薬物動態（pharmacokinetics: PK）は体が薬をどう処理するか、薬力学（pharmacodynamics: PD）は薬が体や病原体へどう作用するかを扱う。重症患者では浮腫、臓器不全、CRRT、ECMOなどで通常の投与設計が外れやすい。
