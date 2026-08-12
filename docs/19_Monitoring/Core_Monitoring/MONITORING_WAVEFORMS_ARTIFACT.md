@@ -81,7 +81,7 @@ monitor開始/転棟時にpatient identity、profile、lead/source、alarm volum
 ## References
 
 1. AARC Clinical Practice Guideline: Blood Gas Analysis and Hemoximetry. Respir Care. 2013. DOI: `10.4187/respcare.02786`.
-2. FDA. Pulse Oximeter Accuracy and Limitations. https://www.fda.gov/medical-devices/safety-communications/pulse-oximeter-accuracy-and-limitations-fda-safety-communication
+2. FDA. Pulse Oximeters（精度の限界と影響因子を含む）. https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters
 3. AACN. Practice Alert: Pulmonary Artery/Central Venous Pressure Monitoring in Adults. https://www.aacn.org/clinical-resources/practice-alerts
 
 ## Review log

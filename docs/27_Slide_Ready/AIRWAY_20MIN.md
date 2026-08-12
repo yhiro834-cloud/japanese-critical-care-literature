@@ -35,11 +35,11 @@ ssot: false
 11. 症例
 12. Take-home messages
 
-## Key Figures Needed
+## Optional Figure Extensions
 
-- airway assessment/rescue loop（未作成）
-- sustained exhaled CO₂ concept（未作成。PUMA原図を転載せず独自作図）
-- artificial airway troubleshooting flow（未作成）
+- airway assessment/rescue loopはSlide 2–5の箇条書きflowで扱う。独立図は将来の任意拡張。
+- sustained exhaled CO₂ conceptはSlide 6の説明で扱う。図示する場合もPUMA原図を転載せず独自作図する。
+- artificial airway troubleshootingはSlide 8のDOPES型flowで扱う。独立図は将来の任意拡張。
 
 ## References for Slides
 

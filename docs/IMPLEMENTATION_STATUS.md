@@ -18,9 +18,11 @@ Last audited: 2026-08-12
 - V2 staged-learning marker、placeholder/stale phase language search
 - `git diff --check`
 - 74 SSOT（template除外）のidentity/review log/minimum-depth/新人・ベテラン導線gate
+- 74 SSOTすべての直接外部Evidence identity（DOI/PMID/公式一次source）gate
 - 20領域のClinical Questions・Quiz・Slide Readyの集合一致
 - 20領域のSSOT・CQ・Quiz・Slide・Case・Visual/rationale同期台帳
 - 36 SVGのFigure Index一意登録、XML/16:9/accessibility、関連SSOT gate
+- 外部URL 122件の到達性監査と、失効URLの一次論文/現行公式URLへの修正
 
 詳細結果は[Final Cross-Audit 2026-08-12](FINAL_CROSS_AUDIT_2026-08-12.md)を参照。
 

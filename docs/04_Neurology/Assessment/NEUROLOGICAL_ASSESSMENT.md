@@ -82,6 +82,12 @@ sedative/analgesic、neuromuscular blocker、hypothermia、organ failureによ�
 2. 神経悪化でもABCDEと可逆的全身原因を先に確認する。
 3. last-known-wellと変化時刻は治療選択に直結する。
 
+## 8. References
+
+- Teasdale G, Jennett B. Assessment of coma and impaired consciousness: a practical scale. *Lancet*. 1974;2(7872):81-84. DOI: [10.1016/S0140-6736(74)91639-0](https://doi.org/10.1016/S0140-6736%2874%2991639-0). PMID: [4136544](https://pubmed.ncbi.nlm.nih.gov/4136544/).
+- Cook NF. The Glasgow Coma Scale: a European and global perspective on enhancing practice. *Crit Care Nurs Clin North Am*. 2021;33(1):89-99. DOI: [10.1016/j.cnc.2020.10.005](https://doi.org/10.1016/j.cnc.2020.10.005). PMID: [33526201](https://pubmed.ncbi.nlm.nih.gov/33526201/).
+- 急性脳卒中・頭蓋内圧・けいれんの疾患別根拠は、各SSOTのReferencesを参照する。
+
 ## Review Log
 
 | Date | Reviewer | Scope | Result |

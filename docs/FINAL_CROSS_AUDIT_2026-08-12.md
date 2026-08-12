@@ -16,7 +16,7 @@ ssot: false
 
 ## Scope and result
 
-Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、臨床安全、学習資産、Evidence運用の4軸で再監査した。74本の実体SSOT（執筆template除外）、21症例（README除外）、20領域のClinical Questions、Quiz、Slide Ready、36図を確認した。内部リンク・frontmatter・review log・最低深度に加え、全SSOTの平易な入口/新人/ベテラン導線、学習資産の領域集合、図の一意登録を自動testへ固定した。
+Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、臨床安全、学習資産、Evidence運用の4軸で再監査した。74本の実体SSOT（執筆template除外）、21症例（README除外）、20領域のClinical Questions、Quiz、Slide Ready、36図を確認した。内部リンク・frontmatter・review log・最低深度に加え、全SSOTの平易な入口/新人/ベテラン導線、直接参照できる外部Evidence identity、学習資産の領域集合、図の一意登録を自動testへ固定した。
 
 ## Verified gates
 
@@ -24,13 +24,15 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 |---|---:|---|
 | SSOT identity/review metadata | 74/74 | owner空欄や`review-needed`は未完了reviewとして可視化 |
 | V2 staged-learning markers | 74/74 | 平易な入口、新人看護、ベテラン深掘りの欠落を検出 |
+| Direct external Evidence identity | 74/74 | 各SSOTからDOI、PMIDまたは公式一次sourceへ直接到達 |
 | Internal Markdown links | pass | rename/move時のリンク切れをCIで検出 |
 | CQ / Quiz / Slide Ready topic parity | 20/20/20 | 一領域だけ教材が欠落する変更を検出 |
 | Clinical cases | 21 | 高risk場面を横断する想起練習を提供 |
 | Visual assets / Figure Index | 36/36 | SVGの一意登録、XML、16:9、title/desc、関連SSOTを検証 |
 | Learning asset coverage | 20/20 | SSOT・CQ・Quiz・Slide・Case・Visual/rationaleを行単位で追跡 |
 | Fixed bedside dosing scan | no unsafe standalone dose table detected | doseは最新protocol・患者・機器・施設条件へ接続 |
-| Python suite / whitespace | pass | repository-level regression gate |
+| External reference URLs | 122 audited | 84件はHTTP 2xx/3xx、35件はbot対策403、3件のFDA現行ページはbrowser索引で再確認 |
+| Python suite / whitespace | 36 passed / pass | repository-level regression gate |
 
 ## Clinical consistency checks
 
@@ -44,7 +46,11 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 
 これは教育用Knowledge Baseの構造・Evidence再監査完了を示すが、診療protocol承認を示さない。全医学SSOTは原則`review-needed`であり、各領域専門家、看護、薬剤、臨床工学、感染管理と施設委員会のsign-offが残る。機種固有設定、薬剤dose、法令、搬送、災害、臓器提供はlocal source of truthを優先する。
 
-36図の計画Phaseは完了した。Slide Readyに残る領域固有図は必須教材の欠落ではなく将来拡張候補であり、[Learning Asset Coverage](LEARNING_ASSET_COVERAGE.md)に既存図または図以外を優先する理由を記録した。新しい図はSSOT外の未検証情報を加えず、render確認とclinical reviewer確認を行う。
+36図の計画Phaseは完了した。Slide Readyの追加候補は、現行deck内の表・flowで扱う内容と将来の任意拡張を区別して明記した。[Learning Asset Coverage](LEARNING_ASSET_COVERAGE.md)には既存図または図以外を優先する理由を記録した。新しい図はSSOT外の未検証情報を加えず、render確認とclinical reviewer確認を行う。
+
+## External link audit interpretation
+
+2026-08-12にrepository内の外部URL 122件を機械確認した。HTTP 403はリンク切れと同一視せず、publisher/学会の自動アクセス制限としてDOI、PMID、公式索引を照合した。FDAのPulse Oximeters、Medical Device Safety、Infusion Pump Risk Reduction Strategiesはshellから404を返す一方、公式browser索引では現行ページとして確認できた。実際に失効していたABA旧guideline一覧、WHO旧publication URL、FDA旧safety communication、SCCM旧長大URLは、一次論文または現行公式URLへ修正した。外部サイトは将来変化するため、これは監査日時点の到達性記録である。
 
 ## Maintenance triggers
 
@@ -55,4 +61,5 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 
 ## Review log
 
+- 2026-08-12: 74/74 direct Evidence identity、122外部URL、Slide Readyの必須図/任意拡張表現を最終監査。36 tests passed; specialist sign-off remains open.
 - 2026-08-12: Phase 1–32 final structural, safety, learning-asset, and maintenance cross-audit completed; specialist sign-off remains open.
