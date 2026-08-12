@@ -2,8 +2,8 @@
 title: "Antimicrobial Therapy and Source Control"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > empiric regimen・dose・durationは感染源、重症度、臓器機能、体格、allergy、local antibiogram、過去培養、ECMO/CRRT等で異なります。本頁は固定処方表ではありません。医師・薬剤師・感染症/外科チームで個別化してください。
+
+## 0. まず覚える
+
+**経験的抗菌薬治療（empiric therapy）**は病原体確定前に確率に基づき開始する治療、**感染源制御（source control）**は膿瘍drainage、感染device抜去、手術等で感染の持続原因を除くことです。
+
+**簡単に言うと：** 抗菌薬を早く入れるだけでなく、適切な薬・量・経路・時刻と感染源処置をそろえ、結果が出たら狭める・止める判断をします。
+
+| 用語 | 意味 | 看護で見ること |
+|---|---|---|
+| antibiogram | 施設・地域の薬剤感受性集計 | empiric選択の背景。個人培養を優先する場合あり |
+| PK/PD | 薬物動態/薬力学 | 腎肝機能、体格、CRRT/ECMO、投与時間 |
+| de-escalation | 結果に応じcoverageを狭めること | 培養、臨床反応、診断確率、duration review |
+| source control | 感染源の除去・制御 | consultation、実施時刻、drain、検体、反応 |
+
+**新人看護師の到達点：** allergyの具体像、培養採取、薬剤・dose・route・開始時刻、腎機能、line、source control予定と反応を確認すること。
+
+**ベテラン向け深掘り：** SSC 2026の感染確率別timing、PK/PD変化、MDR risk、therapeutic drug monitoring、診断撤回、短期化を統合します。
 
 ## 1. Overview
 
@@ -92,4 +109,5 @@ infection probability × severity → empiric threshold/coverage
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / SSC 2026 / antimicrobial safety | Staged-learning introduction added; ID/pharmacy/surgery review needed |
 | 2026-08-11 | Codex | SSC/stewardship/source control / nursing | Evidence reviewed; ID/pharmacy/surgery/local antibiogram review needed |

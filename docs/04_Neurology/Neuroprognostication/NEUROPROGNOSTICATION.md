@@ -2,8 +2,8 @@
 title: "Neuroprognostication After Cardiac Arrest"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,22 @@ ssot: true
 
 > [!CAUTION]
 > 予後評価は生命維持治療の判断と自己成就的予言に直結します。早期・単一検査・交絡下の断定を避け、経験あるmultidisciplinary teamが家族の価値観と不確実性を含め判断します。brain death/death by neurologic criteriaとは別processです。
+
+## 0. まず覚える
+
+**神経予後評価（neuroprognostication）**は、心停止後昏睡患者の将来の神経学的回復可能性を、適切な時期に複数の方法で評価するprocessです。
+
+**簡単に言うと：** 早い時点の反応不良や1つの検査だけで「回復しない」と決めず、薬剤・体温・shock等の交絡を除き、時間を置いて複数所見を統合します。
+
+| 用語 | 意味 | 注意 |
+|---|---|---|
+| multimodal | 診察、EEG、SSEP、画像等を統合 | 相互に独立した所見の整合を確認 |
+| confounder | 評価を歪める交絡因子 | 鎮静、NMB、低体温、臓器不全、代謝異常 |
+| self-fulfilling prophecy | 早期予測が治療制限を通じ結果を作ること | 予後評価と治療中止判断を慎重に分離 |
+
+**新人看護師の到達点：** rewarming時刻、鎮静/NMB、神経所見、検査時刻を正確に記録し、家族へ断定的説明をしないこと。
+
+**ベテラン向け深掘り：** predictorごとのtiming・false-positive risk・測定法、goals of care、家族の価値観、不確実性の言語化を統合します。
 
 ## 1. Principles
 
@@ -70,4 +86,5 @@ coma after ROSC → ongoing careと原因治療 → timingを確認
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / timing / ethics communication | Staged-learning introduction added; neuroprognostication/ethics review needed |
 | 2026-08-11 | Codex | guideline / ethics / communication | Evidence reviewed; neuroprognostication/ethics review needed |

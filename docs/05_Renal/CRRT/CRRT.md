@@ -2,8 +2,8 @@
 title: "Kidney Replacement Therapy and CRRT"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,24 @@ ssot: true
 
 > [!CAUTION]
 > KRT/CRRTは高リスク臓器補助です。modality、dose、fluid removal、anticoagulation、electrolyte compositionは患者と機種・施設protocolで設定します。alarmを解除するために安全機構を迂回しないでください。
+
+## 0. まず覚える
+
+**腎代替療法（kidney replacement therapy：KRT）**は腎機能の一部を代替し、**持続的腎代替療法（CRRT）**は水分・溶質を連続的に調整する方法です。
+
+**簡単に言うと：** 腎臓病の原因を治す装置ではなく、患者の体液・電解質・酸塩基を支える回路治療です。
+
+| 用語 | 意味 | 看護で見ること |
+|---|---|---|
+| diffusion | 濃度差による溶質移動 | dialysate、flow、filter効率 |
+| convection | 水移動に伴う溶質除去 | replacement、濾過分画、clotting |
+| net fluid removal | 患者から正味除去する水分 | 処方、実測出納、血圧、refilling |
+| downtime | 治療停止時間 | prescribed doseとdelivered doseの差 |
+| RCA | 局所citrate抗凝固 | 回路/全身Ca、acid–base、肝代謝等を監視 |
+
+**新人看護師の到達点：** access→pump→filter→returnの回路、圧trend、処方、出納、抗凝固、体温、電解質を確認し、alarm原因を患者側と回路側に分けること。
+
+**ベテラン向け深掘り：** modality、dose delivery、filtration fraction、citrate accumulation、drug clearance、fluid removal tolerance、回復評価を統合します。
 
 ## 1. Overview
 
@@ -84,4 +102,5 @@ AKI + complication/trajectory → emergency indicationか
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / circuit safety / fluid removal | Staged-learning introduction added; nephrology/CE/pharmacy review needed |
 | 2026-08-11 | Codex | KRT evidence / CRRT safety / nursing | Evidence reviewed; nephrology/CRRT/pharmacy review needed |
