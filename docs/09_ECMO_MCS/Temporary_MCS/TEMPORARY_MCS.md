@@ -14,6 +14,27 @@ ssot: true
 
 # Temporary MCS: IABP and Microaxial Flow Pump
 
+## 0. まず覚える
+
+temporary MCS（temporary mechanical circulatory support、一時的機械的循環補助）は、重症心原性shockで心臓と循環を一時的に支えるdevice群である。**device名から選ぶのではなく、どの心室が、どの程度破綻し、何までつなぐのかを先に決める。**
+
+**簡単に言うと：** 装置のflowや血圧ではなく、臓器への血流が改善したか、合併症が増えていないか、次の出口があるかで効果を判断する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| MCS | mechanical circulatory support、機械的循環補助 | deviceごとに支える心室、flow、oxygenation、合併症が異なる |
+| IABP | intra-aortic balloon pump、大動脈内balloon pump | 拡張期にinflation、収縮期直前にdeflationして冠灌流と後負荷を補助 |
+| microaxial flow pump | 心室内から大動脈へ血液を送る軸流pump | position、preload、RV機能、support levelでflowが変化する |
+| unloading | 心室内の容量・圧負荷を減らすこと | 肺うっ血、心室径、弁開放、灌流と合わせて評価する |
+| hemolysis | 回路・pumpで赤血球が破壊されること | 暗色尿、LDH/plasma-free Hb、腎機能、device条件を確認 |
+| purge system | microaxial pump内部を保護する専用液・圧管理系 | systemic anticoagulationとは別に内容・圧・alarmを確認する |
+
+**新人看護師の到達点：** device種、support level、挿入部、末梢循環、波形/console、出血、溶血、尿量、調律、血管作動薬を基準値と比較する。alarm時はまず患者のpulse・灌流を確認し、device specialistを呼び、自己判断でpositionや設定を変更しない。
+
+> **報告例：** 「microaxial pumpでsuction alarmが反復し、尿量低下と暗色尿があります。血圧波形のpulsatilityも低下しています。position、preload/RV failure、出血、hemolysisを含む緊急評価をお願いします。」
+
+**ベテラン向け深掘り：** IABP augmentationや推定pump flowを臓器灌流の代用にせず、echo、invasive hemodynamics、lactate、尿量、意識、薬剤需要を統合する。escalation/reconfiguration/weaningは1時間・24時間のtrajectoryで更新し、recovery、durable support、移植、緩和を含むexit strategyを明示する。
+
 ## Device follows phenotype
 
 temporary MCSは血圧の数字を上げる目的だけで選ばない。LV/RV/biventricular failure、oxygenation、vascular anatomy、valve/aorta、arrhythmia、shock stage、neurological prognosis、reversibilityと**exit strategy**をshock teamで明示する。
@@ -54,10 +75,11 @@ patient/perfusion → power/console → position → preload/RV → afterload/rh
 
 ## References
 
-1. Geller BJ, et al. 2025 ACC Concise Clinical Guidance on Cardiogenic Shock. DOI: `10.1016/j.jacc.2025.02.018`; PMID: `40100174`.
+1. Sinha SS, et al. 2025 Concise Clinical Guidance: An ACC Expert Consensus Statement on the Evaluation and Management of Cardiogenic Shock. DOI: `10.1016/j.jacc.2025.02.018`; PMID: `40100174`. [Official ACC resource](https://www.acc.org/guidelines/guidelines/2025/03/17/19/42/cardiogenic-shock-concise-clinical-guidance).
 2. Thiele H, et al. Temporary Mechanical Circulatory Support in Infarct-Related Cardiogenic Shock: IPD Meta-analysis. Lancet. 2024. DOI: `10.1016/S0140-6736(24)01607-5`.
 
 ## Review log
 
+- 2026-08-12: V2導入、IABP/microaxial pump/unloading等の用語、新人のdevice安全と報告例を追加。2025 ACC公式sourceを再確認し著者表記を修正。
 - 2026-08-12: waveform/console interpretation、perfusion integration、purge/anticoagulation、alarm sequence、transport/exit deadlineを深化。device-specific validation required.
 - 2026-08-11: Evidence review.

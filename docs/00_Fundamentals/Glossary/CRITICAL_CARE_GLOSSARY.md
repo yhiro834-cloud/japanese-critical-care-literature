@@ -94,6 +94,18 @@ ssot: true
 | defibrillation | 除細動 | 心拍へ同期せず行う電気shock | 適応調律、CPR中断、全員clear、shock後CPR再開を確認 |
 | ROSC | 自己心拍再開（return of spontaneous circulation） | 心停止後に有効な自発循環が戻ること | 血圧・波形等で確認し、直ちにpost-arrest careへ移る |
 
+## ECMO・機械的循環補助
+
+| 用語 | 正式名称 | 簡単に言うと | 看護で結びつけること |
+|---|---|---|---|
+| ECMO | 体外式膜型人工肺（extracorporeal membrane oxygenation） | 体外回路でgas交換し、方式により循環も支える治療 | mode、flow、sweep、cannula、患者灌流、回路、電源・gasを確認 |
+| VV-ECMO | 静脈脱血・静脈返血ECMO | 主に肺のgas交換を支える方式 | 循環を直接補助しないこと、recirculation、native lungを確認 |
+| VA-ECMO | 静脈脱血・動脈返血ECMO | gas交換と循環を支える方式 | 左室負荷、右上肢酸素化、pulsatility、下肢循環を確認 |
+| sweep gas | sweep gas流量 | oxygenatorで主にCO₂を除去するgas流量 | 設定だけでなく血液ガス、native ventilation、接続を確認 |
+| IABP | 大動脈内balloon pump | 心拍に同期して冠灌流と後負荷を補助するdevice | trigger、timing、波形、挿入位置、末梢循環、出血を確認 |
+| unloading | 心室unloading | 心室内の容量・圧負荷を減らすこと | echo、肺うっ血、弁開放、全身灌流を統合 |
+| hemolysis | 溶血 | deviceや回路で赤血球が壊れること | 暗色尿、LDH/plasma-free Hb、腎機能、pump条件を確認 |
+
 ## 用語を使うときの3問
 
 1. これは患者の何を表す言葉・値か。
