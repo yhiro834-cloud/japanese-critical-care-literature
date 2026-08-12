@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">冠循環と心臓刺激伝導系の概要</title>
+  <desc id="desc">冠動脈は心筋へ血液を供給し、洞結節から房室結節、ヒス束、脚、プルキンエ線維へ電気刺激が伝わることを二つの模式図で示す。</desc>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="70" y="72" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">心臓の血流と電気：冠循環と刺激伝導を別々に理解する</text>
+  <text x="70" y="116" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#526B7A">虚血は心筋への血流、伝導障害は電気刺激の発生・伝達の問題。両者は関連するが同一ではない</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
+    <rect x="70" y="165" width="700" height="570" rx="34" fill="#FFF3F1" stroke="#C74440" stroke-width="5"/>
+    <text x="420" y="220" text-anchor="middle" font-size="31" font-weight="700" fill="#B21F2D">冠循環：心筋へ酸素を届ける血管</text>
+    <path d="M420 660 C250 570 230 370 345 285 C390 250 450 255 490 300 C530 250 605 270 625 340 C660 465 565 590 420 660Z" fill="#E98080" stroke="#9F3C39" stroke-width="7"/>
+    <path d="M470 305 C455 365 420 405 365 445 C330 475 305 525 300 580" fill="none" stroke="#FBE9A7" stroke-width="15"/>
+    <path d="M470 305 C520 350 555 410 570 475 C580 530 600 560 625 585" fill="none" stroke="#FBE9A7" stroke-width="15"/>
+    <path d="M470 330 C455 430 470 510 455 625" fill="none" stroke="#FFD86B" stroke-width="12"/>
+    <text x="115" y="310" font-size="21">右冠動脈系</text><line x1="240" y1="305" x2="345" y2="385" stroke="#31546D" stroke-width="4"/>
+    <text x="550" y="300" font-size="21">左冠動脈系</text><line x1="545" y1="315" x2="500" y2="355" stroke="#31546D" stroke-width="4"/>
+    <text x="420" y="700" text-anchor="middle" font-size="19" fill="#526B7A">冠動脈の分布には個人差がある。12誘導心電図・症状・画像・血行動態を統合</text>
+
+    <rect x="830" y="165" width="700" height="570" rx="34" fill="#F6F3FF" stroke="#5B5BD6" stroke-width="5"/>
+    <text x="1180" y="220" text-anchor="middle" font-size="31" font-weight="700" fill="#5B5BD6">刺激伝導系：収縮の順序をつくる電気経路</text>
+    <path d="M1180 660 C1010 570 990 370 1105 285 C1150 250 1210 255 1250 300 C1290 250 1365 270 1385 340 C1420 465 1325 590 1180 660Z" fill="#F2D4D4" stroke="#A86A6A" stroke-width="7"/>
+    <circle cx="1125" cy="330" r="22" fill="#F5B400"/><text x="925" y="310" font-size="21">洞結節</text><line x1="1010" y1="305" x2="1100" y2="325" stroke="#31546D" stroke-width="4"/>
+    <circle cx="1190" cy="415" r="19" fill="#F5B400"/><text x="925" y="410" font-size="21">房室結節</text><line x1="1035" y1="405" x2="1168" y2="415" stroke="#31546D" stroke-width="4"/>
+    <path d="M1125 350 C1150 370 1170 390 1190 415 M1190 435 V485 M1190 485 L1135 560 M1190 485 L1275 560" fill="none" stroke="#F5B400" stroke-width="12" stroke-linecap="round"/>
+    <path d="M1135 560 C1085 590 1080 625 1100 650 M1275 560 C1330 590 1335 625 1310 650" fill="none" stroke="#F5B400" stroke-width="8"/>
+    <text x="1375" y="450" font-size="21">ヒス束</text><line x1="1360" y1="445" x2="1205" y2="460" stroke="#31546D" stroke-width="4"/>
+    <text x="1370" y="590" font-size="21">左右脚・末梢網</text><line x1="1355" y1="585" x2="1280" y2="570" stroke="#31546D" stroke-width="4"/>
+    <text x="1180" y="700" text-anchor="middle" font-size="19" fill="#526B7A">心電図は電気活動の体表記録。脈拍・血圧・意識など機械的反応も同時に確認</text>
+  </g>
+  <rect x="170" y="780" width="1260" height="62" rx="22" fill="#EAF2F7"/>
+  <text x="800" y="820" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" font-weight="700" fill="#172B3A">胸痛・虚血性変化・不整脈では、電気所見だけでなく循環不全と時間依存の再灌流適応を評価</text>
+  <text x="800" y="880" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="17" fill="#526B7A">FIG-CARD-ANAT-001 · 分布を単純化した教育用模式図 · ACS・不整脈SSOTを参照 · 確認日 2026-08-12</text>
+</svg>
