@@ -35,6 +35,14 @@ ssot: true
 
 **ベテラン向け深掘り：** modality、dose delivery、filtration fraction、citrate accumulation、drug clearance、fluid removal tolerance、回復評価を統合します。
 
+## Visual Series：CRRT回路・除去機序・alarm
+
+1. [CRRT回路の基本](../../../assets/crrt/crrt_circuit.svg)：血液経路と透析液・補充液・排液の経路を分けて追う。
+2. [Diffusion・convection・限外濾過](../../../assets/crrt/crrt_clearance_mechanisms.svg)：溶質と水分が除去される仕組みを比較する。
+3. [CRRT alarmの臨床推論](../../../assets/crrt/crrt_alarm_reasoning.svg)：患者からmachineまでを順に確認し、安全機構を迂回しない。
+
+図は機種別の配管図・操作manualではありません。圧の名称と符号、液接続、alarm対応は、使用機器のmanual、施設protocol、trained teamの指示を優先します。
+
 ## 1. Overview
 
 KRTはsolute、acid–base、electrolyte、volumeを調整しますが腎障害の原因を治療しません。開始はcreatinine/BUNの単一閾値でなく、life-threatening complication、trajectory、demand–capacity imbalance、fluid/solute burden、回復可能性、goalsを統合します。
