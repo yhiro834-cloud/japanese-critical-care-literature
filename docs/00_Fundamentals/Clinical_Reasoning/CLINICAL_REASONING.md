@@ -14,6 +14,20 @@ ssot: true
 
 # Clinical Reasoning in Critical Care
 
+## 0. まず覚える
+
+**臨床推論（clinical reasoning）**は、患者の情報から問題を表現し、危険な仮説を比較し、行動と再評価で仮説を更新する過程です。
+
+**簡単に言うと：** 最初の診断名へ当てはめるのではなく、「何が今危険か」「別の説明は何か」「介入後にどう変わったか」を繰り返します。
+
+**新人看護師の到達点：** baselineとの差、変化時刻、ABCDE、測定の信頼性、直前の薬剤/処置、実施事項と反応を一つの短い報告へまとめること。
+
+**ベテラン向け深掘り：** pretest probability、反証所見、混合病態、認知bias、iatrogenic/device causeを明示し、治療反応を証明と誤認せずdiagnostic timeoutで再構成します。
+
+### 報告例
+
+> 「○時からbaselineと比べて○○が悪化し、主な生理異常は○○です。最も危険な仮説は○○、反証所見は○○です。介入○○後も○○が残るため、再評価と代替原因の確認をお願いします。」
+
 ## From data to action
 
 1. one-line problem representation：誰が、どのbaselineから、どの速度で、何が悪化したか。

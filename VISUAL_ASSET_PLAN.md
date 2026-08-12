@@ -63,3 +63,4 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 - 2026-08-12 Phase 4B complete: FIG-R-CRRT-001–003、FIG-E-ECMO-001–003。本文・Slide Readyへ統合後、SVG/XMLとrenderを検証。
 - 2026-08-12 Phase 3 complete: FIG-V-VENT-005、FIG-I-SEPSIS-001を追加し、Phase 3残件を完了。
 - 2026-08-12 Phase 5 complete: FIG-CR-001–004、FIG-P-POCUS-001を追加し、本文・症例・Slide Readyへ統合。
+- 2026-08-12 Visual plan complete: planned 36 figures are implemented, indexed, linked, XML-tested, and render-reviewed. Additional domain-specific figures are future extensions, not untracked required deliverables.

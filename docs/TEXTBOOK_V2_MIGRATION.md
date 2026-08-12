@@ -24,8 +24,8 @@ Last audited: 2026-08-12
 
 | Phase | 範囲 | 主な成果物 | 状態 |
 |---|---|---|---|
-| V2-0 | 全体設計 | 執筆基準、用語集、template、画像基準 | 進行中 |
-| V2-1 | Fundamentals / ABCDE | 安全な初期評価、正常と異常、報告、再評価 | 用語基盤を実装、ABCDE本文は未着手 |
+| V2-0 | 全体設計 | 執筆基準、用語集、template、画像基準 | 完了 |
+| V2-1 | Fundamentals / ABCDE | 安全な初期評価、正常と異常、報告、再評価 | Fundamentals V2導線とABCDE 6図を実装 |
 | V2-2 | Airway / Breathing | 酸素療法、人工気道、人工呼吸、ARDS、離脱 | Airway 3章とBreathing 8章のV2導線を実装 |
 | V2-3 | Circulation / Shock | 血圧・flow・灌流、輸液、血管作動薬、POCUS | 主要6章のV2導線を実装 |
 | V2-4 | Neuro / Renal / Infection | 意識・ICP、AKI/CRRT、感染・sepsis | 主要10章のV2導線を実装 |
@@ -34,8 +34,8 @@ Last audited: 2026-08-12
 | V2-7 | 薬剤 / 栄養 / PADIS / Rehab | 投薬安全、comfort、回復 | 主要7章のV2導線を実装 |
 | V2-8 | Monitoring / Devices / Nursing | 系統的観察、alarm、handover、家族支援 | 手技2章・monitor/device/alarm/看護各1章のV2導線を実装 |
 | V2-9 | Special populations / Toxicology / Ethics | 対象別例外と意思決定 | 感染管理2章・特殊患者2章・中毒環境2章・倫理system 2章のV2導線を実装 |
-| V2-10 | Cases / Quiz / Slides / Figures | 全教材の本文同期と勉強会QA | 未着手 |
-| V2-11 | Final audit | link、用語、Evidence、画像、専門家review台帳 | 未着手 |
+| V2-10 | Cases / Quiz / Slides / Figures | 全教材の本文同期と勉強会QA | 20領域の同期台帳、21症例、36図を実装・監査 |
+| V2-11 | Final audit | link、用語、Evidence、画像、専門家review台帳 | 構造監査中。多職種専門家reviewと利用者テストは別途継続 |
 
 ## 各ページの監査項目
 
@@ -67,7 +67,9 @@ Last audited: 2026-08-12
 - [x] 手技2章・monitoring・device・緊急alarm・ICU看護のV2導線
 - [x] 感染管理・特殊患者・中毒環境・倫理systemの主要8章V2導線
 - [x] 画像の用語説明・初学者導線・勉強会利用基準
-- [ ] 既存SSOT全ページのV2変換
+- [x] 74実体SSOT全ページの平易な入口・新人/ベテラン二層導線
+- [x] 20領域のSSOT・CQ・Quiz・Slide・Case・Visual/rationale同期台帳
+- [x] 36 SVGのFigure Index登録、16:9/アクセシビリティ/XML検証、目視render監査
 - [ ] 多職種専門家review
 - [ ] 新人・ベテラン看護師によるユーザーテスト
 

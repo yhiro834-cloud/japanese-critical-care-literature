@@ -14,6 +14,20 @@ ssot: true
 
 # Systematic ICU Assessment
 
+## 0. まず覚える
+
+**系統的ICU評価**は、直ちに危険な問題、臓器ごとのtrajectory、計画の実行性を同じ順序で確認する方法です。
+
+**簡単に言うと：** 頭から足まで所見を並べるだけでなく、今の最大の危険、変化の方向、次に悪化した時の行動まで一続きにします。
+
+**新人看護師の到達点：** ABCDE、monitor/device、臓器別所見、投薬・出納、未完了taskを一定順序で確認し、「いつから・何が変化・何をした・どう反応した」を報告すること。
+
+**ベテラン向け深掘り：** competing goals、iatrogenic harm、liberation、pending result ownership、patient values、transfer readinessを統合し、各problemへgoal・stop/escalation trigger・owner・期限を割り当てます。
+
+### 報告例
+
+> 「本shiftの最大の脅威は○○で、○時から○○へ変化しています。現在の支持は○○、反応は○○、未回収結果は○○でownerは○○です。悪化trigger○○なら○○を開始します。」
+
 ## Three passes
 
 ### 1. Immediate threats

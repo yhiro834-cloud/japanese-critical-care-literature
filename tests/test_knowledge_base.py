@@ -64,6 +64,25 @@ def test_ssot_pages_have_required_identity_and_review_log():
     assert not failures, "SSOT audit failures:\n" + "\n".join(failures)
 
 
+def test_real_ssot_pages_have_v2_staged_learning_markers():
+    failures = []
+    for page in DOCS.rglob("*.md"):
+        if "_templates" in page.parts:
+            continue
+        text = page.read_text()
+        if "\nssot: true\n" not in text:
+            continue
+        required_patterns = {
+            "plain-language entry": r"簡単に言うと|このページは|この章の使い方",
+            "novice guidance": r"新人看護師(?:の到達点|の到達目標|が見ること|：)",
+            "advanced guidance": r"ベテラン(?:向け深掘り|：)",
+        }
+        for label, pattern in required_patterns.items():
+            if not re.search(pattern, text):
+                failures.append(f"{page.relative_to(ROOT)}: missing {label}")
+    assert not failures, "V2 staged-learning failures:\n" + "\n".join(failures)
+
+
 def test_learning_asset_topic_sets_remain_aligned():
     expected = {
         "AIRWAY", "BEDSIDE_SYSTEMS_NURSING", "CARDIAC_CRITICAL_CARE",
@@ -118,3 +137,30 @@ def test_figure_index_related_knowledge_pages_exist():
         if not (ROOT / target).exists():
             missing.append(target)
     assert not missing, "Indexed knowledge pages missing:\n" + "\n".join(missing)
+
+
+def test_every_svg_is_registered_once_in_figure_index():
+    index = (ROOT / "FIGURE_INDEX.md").read_text()
+    indexed = re.findall(r"`(assets/[^`]+\.svg)`", index)
+    actual = {str(path.relative_to(ROOT)) for path in (ROOT / "assets").rglob("*.svg")}
+    assert len(indexed) == len(set(indexed)), "Figure Index contains duplicate SVG registrations"
+    assert set(indexed) == actual, (
+        "Figure Index / asset mismatch:\n"
+        f"unindexed={sorted(actual - set(indexed))}\n"
+        f"missing={sorted(set(indexed) - actual)}"
+    )
+
+
+def test_learning_asset_coverage_registers_all_twenty_domains():
+    coverage = (DOCS / "LEARNING_ASSET_COVERAGE.md").read_text()
+    registered = set(re.findall(r"^\| ([A-Z][A-Z0-9_]+) \|", coverage, re.MULTILINE))
+    expected = {
+        "AIRWAY", "BEDSIDE_SYSTEMS_NURSING", "CARDIAC_CRITICAL_CARE",
+        "CRITICAL_CARE_FUNDAMENTALS", "ECMO_MCS", "ENDOCRINE_METABOLIC",
+        "GI_LIVER_PANCREAS", "HEMATOLOGY", "HEMODYNAMICS",
+        "INFECTION_CONTROL_PROCEDURES", "INFECTION_SEPSIS", "NEUROCRITICAL",
+        "PADIS_REHAB_PICS", "PHARMACOLOGY_NUTRITION", "RENAL",
+        "RESPIRATORY_PHYSIOLOGY_ABG", "RESPIRATORY_SUPPORT",
+        "SHOCK_SEPTIC_SHOCK", "SPECIAL_TOXICOLOGY_SYSTEMS", "TRAUMA_BURNS",
+    }
+    assert registered == expected
