@@ -14,6 +14,11 @@ ssot: true
 
 # Pain, Sedation, Delirium, Sleep, and Withdrawal
 
+![痛み・鎮静・せん妄・睡眠・離床・意思疎通の日次サイクル](../../../assets/padis/padis_daily_cycle.svg)
+
+> [!NOTE]
+> 患者を静かにすることを目標とせず、痛み、覚醒、せん妄、睡眠、活動、意思疎通を同じ患者目標へつなげます。尺度は診断そのものではなく、原因検索と反応評価を支える道具です。
+
 ## 0. まず覚える
 
 PADISはpain（痛み）、agitation/sedation（興奮・鎮静）、delirium（せん妄）、immobility（不動）、sleep disruption（睡眠障害）を相互に扱う考え方である。行動を薬で抑える前に、**痛み、低酸素、shock、device、不安、離脱などの原因を評価する。**
