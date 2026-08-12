@@ -39,7 +39,7 @@ ssot: false
 
 - diagnostic probability loopはSlide 2–4の再評価手順で扱う。独立図は将来の任意拡張。
 - source-control decision flowはSlide 5–7の判断表で扱う。独立図は将来の任意拡張。
-- antibiotic timeout checklistはSlide 8–10の確認項目で扱う。独立図は将来の任意拡張。
+- [抗菌薬タイムアウト](../../assets/infection/antibiotic_timeout.svg)（作成済み：Slide 8–10）。感染確率、培養、感染源制御、狭域化・中止・終了日の再処方を示す。
 
 ## Available Core Figure
 

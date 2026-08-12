@@ -38,7 +38,7 @@ ssot: false
 ## Core Figures and Optional Extension
 
 - AKI trajectoryはSlide 2–4の時系列表で扱う。独立図は将来の任意拡張。
-- hyperkalemiaの生理はSlide 5–6の機序表で扱う。独立図は将来の任意拡張。
+- [高カリウム血症の目的別対応](../../assets/renal/hyperkalemia_actions.svg)（作成済み：Slide 5–6）。心筋保護、一時的移動、体外除去、再評価を分ける。
 - [CRRT回路の基本](../../assets/crrt/crrt_circuit.svg)（作成済み：Slide 8）
 - [CRRTの除去機序](../../assets/crrt/crrt_clearance_mechanisms.svg)（作成済み：Slide 8）
 - [CRRT alarmの臨床推論](../../assets/crrt/crrt_alarm_reasoning.svg)（作成済み：Slide 10/11）

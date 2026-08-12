@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">糖尿病性ケトアシドーシスと高浸透圧高血糖状態の並行治療</title>
+  <desc id="desc">糖尿病性ケトアシドーシスと高浸透圧高血糖状態で、輸液、カリウム安全確認、インスリン、誘因治療を並行し、血糖値だけでなくケトン体、酸塩基、浸透圧、意識を再評価する流れを示す。</desc>
+  <defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7Z" fill="#31546D"/></marker></defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#172B3A">高血糖緊急症：血糖値だけを下げる治療ではない</text>
+  <text x="70" y="114" font-family="Arial, sans-serif" font-size="22" fill="#526B7A">糖尿病性ケトアシドーシスと高浸透圧高血糖状態は重なることがある</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="65" y="165" width="700" height="145" rx="28" fill="#FFF2D9"/>
+    <text x="415" y="214" text-anchor="middle" font-size="28" font-weight="700" fill="#8A5A00">糖尿病性ケトアシドーシス（DKA）</text>
+    <text x="415" y="255" text-anchor="middle" font-size="21">ケトン体増加 ＋ 代謝性アシドーシスが中心</text>
+    <text x="415" y="288" text-anchor="middle" font-size="18">血糖値が著明に高くない場合もある</text>
+    <rect x="835" y="165" width="700" height="145" rx="28" fill="#EEEAFE"/>
+    <text x="1185" y="214" text-anchor="middle" font-size="28" font-weight="700" fill="#51459B">高浸透圧高血糖状態（HHS）</text>
+    <text x="1185" y="255" text-anchor="middle" font-size="21">高度脱水 ＋ 高浸透圧 ＋ 意識変化が中心</text>
+    <text x="1185" y="288" text-anchor="middle" font-size="18">急激な浸透圧変化を避ける</text>
+
+    <rect x="65" y="385" width="330" height="245" rx="28" fill="#EAF2F7"/>
+    <text x="230" y="435" text-anchor="middle" font-size="27" font-weight="700" fill="#31546D">1 輸液</text>
+    <text x="95" y="482" font-size="20">循環、脱水、Na、浸透圧</text>
+    <text x="95" y="520" font-size="20">心・腎機能を見て調整</text>
+    <text x="95" y="570" font-size="18" fill="#B21F2D">一律の速度にしない</text>
+    <rect x="445" y="385" width="330" height="245" rx="28" fill="#FFF2D9"/>
+    <text x="610" y="435" text-anchor="middle" font-size="27" font-weight="700" fill="#8A5A00">2 カリウム安全</text>
+    <text x="475" y="482" font-size="20">血清K、腎機能、尿量、心電図</text>
+    <text x="475" y="520" font-size="20">インスリン前後の低下を予測</text>
+    <text x="475" y="570" font-size="18" fill="#B21F2D">著明な低Kを見逃さない</text>
+    <rect x="825" y="385" width="330" height="245" rx="28" fill="#E7F6EE"/>
+    <text x="990" y="435" text-anchor="middle" font-size="27" font-weight="700" fill="#26734D">3 インスリン</text>
+    <text x="855" y="482" font-size="20">施設手順に沿って開始・調整</text>
+    <text x="855" y="520" font-size="20">必要時はブドウ糖を併用</text>
+    <text x="855" y="570" font-size="18" fill="#B21F2D">血糖低下だけで終了しない</text>
+    <rect x="1205" y="385" width="330" height="245" rx="28" fill="#FDE9E8"/>
+    <text x="1370" y="435" text-anchor="middle" font-size="27" font-weight="700" fill="#B21F2D">4 誘因を治療</text>
+    <text x="1235" y="482" font-size="20">感染、虚血、薬剤、摂取低下</text>
+    <text x="1235" y="520" font-size="20">投与中断や入手困難も確認</text>
+    <text x="1235" y="570" font-size="18">再発予防まで治療に含める</text>
+  </g>
+  <g stroke="#31546D" stroke-width="4" fill="none" marker-end="url(#arrow)"><path d="M398 510 H437"/><path d="M778 510 H817"/><path d="M1158 510 H1197"/></g>
+  <rect x="110" y="690" width="1380" height="112" rx="28" fill="#F4F7F9"/>
+  <text x="800" y="732" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#172B3A">再評価：血糖・カリウム・pH／重炭酸・血中ケトン体・Na／浸透圧・意識・尿量</text>
+  <text x="800" y="772" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#526B7A">K＝potassium（カリウム）／Na＝sodium（ナトリウム）。値の変化速度と介入時刻を一緒に記録する。</text>
+  <text x="800" y="862" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#526B7A">FIG-ENDO-001・Hyperglycemic Crises Consensus Report 2024／DKA・HHS SSOT・確認日 2026-08-12</text>
+</svg>

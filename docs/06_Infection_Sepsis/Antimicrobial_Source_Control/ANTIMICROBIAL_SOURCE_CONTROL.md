@@ -60,6 +60,10 @@ drainage、debridement、device removal/exchange、obstruction relief、surgery�
 
 ## 4. Diagnostic / Antibiotic Timeout
 
+![抗菌薬タイムアウトで治療を再処方する](../../../assets/infection/antibiotic_timeout.svg)
+
+**Figure FIG-I-ABX-001 — 抗菌薬タイムアウト。** 経験的抗菌薬を開始した後、新しい結果ごとに感染確率、培養、感染源制御、臓器機能、反応と害を再評価し、狭域化、中止、用量・経路、終了日を再決定する。培養陰性だけで感染を否定せず、培養陰性だけを理由に広域薬を漫然と継続もしない。
+
 24–72時間または新しい結果ごとに：
 
 1. infection probability/sourceは変わったか
