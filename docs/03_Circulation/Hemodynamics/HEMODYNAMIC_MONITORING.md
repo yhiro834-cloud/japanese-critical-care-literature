@@ -2,8 +2,8 @@
 title: "Hemodynamic Monitoring and Fluid Responsiveness"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > monitor値は診断ではありません。測定品質、適用条件、患者の灌流、介入への反応を確認し、単一のMAP・CVP・PPV・SVV・CO値で治療しないでください。
+
+## 0. まず覚える
+
+**血行動態（hemodynamics）**は、心臓と血管によって血液がどの圧・流れで全身を巡るかを扱う考え方です。
+
+**簡単に言うと：** monitorの数値を集めるのではなく、「圧はあるか」「流れはあるか」「臓器へ届いているか」を確かめます。
+
+| 用語 | 簡単な意味 | 限界 |
+|---|---|---|
+| MAP | 平均的な動脈圧 | 適切な目標は患者と灌流反応で異なる |
+| CVP | 中心静脈圧 | volume量やfluid responsivenessを単独で示さない |
+| SV/CO | 1回/1分の心拍出 | 測定法、調律、換気条件の影響を受ける |
+| fluid responsiveness | 輸液でSV/COが増える可能性 | 輸液が必要・安全という意味ではない |
+
+**新人看護師の到達点：** transducer level/zero、波形、cuffとの整合、体位、調律を確認し、患者の灌流所見と一緒に報告すること。
+
+**ベテラン向け深掘り：** dynamic testの適用条件、RV failure、腹腔/胸腔圧、arrhythmia、spontaneous effort、測定法間差を統合します。
 
 ## 1. Overview
 
@@ -98,4 +115,5 @@ fluid responsivenessは「preload増加でSV/COが増える可能性」であり
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / measurement limits / nursing | Staged-learning introduction added; hemodynamics expert review needed |
 | 2026-08-11 | Codex | guideline / physiology / nursing | Evidence reviewed; hemodynamics expert review needed |

@@ -2,8 +2,8 @@
 title: "Fluid Therapy: Resuscitation to De-escalation"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > fluidは薬剤です。種類、量、速度、目的、response、stop criteria、蓄積した害を処方単位で考えます。shock phenotypeにかかわらず一律量を投与しないでください。
+
+## 0. まず覚える
+
+**輸液療法（fluid therapy）**は、血管内へ液体を投与し、循環や水分・電解質を支える治療です。
+
+**簡単に言うと：** 「入れること」ではなく、目的を決め、少量ごとに反応と害を確認し、不要になれば止めて蓄積を減らすprocessです。
+
+| 用語 | 意味 | 注意 |
+|---|---|---|
+| fluid bolus | 短時間に投与し反応を見る輸液 | 目的、量、速度、停止条件を共有 |
+| responsiveness | 輸液でflowが増える可能性 | benefitや必要性と同義ではない |
+| fluid balance | 一定期間のin−out | 体重、浮腫、肺、腎、測定誤差と統合 |
+| de-resuscitation | 安定後に余剰水分を減らす段階 | perfusionと循環安定性を監視 |
+
+**新人看護師の到達点：** 輸液の種類・目的・量・速度・開始時刻を確認し、血圧だけでなく呼吸、尿量、皮膚、浮腫、介入反応を記録すること。
+
+**ベテラン向け深掘り：** fluid tolerance、右心/左心、肺水分、腎、chloride、累積balance、vasopressorとのtrade-offを評価します。
 
 ## 1. Overview
 
@@ -81,4 +98,5 @@ hypoperfusion → phenotype/出血/閉塞を同時評価
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / fluid phases / reassessment | Staged-learning introduction added; fluid/RRT review needed |
 | 2026-08-11 | Codex | fluid phases / guideline / nursing | Evidence reviewed; local fluid/RRT protocol review needed |

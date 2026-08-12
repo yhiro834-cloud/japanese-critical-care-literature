@@ -2,8 +2,8 @@
 title: "Septic Shock"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,27 @@ ssot: true
 
 > [!CAUTION]
 > 成人の教育資料です。小児、妊産婦、免疫不全、熱傷などへ無条件に外挿しません。抗菌薬、輸液、vasopressor、source controlは患者・感染源・臓器機能・施設protocolに応じて担当チームが判断します。
+
+## 0. まず覚える
+
+**敗血症（sepsis）**は、感染に対する制御不全の生体反応によって生命を脅かす臓器障害を生じた状態です。**敗血症性ショック（septic shock）**は、その中でも強い循環・細胞・代謝異常を伴う高リスクの状態です。
+
+**簡単に言うと：** 感染だけでなく、脳・肺・循環・腎などの臓器が傷み始めている状態で、感染治療と循環評価を同時に急ぎます。
+
+| 用語 | 意味 | 看護で結びつけること |
+|---|---|---|
+| source control | 感染源を除去・制御すること | drain、手術、device抜去等の進捗と時刻 |
+| lactate | 産生と代謝・除去の差を反映する指標 | 低灌流だけと決めずtrendと原因を確認 |
+| vasoplegia | 血管toneが低下し圧を保ちにくい状態 | MAP、灌流、昇圧薬反応を統合 |
+| SOFA | 臓器障害を評価するscore | bedsideの変化と臨床診断を置き換えない |
+
+**新人看護師の到達点：** 感染疑いと意識・呼吸・循環・尿量の変化を認識し、培養、抗菌薬、輸液、昇圧薬、source controlの時刻と反応を追うこと。
+
+**ベテラン向け深掘り：** SSC 2026の推奨強度、混合shock、fluid responsiveness/tolerance、心機能、微小循環、蘇生後のfluid removalと回復支援を統合します。
+
+### 報告例
+
+> 「感染源は○○を疑い、○時から臓器障害として○○があります。培養○時、抗菌薬○時、source controlは○○です。MAP、CRT、意識、尿量、lactateは○○で、輸液/昇圧薬後に○○へ変化しています。」
 
 ## 1. Overview
 
@@ -241,4 +262,5 @@ Official records: https://pubmed.ncbi.nlm.nih.gov/26903338/ · https://pubmed.nc
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / SSC 2026 / nursing timeline / reassessment | Staged-learning introduction added; sepsis specialist and nurse educator review needed |
 | 2026-08-11 | Codex | 2026 SSC identity/recommendations, PubMed identifiers, clinical reasoning, nursing safety | Initial evidence review complete; local protocol and expert review still required |

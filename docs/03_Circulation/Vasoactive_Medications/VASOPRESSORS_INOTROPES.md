@@ -2,8 +2,8 @@
 title: "Vasopressors and Inotropes"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,20 @@ ssot: true
 
 > [!CAUTION]
 > vasoactive薬は高リスク持続静注薬です。濃度・投与経路・titration・最大量は施設protocolと処方を優先し、本頁を用量表として使用しないでください。extravasation、ischemia、arrhythmia、急な中断に備えます。
+
+## 0. まず覚える
+
+**昇圧薬（vasopressor）**は主に血管toneを高めて圧を支え、**強心薬（inotrope）**は主に心収縮を支える薬です。実際の作用は重なります。
+
+**簡単に言うと：** 血圧を上げる薬ではなく、循環破綻の原因に合わせて圧・flow・灌流を支える高リスク薬です。
+
+**新人看護師の到達点：** 薬剤名、濃度、投与経路、pump、接続、目標、titration指示を確認し、血圧・調律・末梢循環・尿量・漏出を監視すること。
+
+**ベテラン向け深掘り：** receptor作用だけでなく、shock phenotype、CO、afterload、RV、arrhythmia、末梢/腸管/皮膚灌流、dose escalationの原因を評価します。
+
+### 報告例
+
+> 「薬剤○、濃度○、速度○、経路○です。MAP○に対し○分で増量○回、意識・CRT・尿量・lactate・調律は○○です。line接続と漏出は○○、必要量が増える原因を○○まで確認しています。」
 
 ## 1. Overview
 
@@ -81,4 +95,5 @@ hypotension + hypoperfusion → SVR/CO phenotype → targetを個別化
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / infusion safety / phenotype | Staged-learning introduction added; pharmacist review needed |
 | 2026-08-11 | Codex | pharmacology / monitoring / nursing | Evidence reviewed; pharmacist and local concentration review needed |
