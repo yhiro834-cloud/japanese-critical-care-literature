@@ -83,7 +83,7 @@ ssot: true
 ## References
 
 1. Cartotto R, et al. American Burn Association Clinical Practice Guidelines on Burn Shock Resuscitation. J Burn Care Res. 2024;45:565-589. DOI: `10.1093/jbcr/irad125`; PMID: `38051821`.
-2. American Burn Association. Clinical Guidelines. https://ameriburn.org/quality-care/clinical-guidelines/ (verified 2026-08-11)
+2. American Burn Association. Burn Shock Resuscitation Clinical Practice Guideline. 上記journal article（DOI/PMID）を一次参照とする（旧guideline一覧URLは2026-08-12にリンク切れを確認したため削除）。
 
 ## Review log
 

@@ -265,7 +265,9 @@ Mechanismと原因に対応します。酸素化だけでなくairway patency、
 
 ## 22. References
 
-ABG検査とSpO₂精度の検証済みReferencesは[ABG References](../ABG/ABG_INTERPRETATION.md#22-references)を参照。
+- Blakeman TC, et al. AARC Clinical Practice Guideline: Patient-Ventilator Assessment. *Respir Care*. 2024;69(8):1042-1054. DOI: [10.4187/respcare.12007](https://doi.org/10.4187/respcare.12007). PMID: [39048148](https://pubmed.ncbi.nlm.nih.gov/39048148/).
+- Qaseem A, et al. Appropriate Use of High-Flow Nasal Oxygen in Hospitalized Patients for Initial or Postextubation Management of Acute Respiratory Failure. *Ann Intern Med*. 2021;174(7):977-984. DOI: [10.7326/M20-7533](https://doi.org/10.7326/M20-7533). PMID: [33900796](https://pubmed.ncbi.nlm.nih.gov/33900796/).
+- ABG採取・解釈とpulse oximetry（パルスオキシメトリ）の限界に関する追加根拠は[ABG References](../ABG/ABG_INTERPRETATION.md#22-references)を参照。
 
 ## Review Log
 

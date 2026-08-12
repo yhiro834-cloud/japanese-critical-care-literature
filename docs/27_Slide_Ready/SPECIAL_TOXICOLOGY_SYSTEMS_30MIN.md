@@ -30,12 +30,12 @@ ssot: false
 6. 24–28分：human factors、搬送、災害、QI
 7. 28–30分：症例とtake-home messages
 
-## Figure suggestions
+## Optional Figure Extensions
 
 - 「common ABCDE → population-specific modifiers → specialist/local protocol」のflow
 - 「incident → system analysis → small test → measurement」のloop
 
-図は未作成。PowerPoint生成時にKnowledge Base外の情報で補完しない。
+現行deckは本文のflowとloopをそのまま描画すれば成立する。独立図は将来の任意拡張とし、PowerPoint生成時にKnowledge Base外の情報で補完しない。
 
 ## Speaker notes
 

@@ -35,11 +35,11 @@ ssot: false
 11. 症例
 12. Take-home messages
 
-## Key Figures Needed
+## Optional Figure Extensions
 
-- diagnostic probability loop（未作成）
-- source-control decision flow（未作成）
-- antibiotic timeout checklist（未作成）
+- diagnostic probability loopはSlide 2–4の再評価手順で扱う。独立図は将来の任意拡張。
+- source-control decision flowはSlide 5–7の判断表で扱う。独立図は将来の任意拡張。
+- antibiotic timeout checklistはSlide 8–10の確認項目で扱う。独立図は将来の任意拡張。
 
 ## Available Core Figure
 

@@ -35,10 +35,10 @@ ssot: false
 11. 症例discussion
 12. take-home messages
 
-## Key Figures Needed
+## Core Figures and Optional Extension
 
 - [人工呼吸器の図解クイックガイド](../02_Breathing/Mechanical_Ventilation/VENTILATOR_VISUAL_QUICK_GUIDE.md)（初学者・スマートフォン向け）
-- 呼吸support escalationと再評価loop（未作成）
+- 呼吸support escalationと再評価はSlide 1–4の段階的flowで扱う。独立図は将来の任意拡張。
 - [気道内圧の構成](../../assets/ventilation/airway_pressure_components.svg)（作成済み）
 - [PpeakとPplatの比較](../../assets/ventilation/peak_vs_plateau_pressure.svg)（作成済み）
 - [正常時間波形の基本](../../assets/ventilation/normal_time_waveforms.svg)（作成済み）
@@ -47,7 +47,7 @@ ssot: false
 - [ARDS肺胞障害](../../assets/breathing/ards_alveolar_injury.svg)（作成済み：Slide 7）
 - [ARDSのshunt機序](../../assets/breathing/ards_shunt_mechanism.svg)（作成済み：Slide 7または症例解説）
 - [腹臥位療法の考え方](../../assets/breathing/prone_position_mechanism.svg)（作成済み：Slide 9）
-- liberation decision tree（未作成）
+- liberation decisionはSlide 10のSBTと抜管準備性の比較表で扱う。独立図は将来の任意拡張。
 
 ## Speaker Notes
 

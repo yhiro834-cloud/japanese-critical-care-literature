@@ -35,10 +35,10 @@ ssot: false
 11. 症例
 12. Take-home messages
 
-## Key Figures Needed
+## Core Figures and Optional Extension
 
-- AKI trajectory map（未作成）
-- hyperkalemia function map（未作成）
+- AKI trajectoryはSlide 2–4の時系列表で扱う。独立図は将来の任意拡張。
+- hyperkalemiaの生理はSlide 5–6の機序表で扱う。独立図は将来の任意拡張。
 - [CRRT回路の基本](../../assets/crrt/crrt_circuit.svg)（作成済み：Slide 8）
 - [CRRTの除去機序](../../assets/crrt/crrt_clearance_mechanisms.svg)（作成済み：Slide 8）
 - [CRRT alarmの臨床推論](../../assets/crrt/crrt_alarm_reasoning.svg)（作成済み：Slide 10/11）

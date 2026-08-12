@@ -92,7 +92,7 @@ SCCM 2024 guidelineは、可能な場合のliberalized family presenceを強く�
 ## References
 
 - SCCM. [Family-Centered Care for Adult ICUs: 2024](https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-family-centered-care-for-adult-icus-2024). 2025.
-- WHO. [Guiding principles on human cell, tissue and organ transplantation](https://www.who.int/publications/m/item/who-guiding-principles-on-human-cell-tissue-and-organ-transplantation). 2010.
+- WHO. [Guiding principles on human cell, tissue and organ transplantation](https://www.who.int/publications/i/item/WHO-HTP-EHT-CPR-2010.01). 2010.
 
 ## Review log
 

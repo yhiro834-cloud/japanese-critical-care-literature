@@ -35,10 +35,10 @@ ssot: false
 11. 症例
 12. Take-home messages
 
-## Key Figures Needed
+## Core Figures and Optional Extension
 
 - [圧・流れ・組織灌流](../../assets/circulation/pressure_flow_perfusion.svg)（作成済み：Slide 1–3）
-- need–responsiveness–tolerance Venn（未作成）
+- need–responsiveness–toleranceは本文の3軸表で扱う。Venn図は将来の任意拡張であり、現行deckの必須要件ではない。
 - [Shock臨床推論loop](../../assets/shock/shock_reasoning_loop.svg)（作成済み：Slide 11/12）
 - [肺POCUS artifact模式図](../../assets/pocus/lung_ultrasound_schematic.svg)（補助図：Slide 8）
 

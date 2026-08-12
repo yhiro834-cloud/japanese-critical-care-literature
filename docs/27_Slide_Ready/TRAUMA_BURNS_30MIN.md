@@ -38,11 +38,11 @@ ssot: false
 14. Occult hemorrhage case
 15. Take-home messages
 
-## Key Figures Needed
+## Optional Figure Extensions
 
-- `<C>ABCDE` reassessment loop（未作成）
-- hemorrhage control–MTP–OR/IR parallel lanes（未作成）
-- burn fluid titration loop（未作成）
+- `<C>ABCDE` reassessment loopはSlide 1–4の反復手順で扱う。独立図は将来の任意拡張。
+- hemorrhage control–MTP–OR/IR parallel lanesはSlide 5–9の並行行動表で扱う。独立図は将来の任意拡張。
+- burn fluid titration loopはSlide 10–14の再評価表で扱う。独立図は将来の任意拡張。
 
 ## References for Slides
 

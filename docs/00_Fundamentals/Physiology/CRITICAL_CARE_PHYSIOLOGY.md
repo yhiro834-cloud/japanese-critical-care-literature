@@ -91,6 +91,9 @@ ventilator、vasopressor、fluid、CRRT、ECMOは生理を置換・修正する�
 
 ## References
 
+- Monnet X, et al. ESICM guidelines on circulatory shock and hemodynamic monitoring 2025. *Intensive Care Med*. 2025. DOI: [10.1007/s00134-025-08137-z](https://doi.org/10.1007/s00134-025-08137-z). PMID: [41236566](https://pubmed.ncbi.nlm.nih.gov/41236566/).
+- Blakeman TC, et al. AARC Clinical Practice Guideline: Patient-Ventilator Assessment. *Respir Care*. 2024;69(8):1042-1054. DOI: [10.4187/respcare.12007](https://doi.org/10.4187/respcare.12007). PMID: [39048148](https://pubmed.ncbi.nlm.nih.gov/39048148/).
+- 本章の式は生理学的関係を整理する思考補助であり、治療閾値を単独で規定しない。領域別の適用条件と追加根拠は以下のSSOTを参照する。
 - [Respiratory Physiology](../../02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md)
 - [Shock](../../03_Circulation/Shock/SHOCK.md)
 - [Hemodynamic Monitoring](../../03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md)

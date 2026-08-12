@@ -35,12 +35,12 @@ ssot: false
 11. 症例
 12. Take-home messages
 
-## Key Figures Needed
+## Core Figures and Optional Extension
 
 - [Monro–Kellieの考え方](../../assets/neurology/monro_kellie_doctrine.svg)（作成済み：Slide 3）
 - [ICPとCPPの関係](../../assets/neurology/icp_cpp_relationship.svg)（作成済み：Slide 3/4）
-- acute neuro decline flow（未作成）
-- multimodal prognostication timeline（未作成）
+- acute neuro declineはSlide 4の段階的flowを用いる。独立図は将来の任意拡張。
+- multimodal prognosticationはSlide 10の時間軸表を用いる。独立図は将来の任意拡張。
 
 ## References for Slides
 

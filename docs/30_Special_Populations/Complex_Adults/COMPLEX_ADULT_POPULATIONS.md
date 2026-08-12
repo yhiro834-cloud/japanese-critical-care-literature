@@ -76,7 +76,7 @@ baseline機能、frailty/認知、免疫欠損の具体像、体重descriptor、
 
 ## References
 
-- SCCM. [PADIS Guidelines](https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-prevention-and-management-of-pain-agitation-sedation-delirium-immobility-and-sleep-disruption-in-adult-patients-in-the-icu). 2018.
+- SCCM. [PADIS Guidelines](https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-prevention-and-management-of-pa). 2018.
 - SCCM. [Family-Centered Care for Adult ICUs: 2024](https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-on-family-centered-care-for-adult-icus-2024). 2025.
 
 ## Review log

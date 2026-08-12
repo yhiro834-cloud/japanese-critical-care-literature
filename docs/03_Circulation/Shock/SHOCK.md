@@ -217,7 +217,9 @@ SVが輸液で増える可能性があっても、輸液が必要・安全とは
 
 ## 22. References
 
-本ページはShock共通の生理・推論枠組みを扱います。Septic shockの検証済みガイドライン・試験は[Septic Shock References](SEPTIC_SHOCK.md#22-references)を参照してください。
+- Monnet X, et al. ESICM guidelines on circulatory shock and hemodynamic monitoring 2025. *Intensive Care Med*. 2025. DOI: [10.1007/s00134-025-08137-z](https://doi.org/10.1007/s00134-025-08137-z). PMID: [41236566](https://pubmed.ncbi.nlm.nih.gov/41236566/).
+- Vincent JL, De Backer D. Circulatory shock. *N Engl J Med*. 2013;369(18):1726-1734. DOI: [10.1056/NEJMra1208943](https://doi.org/10.1056/NEJMra1208943). PMID: [24171518](https://pubmed.ncbi.nlm.nih.gov/24171518/).
+- 本ページはshock共通の生理・推論枠組みを扱う。Septic shock（敗血症性ショック）の治療根拠は[Septic Shock References](SEPTIC_SHOCK.md#22-references)を参照する。
 
 ## Review Log
 

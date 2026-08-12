@@ -56,10 +56,10 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 ## Implementation status
 
 - 2026-08-12 Phase 1 complete: FIG-G-ABCDE-001–006。
-- 2026-08-12 Phase 2A complete: FIG-P-RESP-001–003。次はairway pressure componentsとnormal/abnormal ventilator waveform series。
-- 2026-08-12 Phase 2B complete: FIG-V-VENT-001–004。次はpatient–ventilator asynchronyとARDS visual series。
-- 2026-08-12 Phase 3A complete: FIG-B-ARDS-001–003、FIG-C-HEMO-001–003、FIG-C-SHOCK-001–002。全図をSVG/XML検証、PNG render、目視確認し、本文・症例・Slide Readyへ統合。次はFIG-V-VENT-005とFIG-I-SEPSIS-001。
-- 2026-08-12 Phase 4A complete: FIG-N-ICP-001–002。次はCRRTとECMO/MCS回路series。
+- 2026-08-12 Phase 2A complete: FIG-P-RESP-001–003。続いてairway pressure componentsとnormal/abnormal ventilator waveform seriesへ移行した。
+- 2026-08-12 Phase 2B complete: FIG-V-VENT-001–004。続いてpatient–ventilator asynchronyとARDS visual seriesへ移行した。
+- 2026-08-12 Phase 3A complete: FIG-B-ARDS-001–003、FIG-C-HEMO-001–003、FIG-C-SHOCK-001–002。全図をSVG/XML検証、PNG render、目視確認し、本文・症例・Slide Readyへ統合した。続いてFIG-V-VENT-005とFIG-I-SEPSIS-001へ移行した。
+- 2026-08-12 Phase 4A complete: FIG-N-ICP-001–002。続いてCRRTとECMO/MCS回路seriesへ移行した。
 - 2026-08-12 Phase 4B complete: FIG-R-CRRT-001–003、FIG-E-ECMO-001–003。本文・Slide Readyへ統合後、SVG/XMLとrenderを検証。
 - 2026-08-12 Phase 3 complete: FIG-V-VENT-005、FIG-I-SEPSIS-001を追加し、Phase 3残件を完了。
 - 2026-08-12 Phase 5 complete: FIG-CR-001–004、FIG-P-POCUS-001を追加し、本文・症例・Slide Readyへ統合。
