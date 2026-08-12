@@ -49,6 +49,10 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | ILL-AIRWAY-001 | 気道・人工呼吸器解剖 | 気管チューブ、気管分岐部、肺、回路の位置関係を理解 | `assets/illustrations/airway_ventilator_anatomy_v1.png` | `docs/01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md` | Raster medical illustration | Yes | 人工気道導入 | Airway SSOTを正本として目視監査 | 2026-08-12 |
 | ILL-CIRC-001 | 心肺循環解剖 | 右心系・肺循環・左心系・体循環の経路を理解 | `assets/illustrations/cardiopulmonary_circulation_anatomy_v1.png` | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | Raster medical illustration | Yes | 血行動態導入 | Hemodynamics SSOTを正本として目視監査 | 2026-08-12 |
 | ILL-NEURO-001 | 頭蓋内解剖 | 脳、脳室、脳脊髄液腔、頭蓋骨の位置関係を理解 | `assets/illustrations/intracranial_anatomy_v1.png` | `docs/04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md` | Raster medical illustration | Yes | ICP・CPP導入 | ICP/CPP/TBI SSOTを正本として目視監査 | 2026-08-12 |
+| ILL-RENAL-001 | 腎・尿路・腎単位解剖 | 血流、濾過、尿細管、尿排出経路を理解 | `assets/illustrations/renal_urinary_nephron_anatomy_v1.png` | `docs/05_Renal/AKI/AKI.md` | Raster medical illustration | Yes | AKI・尿量低下導入 | AKI SSOTを正本として目視監査 | 2026-08-12 |
+| ILL-GI-001 | 肝胆膵・門脈解剖 | 肝血流、胆汁、膵管、周辺臓器の関係を理解 | `assets/illustrations/hepatobiliary_pancreas_portal_anatomy_v1.png` | `docs/11_GI_Liver/Acute_Liver_Failure/ACUTE_LIVER_FAILURE_HE.md` | Raster medical illustration | Yes | 肝不全・消化器導入 | GI/Liver SSOTを正本として目視監査 | 2026-08-12 |
+| ILL-HEME-001 | 一次・二次止血 | 血小板血栓とフィブリン安定化を区別 | `assets/illustrations/hemostasis_platelet_fibrin_v1.png` | `docs/12_Hematology/DIC_Thrombocytopenia/DIC_THROMBOCYTOPENIA.md` | Raster medical illustration | Yes | DIC・血小板減少導入 | Hematology SSOTを正本として目視監査 | 2026-08-12 |
+| ILL-ENDO-001 | 内分泌臓器 | 下垂体、甲状腺、副腎、膵島の位置と組織を理解 | `assets/illustrations/endocrine_organs_adrenal_islet_v1.png` | `docs/10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md` | Raster medical illustration | Yes | 内分泌緊急症導入 | Endocrine SSOTを正本として目視監査 | 2026-08-12 |
 
 ## Index rules
 
