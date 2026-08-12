@@ -417,6 +417,15 @@
 - **影響ページ:** `docs/13_Pharmacology/`〜`docs/16_Rehabilitation_PICS/`、共通用語集、V2移行台帳
 - **要確認:** ICU pharmacy/dietitian/PT/OT/SLT/PADIS/rehab専門家と施設workflow review
 
+### 2026-08-12 — Textbook V2 Procedures / Monitoring / Devices / Nursing
+
+- **テーマ:** 手技からmonitor・device・alarm・看護handoverまでのpatient-first安全構造
+- **変更内容:** 6本のSSOTへ用語、新人看護師の初動・報告、ベテラン向けsystem判断を追加し、README・用語集・移行台帳を同期
+- **新しいEvidence:** WHO Surgical Safety Checklist、CDC Core Practices 2024、FDA pulse oximeter/device safety、SCCM Family-Centered Care 2024を公式sourceで再確認
+- **臨床的に何が変わったか:** device挿入成功を安全確認とする誤解、monitor値だけの判断、alarm silencing、backupなしのdevice運用、未実施careの暗黙化を防ぐ導線を追加
+- **影響ページ:** `docs/18_Procedures/`〜`docs/22_Nursing/`、共通用語集、V2移行台帳
+- **要確認:** procedure credentialing、biomedical engineering、simulation、nursing leadership、施設manual review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

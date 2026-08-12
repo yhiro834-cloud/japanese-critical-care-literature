@@ -14,6 +14,27 @@ ssot: true
 
 # Systematic ICU Nursing Care
 
+## 0. まず覚える
+
+ICU看護は、機器の数値を並べることではなく、**患者の最も危険な生理、baselineからの変化、介入への反応、本人の目標を一つの時間軸で捉え、teamへつなぐ実践**である。
+
+**簡単に言うと：** 観察して終わらず、「何が変わったか、何を行い、どう反応し、次に何が必要か」まで閉じる。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| trajectory | 時間経過に沿った病態の方向 | 単一値より改善・悪化・変動を捉える |
+| baseline | 患者固有の普段または直前の基準状態 | 一般的正常値と患者の変化を区別する |
+| escalation | より高い評価・治療・人員へ支援を拡大すること | threshold到達を待たず懸念と必要行動を伝える |
+| closed-loop communication | 指示・報告を復唱し完了・結果まで確認する伝達 | 伝えたことと受領・実行されたことを分ける |
+| omitted care | 必要だが未実施・延期されたcare | 理由、risk、代替、再実施時刻、ownerを可視化する |
+| least restrictive alternative | 患者の自由を最も制限しない安全手段 | restraint・深鎮静・device追加の前に検討する |
+
+**新人看護師の到達点：** ABCDE、device、薬剤、comfort、皮膚、機能、栄養、家族をsystematically観察し、変化・時刻・介入・反応・懸念・依頼を短く報告できる。未実施careを隠さずhandoverする。
+
+> **報告例：** 「30分前から尿量と末梢灌流が低下し、MAPは維持されていますが乳酸が上昇しています。lineと測定系を確認し体位調整しましたが改善しません。occult shockを疑い、循環再評価をお願いします。」
+
+**ベテラン向け深掘り：** workload下でtime-critical medication、turning、nutrition、mobility、family updateのどれが欠落しているかをsystem riskとして捉える。家族参加はdefaultで支えつつ、患者・家族の希望、privacy、公平性、通訳・digital accessを個別化する。
+
 ## Start with trajectory and patient goals
 
 診断名だけでなく「今いちばん危険な生理」「baselineから何が変わったか」「次の悪化を何で捉えるか」「患者が大切にすること」をshift開始時に明確にする。ABCDE、head-to-toe、device、medication、comfort、function、familyを一つのtimelineで観察する。
@@ -58,5 +79,6 @@ family presenceを原則として支え、round参加やbedside careは希望・
 
 ## Review log
 
+- 2026-08-12: V2導入、trajectory/baseline/escalation/closed loop/未実施care等の用語、新人の報告例を追加。SCCM family-centered care 2024を再確認。
 - 2026-08-12: escalation syntax/second path、equitable family presence、omitted-care visibility、independent double-checkを追加。local workflow review required.
 - 2026-08-11: SCCM/family-centered sources reviewed.

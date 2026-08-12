@@ -14,6 +14,27 @@ ssot: true
 
 # Vascular, Pleural, and Lumbar Procedure Safety
 
+## 0. まず覚える
+
+血管、胸腔、腰椎穿刺では、解剖とdeviceが異なっても、**適応・画像・出血/感染risk・正しいroute・手技後の位置/機能/合併症確認**が共通する。本章は独習用の操作manualではない。
+
+**簡単に言うと：** 手技中は患者とwire/needle/deviceを見失わず、手技後は「使える」と「安全に正しい位置にある」を別々に確認する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| ultrasound guidance | 超音波で解剖・needleを確認しながら行う手技支援 | vessel同定とneedle tipの可視化は別工程 |
+| wire control | guidewireが患者内へ迷入・逸脱しないよう常時保持すること | 一人が常にwireを管理し、残存を確認する |
+| arterial line | 動脈内catheterによる連続圧測定・採血route | level/zero、波形、末梢循環、sampling lossを確認 |
+| water seal | 胸腔drainでairの逆流を防ぐ水封機構 | 高さ、tidaling、air leak、接続を基準化する |
+| opening pressure | 腰椎穿刺で測定する髄液初圧 | 体位、力み、換気条件を記録する |
+| traumatic tap | 穿刺により血液が髄液検体へ混入した状態 | 自動補正式だけで感染・出血を除外しない |
+
+**新人看護師の到達点：** line/drainを両端までtraceし、depth・固定・接続・出力/波形・末梢循環・呼吸を基準化する。胸腔drainの突然停止/急増、air leak、出血、呼吸悪化を反射的clamp/stripせず報告する。
+
+> **報告例：** 「胸腔drain排液が突然停止し、呼吸困難と片側呼吸音低下があります。接続とkinkを確認中ですが、無指示のclampはしていません。tube閉塞・位置異常・再緊張性気胸を至急評価してください。」
+
+**ベテラン向け深掘り：** bright bloodや圧だけで動静脈を断定せず、wire位置とvessel identityをdilator前に再確認する。LPでは画像・抗菌薬・抗血栓薬の時間競合を整理し、手技遅延が治療遅延にならないよう経路を設計する。
+
 このページは個別操作手順ではなく、credentialed operatorが見落としやすいriskとpost-checkを整理する。
 
 ## Central venous access
@@ -54,5 +75,6 @@ indication終了、coagulation、position、呼吸/pressure、line/drain依存�
 
 ## Review log
 
+- 2026-08-12: V2導入、ultrasound/wire/arterial line/water seal/opening pressure等の用語、新人観察・報告を追加。
 - 2026-08-12: wire/sample/drain/LP conditions and device-removal safety expanded.
 - 2026-08-11: Safety evidence review; procedure-specific specialty/local credentialing review required.

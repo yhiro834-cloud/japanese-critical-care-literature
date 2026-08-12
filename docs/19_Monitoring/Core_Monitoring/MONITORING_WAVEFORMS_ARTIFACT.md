@@ -14,6 +14,27 @@ ssot: true
 
 # Monitoring, Waveforms, and Artifact
 
+## 0. まず覚える
+
+monitorは患者そのものではなく、sensorが拾った生体signalを機械が処理して表示したものである。異常値では、**まず患者を見て支え、signal chainを点検し、別の測定方法で照合する。**
+
+**簡単に言うと：** 「本当の急変かartifactか」を画面だけで決めず、患者と測定系を同時に確認する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| waveform | 時間に伴う生体signalの形 | 数字より先にquality、形、患者との一致を確認する |
+| artifact | 体動・接触不良・機器などによる偽のsignal | artifactと本当の悪化は同時に存在しうる |
+| pleth | pulse oximeterが表示する脈波 | SpO₂値の信頼性と末梢灌流の手掛かりになる |
+| level / zero | 圧transducerの高さ合わせ / 大気圧基準設定 | 体位変更後に再確認し、systematic biasを防ぐ |
+| damping | 圧波形の振動が過度に減衰・増幅する状態 | tubing、air、clot、flushと患者pulseを照合する |
+| independent modality | 原理の異なる別の測定方法 | cuff BP、触診pulse、ABG等で異常値を確認する |
+
+**新人看護師の到達点：** alarm時に意識、pulse、呼吸、皮膚/灌流を確認し、electrode/probe/catheter、cable/tubing、level/zero、設定を順に点検する。sensorや酸素設定変更の時刻と再評価値を記録できる。
+
+> **報告例：** 「monitorはVT表示ですが、患者は会話可能でpulseとA-line波形があります。ECG electrode接触不良を確認中です。ただし胸部症状もあるため、artifact修正と12誘導ECG評価を並行してください。」
+
+**ベテラン向け深掘り：** SpO₂の末梢灌流・体動・皮膚色素・dyshemoglobin、ETCO₂の肺血流・dead space、圧波形のhydrostatic biasを考慮する。単一値をtarget化せず、測定validity、baseline、trajectory、介入反応を統合する。
+
 ## A monitor measures a signal, not the patient
 
 ```text
@@ -65,5 +86,6 @@ monitor開始/転棟時にpatient identity、profile、lead/source、alarm volum
 
 ## Review log
 
+- 2026-08-12: V2導入、waveform/artifact/pleth/level-zero/damping等の用語、新人の患者優先確認・報告を追加。FDA/AACN sourceを再確認。
 - 2026-08-12: signal-chain, ECG/pulse verification, SpO₂/ETCO₂ transitions, invasive-pressure bias, organ monitor, and alarm ownership expanded.
 - 2026-08-11: Primary/professional sources reviewed; biomedical/local monitoring validation required.
