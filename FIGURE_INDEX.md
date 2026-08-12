@@ -57,6 +57,10 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-T-BURN-001 | 熱傷深度 | 表皮・真皮・皮下組織と障害深度を比較 | `assets/trauma/burn_depth_skin_layers.svg` | `docs/07_Trauma/Burns/BURN_INITIAL_MANAGEMENT.md` | SVG anatomy comparison | Yes | 熱傷初期評価 | Burn Initial Management SSOT | 2026-08-12 |
 | FIG-CARD-ANAT-001 | 冠循環・刺激伝導 | 心筋血流と電気刺激の経路を区別 | `assets/cardiac/coronary_conduction_overview.svg` | `docs/08_Cardiac_Critical_Care/ACS/ACUTE_CORONARY_SYNDROME.md` | SVG anatomy overview | Yes | ACS・不整脈導入 | ACS / Arrhythmia SSOT | 2026-08-12 |
 | FIG-M-LINE-001 | 侵襲的ライン | CVCと動脈圧ラインの目的・接続・測定系を区別 | `assets/monitoring/invasive_lines_monitoring.svg` | `docs/19_Monitoring/Core_Monitoring/MONITORING_WAVEFORMS_ARTIFACT.md` | SVG device schematic | Yes | ライン・圧波形導入 | Monitoring / Device Safety SSOT | 2026-08-12 |
+| FIG-PHARM-001 | 高警戒薬持続注入 | 処方から患者反応までを一本につなげて照合 | `assets/pharmacology/high_alert_infusion_safety.svg` | `docs/13_Pharmacology/Medication_Safety/HIGH_ALERT_INFUSION_SAFETY.md` | SVG safety flow | Yes | 薬剤安全・引継ぎ | Medication Safety SSOT | 2026-08-12 |
+| FIG-NUT-001 | 経腸栄養ルート | 胃内・幽門後・胃瘻の終末位置と投与前確認を理解 | `assets/nutrition/enteral_route_safety.svg` | `docs/14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md` | SVG anatomy schematic | Yes | 経腸栄養導入 | Critical Care Nutrition SSOT | 2026-08-12 |
+| FIG-PADIS-001 | PADIS日次サイクル | 痛み・鎮静・せん妄・睡眠・離床・意思疎通を統合 | `assets/padis/padis_daily_cycle.svg` | `docs/15_Pain_Sedation_Delirium/PADIS/PADIS_BEDSIDE_CARE.md` | SVG clinical cycle | Yes | PADIS・回診 | PADIS SSOT | 2026-08-12 |
+| FIG-REHAB-001 | 早期離床段階 | 体位変換から歩行まで安全な次の一段を選ぶ | `assets/rehabilitation/early_mobility_ladder.svg` | `docs/16_Rehabilitation_PICS/Early_Mobility/ICU_EARLY_MOBILITY.md` | SVG staged ladder | Yes | 離床計画・多職種連携 | Early Mobility / PICS SSOT | 2026-08-12 |
 
 ## Index rules
 

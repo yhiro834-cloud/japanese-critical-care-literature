@@ -14,6 +14,11 @@ ssot: true
 
 # High-alert Infusions and Medication Safety
 
+![高警戒薬の処方・薬液・ポンプ・ルート・患者を照合する安全図](../../../assets/pharmacology/high_alert_infusion_safety.svg)
+
+> [!NOTE]
+> 持続注入を「ポンプ設定」だけでなく、処方から患者反応まで一本につなげて確認する図です。濃度変更時はライン内に残る旧薬液と患者への到達時間も計画します。
+
 ## 0. まず覚える
 
 high-alert medication（ハイアラート薬）は、誤りが起きたときに患者へ重大な害を与えやすい薬剤である。安全な持続投与には、**患者・薬剤・濃度・単位・line・pump・期待する反応を一続きで照合する**必要がある。
