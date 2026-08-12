@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Textbook V2 Circulation
+
+- **テーマ:** Cをpressure・flow・perfusionの順で再構築
+- **変更内容:** Shock、血行動態、輸液、昇圧薬/強心薬、敗血症性shock、循環POCUSに用語、新人到達点、ベテラン深掘り、報告・再評価の導線を追加
+- **新しいEvidence:** SSC 2026、ESICM circulatory shock/hemodynamic monitoring 2025、ESICM fluid guideline 2025、SCCM CCUS update 2024を公式資料で再確認
+- **臨床的に何が変わったか:** MAP単独治療、CVP/IVC単独の輸液判断、輸液反応性と適応の混同を防ぎ、介入反応と害の評価へ接続した
+- **影響ページ:** Circulation全主要SSOT・README、Glossary、V2 Migration
+- **要確認:** 循環専門家、薬剤師、POCUS credentialed reviewer、ICU看護教育担当のsign-offは継続課題
+
 ### 2026-08-12 — Textbook V2 Airway to Breathing
 
 - **テーマ:** AからBの現在到達点までを順番どおり再構築

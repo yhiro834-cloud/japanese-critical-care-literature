@@ -2,8 +2,8 @@
 title: "Hemodynamic POCUS"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > POCUSはfocused questionへのbedside testであり、training、画像品質、保存、報告、QAを要します。poor windowや正常に見える限定画像で重大病態を除外せず、必要ならformal echocardiography/CT等へescalateしてください。
+
+## 0. まず覚える
+
+**point-of-care ultrasound（POCUS）**は、担当clinicianがベッドサイドで焦点を絞った問いに答える超音波検査です。
+
+**簡単に言うと：** 「心臓を一度見る検査」ではなく、患者のshock仮説を確かめ、介入後に同じ条件で見直す検査です。
+
+| 用語 | 意味 | 限界 |
+|---|---|---|
+| focused question | 具体的な臨床上の問い | 漠然と全疾患を除外できない |
+| view | probe位置ごとの標準画像 | poor windowを正常と扱わない |
+| VTI | 血流速度時間積分 | SV trendの手掛かり。測定再現性が必要 |
+| IVC | 下大静脈 | 単独でvolumeや輸液適応を決めない |
+
+**新人看護師の到達点：** 検査目的、体位、血圧・呼吸器条件、line/tube安全、感染対策を確認し、結果を問い・quality・限界とともに共有すること。
+
+**ベテラン向け深掘り：** LV/RV、心嚢、肺、静脈うっ血、VTI responseをpressure・flow・perfusionへ統合し、不一致時は上位検査へつなぎます。
 
 ## 1. Overview
 
@@ -73,4 +90,5 @@ shock → focused question → adequate viewを複数取得
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / focused question / team workflow | Staged-learning introduction added; credentialed CCUS review needed |
 | 2026-08-11 | Codex | guideline / scope / QA | Evidence reviewed; credentialed CCUS review needed |

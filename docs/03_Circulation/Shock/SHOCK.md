@@ -2,8 +2,8 @@
 title: "Shock: Recognition and Phenotype"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,27 @@ ssot: true
 
 > [!CAUTION]
 > 教育目的の資料です。Shockは時間依存性の生命危機です。個別患者では院内急変対応、最新ガイドライン、施設protocol、担当チームの判断を優先してください。
+
+## 0. まず覚える
+
+**ショック（shock）**は、組織が必要とする酸素と栄養を血流で届けられず、臓器障害へ進む生命危機です。低血圧は重要ですが、血圧が保たれた早期shockもあります。
+
+**簡単に言うと：** 血圧の数字ではなく、脳・皮膚・腎などへ血流が届いているかを見ます。
+
+| 用語 | 意味 | 看護で見ること |
+|---|---|---|
+| perfusion | 組織灌流 | 意識、CRT、皮膚、尿量、lactate、臓器機能 |
+| MAP | 平均動脈圧 | 測定品質と灌流反応を合わせる |
+| CO | 心拍出量 | 1分間に心臓が送り出す血液量 |
+| phenotype | 循環破綻の型 | preload、pump、tone、obstructionと混合型 |
+
+**新人看護師の到達点：** 意識、皮膚、CRT、脈、血圧、尿量、呼吸を同時に確認し、変化時刻・介入・反応を報告すること。
+
+**ベテラン向け深掘り：** pressure、flow、perfusionを分け、混合shock、右心、微小循環、測定誤差、介入による害を再評価します。
+
+### 報告例
+
+> 「○時から血圧○、MAP○ですが、意識、CRT、皮膚、尿量、lactateは○○です。心拍・調律、呼吸、出血/感染所見は○○、介入○○後の反応は○○です。」
 
 ## 1. Overview
 
@@ -194,4 +215,5 @@ SVが輸液で増える可能性があっても、輸液が必要・安全とは
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / perfusion-first nursing / reporting | Staged-learning introduction added; circulation specialist review needed |
 | 2026-08-11 | Codex | structure / evidence identity / nursing safety | Phase 2 initial review complete; expert clinical review desirable |
