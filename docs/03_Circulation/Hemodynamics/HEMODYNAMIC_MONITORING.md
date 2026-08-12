@@ -14,6 +14,11 @@ ssot: true
 
 # Hemodynamic Monitoring and Fluid Responsiveness
 
+![心臓四腔と肺循環・体循環の教育用解剖イラスト](../../../assets/illustrations/cardiopulmonary_circulation_anatomy_v1.png)
+
+> [!NOTE]
+> 血液が右心系から肺、左心系から全身へ流れる基本経路を示します。色は定性的な経路表示であり、酸素飽和度や圧を定量的に示すものではありません。
+
 > [!CAUTION]
 > monitor値は診断ではありません。測定品質、適用条件、患者の灌流、介入への反応を確認し、単一のMAP・CVP・PPV・SVV・CO値で治療しないでください。
 
