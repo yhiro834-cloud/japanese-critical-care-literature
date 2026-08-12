@@ -10,6 +10,13 @@ tags: [case, ecmo, low-flow, emergency]
 
 # Case: ECMO Low Flow
 
+## 症例前に見る図
+
+- [VV-ECMO回路](../../assets/ecmo/vv_ecmo_circuit.svg)
+- [VVとVAの比較](../../assets/ecmo/va_vs_vv_ecmo.svg)
+
+この患者の脱血・返血位置とbaseline flowを確認し、「VVは循環を直接支えない」「low flowの原因は単純な脱水とは限らない」を共有してから症例へ進みます。
+
 VV-ECMO中、体位変換後にchatteringとflow低下、SpO₂低下。
 
 ## Pause 1

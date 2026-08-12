@@ -2,7 +2,7 @@
 title: "Renal — 30-minute Slide Ready"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 evidence_reviewed: 2026-08-11
 next_review: 2027-02-11
 owners: []
@@ -39,7 +39,9 @@ ssot: false
 
 - AKI trajectory map（未作成）
 - hyperkalemia function map（未作成）
-- CRRT circuit/pressure map（未作成）
+- [CRRT回路の基本](../../assets/crrt/crrt_circuit.svg)（作成済み：Slide 8）
+- [CRRTの除去機序](../../assets/crrt/crrt_clearance_mechanisms.svg)（作成済み：Slide 8）
+- [CRRT alarmの臨床推論](../../assets/crrt/crrt_alarm_reasoning.svg)（作成済み：Slide 10/11）
 
 ## References for Slides
 
