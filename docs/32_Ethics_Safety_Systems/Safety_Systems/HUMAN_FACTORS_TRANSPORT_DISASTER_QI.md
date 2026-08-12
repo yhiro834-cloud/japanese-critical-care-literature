@@ -14,6 +14,27 @@ ssot: true
 
 # Human Factors, Transport, Disaster, and QI
 
+## 0. まず覚える
+
+human factorsは、人の能力・限界と、task、equipment、環境、team、組織の相互作用から安全を設計する考え方である。errorを「注意不足」で終わらせず、再発しにくいsystemへ変える。
+
+**簡単に言うと：** よい人にもっと注意させるだけでなく、間違いが起こりにくく、起きても患者を守れる仕組みを作る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| human factors | 人とsystemの相互作用を安全・性能の観点で扱う分野 | workload、UI、環境、team、policyを含める |
+| latent condition | 普段は見えにくいsystem内の潜在的危険 | staffing、設計、供給、training等をeventから探る |
+| pre-brief / debrief | 実施前の計画共有 / 実施後の振り返り | 役割、threat、stop条件、学習事項を共有する |
+| go / no-go | 搬送・手技等を開始できるかの判断 | benefit、安定化、backup、destination、abortを確認する |
+| incident command | 災害時に役割・情報・資源を統合する指揮system | 個人判断でtriageや資源基準を変更しない |
+| balancing measure | 改善策が生む別の害・負担を測る指標 | delay、workload、inequity、workaroundを監視する |
+
+**新人看護師の到達点：** 搬送前に目的、patient threat、役割、oxygen/power/drug予備、line/device、route、受入準備、abort条件を確認し、到着後にABCDEと設定を再照合できる。near missを報告し、事実と改善案を分けて記録する。
+
+> **報告例：** 「CT搬送予定ですが、昇圧薬増量中で酸素予備も往復＋待機時間を満たしません。現時点はno-goとし、bedside代替と安定化、予備資源を再評価してください。」
+
+**ベテラン向け深掘り：** 災害allocationは事前承認された透明で一貫したpolicyを用い、bedside clinician一人へ倫理負担を集中させない。QIはprocess/outcome/balancing measure、denominator、時間変化を定義し、一時的before-after改善やdocumentation率を患者利益と同一視しない。
+
 ## Reliable team actions
 
 - pre-briefでleader、roles、plan、anticipated threats、stop criteriaを共有する。
@@ -77,5 +98,6 @@ EHR/network/power/oxygen/supply failure時のminimum dataset、paper order、ide
 
 ## Review log
 
+- 2026-08-12: V2導入、human factors/latent condition/go-no-go/incident command/QI指標等の用語、新人搬送報告を追加。
 - 2026-08-12: transport go/no-go, disaster domains/allocation, measurement plan, and downtime reconciliation expanded.
 - 2026-08-11: initial systems framework; local command/transport/QI policy required.

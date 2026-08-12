@@ -33,7 +33,7 @@ Last audited: 2026-08-12
 | V2-6 | Endocrine / GI / Hematology | 代謝、出血、肝・膵、凝固・輸血 | 主要10章のV2導線を実装 |
 | V2-7 | 薬剤 / 栄養 / PADIS / Rehab | 投薬安全、comfort、回復 | 主要7章のV2導線を実装 |
 | V2-8 | Monitoring / Devices / Nursing | 系統的観察、alarm、handover、家族支援 | 手技2章・monitor/device/alarm/看護各1章のV2導線を実装 |
-| V2-9 | Special populations / Toxicology / Ethics | 対象別例外と意思決定 | 未着手 |
+| V2-9 | Special populations / Toxicology / Ethics | 対象別例外と意思決定 | 感染管理2章・特殊患者2章・中毒環境2章・倫理system 2章のV2導線を実装 |
 | V2-10 | Cases / Quiz / Slides / Figures | 全教材の本文同期と勉強会QA | 未着手 |
 | V2-11 | Final audit | link、用語、Evidence、画像、専門家review台帳 | 未着手 |
 
@@ -65,6 +65,7 @@ Last audited: 2026-08-12
 - [x] 内分泌3章・消化器4章・血液3章のV2導線
 - [x] 薬剤2章・栄養2章・PADIS 1章・Rehab/PICS 2章のV2導線
 - [x] 手技2章・monitoring・device・緊急alarm・ICU看護のV2導線
+- [x] 感染管理・特殊患者・中毒環境・倫理systemの主要8章V2導線
 - [x] 画像の用語説明・初学者導線・勉強会利用基準
 - [ ] 既存SSOT全ページのV2変換
 - [ ] 多職種専門家review

@@ -8,11 +8,32 @@ next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
 tags: [heat, hypothermia, drowning, electrical-injury]
-related: [../../10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md, ../../08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ROSC.md]
+related: [../../10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md, ../../08_Cardiac_Critical_Care/Cardiac_Arrest/CARDIAC_ARREST_POST_ARREST.md]
 ssot: true
 ---
 
 # Environmental Emergencies
+
+## 0. まず覚える
+
+環境障害では、救助者の安全と曝露停止を最初に行い、ABCDE、深部体温、glucose、ECG、外傷を評価する。皮膚所見が軽くても、熱・冷却・溺水・電撃による深部臓器障害が進行しうる。
+
+**簡単に言うと：** 外から見える傷だけでなく、何に、どれくらい、どの経路で曝露し、呼吸・循環・神経・筋・腎・凝固へ何が起きているかを見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| heat stroke | 高体温と中枢神経障害を伴う重症熱障害 | 検査を待たず迅速なactive coolingを開始する |
+| core temperature | 深部体温 | 測定部位・方法・信頼範囲とtrendを記録する |
+| afterdrop | 復温中も深部体温が低下する現象 | 循環・不整脈・復温速度を監視する |
+| drowning | 液体への浸水・没水による呼吸障害の過程 | 水の種類より低酸素への換気・酸素化を優先する |
+| electrical injury | 電流による熱・心臓・神経・筋・外傷 | 小さな皮膚痕でも深部損傷を除外しない |
+| rhabdomyolysis | 骨格筋崩壊で筋内容物が血中へ流出する状態 | CK、K、尿、腎機能、compartmentを確認する |
+
+**新人看護師の到達点：** 曝露種類・時刻・時間・保護具・救出方法、深部体温の方法とtrend、冷却/復温、意識・呼吸・調律、尿、外傷をhandoverできる。
+
+> **報告例：** 「労作性heat stroke疑いで意識障害と高い深部体温があります。rapid coolingを開始し、時刻と体温trendを記録中です。腎・肝・凝固・筋障害を含む臓器監視をお願いします。」
+
+**ベテラン向け深掘り：** hyperthermiaを感染性発熱と混同せず、heat strokeでは解熱薬を主治療にしない。溺水ではroutine抗菌薬や水の種類別治療を避け、低体温心停止では蘇生・復温・ECLS適応を2025 AHA/local protocolで判断する。
 
 ## First frame
 
@@ -51,10 +72,11 @@ exposure type/time、core temperature method/trend、cooling/rewarming method、
 
 ## References
 
-- AHA. [Focused Updates including drowning](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/aha-cpr-and-ecc-guideline-focused-updates). 2024.
+- AHA. [Adult and Pediatric Special Circumstances of Resuscitation](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation). 2025.
 - WHO/ICRC. [Basic Emergency Care](https://www.who.int/publications/i/item/basic-emergency-care-approach-to-the-acutely-ill-and-injured). 2018.
 
 ## Review log
 
+- 2026-08-12: V2導入、heat stroke/core temperature/drowning/electrical injury等の用語、新人handoverを追加。AHA 2025へ更新し、cardiac-arrest関連linkを修正。
 - 2026-08-12: exposure handoff, heat/hypothermia response, drowning and electrical serial assessment expanded.
 - 2026-08-11: initial environmental emergency framework.

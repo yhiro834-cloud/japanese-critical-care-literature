@@ -426,6 +426,15 @@
 - **影響ページ:** `docs/18_Procedures/`〜`docs/22_Nursing/`、共通用語集、V2移行台帳
 - **要確認:** procedure credentialing、biomedical engineering、simulation、nursing leadership、施設manual review
 
+### 2026-08-12 — Textbook V2 Infection / Special Populations / Toxicology / Ethics
+
+- **テーマ:** 感染予防、対象別生理、中毒・環境曝露、共同意思決定とsystem safety
+- **変更内容:** 8本のSSOTへ基本用語、新人の観察・報告、ベテラン向け例外判断を追加し、README・用語集・移行台帳を同期
+- **新しいEvidence:** CDC Occupational HIV PEP 2025、ACOG Critical Care in Pregnancy reaffirmed 2025、AHA Special Circumstances 2025、SCCM Family-Centered Care 2024を再確認
+- **臨床的に何が変わったか:** 病原体確定待ちの隔離遅延、device培養による自動判断、成人protocolの単純流用、antidote先行、DNARの拡大解釈、errorの個人責任化を防ぐ導線を追加
+- **影響ページ:** `docs/17_Infection_Control/`、`docs/30_Special_Populations/`〜`docs/32_Ethics_Safety_Systems/`、共通用語集、V2移行台帳
+- **要確認:** IPC/occupational health/pediatrics/obstetrics/toxicology/ethics/legal/disaster specialistと施設policy review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

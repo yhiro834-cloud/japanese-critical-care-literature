@@ -14,6 +14,27 @@ ssot: true
 
 # Goals, Shared Decisions, End of Life, and Organ Donation
 
+## 0. まず覚える
+
+shared decision-making（共同意思決定）は、医学的事実と不確実性を示し、患者の価値観・受け入れ可能な結果を理解して、teamと患者/代理人が治療方針を決める過程である。
+
+**簡単に言うと：** 「できる治療」と「患者が望む生き方」を結び、決めた後も症状careと再評価を止めない。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| decision-making capacity | 特定の判断を理解・比較・表明する能力 | decision/time-specificで、delirium・言語・聴覚等を補う |
+| surrogate | 本人に代わり意思決定を支える代理人 | 本人の既知の価値観を優先する |
+| substituted judgment | 本人なら何を選ぶかを推定する判断 | 代理人自身の希望と区別する |
+| best interests | 本人の価値観不明時に利益と負担から判断する基準 | 多職種・倫理支援を用い透明に検討する |
+| time-limited trial | 期間・目標・評価基準を決めた治療試行 | review日時、改善/不変/悪化時の選択肢とownerを決める |
+| DNAR | 心停止時にCPRを行わない指示 | 他の治療制限へ自動拡張しない |
+
+**新人看護師の到達点：** 患者の参加可能性、代理人、発言・価値観、家族の理解、言語/文化支援、決定内容、症状目標、次回conference日時を記録しhandoverできる。
+
+> **報告例：** 「DNARですが、抗菌薬と非侵襲的呼吸supportは継続する方針です。呼吸困難軽減が最優先で、明日14時にtime-limited trialを再評価します。DNARを他治療中止へ拡張しないよう共有します。」
+
+**ベテラン向け深掘り：** conflictを家族の理解不足とlabelせず、情報差、価値観、信頼、言語、team内不一致を分解する。治療制限はcare制限ではなく、症状、privacy、家族、文化/精神、bereavement、staff supportをbedside plan化する。
+
 ## Decision sequence
 
 ```text
@@ -75,5 +96,6 @@ SCCM 2024 guidelineは、可能な場合のliberalized family presenceを強く�
 
 ## Review log
 
+- 2026-08-12: V2導入、capacity/surrogate/substituted judgment/time-limited trial/DNAR等の用語、新人handoverを追加。SCCM 2024を再確認。
 - 2026-08-12: capacity, conference structure, time-limited trial record, conflict, and end-of-life bedside plan expanded.
 - 2026-08-11: initial shared-decision and end-of-life framework; local legal review required.

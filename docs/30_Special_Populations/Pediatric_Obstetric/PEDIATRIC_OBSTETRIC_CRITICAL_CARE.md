@@ -14,6 +14,27 @@ ssot: true
 
 # Pediatric and Obstetric Critical Care
 
+## 0. まず覚える
+
+小児と妊産婦は、それぞれ年齢・体格または妊娠/産褥に固有の生理と緊急疾患を持つ。**成人protocolを数値だけ変えて流用せず、専門teamを早期招集し、体重・週数・device・薬量を独立照合する。**
+
+**簡単に言うと：** ABCDEは共通でも、正常値、代償の仕方、薬量、機器size、原因、蘇生修正が違う。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| age-specific vital signs | 年齢に応じた小児の正常vital範囲 | 低血圧は遅いshock所見になりうる |
+| weight-based dosing | 体重に基づく薬量・輸液計算 | 実測/推定と時刻、濃度、総量、最大量を照合する |
+| gestational age | 妊娠週数 | 母体生理、胎児評価、専門team、蘇生修正に関係する |
+| puerperium / postpartum | 産褥期 / 産後 | 分娩後も出血、血栓、感染、心筋症riskが続く |
+| aortocaval compression | 妊娠子宮が大血管を圧迫し静脈還流を低下させる状態 | 心停止時は施設protocolのmanual uterine displacement等を用いる |
+| maternal resuscitation | 母体を優先した蘇生 | 胎児評価を母体治療の遅延理由にしない |
+
+**新人看護師の到達点：** 年齢/妊娠週数・産後日、実測/推定体重、baseline、薬剤mg/kg・濃度・総量、機器size、母体/胎児状態、専門team連絡をhandoverできる。
+
+> **報告例：** 「妊娠32週で急な低酸素と低血圧があります。母体ABCDEを優先し、manual uterine displacementを準備、産科・麻酔・新生児teamを招集しています。PE、出血、心筋症を含む評価をお願いします。」
+
+**ベテラン向け深掘り：** 小児では見た目・呼吸・末梢循環を年齢別vitalと統合し、fluid responseを小刻みに再評価する。妊産婦では妊娠生理によるABG・腎・循環のbaseline差、画像/薬剤を行うriskと遅らせるriskを比較する。
+
 ## 共通原則
 
 ```text
@@ -56,5 +77,6 @@ WHO ETATは資源制約下を含む小児初期triage/治療の選択的推奨�
 
 ## Review log
 
+- 2026-08-12: V2導入、年齢別vital/体重投与/妊娠週数/大動静脈圧迫等の用語、新人handoverを追加。ACOG 2025・AHA 2025を再確認。
 - 2026-08-12: pediatric deterioration, dose/device verification, pregnancy physiology/differential, transfer datasetを深化。specialist/local protocol verification required.
 - 2026-08-11: initial framework.
