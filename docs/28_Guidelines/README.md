@@ -2,6 +2,8 @@
 
 主要ガイドラインの**検証済み台帳**です。未検証の名称・URL・版を推測で登録しません。
 
+図の医学的根拠は[図索引](../../FIGURE_INDEX.md)の`Evidence Source`と`Related Knowledge Page`から本台帳へたどります。図が推奨強度や対象集団を単純化しすぎないよう、最終判断では原文とSSOTを確認します。
+
 ## Registry
 
 | ID | Topic | Full title | Organization | Version / Year | Supersedes | Official URL | Status | Verified on | Next check | Used by |

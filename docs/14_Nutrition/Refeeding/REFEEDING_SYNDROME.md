@@ -14,6 +14,9 @@ ssot: true
 
 # Refeeding Syndrome
 
+> [!NOTE]
+> **図で確認：** [再栄養症候群の細胞内移動と臓器障害](../../../assets/nutrition/refeeding_shift_mechanism.svg) — 栄養開始後のリン・カリウム・マグネシウムと体液、心臓、呼吸、神経を追う。
+
 ## 0. まず覚える
 
 refeeding syndromeは、飢餓・低栄養状態へ栄養、とくに糖質を再導入した後に、phosphate、K、Mg、thiamine、体液の急変から臓器障害を来す症候群である。

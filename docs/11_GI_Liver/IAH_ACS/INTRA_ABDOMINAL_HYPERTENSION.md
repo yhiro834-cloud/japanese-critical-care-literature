@@ -14,6 +14,9 @@ ssot: true
 
 # Intra-abdominal Hypertension and Abdominal Compartment Syndrome
 
+> [!NOTE]
+> **図で確認：** [腹腔内圧上昇による多臓器への影響](../../../assets/gastrointestinal/intra_abdominal_pressure_effects.svg) — 圧の数値だけでなく、呼吸・循環・腎・腹部所見と推移を統合する。
+
 ## 0. まず覚える
 
 腹腔内圧上昇（intra-abdominal hypertension: IAH）は、腹腔内の圧が持続的・反復的に高い状態である。腹部compartment syndrome（ACS）は、さらに高い圧に**新たな臓器障害**を伴う緊急病態である。

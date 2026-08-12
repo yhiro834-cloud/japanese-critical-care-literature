@@ -19,6 +19,9 @@ ssot: true
 > [!NOTE]
 > 解剖と機器の位置関係をつかむための教育用イラストです。実際のチューブ位置は呼気二酸化炭素波形、左右換気、深さ、画像などで確認し、図だけで判断しません。
 
+> [!NOTE]
+> **図で確認：** [気管切開の解剖と急変時安全確認](../../../assets/airway/tracheostomy_safety_anatomy.svg) — 上気道との交通、瘻孔の成熟度、カニューレ・肺・機器を分けて確認する。
+
 > [!CAUTION]
 > 人工気道患者の突然の悪化ではdisplacement、obstruction、pneumothorax、equipment failureを即時評価します。気管切開の成熟度や術式により再挿入の危険性が異なるため、施設emergency algorithmを優先してください。
 

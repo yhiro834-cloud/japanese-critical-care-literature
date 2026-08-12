@@ -14,6 +14,9 @@ ssot: true
 
 # Acute Stroke, ICH, and Aneurysmal SAH
 
+> [!NOTE]
+> **図で確認：** [急性脳卒中の機序比較](../../../assets/neurology/stroke_mechanism_comparison.svg) — 症状が似ても、閉塞・脳内出血・くも膜下出血では治療経路が異なる。
+
 > [!CAUTION]
 > stroke治療は発症/last-known-well、画像、薬剤、血圧、施設能力で時間依存です。thrombolysis、thrombectomy、reversal、aneurysm securing、血圧目標はstroke team protocolを直ちに起動してください。
 

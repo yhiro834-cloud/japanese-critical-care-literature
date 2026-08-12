@@ -7,6 +7,14 @@
 - 低体温症と熱中症の比較 — `assets/environmental/temperature_emergency_spectrum.svg`
 - 共同意思決定の流れ — `assets/ethics/capacity_goals_decision.svg`
 - 安全を高める学習システム — `assets/safety/learning_system_loop.svg`
+- 気管切開の解剖と急変時安全確認 — `assets/airway/tracheostomy_safety_anatomy.svg`
+- 外傷で見えない大出血を探す体腔図 — `assets/trauma/occult_bleeding_cavities.svg`
+- 腹腔内圧上昇による多臓器への影響 — `assets/gastrointestinal/intra_abdominal_pressure_effects.svg`
+- 輸血反応を疑うときの初期対応 — `assets/hematology/transfusion_reaction_response.svg`
+- 重症患者の薬物動態と投与量再評価 — `assets/pharmacology/pkpd_dose_reassessment.svg`
+- 再栄養症候群の細胞内移動と臓器障害 — `assets/nutrition/refeeding_shift_mechanism.svg`
+- 生体信号からモニター表示までの信号経路 — `assets/monitoring/signal_chain_artifact.svg`
+- 急性脳卒中の機序比較 — `assets/neurology/stroke_mechanism_comparison.svg`
 
 Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正本とし、図単独を診療protocolとして使用しない。
 
