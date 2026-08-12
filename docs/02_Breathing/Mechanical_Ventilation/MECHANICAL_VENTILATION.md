@@ -5,8 +5,10 @@ created: 2026-08-11
 last_updated: 2026-08-12
 evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
+evidence_status: claim-mapping-in-progress
+human_review_required: true
 owners: []
-reviewers: [Codex evidence review]
+reviewers: [Codex source mapping; ventilator specialist pending]
 tags: [mechanical-ventilation, waveform, peep, asynchrony]
 related: [../ARDS/ARDS.md, ../Weaning/VENTILATOR_LIBERATION.md]
 ssot: true
@@ -15,7 +17,7 @@ ssot: true
 # 人工呼吸管理
 
 > [!CAUTION]
-> 設定は診断、肺mechanics、循環、患者努力、施設protocolで個別化します。本頁は固定設定の処方箋ではありません。急変時は患者を先に評価し、必要ならventilatorから離してmanual ventilationし支援を要請します。
+> 設定は診断、呼吸器系力学、循環、患者努力、施設手順で個別化します。本頁は固定設定の処方箋ではありません。急変時は患者を先に評価して直ちに応援を要請し、人工呼吸器からの離脱や用手換気は、訓練を受けた医療者が酸素供給・バッグ・気道・圧損傷リスクを確認して施設手順に従います。
 
 > [!TIP]
 > 初めて図を見る場合やスマートフォンで読む場合は、[人工呼吸器の図解クイックガイド](VENTILATOR_VISUAL_QUICK_GUIDE.md)から始めてください。「一言でいうと」「最初に見る場所」「ミニ症例」の順で4枚を分割して説明しています。
@@ -23,9 +25,9 @@ ssot: true
 > [!TIP]
 > PEEP、Ppeak、Pplat、driving pressure、complianceなどの意味から確認したい場合は、[人工呼吸器の基本用語](VENTILATOR_TERMS.md)を先に読んでください。
 
-## 0. まず覚える
+## 0. Executive Summary — Quick Review
 
-**人工呼吸（mechanical ventilation）**は、人工呼吸器で酸素化・換気・呼吸仕事量を支える治療です。
+**[FACT] [CLM-VENT-001] 人工呼吸（mechanical ventilation）**は、患者、人工気道またはマスク、回路、人工呼吸器を一体として評価する生命維持治療です。AARCは患者―人工呼吸器評価を、身体所見、生理学的データ、気道、設定・実測値、加温加湿、記録を含む包括的評価と定義しています。[SRC-VENT-001]
 
 **簡単に言うと：** 画面の設定を管理するのではなく、患者、人工気道、回路、人工呼吸器、病態を一体として評価し、supportの効果と害を繰り返し確認します。
 
@@ -45,11 +47,11 @@ ssot: true
 
 > 「高圧alarmです。患者のSpO₂、血圧、呼吸努力は○○、tube深さと固定、左右換気は○○、回路は○○です。mode/設定は○○、Ppeak、Pplat、呼気VT、flow波形は○○で、吸引等への反応は○○です。」
 
-## 1. Overview
+## 1. 全体像 — Core
 
 人工呼吸器はoxygenationとventilationを支え、呼吸仕事量を軽減する一方、VILI、循環抑制、横隔膜障害、鎮静関連害を生じ得ます。目標はgasを正常化することではなく、許容できるgas exchangeを最小限の害で確保し原因回復を待つことです。
 
-## 2. Core Physiology
+## 2. 基本となる力学
 
 - **Equation of motion:** `Pvent + Pmus = (V/Crs) + (Flow × R) + PEEPtotal`
 - **Pplat:** inspiratory hold中のno-flow pressure。条件が成立しているか確認
@@ -82,11 +84,11 @@ ssot: true
 
 **Clinical Meaning** — 分泌物、気管支攣縮、tube屈曲、肺/胸壁病態などを仮説にし、患者と回路の評価で検証します。単一の圧差だけで診断を確定しません。
 
-## 3. Modes and Controls
+## 3. 換気モードと制御
 
 Volume-targetedとpressure-targetedは「何を保証し、何が変動するか」が異なります。mode名は機種依存なので、trigger、target/control、cycle、backup、alarmを実機で確認します。FiO₂/PEEPはoxygenation、minute ventilationは主にPaCO₂、flow/rise/cycleはcomfortとsynchronyへ影響します。
 
-## 4. Bedside Assessment
+## 4. ベッドサイド評価
 
 1. 患者：胸郭、呼吸努力、意識、SpO₂、循環、ETCO₂
 2. airway：tube depth、cuff、patency、secretions
@@ -128,17 +130,18 @@ Volume-targetedとpressure-targetedは「何を保証し、何が変動するか
 
 **Clinical Meaning** — 波形は発見の手掛かりです。定量には適切な呼気終末holdなどが必要で、外因性PEEPを反射的に増減せず原因へ介入して再評価します。
 
-## 6. Clinical Reasoning and Treatment
+## 6. 臨床推論と対応
 
 ```text
-alarm/悪化 → 患者は換気・酸素化されているか → 不安定ならmanual ventilation
+アラーム/悪化 → 患者の換気・酸素化・循環を直接評価 → 応援要請
 → airway → circuit → ventilator → 病態の順に探索
-→ mechanicsとwaveformから仮説 → 原因介入 → 全身状態と波形を再評価
+→ 生命危機なら訓練・施設手順に沿った救命対応
+→ 力学と波形から仮説 → 原因介入 → 全身状態と波形を再評価
 ```
 
 肺保護はARDSだけでなくrisk患者でも意識し、PBWに基づくVT、過度なinspiratory pressure回避、適切なPEEP、過剰な自発努力とasynchronyの是正を統合します。鎮静・筋弛緩は原因探索を置き換えません。
 
-## 7. Nursing Points
+## 7. ICU Nursing Pearls
 
 - shift/移送/処置前後にtube位置、固定、cuff、設定、measured values、alarm、backupを確認
 - alarm limitsを無効化せず患者に合わせる。alarm silence後に原因を残さない
@@ -166,15 +169,19 @@ alarm/悪化 → 患者は換気・酸素化されているか → 不安定な�
 - [Ventilator Liberation](../Weaning/VENTILATOR_LIBERATION.md)
 - [Respiratory Support Case](../../23_Clinical_Cases/CASE_RESPIRATORY_SUPPORT_ESCALATION.md)
 
-## 11. References
+## 11. Claim-level References
 
-- Goodfellow LT, et al. AARC Clinical Practice Guideline: Patient-Ventilator Assessment. Respir Care. 2024;69:1042-1054. PMID: 39048148. [Official PDF](https://www.aarc.org/wp-content/uploads/2024/10/patient-ventilator-assessment-aarc-cpg.pdf).
-- Fan E, et al. ATS/ESICM/SCCM guideline: Mechanical Ventilation in Adult ARDS. Am J Respir Crit Care Med. 2017. DOI: 10.1164/rccm.201703-0548ST; PMID: 28459336.
-- Acute Respiratory Distress Syndrome Network. Lower tidal volumes versus traditional tidal volumes. N Engl J Med. 2000. DOI: 10.1056/NEJM200005043421801; PMID: 10793162.
+| Source ID | Title | Organization / Journal | Year / Status | Exact claim supported | Strength / certainty | Limits | DOI / PMID / Official URL | Verified on |
+|---|---|---|---|---|---|---|---|---|
+| SRC-VENT-001 | AARC Clinical Practice Guideline: Patient-Ventilator Assessment | AARC / Respiratory Care | 2024; current final | CLM-VENT-001：患者中心の包括的な患者―人工呼吸器評価 | Components have recommendation-specific grades | 病態別設定や急変時手技を一律に定めない | DOI: 10.4187/respcare.12007; PMID: 39048148; https://www.aarc.org/wp-content/uploads/2024/10/patient-ventilator-assessment-aarc-cpg.pdf | 2026-08-12 |
+| SRC-VENT-002 | Mechanical Ventilation in Adult Patients with ARDS | ATS/ESICM/SCCM / AJRCCM | 2017; current recommendations retained where not updated | ARDSの低一回換気量・吸気圧制限 | strong; moderate certainty | 成人ARDSに限定 | DOI: 10.1164/rccm.201703-0548ST; PMID: 28459336; https://www.thoracic.org/statements/resources/cc/ards-guidelines.pdf | 2026-08-12 |
+| SRC-VENT-003 | An Update on Management of Adult Patients with ARDS | ATS / AJRCCM | 2024; current final update | ARDSのPEEP、肺リクルートメント手技等 | recommendation-specific | 成人ARDSに限定 | DOI: 10.1164/rccm.202311-2011ST; PMID: 38032683; https://pubmed.ncbi.nlm.nih.gov/38032683/ | 2026-08-12 |
+| SRC-VENT-004 | Lower Tidal Volumes versus Traditional Tidal Volumes for ALI/ARDS | ARDS Network / NEJM | 2000; landmark RCT | ARDS低一回換気量戦略の主要原著 | RCT | 現代のARDS定義以前。プロトコル全体として解釈 | DOI: 10.1056/NEJM200005043421801; PMID: 10793162 | 2026-08-12 |
 
 ## Review Log
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | safety wording / source status / AARC and ATS claim mapping | Major revision in progress; ventilator specialist review needed |
 | 2026-08-12 | Codex | pressure mechanics / time waveforms / AARC CPG | Visuals and interpretation added; ventilator specialist review needed |
-| 2026-08-11 | Codex | physiology / guideline / nursing | Evidence reviewed; ventilator specialist review needed |
+| 2026-08-11 | Codex | physiology / guideline identity / nursing | Source identity checked; claim-level mapping was incomplete |

@@ -5,8 +5,10 @@ created: 2026-08-12
 last_updated: 2026-08-12
 evidence_reviewed: 2026-08-12
 next_review: 2027-02-12
+evidence_status: claim-mapped-with-open-items
+human_review_required: true
 owners: []
-reviewers: [Codex evidence review]
+reviewers: [Codex source mapping; ventilator specialist pending]
 tags: [mechanical-ventilation, glossary, nursing-education]
 related: [MECHANICAL_VENTILATION.md, VENTILATOR_VISUAL_QUICK_GUIDE.md]
 ssot: true
@@ -17,15 +19,15 @@ ssot: true
 > [!CAUTION]
 > 用語を知ることと設定を変更できることは同じではありません。設定変更は患者の病態、測定条件、循環、施設手順、担当チームの方針を確認して行います。急変時は画面より患者を先に評価します。
 
-## まず全体像
+## Quick Review：まず全体像
 
 人工呼吸器は、酸素化、二酸化炭素排出、呼吸仕事量を支えます。画面の値は「患者・人工気道・回路・人工呼吸器」が一体となった結果です。1つの値だけで原因を決めません。
 
 ## PEEPとは
 
-**呼気終末陽圧（positive end-expiratory pressure：PEEP）**は、息を吐き終わった時点でも気道内圧を大気圧より高く保つための圧です。
+**[FACT] [CLM-VENT-TERM-001] 呼気終末陽圧（positive end-expiratory pressure: PEEP）**は、呼気終末に気道へ加わっている陽圧です。人工呼吸器に設定した値だけでなく、呼出しきれず肺内に残る内因性PEEPも区別します。[SRC-VENT-TERM-001]
 
-**簡単に言うと：** 呼気の終わりに肺胞が閉じにくいよう、気道に残しておく圧です。
+**簡単に言うと：** 息を吐き終えた時点にも残る圧です。適切なら肺胞虚脱を抑え得ますが、肺胞を必ず開く圧、または酸素化を必ず改善する圧という意味ではありません。
 
 ### なぜ使うのか
 
@@ -38,8 +40,8 @@ ssot: true
 | 用語 | 意味 | ポイント |
 |---|---|---|
 | 設定PEEP | 人工呼吸器に設定したPEEP | 画面上の設定値 |
-| auto-PEEP | 呼気が終わる前に次の吸気が始まり、肺内に残った内因性の圧 | 呼気flow、呼気時間、抵抗、患者努力を確認 |
-| PEEPtotal | 呼気終末に実際に存在する総PEEP | 設定PEEPとauto-PEEPを含む概念 |
+| 内因性PEEP（auto-PEEP） | 呼出しが完了する前に次の吸気が始まるなどして肺内に残る圧 | 呼気流量、呼気時間、抵抗、患者努力を確認 |
+| 総PEEP（PEEPtotal） | 呼気終末に測定される総圧 | 設定PEEPと内因性PEEPの関係を含む。呼気終末ホールドの条件を確認 |
 
 ### 新人看護師が見ること
 
@@ -57,9 +59,9 @@ ssot: true
 
 これらはPEEPだけが原因とは限りません。患者、airway、回路、人工呼吸器、病態を順に確認し、緊急性があれば直ちに応援を要請します。
 
-### ベテラン向け深掘り
+### Advanced：ベテラン向け深掘り
 
-PEEPによるrecruitment、overdistension、肺血管抵抗、右室afterload、静脈還流への影響は同時に起こり得ます。酸素化の改善だけを利益とみなさず、driving pressure、compliance、dead space、血圧、右心、臓器灌流、患者努力の変化を統合します。ARDSにおけるhigher PEEPは対象集団と戦略に依存する条件付き推奨であり、「すべての患者で高いほどよい」という意味ではありません。
+**[RECOMMENDATION] [CLM-VENT-TERM-002]** PEEPによる肺胞開存、過膨張、肺血管抵抗、右室後負荷、静脈還流への影響は同時に起こり得ます。酸素化の改善だけを利益とみなさず、駆動圧、コンプライアンス、死腔、血圧、右心、臓器灌流、患者努力の変化を統合します。ATS 2024は、中等症〜重症ARDSで肺リクルートメント手技を伴わない高めのPEEPを低めのPEEPより提案していますが、条件付き推奨かつ確実性は低〜中等度です。[SRC-VENT-TERM-002] これは全患者でPEEPが高いほどよいという意味ではありません。
 
 ## Ppeakとは
 
@@ -67,19 +69,19 @@ PEEPによるrecruitment、overdistension、肺血管抵抗、右室afterload、
 
 **簡単に言うと：** 気体を流しながら肺へ送るときに必要だった圧の最大値です。
 
-Ppeakは、気道抵抗、吸気flow、肺・胸壁の弾性、PEEP、患者努力などの影響を受けます。高値なら分泌物、気管支攣縮、tube屈曲、回路、肺・胸壁病態をPplatと患者所見で分けます。
+Ppeakは、気道抵抗、吸気流量、肺・胸壁の弾性、PEEP、患者努力などの影響を受けます。高値なら分泌物、気管支攣縮、気管チューブ屈曲、回路、肺・胸壁病態をPplatと患者所見で分けます。
 
 ## Pplatとは
 
-**プラトー圧（plateau pressure：Pplat）**は、吸気終末にholdを行い、flowが0となった条件で測る静的な気道内圧です。
+**[FACT] [CLM-VENT-TERM-003] プラトー圧（plateau pressure: Pplat）**は、吸気終末ホールドを行い、流量がほぼ0となった条件で測る静的な気道内圧です。[SRC-VENT-TERM-001]
 
 **簡単に言うと：** 気体の流れによる抵抗成分を減らし、肺・胸壁を膨らませている圧を推定する値です。
 
-患者努力、leak、不十分なholdがあると誤読します。数値を見る前にpressure・flow波形と測定条件を確認します。
+患者努力、漏れ、不十分なホールドがあると誤読します。数値を見る前に圧・流量波形と測定条件を確認します。Pplatは肺胞内の局所圧や経肺圧を直接測る値ではありません。
 
 ## Driving pressureとは
 
-**駆動圧（driving pressure）**は通常、`Pplat − PEEPtotal`で表します。
+**[FACT] [CLM-VENT-TERM-004] 駆動圧（driving pressure）**は、受動的な測定条件では通常 `Pplat − 総PEEP` で表します。[SRC-VENT-TERM-001]
 
 **簡単に言うと：** 1回の換気で呼吸器系を呼気終末の状態から膨らませるために加わる圧差です。
 
@@ -132,14 +134,17 @@ Ppeakは、気道抵抗、吸気flow、肺・胸壁の弾性、PEEP、患者努�
 3. PEEP変更後にSpO₂以外で確認する患者所見を3つ挙げてください。
 4. 数値が変化したとき、患者・回路・測定条件のどれをどう確認しますか。
 
-## References
+## Claim-level References
 
-- Goodfellow LT, et al. AARC Clinical Practice Guideline: Patient-Ventilator Assessment. Respir Care. 2024;69:1042-1054. DOI: 10.4187/respcare.12007; PMID: 39048148. [Official PDF](https://www.aarc.org/wp-content/uploads/2024/10/patient-ventilator-assessment-aarc-cpg.pdf).
-- Fan E, et al. An Official ATS/ESICM/SCCM Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with ARDS. Am J Respir Crit Care Med. 2017;195:1253-1263. DOI: 10.1164/rccm.201703-0548ST; PMID: 28459336. [Official PDF](https://www.thoracic.org/statements/resources/cc/ards-guidelines.pdf).
-- 医学的内容の正本：[Mechanical Ventilation](MECHANICAL_VENTILATION.md) / [ARDS](../ARDS/ARDS.md)
+| Source ID | Title | Organization / Journal | Year / Status | Exact claim supported | Strength / certainty | Limits | DOI / PMID / Official URL | Verified on |
+|---|---|---|---|---|---|---|---|---|
+| SRC-VENT-TERM-001 | AARC Clinical Practice Guideline: Patient-Ventilator Assessment | AARC / Respiratory Care | 2024; current final | CLM-VENT-TERM-001, 003, 004：PEEP・auto-PEEP・Pplat・駆動圧の評価 | Pplat、PEEP、auto-PEEP評価はstrong/high; 駆動圧評価はconditional/low | 値の測定条件と患者努力を別途評価。全患者共通の設定値を処方しない | DOI: 10.4187/respcare.12007; PMID: 39048148; https://www.aarc.org/wp-content/uploads/2024/10/patient-ventilator-assessment-aarc-cpg.pdf | 2026-08-12 |
+| SRC-VENT-TERM-002 | An Update on Management of Adult Patients with ARDS | American Thoracic Society / AJRCCM | 2024; current final update | CLM-VENT-TERM-002：中等症〜重症ARDSのhigher PEEP without prolonged recruitment maneuvers | conditional; low–moderate certainty. Prolonged recruitment maneuversにはstrong recommendation against/moderate certainty | ARDSに限定。PEEP設定方法や全患者の最適値を一つに定めない | DOI: 10.1164/rccm.202311-2011ST; PMID: 38032683; https://pubmed.ncbi.nlm.nih.gov/38032683/ | 2026-08-12 |
+
+医学的内容の関連正本：[人工呼吸管理](MECHANICAL_VENTILATION.md) / [ARDS](../ARDS/ARDS.md)
 
 ## Review Log
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
-| 2026-08-12 | Codex | terminology / bedside nursing / AARC / ATS | V2 foundation draft; respiratory and ICU nursing specialist review needed |
+| 2026-08-12 | Codex | terminology / claim mapping / AARC 2024 / ATS 2024 | Major revision; ventilator and ICU nursing specialist review needed |
