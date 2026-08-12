@@ -148,6 +148,21 @@ ssot: true
 | closed-loop communication | 閉ループcommunication | 指示を復唱し、実施と結果まで戻す伝達 | 誰が何をいつ行いどうなったかを確認 |
 | omitted care | 未実施care | 必要だが延期・省略されたcare | 理由、risk、代替、再実施時刻、ownerをhandover |
 
+## 感染管理・特殊患者・中毒・倫理system
+
+| 用語 | 正式名称 | 簡単に言うと | 看護で結びつけること |
+|---|---|---|---|
+| standard precautions | 標準予防策 | 全患者へ行う感染予防の基本策 | 手指衛生、task別PPE、安全注射、環境・器材を確認 |
+| transmission-based precautions | 感染経路別予防策 | 接触・飛沫・空気伝播riskに追加する対策 | 早期開始、部屋/PPE、移送、解除条件をhandover |
+| frailty | frailty、虚弱 | stressに対する生理的予備力が低い状態 | 発症前機能、栄養、認知、回復目標と統合 |
+| gestational age | 妊娠週数 | 妊娠開始からの週数 | 母体生理、胎児、専門team、薬剤・蘇生修正へ結びつける |
+| toxidrome | 中毒症候群 | 物質群に特徴的な症候の組合せ | 仮説として使い、混合摂取・mimic・trajectoryを確認 |
+| core temperature | 深部体温 | 身体内部の温度 | 測定部位・方法、冷却/復温、臓器反応を記録 |
+| decision-making capacity | 意思決定能力 | 特定の判断を理解・比較・表明する能力 | 時点・判断別に評価し、delirium・言語・感覚を補助 |
+| time-limited trial | 期限付き治療試行 | 期間・目標・判断基準を決めて治療を試すこと | review日時、指標、改善/不変/悪化時の選択、ownerを記録 |
+| DNAR | 心肺蘇生を行わない指示 | 心停止時のCPRに関する指示 | 他の治療制限へ自動拡張しない |
+| human factors | human factors | 人とtask・機器・環境・組織の相互作用を扱う安全科学 | 個人注意だけでなくsystem designへ改善を戻す |
+
 ## 用語を使うときの3問
 
 1. これは患者の何を表す言葉・値か。

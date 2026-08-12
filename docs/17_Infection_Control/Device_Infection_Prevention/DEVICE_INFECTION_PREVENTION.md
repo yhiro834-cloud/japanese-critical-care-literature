@@ -14,6 +14,27 @@ ssot: true
 
 # Device-associated Infection Prevention
 
+## 0. まず覚える
+
+device関連感染予防は、挿入時の無菌操作だけでなく、**正しい適応、accessごとの清潔操作、closed system、毎日の必要性確認、早期抜去**を通したlifecycle管理である。
+
+**簡単に言うと：** 「入れた日」だけでなく、「触るたび」「毎日残すたび」に感染riskを管理する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| CLABSI | central line-associated bloodstream infection | surveillance定義と個々の患者の感染診断を混同しない |
+| CAUTI | catheter-associated urinary tract infection | 混濁・臭い・pyuriaだけで診断や培養を行わない |
+| VAP / VAE | 人工呼吸関連肺炎 / 人工呼吸関連event | surveillanceとbedside clinical diagnosisを区別する |
+| insertion bundle | 挿入時の複数の感染予防策 | barrier、皮膚消毒、部位、competencyをまとめて実施 |
+| maintenance bundle | 維持中のaccess・dressing・closed system等の予防策 | accessのたびをaseptic eventとして扱う |
+| biofilm | device表面に形成される微生物の膜状集団 | 抗菌薬だけで除去できずsource controlが必要なことがある |
+
+**新人看護師の到達点：** deviceごとに適応、部位、挿入日、固定・dressing、closed system、最終access、培養、抜去barrierを確認する。disconnectや汚染を記録し、不要deviceの抜去を提案できる。
+
+> **報告例：** 「中心lineの適応は終了していますが残存し、dressing剥離とhub access増加があります。感染徴候はありません。不要deviceとして本日抜去できるか確認してください。」
+
+**ベテラン向け深掘り：** culture陽性＝自動抜去、陰性＝自動温存とせず、検体品質、colonization、病原体、tunnel/pocket、biofilm、代替access riskを統合する。bundle遵守率だけでなく実際のprocess observationとfeedbackを行う。
+
 ## Universal device lifecycle
 
 ```text
@@ -60,5 +81,6 @@ deviceごとに、適応、種類/部位、挿入日、最終access、site/dress
 
 ## Review log
 
+- 2026-08-12: V2導入、CLABSI/CAUTI/VAP-VAE/bundle/biofilm等の用語、新人の日常確認・報告を追加。
 - 2026-08-12: insertion/maintenance bundles, access-event safety, culture stewardship, suspected-infection source-control decision, daily device cardを深化。IPC/nursing/local bundles review required.
 - 2026-08-11: SHEA Compendium review.

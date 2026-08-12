@@ -14,6 +14,27 @@ ssot: true
 
 # Complex Adult Populations
 
+## 0. まず覚える
+
+高齢、frailty、免疫不全、肥満は病名ではなく、重症疾患の現れ方、治療risk、必要資源を変える背景である。**labelだけで予後や治療強度を決めず、発症前baselineと個別の生理・曝露へ分解する。**
+
+**簡単に言うと：** 年齢やBMIではなく、普段どこまでできたか、何が弱いか、どの免疫が抑えられているか、何が回復目標かを見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| frailty | 生理的予備力が低下しstressに脆弱な状態 | 単独の治療制限基準にしない |
+| ADL / IADL | 基本的 / 手段的日常生活動作 | 発症前baselineと今回の低下を比較する |
+| immunocompromised | 感染防御機能が低下した状態 | 免疫欠損の種類、強度、時期を具体化する |
+| opportunistic infection | 免疫低下時に起こりやすい感染 | 欠損の種類と治療/移植後時期から推定する |
+| predicted body weight | 身長・性別から算出する人工呼吸用の予測体重 | obesityでもtidal volumeを実体重だけで決めない |
+| weight descriptor | actual/ideal/adjusted等、dose計算に使う体重指標 | 薬剤ごとの選択と根拠を明記する |
+
+**新人看護師の到達点：** 発症前ADL/IADL・認知、frailty、栄養、免疫抑制薬と最終投与、実測身長体重、通常の移動・呼吸support、本人の価値観を聴取しhandoverできる。
+
+> **報告例：** 「発熱はありませんが、新規せん妄と食欲低下があります。抗CD20抗体治療後で炎症反応も乏しく、重症感染を否定できません。免疫欠損と治療時期に基づく感染・非感染鑑別をお願いします。」
+
+**ベテラン向け深掘り：** 高齢者の低筋量によるcreatinine過小評価、免疫不全の非感染性mimic、obesityの胸壁負荷・機材耐荷重・drug weight scalarを個別化する。frailtyはrisk communicationとtime-limited trialに用い、年齢差別の代理指標にしない。
+
 ## Baseline first
 
 年齢、BMI、診断名だけで予後・治療強度を決めない。発症前のADL/IADL、frailty、cognition、栄養、臓器機能、薬剤、免疫状態、本人の価値観と回復可能性を分けて記録する。
@@ -60,5 +81,6 @@ baseline機能、frailty/認知、免疫欠損の具体像、体重descriptor、
 
 ## Review log
 
+- 2026-08-12: V2導入、frailty/ADL/免疫不全/予測体重等の用語、新人baseline報告、label依存を防ぐ判断を追加。
 - 2026-08-12: phenotype-based baseline, atypical presentation, immune-defect/timing reasoning, obesity equipment and dosing safeguardsを深化。specialty review required.
 - 2026-08-11: initial cross-population safeguards.
