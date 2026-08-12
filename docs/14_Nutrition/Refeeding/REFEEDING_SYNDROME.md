@@ -14,6 +14,26 @@ ssot: true
 
 # Refeeding Syndrome
 
+## 0. まず覚える
+
+refeeding syndromeは、飢餓・低栄養状態へ栄養、とくに糖質を再導入した後に、phosphate、K、Mg、thiamine、体液の急変から臓器障害を来す症候群である。
+
+**簡単に言うと：** 栄養を始める前にriskを見つけ、少量から進め、電解質と心臓・呼吸・神経の変化を早期に拾う。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| phosphate | ATP産生などに必要な電解質 | 急低下で呼吸筋力低下、心機能・神経障害を来しうる |
+| thiamine | 糖代謝に必要なvitamin B1 | 高riskでは糖質投与前後の補充計画を確認する |
+| electrolyte shift | 電解質が血中から細胞内へ移動すること | 初期値が正常でもfeeding後に急低下しうる |
+| hidden carbohydrate | 輸液・薬剤希釈液などに含まれる見落としやすい糖質 | oral/EN/PN以外も全量を数える |
+| fluid retention | Na・水分が体内へ貯留すること | 浮腫、体重、心不全、呼吸悪化を監視する |
+
+**新人看護師の到達点：** 開始前の摂取歴・体重減少、K/Mg/phosphate、thiamine、全糖質sourceを確認し、開始後の調律、浮腫、呼吸筋力、意識、尿量を頻回に追う。電解質低下時は栄養速度と補正後再測定を報告する。
+
+> **報告例：** 「栄養開始24時間後にphosphateとKが急低下し、新たな呼吸筋力低下と浮腫があります。refeeding syndromeを疑い、全糖質量、栄養進行、thiamine・電解質補正を至急再評価してください。」
+
+**ベテラン向け深掘り：** phosphate単独低下で確定せず、sepsis、respiratory alkalosis、insulin、KRT、diuretic/GI lossを鑑別する。一方、診断名を待って進行を続けず、臓器障害の重症度に応じて投与を減速・調整し、再開条件を明示する。
+
 ## Recognize risk before calories
 
 negligible intake、weight loss/low BMI、alcohol use、malabsorption、cancer、eating disorder、prolonged fasting、baseline low K/Mg/phosphate等を確認する。oral、EN、PN、IV dextroseのいずれでも起こり得る。
@@ -76,5 +96,6 @@ sepsis、diuretic/GI loss、respiratory alkalosis、insulin/catecholamine effect
 
 ## Review log
 
+- 2026-08-12: V2導入、phosphate/thiamine/hidden carbohydrate等の用語、新人のrisk確認・報告、鑑別と再開判断を追加。ASPEN consensusを再確認。
 - 2026-08-12: mechanism, risk handoff, hidden carbohydrate, monitoring, response, and differential expanded.
 - 2026-08-11: ASPEN consensus review; dietitian/pharmacy/local electrolyte protocol review required.

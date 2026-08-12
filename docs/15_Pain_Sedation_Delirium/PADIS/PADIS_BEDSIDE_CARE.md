@@ -14,6 +14,27 @@ ssot: true
 
 # Pain, Sedation, Delirium, Sleep, and Withdrawal
 
+## 0. まず覚える
+
+PADISはpain（痛み）、agitation/sedation（興奮・鎮静）、delirium（せん妄）、immobility（不動）、sleep disruption（睡眠障害）を相互に扱う考え方である。行動を薬で抑える前に、**痛み、低酸素、shock、device、不安、離脱などの原因を評価する。**
+
+**簡単に言うと：** 患者を静かにすることが目的ではなく、苦痛を減らし、必要な覚醒と安全を保ち、呼吸・離床・回復へつなげる。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| analgesia | 鎮痛 | 自己申告を優先し、困難時はCPOT/BPS等の行動尺度を使う |
+| sedation | 鎮静 | 毎日目標を決め、必要な深さと理由・終了条件を明示する |
+| RASS | 興奮から深鎮静までを示す尺度 | 目標と実測の差、薬剤曝露、原因を評価する |
+| delirium | 急性に変動する注意・認知の障害 | CAM-ICU等でscreenし、原因治療と非薬物bundleを中心にする |
+| SAT / SBT | 自発覚醒trial / 自発呼吸trial | 安全screen後に連携し、中断そのものを目的化しない |
+| withdrawal | opioid、benzodiazepine等の減量・中止に伴う離脱症候群 | 曝露量、症状、taper計画をhandoverする |
+
+**新人看護師の到達点：** pain、目標/実測RASS、delirium screen、睡眠、呼吸、device、尿閉・便秘、薬剤変更を同じ時間軸で記録し、急なagitationや深鎮静でABCDEと原因を再評価できる。
+
+> **報告例：** 「目標RASS -1に対し-4で、鎮静薬増量はありません。腎機能悪化とCO₂上昇もあります。薬剤蓄積、換気不全、神経障害を含め、鎮静目標と原因の再評価をお願いします。」
+
+**ベテラン向け深掘り：** 2025 PADIS focused updateの推奨は条件付きであり、dexmedetomidine、melatonin、enhanced mobilizationを全員へ一律適用しない。NMBAは鎮静を保証せず、RASS評価不能時も鎮痛・鎮静・awareness riskを独立評価する。
+
 ## Assess before treating behavior
 
 - self-report painを優先し、不可能ならCPOT/BPS等のvalidated behavioral tool。
@@ -58,5 +79,6 @@ A pain、B SAT/SBT、C drug choice、D delirium、E mobility、F familyを別々
 
 ## Review log
 
+- 2026-08-12: V2導入、鎮痛/鎮静/RASS/delirium/SAT-SBT/離脱の用語、新人の原因再評価・報告を追加。SCCM PADIS 2025を再確認。
 - 2026-08-12: 2025 focused updateの条件付き推奨、goal-exposure gap、anxiety/withdrawal、trigger-based reassessmentを追加。local validation required.
 - 2026-08-11: PADIS/ICU Liberation review.

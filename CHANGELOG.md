@@ -408,6 +408,15 @@
 - **影響ページ:** `docs/10_Endocrine_Metabolic/`、`docs/11_GI_Liver/`、`docs/12_Hematology/`、共通用語集、V2移行台帳
 - **要確認:** endocrine/GI/hepatology/surgery/hematology/transfusion/pharmacy専門家と施設protocol review
 
+### 2026-08-12 — Textbook V2 Medication / Nutrition / PADIS / Recovery
+
+- **テーマ:** 投薬安全から栄養・快適性・離床・退院後回復までの連続学習
+- **変更内容:** 7本のSSOTへ基本用語、新人の観察・報告、ベテラン向け限界判断を追加し、4領域README・用語集・移行台帳を同期
+- **新しいEvidence:** ISMP 2024–2025、ASPEN/ESPEN、SCCM PADIS Focused Update 2025、SCCM ICU Liberationを公式sourceで再確認
+- **臨床的に何が変わったか:** pump表示のみの安全確認、処方栄養量と実投与量の混同、静穏を鎮静目標とする誤解、一律bed rest、退院を回復完了とする誤解を防ぐ導線を追加
+- **影響ページ:** `docs/13_Pharmacology/`〜`docs/16_Rehabilitation_PICS/`、共通用語集、V2移行台帳
+- **要確認:** ICU pharmacy/dietitian/PT/OT/SLT/PADIS/rehab専門家と施設workflow review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic
