@@ -14,9 +14,12 @@ ssot: true
 
 # Goals, Shared Decisions, End of Life, and Organ Donation
 
+> [!NOTE]
+> **図で確認：** [共同意思決定の流れ](../../../assets/ethics/capacity_goals_decision.svg) — 意思決定能力、患者の価値観、医学的選択肢、症状緩和、再評価を一続きの過程として扱う。
+
 ## 0. まず覚える
 
-shared decision-making（共同意思決定）は、医学的事実と不確実性を示し、患者の価値観・受け入れ可能な結果を理解して、teamと患者/代理人が治療方針を決める過程である。
+共同意思決定（shared decision-making）は、医学的事実と不確実性を示し、患者の価値観・受け入れ可能な結果を理解して、医療チームと患者・代理人が治療方針を決める過程である。
 
 **簡単に言うと：** 「できる治療」と「患者が望む生き方」を結び、決めた後も症状careと再評価を止めない。
 

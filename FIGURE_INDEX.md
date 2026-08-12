@@ -1,5 +1,13 @@
 # Figure Index
 
+## Special populations, toxicology, environment, ethics, and safety
+
+- 小児・妊産婦の初期対応 — `assets/special_populations/pediatric_obstetric_adaptation.svg`
+- 急性中毒の初期対応と中毒症候群 — `assets/toxicology/toxidrome_comparison.svg`
+- 低体温症と熱中症の比較 — `assets/environmental/temperature_emergency_spectrum.svg`
+- 共同意思決定の流れ — `assets/ethics/capacity_goals_decision.svg`
+- 安全を高める学習システム — `assets/safety/learning_system_loop.svg`
+
 Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正本とし、図単独を診療protocolとして使用しない。
 
 | Figure ID | Topic | Learning Objective | File | Related Knowledge Page | Figure Type | PowerPoint Reusable | Suggested Slide Use | Evidence Source | Last Reviewed |
