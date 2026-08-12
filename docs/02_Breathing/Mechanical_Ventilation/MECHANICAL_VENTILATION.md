@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Ventilation"
+title: "人工呼吸管理"
 status: review-needed
 created: 2026-08-11
 last_updated: 2026-08-12
@@ -12,7 +12,7 @@ related: [../ARDS/ARDS.md, ../Weaning/VENTILATOR_LIBERATION.md]
 ssot: true
 ---
 
-# Mechanical Ventilation
+# 人工呼吸管理
 
 > [!CAUTION]
 > 設定は診断、肺mechanics、循環、患者努力、施設protocolで個別化します。本頁は固定設定の処方箋ではありません。急変時は患者を先に評価し、必要ならventilatorから離してmanual ventilationし支援を要請します。
@@ -22,6 +22,28 @@ ssot: true
 
 > [!TIP]
 > PEEP、Ppeak、Pplat、driving pressure、complianceなどの意味から確認したい場合は、[人工呼吸器の基本用語](VENTILATOR_TERMS.md)を先に読んでください。
+
+## 0. まず覚える
+
+**人工呼吸（mechanical ventilation）**は、人工呼吸器で酸素化・換気・呼吸仕事量を支える治療です。
+
+**簡単に言うと：** 画面の設定を管理するのではなく、患者、人工気道、回路、人工呼吸器、病態を一体として評価し、supportの効果と害を繰り返し確認します。
+
+| 用語 | 簡単な意味 | 最初に確認すること |
+|---|---|---|
+| mode | 人工呼吸器が呼吸をどう開始・制御・終了するかの方式 | 機種固有名だけでなくtrigger・target・cycle |
+| setting | 医療者が設定した値 | 実測値と区別する |
+| measured value | 患者と回路の結果として測定された値 | 呼気VT、minute ventilation、pressure、waveform |
+| alarm | 設定範囲外や機器異常を知らせる警報 | silenceより先に患者を評価する |
+| synchrony | 患者の呼吸要求と機械送気の一致 | 努力、苦痛、pressure/flow波形 |
+
+**新人看護師の到達点：** 患者 → tube → 回路 → 設定 → 実測値 → 波形の順に確認し、alarm時の患者所見、変化、実施した確認、反応を報告すること。
+
+**ベテラン向け深掘り：** 肺・横隔膜保護、患者努力、transpulmonary stress、右心・静脈還流、asynchrony、鎮静との相互作用を統合します。
+
+### 報告例
+
+> 「高圧alarmです。患者のSpO₂、血圧、呼吸努力は○○、tube深さと固定、左右換気は○○、回路は○○です。mode/設定は○○、Ppeak、Pplat、呼気VT、flow波形は○○で、吸引等への反応は○○です。」
 
 ## 1. Overview
 

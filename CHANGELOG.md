@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Textbook V2 Airway to Breathing
+
+- **テーマ:** AからBの現在到達点までを順番どおり再構築
+- **変更内容:** Airway 3章を用語・新人到達点・観察・報告・再評価・ベテラン深掘りで全面改稿し、Breathing 8章へ同じ二層学習導線を追加
+- **新しいEvidence:** SCCM RSI guideline 2023、AARC Artificial Airway Suctioning CPG 2022の公式資料を再確認。各呼吸SSOTの既存一次資料を継続利用
+- **臨床的に何が変わったか:** airway、RSI、ETCO₂、cuff、酸素化/換気、HFNC/NIV、ABG、ARDS、SBT等を初出で説明し、観察値を報告と再評価へ接続した
+- **影響ページ:** Airway全章・README、Breathing主要8章・README、Glossary、V2 Migration
+- **要確認:** Airway/Breathing専門家、ICU看護師、教育担当者によるsign-offと初学者テストは継続課題
+
 ### 2026-08-12 — Textbook V2 Foundation
 
 - **テーマ:** 新人看護師からベテラン看護師まで段階的に学べる教科書への全面改訂

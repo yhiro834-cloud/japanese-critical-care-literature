@@ -1,9 +1,9 @@
 ---
-title: "Acute Respiratory Distress Syndrome"
+title: "急性呼吸窮迫症候群"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -12,10 +12,31 @@ related: [../Mechanical_Ventilation/MECHANICAL_VENTILATION.md]
 ssot: true
 ---
 
-# Acute Respiratory Distress Syndrome
+# 急性呼吸窮迫症候群
 
 > [!CAUTION]
 > ARDSはsyndromeです。肺保護と同時に原因診断・治療、循環/RV、fluid balance、感染管理を行います。Berlin定義と新しいglobal definitionは対象・support範囲が異なるため、使用定義を明記してください。
+
+## 0. まず覚える
+
+**急性呼吸窮迫症候群（acute respiratory distress syndrome：ARDS）**は、肺の炎症と透過性亢進により肺水分が増え、肺胞虚脱・shunt・肺の不均一性を生じるsyndromeです。
+
+**簡単に言うと：** 肺全体が同じように硬くなるのではなく、使える肺が小さく不均一になり、酸素化を支えながら人工呼吸による追加損傷を避ける必要があります。
+
+| 用語 | 意味 | 看護で結びつけること |
+|---|---|---|
+| shunt | 血流はあるが換気されない領域 | 酸素への反応、体位、原因、循環を確認 |
+| VILI | 人工呼吸器関連肺傷害 | VT、Pplat、driving pressure、努力、同調性を統合 |
+| prone positioning | 腹臥位療法 | tube/line、眼・顔面、皮膚、圧迫、循環、team安全 |
+| P/F ratio | PaO₂/FiO₂比 | PEEP、device、体位、時刻とともに解釈 |
+
+**新人看護師の到達点：** FiO₂/PEEP/体位とSpO₂・血液ガスを対応させ、人工気道、波形、血圧、尿量、fluid balance、皮膚を観察すること。
+
+**ベテラン向け深掘り：** recruitability、過膨張、右心負荷、強い自発努力、prone response、fluidと灌流のtrade-off、定義の違いを統合します。
+
+### 報告例
+
+> 「ARDS管理中、現在の体位○、FiO₂○、PEEP○、SpO₂○、直近PaO₂○です。Pplat/呼気VT/波形は○○、血圧・尿量・fluid balanceは○○で、体位または設定変更後に○○へ変化しています。」
 
 ## 1. Overview / Pathophysiology
 
@@ -74,4 +95,5 @@ hypoxemic failure + bilateral opacity → timing/risk factor/alternativeを確�
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / nursing observation / advanced trade-offs | Staged-learning introduction added; ARDS specialist review needed |
 | 2026-08-11 | Codex | guideline / definition / nursing | Evidence reviewed; ICU expert review needed |
