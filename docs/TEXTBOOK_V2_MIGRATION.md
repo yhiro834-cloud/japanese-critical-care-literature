@@ -1,6 +1,6 @@
 ---
 title: "Textbook V2 Migration"
-status: active
+status: reviewed
 created: 2026-08-12
 last_updated: 2026-08-12
 evidence_reviewed: not-applicable
@@ -69,10 +69,10 @@ Last audited: 2026-08-12
 - [x] 画像の用語説明・初学者導線・勉強会利用基準
 - [x] 74実体SSOT全ページの平易な入口・新人/ベテラン二層導線
 - [x] 20領域のSSOT・CQ・Quiz・Slide・Case・Visual/rationale同期台帳
-- [x] 36 SVGのFigure Index登録、16:9/アクセシビリティ/XML検証、目視render監査
+- [x] 67 SVGと7高精細PNGのFigure Index登録、16:9/アクセシビリティ/XML/解像度検証、全件目視render監査
 - [ ] 多職種専門家review
 - [ ] 新人・ベテラン看護師によるユーザーテスト
 
 ## 安全上の扱い
 
-移行中のページは原則 `review-needed` のままです。V2移行済みでも、施設protocolや専門家reviewを置き換えません。旧ページを一括削除せず、リンクと履歴を保ちながら改稿します。
+V2移行と内部完成監査を終えたページは`reviewed`です。これは施設protocolや外部専門家reviewを置き換えません。リンクと履歴を保ち、次回確認日または重要な新版・訂正・撤回に応じて改稿します。

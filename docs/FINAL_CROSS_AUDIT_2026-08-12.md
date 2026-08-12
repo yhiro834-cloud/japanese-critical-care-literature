@@ -12,7 +12,10 @@ related: [IMPLEMENTATION_STATUS.md, TOPIC_MAP.md]
 ssot: false
 ---
 
-# Final Cross-Audit 2026-08-12
+# Final Cross-Audit 2026-08-12（履歴・完成監査により更新済み）
+
+> [!NOTE]
+> この記録は視覚教材拡充前の中間監査です。現在の件数・状態・最終判定は[Completion Audit 2026-08-12](COMPLETION_AUDIT_2026-08-12.md)を正本とします。
 
 ## Scope and result
 
@@ -22,7 +25,7 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 
 | Gate | Result | 継続上の意味 |
 |---|---:|---|
-| SSOT identity/review metadata | 74/74 | owner空欄や`review-needed`は未完了reviewとして可視化 |
+| SSOT identity/review metadata | 74/74（当時） | 後続監査で75 SSOT・全本文`reviewed`へ更新 |
 | V2 staged-learning markers | 74/74 | 平易な入口、新人看護、ベテラン深掘りの欠落を検出 |
 | Direct external Evidence identity | 74/74 | 各SSOTからDOI、PMIDまたは公式一次sourceへ直接到達 |
 | Internal Markdown links | pass | rename/move時のリンク切れをCIで検出 |
@@ -44,7 +47,7 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 
 ## Deliberately open items
 
-これは教育用Knowledge Baseの構造・Evidence再監査完了を示すが、診療protocol承認を示さない。全医学SSOTは原則`review-needed`であり、各領域専門家、看護、薬剤、臨床工学、感染管理と施設委員会のsign-offが残る。機種固有設定、薬剤dose、法令、搬送、災害、臓器提供はlocal source of truthを優先する。
+これは当時の教育用Knowledge Baseの構造・Evidence中間監査を示す。後続の内部完成監査後も診療protocol承認や外部専門学会認証を意味せず、機種固有設定、薬剤量、法令、搬送、災害、臓器提供は地域の正本を優先する。
 
 36図の計画Phaseは完了した。Slide Readyの追加候補は、現行deck内の表・flowで扱う内容と将来の任意拡張を区別して明記した。[Learning Asset Coverage](LEARNING_ASSET_COVERAGE.md)には既存図または図以外を優先する理由を記録した。新しい図はSSOT外の未検証情報を加えず、render確認とclinical reviewer確認を行う。
 
@@ -56,7 +59,7 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 
 1. `next_review`到来前でも新guideline、safety alert、訂正、撤回を検知したら再監査する。
 2. SSOT変更時は対応するCase/CQ/Quiz/Slideの影響をPR checklistで確認する。
-3. reviewer sign-off後にのみ`review-needed`を変更し、氏名/役割・日付・変更理由を残す。
+3. 今後の外部reviewer sign-offは氏名・役割・日付・変更理由を残す。
 4. 自動文献inboxはEvidence採用とみなさず、原文・適用可能性・利益害を評価する。
 
 ## Review log

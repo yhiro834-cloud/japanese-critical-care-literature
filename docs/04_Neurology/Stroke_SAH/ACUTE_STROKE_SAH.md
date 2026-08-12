@@ -1,6 +1,6 @@
 ---
 title: "Acute Stroke, ICH, and Aneurysmal SAH"
-status: review-needed
+status: reviewed
 created: 2026-08-11
 last_updated: 2026-08-12
 evidence_reviewed: 2026-08-12

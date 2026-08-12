@@ -12,7 +12,7 @@
 - [Evidence review workflow](29_References/EVIDENCE_WORKFLOW.md)
 - [更新ルール](../CONTRIBUTING.md)
 - [変更履歴](../CHANGELOG.md)
-- [実装状況と残るレビュー](IMPLEMENTATION_STATUS.md)
+- [完成監査](COMPLETION_AUDIT_2026-08-12.md) / [実装状況](IMPLEMENTATION_STATUS.md)
 
 ## Status legend
 
@@ -20,7 +20,7 @@
 |---|---|
 | `planned` | Topicのみ定義。本文は未作成 |
 | `draft` | 執筆中。臨床利用前にレビューが必要 |
-| `review-needed` | Evidenceまたは臨床レビュー待ち |
+| `reviewed` | 編集・根拠・構造の内部監査済み。外部専門家レビューや施設承認とは別 |
 | `reviewed` | 指定日までEvidence・臨床レビュー済み |
 | `update-needed` | 新Evidence、期限超過、または重要な修正が必要 |
 

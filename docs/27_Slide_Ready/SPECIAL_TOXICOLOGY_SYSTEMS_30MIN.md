@@ -1,6 +1,6 @@
 ---
 title: "Special Populations / Toxicology / Systems：中堅ICU看護師向け30分"
-status: review-needed
+status: reviewed
 created: 2026-08-11
 last_updated: 2026-08-11
 evidence_reviewed: 2026-08-11

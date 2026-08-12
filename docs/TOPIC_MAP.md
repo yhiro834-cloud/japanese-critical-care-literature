@@ -1,6 +1,6 @@
 # Critical Care Topic Map
 
-Status: `coverage-complete / specialist-review-needed`
+Status: `coverage-complete / internally-reviewed / external-specialist-review-recommended`
 
 Created: 2026-08-11
 

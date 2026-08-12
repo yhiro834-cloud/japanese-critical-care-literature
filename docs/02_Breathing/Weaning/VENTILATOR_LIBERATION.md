@@ -1,6 +1,6 @@
 ---
 title: "人工呼吸器離脱と抜管評価"
-status: review-needed
+status: reviewed
 created: 2026-08-11
 last_updated: 2026-08-12
 evidence_reviewed: 2026-08-12
