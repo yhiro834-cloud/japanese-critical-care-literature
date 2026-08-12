@@ -14,6 +14,26 @@ ssot: true
 
 # Intra-abdominal Hypertension and Abdominal Compartment Syndrome
 
+## 0. まず覚える
+
+腹腔内圧上昇（intra-abdominal hypertension: IAH）は、腹腔内の圧が持続的・反復的に高い状態である。腹部compartment syndrome（ACS）は、さらに高い圧に**新たな臓器障害**を伴う緊急病態である。
+
+**簡単に言うと：** お腹が張っているかだけで判断せず、標準化した膀胱内圧測定と、呼吸・循環・腎機能への影響を一緒に見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| IAP | intra-abdominal pressure、腹腔内圧 | 体位・呼気終末・zero点など測定条件をそろえる |
+| IAH | 持続/反復するIAP 12 mmHg以上 | 単一値でなく臓器機能とのtrendを追う |
+| ACS | IAP 20 mmHg超に新規臓器障害を伴う状態 | 減圧を含む迅速な原因治療が必要 |
+| trans-bladder measurement | 膀胱を介したIAP測定 | 注入量、体位、腹筋緊張、PEEP、時刻を記録する |
+| abdominal perfusion pressure | MAPとIAPの差で腹部灌流を考える指標 | 単独targetにせず全身灌流と臓器機能を統合する |
+
+**新人看護師の到達点：** 同じ条件でIAPを測定し、体位・PEEP・咳/鎮静・zero点を記録する。尿量低下、換気圧上昇、低酸素、昇圧薬増量、腹部緊満を関連づけて報告できる。
+
+> **報告例：** 「膀胱内圧が標準条件で22 mmHgへ上昇し、尿量低下と気道内圧上昇、新たな昇圧薬増量があります。ACSを疑い、減圧と外科consultを含む緊急再評価をお願いします。」
+
+**ベテラン向け深掘り：** oliguriaへblind fluidを反復せず、腹腔内容、capillary leak、腹壁compliance、胸腹部圧相互作用を分解する。IAP低下そのものではなく、臓器反応とsource controlをendpointにする。
+
 ## Definitions and recognition
 
 WSACS 2013ではIAHは持続/反復IAP ≥12 mmHg、ACSはIAP >20 mmHgに新規臓器障害を伴う状態。riskがあるcritical illnessでは腹部外観や触診だけで除外せず、standardized trans-bladder measurementを用いる。
@@ -58,5 +78,6 @@ time、position、reference/zero、instillation method、PEEP、sedation/cough�
 
 ## Review log
 
+- 2026-08-12: V2導入、IAP/IAH/ACSと測定条件、新人の測定・報告、臓器反応を追加。
 - 2026-08-12: risk clusters, measurement troubleshooting, intervention-response, and nursing record expanded.
 - 2026-08-11: Current published WSACS guideline confirmed; update under development, surgery/local measurement review required.

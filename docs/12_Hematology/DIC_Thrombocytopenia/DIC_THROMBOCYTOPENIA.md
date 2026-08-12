@@ -14,6 +14,27 @@ ssot: true
 
 # DIC and Acute Thrombocytopenia
 
+## 0. まず覚える
+
+DIC（disseminated intravascular coagulation、播種性血管内凝固）は、基礎疾患により全身の凝固反応が過剰に活性化し、血栓、出血、臓器障害が混在する動的な症候群である。
+
+**簡単に言うと：** 血小板が低いだけでDICとは決めず、原因、出血、血栓、臓器障害、凝固検査の推移をまとめて判断する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| thrombocytopenia | 血小板減少 | 偽性、消費、薬剤、HIT、TMA、骨髄など原因を分ける |
+| coagulopathy | 凝固障害 | PT/aPTT、fibrinogen等と臨床出血を統合する |
+| fibrinogen | fibrin血栓の材料となる蛋白 | 正常値でも高値から急低下中なら消費を否定できない |
+| HIT | heparin起因性血小板減少症 | 血小板減少と血栓を来し、全heparin曝露を確認する |
+| TMA / TTP | 微小血管血栓性病態 / 血栓性血小板減少性紫斑病 | 破砕赤血球、溶血、腎・神経所見を確認し、TTP疑いは治療を遅らせない |
+| pseudothrombocytopenia | 採血管内凝集などによる偽の低値 | smearや別採血管で確認する |
+
+**新人看護師の到達点：** platelet、PT/aPTT、fibrinogen、D-dimer、Hb、溶血所見を時系列で追い、皮膚・line・消化管・神経の出血と四肢/臓器の血栓兆候を観察する。heparin flushや透析回路を含む曝露を報告できる。
+
+> **報告例：** 「48時間で血小板が50%以上低下し、新たな下肢腫脹があります。heparin flushを含む曝露歴があります。DICだけでなくHITを疑い、pretest評価と全heparin sourceの確認をお願いします。」
+
+**ベテラン向け深掘り：** DIC、TMA、HIT、肝不全、massive transfusion、ECMO関連消費は重なりうる。単一scoreを排他的診断にせず、結果待ちの間に必要なtime-critical actionを決め、製剤はcount正常化ではなく出血・手技・trajectoryで選ぶ。
+
 ## DIC is a dynamic syndrome
 
 DICは基礎疾患に伴うsystemic coagulation activationで、thrombosisとbleeding、臓器障害が混在する。platelet、PT、fibrinogen、fibrin-related markerの**trend**と臨床像を統合し、scoreは補助として反復する。sepsis、trauma、malignancy、obstetric、vascular lesion等でphenotypeと治療が異なる。
@@ -64,5 +85,6 @@ underlying cause、bleeding/thrombosis、CBC/coagulation/fibrinogen trend、tran
 
 ## Review log
 
+- 2026-08-12: V2導入、DIC/HIT/TMA/偽性血小板減少等の用語、新人観察・報告、鑑別の時間軸を追加。AABB 2025血小板指針を再確認。
 - 2026-08-12: phenotype trajectory, mimic exclusion, HIT/TMA safety, and daily reassessment expanded.
 - 2026-08-11: ISTH/AABB review; hematology/transfusion/local assay review required.

@@ -106,6 +106,21 @@ ssot: true
 | unloading | 心室unloading | 心室内の容量・圧負荷を減らすこと | echo、肺うっ血、弁開放、全身灌流を統合 |
 | hemolysis | 溶血 | deviceや回路で赤血球が壊れること | 暗色尿、LDH/plasma-free Hb、腎機能、pump条件を確認 |
 
+## 内分泌・消化器・血液
+
+| 用語 | 正式名称 | 簡単に言うと | 看護で結びつけること |
+|---|---|---|---|
+| DKA | 糖尿病性ketoacidosis | insulin不足でketoneと代謝性acidosisを来す病態 | glucose、K、pH/HCO₃、β-hydroxybutyrate、輸液・insulinを同時に追う |
+| HHS | 高浸透圧高血糖状態 | 著しい高血糖・脱水・高浸透圧を来す病態 | osmolality、Na、意識、尿量と変化速度を確認 |
+| hypoglycemia | 低血糖 | glucose不足で脳などが障害されうる状態 | 症状、測定精度、insulin、栄養を確認し、治療後再測定 |
+| hepatic encephalopathy | 肝性脳症 | 肝機能低下などに関連する脳機能障害 | ammoniaだけで決めず意識、glucose、感染、薬剤、発作を確認 |
+| IAP | 腹腔内圧（intra-abdominal pressure） | 腹腔内にかかる圧 | 標準条件で測定し、換気、循環、尿量とのtrendを見る |
+| DIC | 播種性血管内凝固 | 全身の凝固活性化で血栓・出血・臓器障害が混在する状態 | 原因、出血/血栓、platelet、PT、fibrinogenの推移を追う |
+| HIT | heparin起因性血小板減少症 | heparinに関連して血小板低下と血栓を来す免疫性病態 | flush・透析を含む曝露、時期、低下率、血栓を確認 |
+| TRALI | 輸血関連急性肺障害 | 輸血に関連する急性の非心原性肺障害 | 輸血停止、呼吸・循環評価、TACO等との鑑別を急ぐ |
+| TACO | 輸血関連循環過負荷 | 輸血に伴うvolume overload | 出納、速度、心腎機能、肺うっ血を確認 |
+| VTE | 静脈血栓塞栓症 | 深部静脈血栓症と肺塞栓症の総称 | 予防の実施/禁忌、四肢所見、突然の低酸素・shockを確認 |
+
 ## 用語を使うときの3問
 
 1. これは患者の何を表す言葉・値か。

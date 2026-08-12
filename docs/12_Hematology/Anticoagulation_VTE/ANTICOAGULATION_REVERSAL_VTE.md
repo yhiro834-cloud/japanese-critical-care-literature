@@ -2,8 +2,8 @@
 title: "Anticoagulation, Reversal, and Venous Thromboembolism"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -13,6 +13,27 @@ ssot: true
 ---
 
 # Anticoagulation, Reversal, and VTE
+
+## 0. まず覚える
+
+抗凝固療法は血栓形成を抑える一方、出血riskを高める。大出血時には、**薬剤名、適応、最終投与、腎肝機能、出血部位を確認し、蘇生・止血と必要な拮抗を並行する。**
+
+**簡単に言うと：** 「抗凝固薬を飲んでいる」だけでは不十分で、どの薬がいつまで効いているか、止める害と拮抗する害を比べる。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| anticoagulant | 凝固反応を抑え血栓を予防・治療する薬 | agent、dose、last dose、適応、腎肝機能を必ず確認 |
+| reversal | 抗凝固作用を拮抗・低減すること | 薬剤ごとに方法が異なり、血栓riskを伴う |
+| DOAC | direct oral anticoagulant、直接経口抗凝固薬 | PT/aPTT正常でも薬効を完全には除外できない |
+| VTE | venous thromboembolism、静脈血栓塞栓症 | 深部静脈血栓症と肺塞栓症を含む |
+| pharmacologic prophylaxis | 薬剤によるVTE予防 | 出血risk、腎機能、体重、手技、HIT歴で個別化する |
+| mechanical prophylaxis | 間欠的空気圧迫などの機械的VTE予防 | 薬物禁忌時などに用い、装着・皮膚・末梢循環を確認する |
+
+**新人看護師の到達点：** 薬剤名、濃度/速度、体重、最終投与、採血時刻、腎肝機能、出血、神経変化、四肢血栓兆候を照合し、hold/restart条件と次回検査をhandoverできる。
+
+> **報告例：** 「抗凝固薬使用中に新たな意識低下と瞳孔左右差があります。最終投与は2時間前、腎機能は悪化しています。頭蓋内出血を疑い、投与停止、画像、薬剤特異的な拮抗判断を至急お願いします。」
+
+**ベテラン向け深掘り：** vitamin K、protamine、PCC、idarucizumab、andexanetを互換とせず、critical-site bleeding、薬物残存、検査限界、source controlを統合する。止血後は再開しない害も大きいため、時期・agent・ownerを退院前ではなく早期に決める。
 
 ## Medication reconciliation is an emergency procedure
 
@@ -50,4 +71,5 @@ pretest probability、bedside instability、compression ultrasound/CT等を用�
 
 ## Review log
 
+- 2026-08-12: V2導入、DOAC/reversal/VTE予防等の用語、新人の薬剤照合・報告、検査限界と再開判断を追加。ACC/ASH sourceを再確認。
 - 2026-08-11: ASH/ACC review; hematology/pharmacy/local antidote policy review required.

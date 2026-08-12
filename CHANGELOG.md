@@ -399,6 +399,15 @@
 - **影響ページ:** `docs/09_ECMO_MCS/`、共通用語集、V2移行台帳
 - **要確認:** ECMO program、perfusionist、shock team、device specialist、施設manualによる操作レベルのvalidation
 
+### 2026-08-12 — Textbook V2 Endocrine / GI / Hematology
+
+- **テーマ:** 代謝・消化器・肝膵・凝固・輸血の二層学習化
+- **変更内容:** 10本のSSOTへ用語表、新人看護師の観察・報告、ベテラン向け例外判断を追加し、各README・共通用語集・移行台帳を同期
+- **新しいEvidence:** SCCM Glycemic Control 2024、Hyperglycemic Crises Consensus 2024、ACG Acute Pancreatitis 2024、AABB RBC 2023 / Platelet 2025等を再確認
+- **臨床的に何が変わったか:** glucoseのみのDKA終了、固定大量輸液、ammonia/INR/IAP/platelet/Hbの単独判断、輸血反応の見逃し、抗凝固薬の一律拮抗を防ぐ学習導線を追加
+- **影響ページ:** `docs/10_Endocrine_Metabolic/`、`docs/11_GI_Liver/`、`docs/12_Hematology/`、共通用語集、V2移行台帳
+- **要確認:** endocrine/GI/hepatology/surgery/hematology/transfusion/pharmacy専門家と施設protocol review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic
