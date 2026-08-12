@@ -20,6 +20,9 @@ ssot: true
 > [!TIP]
 > 初めて図を見る場合やスマートフォンで読む場合は、[人工呼吸器の図解クイックガイド](VENTILATOR_VISUAL_QUICK_GUIDE.md)から始めてください。「一言でいうと」「最初に見る場所」「ミニ症例」の順で4枚を分割して説明しています。
 
+> [!TIP]
+> PEEP、Ppeak、Pplat、driving pressure、complianceなどの意味から確認したい場合は、[人工呼吸器の基本用語](VENTILATOR_TERMS.md)を先に読んでください。
+
 ## 1. Overview
 
 人工呼吸器はoxygenationとventilationを支え、呼吸仕事量を軽減する一方、VILI、循環抑制、横隔膜障害、鎮静関連害を生じ得ます。目標はgasを正常化することではなく、許容できるgas exchangeを最小限の害で確保し原因回復を待つことです。
@@ -127,6 +130,8 @@ alarm/悪化 → 患者は換気・酸素化されているか → 不安定な�
 
 ## 10. Related Learning
 
+- [人工呼吸器の基本用語](VENTILATOR_TERMS.md)
+- [人工呼吸器の図解クイックガイド](VENTILATOR_VISUAL_QUICK_GUIDE.md)
 - [ARDS](../ARDS/ARDS.md)
 - [Ventilator Liberation](../Weaning/VENTILATOR_LIBERATION.md)
 - [Respiratory Support Case](../../23_Clinical_Cases/CASE_RESPIRATORY_SUPPORT_ESCALATION.md)

@@ -23,6 +23,8 @@
 - arrow markerは血流・因果・手順の方向を明確にし、両方向を不用意に使わない。
 - Figure ID、教育用である旨、Evidence/SSOT参照をfooterへ記載する。
 - 図内は日本語約8割を基本とし、SpO₂、ETCO₂、ABG、MAP、GCS、ECGなど臨床で共通する略語と初出の英語だけを残す。
+- 専門用語・略語は、図内で意味が推測できない場合に日本語名または短い定義を添える。
+- 勉強会投影用の本図とは別に、必要に応じて「一言でいうと」「最初に見る場所」「ミニ症例」「判断限界」を本文へ置き、初学者とスマートフォン閲覧者の入口を作る。
 - 数値、dose、推奨強度は、確認済みSSOTに存在する場合だけ掲載する。
 
 ## Quality checklist
@@ -34,3 +36,5 @@
 5. Accessibility: 色以外の区別、十分なcontrast、意味のあるalt textがあるか。
 6. Evidence: Figure IndexからSSOT/Evidenceへ追跡できるか。
 7. Copyright: オリジナル構成で第三者図を模写していないか。
+8. Terminology: 新人が略語と図の目的を説明できるか。
+9. Teaching Use: ベテランが例外・限界を補足しながら勉強会で使用できるか。

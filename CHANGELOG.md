@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Textbook V2 Foundation
+
+- **テーマ:** 新人看護師からベテラン看護師まで段階的に学べる教科書への全面改訂
+- **変更内容:** V2執筆基準、重症ケア基本用語集、人工呼吸器基本用語章、新しいKnowledge Page Template、用語・画像・看護実践の品質基準を追加
+- **新しいEvidence:** AARC Patient-Ventilator Assessment CPG 2024、ATS/ESICM/SCCM ARDS ventilation guideline 2017を一次資料で再確認
+- **臨床的に何が変わったか:** PEEP等を略語だけで終わらせず、意味、目的、観察、循環への影響、報告、再評価、測定限界まで段階的に学べる入口を作った
+- **影響ページ:** README、Textbook V2 Standards、Glossary、Ventilator Terms、Mechanical Ventilation、Knowledge Page Template、Visual Design System、Contributing
+- **要確認:** 全既存章のV2移行、領域専門家・ICU看護師・教育担当者によるsign-off、初学者ユーザーテストは継続課題
+
 ### 2026-08-12 — Ventilator Visual Onboarding
 
 - **テーマ:** 第三者・初学者・スマートフォン閲覧者向けの図解導入

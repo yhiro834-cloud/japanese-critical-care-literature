@@ -9,6 +9,7 @@
 5. Referencesを一次情報で検証する
 6. Clinical、Evidence、Nursingの観点でレビューする
 7. レビュー完了条件を満たした場合のみ `status: reviewed` とする
+8. [Textbook V2 Standards](TEXTBOOK_V2_STANDARDS.md)に沿い、初出用語、新人向け到達点、ベテラン向け深掘り、観察・報告・再評価を記載する
 
 ## 2. Evidence優先順位
 
@@ -45,6 +46,9 @@
 - [ ] 重複せずSSOTへリンクしている
 - [ ] `Evidence Reviewed` と `Next Review` を更新した
 - [ ] 臨床的変更をCHANGELOGへ記録した
+- [ ] 初出の専門用語・略語に正式名称と簡単な意味がある
+- [ ] 新人向け要点とベテラン向け深掘りを区別した
+- [ ] 図に読み方、臨床的意味、判断限界、勉強会利用時の注意がある
 
 ## 5. 定期更新
 

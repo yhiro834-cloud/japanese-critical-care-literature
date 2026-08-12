@@ -10,6 +10,7 @@
 | 探し方 | 入口 |
 |---|---|
 | ABCDEから探す | [ABCDE Map](docs/00_Fundamentals/ABCDE/README.md) |
+| 初めて学ぶ・用語から探す | [重症ケア基本用語集](docs/00_Fundamentals/Glossary/CRITICAL_CARE_GLOSSARY.md) / [人工呼吸器の基本用語](docs/02_Breathing/Mechanical_Ventilation/VENTILATOR_TERMS.md) |
 | 臓器・病態から探す | [Topic Map](docs/TOPIC_MAP.md) |
 | 気道・呼吸 | [Airway](docs/01_Airway/README.md) / [Breathing](docs/02_Breathing/README.md) |
 | 循環・ショック | [Circulation](docs/03_Circulation/README.md) |
@@ -24,6 +25,8 @@
 | 視覚教材 | [Figure Index](FIGURE_INDEX.md) / [Visual Asset Plan](VISUAL_ASSET_PLAN.md) / [Design System](assets/README.md) |
 | ガイドライン・論文 | [Guidelines Index](docs/28_Guidelines/README.md) / [References Index](docs/29_References/README.md) |
 | 全体構造・執筆状況 | [docs portal](docs/README.md) |
+| V2の執筆・画像基準 | [Textbook V2 Standards](TEXTBOOK_V2_STANDARDS.md) |
+| V2全面改訂の進捗 | [Textbook V2 Migration](docs/TEXTBOOK_V2_MIGRATION.md) |
 | 実装監査・残るレビュー | [Implementation Status](docs/IMPLEMENTATION_STATUS.md) |
 
 ## 基本思考：ABCDE + 再評価
@@ -51,12 +54,12 @@
 
 ## 学び方
 
-1. Topic Mapからテーマを選ぶ
-2. Physiology / Pathophysiologyで「なぜ」を確認する
-3. Assessment → Interpretation → Clinical Reasoningで所見から仮説を組み立てる
-4. Nursing Points / Red Flags / Troubleshootingでベッドサイド行動に接続する
-5. Clinical CaseとQuizで想起練習する
-6. Slide Ready Summaryで他者へ説明し、理解を確かめる
+1. 新人看護師は用語集と各章の「まず覚える」から始める
+2. 観察 → 報告 → 再評価を確認し、患者の変化へ結びつける
+3. Physiology / Pathophysiologyで「なぜ」を確認する
+4. 中堅・ベテランは測定限界、複合病態、Evidenceの不確実性まで読む
+5. Clinical CaseとQuizで所見から仮説を組み立てる
+6. 図解とSlide Ready Summaryを使って他者へ説明し、理解を確かめる
 
 ## 現在の段階
 
