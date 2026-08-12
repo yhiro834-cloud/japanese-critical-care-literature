@@ -2,8 +2,8 @@
 title: "ECMO Foundations and Daily Management"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -13,6 +13,27 @@ ssot: true
 ---
 
 # ECMO Foundations and Daily Management
+
+## 0. まず覚える
+
+ECMO（extracorporeal membrane oxygenation、体外式膜型人工肺）は、血液を体外回路へ取り出し、酸素を加えて二酸化炭素を除去し、患者へ戻す生命維持治療である。**原因を治す装置ではなく、回復・診断・次の治療までの時間を作るbridge**である。
+
+**簡単に言うと：** ECMOの数字を整えることが目的ではなく、患者へ必要な酸素を届け、臓器を守りながら原因治療と出口へつなぐ。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| VV-ECMO | 静脈から脱血し、酸素化後に静脈へ返血する方式 | 肺のgas exchangeを補助するが循環を直接支えない |
+| VA-ECMO | 静脈から脱血し、酸素化後に動脈へ返血する方式 | 循環とgas exchangeを補助する一方、左室後負荷を増やしうる |
+| blood flow | 回路を1分間に流れる血液量 | RPMだけでなく脱血、cannula、preload、抵抗で変わる |
+| sweep gas | oxygenatorを通るgas流量 | 主にCO₂除去へ影響するが、患者全体を見て調整する |
+| recirculation | 酸素化した返血が全身へ行く前に再び脱血される現象 | VV-ECMOでflowがあっても低酸素となる原因 |
+| bridge / exit strategy | ECMOを何までつなぎ、どう離脱・移行するかという計画 | 開始時から期限と再評価条件を共有する |
+
+**新人看護師の到達点：** mode、cannula位置/固定、flow・RPM・sweep・FiO₂と基準値、患者のSpO₂・血圧・灌流、出血、四肢循環、回路のair/clot、電源・gasを系統的に確認し、変化を装置担当者へ即時報告できる。
+
+> **報告例：** 「VV-ECMOのflowが基準から低下しchatteringがあります。血圧低下と新たな出血もあり、cannula固定は外見上変化ありません。一律輸液ではなく、出血・脱血不良・胸腔内圧を含む評価をお願いします。」
+
+**ベテラン向け深掘り：** oxygen deliveryをECMO flowやSpO₂だけで代用せず、Hb、native cardiac output、SaO₂、VO₂、distributionを統合する。VA-ECMOでは左室拡張、aortic valve opening、肺水腫、右上肢酸素化、下肢虚血を同時に捉え、毎日bridgeの妥当性とtime-limited trialを更新する。
 
 ## Purpose and mode
 
@@ -62,4 +83,5 @@ bleedingとcircuit thrombosisの両riskを、clinical site、platelet/fibrinogen
 
 ## Review log
 
+- 2026-08-12: V2導入、VV/VA、flow、sweep、recirculation等の用語、新人観察・報告、oxygen deliveryとexit strategyを追加。ELSO公式portalを再確認。
 - 2026-08-11: ELSO guidance review; ECMO program/perfusion review required.

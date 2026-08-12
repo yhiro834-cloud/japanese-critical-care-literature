@@ -390,6 +390,15 @@
 - **影響ページ:** `docs/07_Trauma/`、`docs/08_Cardiac_Critical_Care/`、共通用語集、V2移行台帳
 - **要確認:** trauma/burn/cardiology/resuscitation専門家および施設protocol review
 
+### 2026-08-12 — Textbook V2 ECMO / Temporary MCS
+
+- **テーマ:** ECMO・IABP・microaxial flow pumpの初学者導線とdevice safety
+- **変更内容:** 3本のSSOTへ基本用語、新人看護師の観察・報告、ベテラン向けphysiology/exit strategyを追加し、README・用語集・移行台帳を同期
+- **新しいEvidence:** ELSO公式guideline portal（VV/VA、circuits、transport）、ACC Cardiogenic Shock CCG 2025
+- **臨床的に何が変わったか:** alarm名やconsole値だけの判断、一律輸液、無訓練のclamp/RPM/cannula操作、出口のないdevice継続を防ぐ構造を追加
+- **影響ページ:** `docs/09_ECMO_MCS/`、共通用語集、V2移行台帳
+- **要確認:** ECMO program、perfusionist、shock team、device specialist、施設manualによる操作レベルのvalidation
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic
