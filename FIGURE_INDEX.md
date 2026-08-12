@@ -40,6 +40,10 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-CR-003 | 意識変化推論 | 即時可逆因子・confounder・構造/電気的原因を整理 | `assets/clinical_reasoning/altered_consciousness_reasoning.svg` | `docs/21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md` | SVG algorithm | Yes | Neuro・急変simulation | Neuro Assessment / Emergency SSOT | 2026-08-12 |
 | FIG-CR-004 | 尿量低下推論 | 測定/閉塞・灌流・うっ血・腎/薬剤を分ける | `assets/clinical_reasoning/low_urine_output_reasoning.svg` | `docs/21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md` | SVG algorithm | Yes | AKI・急変simulation | AKI / CRRT / Emergency SSOT | 2026-08-12 |
 | FIG-P-POCUS-001 | 肺POCUS artifact | A-line・B-line・胸水・consolidation模式を比較 | `assets/pocus/lung_ultrasound_schematic.svg` | `docs/03_Circulation/POCUS/HEMODYNAMIC_POCUS.md` | SVG schematic | Yes | POCUS導入・限界 | SCCM CCUS 2024; POCUS SSOT | 2026-08-12 |
+| FIG-T-HEM-001 | 外傷性大出血 | 出血源制御・輸血体制・悪循環是正・再評価を並行化 | `assets/trauma/hemorrhage_parallel_actions.svg` | `docs/07_Trauma/Hemorrhage_Damage_Control/TRAUMA_HEMORRHAGE_DAMAGE_CONTROL.md` | SVG parallel flow | Yes | 外傷性出血・大量輸血 | European Trauma Bleeding Guideline 2023; Traumatic Hemorrhage SSOT | 2026-08-12 |
+| FIG-ENDO-001 | 高血糖緊急症 | DKAとHHSの違い、並行治療、改善判定を理解 | `assets/endocrine/dka_hhs_parallel_treatment.svg` | `docs/10_Endocrine_Metabolic/Hyperglycemic_Crises/DKA_HHS.md` | SVG comparison flow | Yes | DKA/HHS導入・症例 | Hyperglycemic Crises Consensus Report 2024; DKA/HHS SSOT | 2026-08-12 |
+| FIG-R-ELEC-001 | 高カリウム血症 | 心筋保護・細胞内移動・体外除去・再評価を区別 | `assets/renal/hyperkalemia_actions.svg` | `docs/05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md` | SVG action flow | Yes | 電解質緊急症・症例 | UK Kidney Association Hyperkalaemia Guideline 2023; Electrolyte SSOT | 2026-08-12 |
+| FIG-I-ABX-001 | 抗菌薬タイムアウト | 感染確率・培養・感染源制御から治療を再処方 | `assets/infection/antibiotic_timeout.svg` | `docs/06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md` | SVG reassessment flow | Yes | 抗菌薬適正使用・症例 | Surviving Sepsis Campaign 2026; Antimicrobial SSOT | 2026-08-12 |
 
 ## Index rules
 

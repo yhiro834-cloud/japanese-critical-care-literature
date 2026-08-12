@@ -40,6 +40,10 @@ ssot: true
 
 ## 2. Hyperkalemia
 
+![高カリウム血症の治療を目的別に分ける](../../../assets/renal/hyperkalemia_actions.svg)
+
+**Figure FIG-R-ELEC-001 — 高カリウム血症の目的別対応。** 心筋保護、カリウムの一時的な細胞内移動、体外除去、原因治療と再評価を分ける。静注カルシウムは心筋を保護するが、血清カリウム値を下げる治療ではない。図中のKはpotassium（カリウム）を表す。
+
 UKKA 2023はrisk assessment→心筋保護→細胞内shift→K removal→K/glucose再検の構造化を推奨します。ECG正常でも重大hyperkalemiaを除外できません。
 
 - ECG変化/不安定時のIV calciumは膜安定化でありKを下げない

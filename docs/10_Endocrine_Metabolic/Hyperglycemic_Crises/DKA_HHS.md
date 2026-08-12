@@ -51,6 +51,10 @@ DKA（糖尿病性ketoacidosis）はinsulin不足でketoneが増え、代謝性a
 
 ## Parallel treatment loop
 
+![高血糖緊急症の並行治療](../../../assets/endocrine/dka_hhs_parallel_treatment.svg)
+
+**Figure FIG-ENDO-001 — 高血糖緊急症の並行治療。** 糖尿病性ケトアシドーシス（diabetic ketoacidosis：DKA）と高浸透圧高血糖状態（hyperosmolar hyperglycemic state：HHS）を比較し、輸液、カリウム安全、インスリン、誘因治療を並行する。改善判定は血糖値だけでなく、ケトン体、酸塩基、浸透圧、意識、尿量を含める。
+
 1. **Fluid:** 年齢、心腎機能、shock、sodium/osmolality trendで選択・速度を調整。
 2. **Potassium:** total-body depletionを前提に、血清Kと尿/腎機能を確認。著明な低Kではinsulin開始より安全な補正を優先する。
 3. **Insulin:** protocol-based infusion/subcutaneous pathwayを重症度で選び、glucose低下後もketosis解消までdextrose併用で継続する場合がある。

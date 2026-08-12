@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">外傷性大出血で同時に進める行動</title>
+  <desc id="desc">外傷性大出血を疑ったときに、出血源の制御、大量輸血プロトコル、低体温・凝固障害・低カルシウム血症・アシドーシスの是正、原因と反応の再評価を並行して進めることを示す。</desc>
+  <defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7Z" fill="#31546D"/></marker></defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="70" y="72" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">外傷性大出血：輸血と止血を同時に進める</text>
+  <text x="70" y="116" font-family="Arial, sans-serif" font-size="23" fill="#526B7A">血圧の一時的改善ではなく、出血源の制御と全身反応を時間軸で確認する</text>
+  <rect x="60" y="155" width="1480" height="92" rx="24" fill="#FFF1EF" stroke="#C74440" stroke-width="4"/>
+  <text x="800" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#B21F2D">大出血を疑う所見</text>
+  <text x="800" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#172B3A">出血機転・意識変化・末梢灌流低下・持続する頻脈・出血量・乳酸／塩基過剰の推移</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="65" y="315" width="345" height="300" rx="28" fill="#FDE9E8"/>
+    <text x="238" y="365" text-anchor="middle" font-size="28" font-weight="700" fill="#B21F2D">1 出血源を制御</text>
+    <text x="95" y="414" font-size="21">・圧迫、創内充填、適切な止血帯</text>
+    <text x="95" y="454" font-size="21">・手術／血管内治療へ早期接続</text>
+    <text x="95" y="494" font-size="21">・胸腔、腹腔、骨盤、長管骨</text>
+    <text x="95" y="544" font-size="19" fill="#B21F2D">輸血は出血源を止める処置ではない</text>
+
+    <rect x="440" y="315" width="345" height="300" rx="28" fill="#FFF2D9"/>
+    <text x="613" y="365" text-anchor="middle" font-size="28" font-weight="700" fill="#8A5A00">2 輸血体制を起動</text>
+    <text x="470" y="414" font-size="21">・大量輸血プロトコルを検討</text>
+    <text x="470" y="454" font-size="21">・患者、製剤、投与時刻を照合</text>
+    <text x="470" y="494" font-size="21">・血液銀行、手術室、放射線部門</text>
+    <text x="470" y="544" font-size="19" fill="#8A5A00">開始だけでなく終了条件も共有</text>
+
+    <rect x="815" y="315" width="345" height="300" rx="28" fill="#EAF2F7"/>
+    <text x="988" y="365" text-anchor="middle" font-size="28" font-weight="700" fill="#31546D">3 悪循環を断つ</text>
+    <text x="845" y="414" font-size="21">・低体温：保温と加温</text>
+    <text x="845" y="454" font-size="21">・凝固障害：検査と臨床出血</text>
+    <text x="845" y="494" font-size="21">・低Ca血症：イオン化Caを確認</text>
+    <text x="845" y="534" font-size="21">・アシドーシス：灌流と原因を是正</text>
+
+    <rect x="1190" y="315" width="345" height="300" rx="28" fill="#E7F6EE"/>
+    <text x="1363" y="365" text-anchor="middle" font-size="28" font-weight="700" fill="#26734D">4 反応を再評価</text>
+    <text x="1220" y="414" font-size="21">・意識、脈拍、皮膚、尿量</text>
+    <text x="1220" y="454" font-size="21">・出血量、体温、凝固、Ca</text>
+    <text x="1220" y="494" font-size="21">・一過性改善なら再出血を検索</text>
+    <text x="1220" y="534" font-size="21">・閉塞性ショック等も再検討</text>
+  </g>
+  <g stroke="#31546D" stroke-width="4" fill="none" marker-end="url(#arrow)"><path d="M413 465 H432"/><path d="M788 465 H807"/><path d="M1163 465 H1182"/></g>
+  <rect x="120" y="675" width="1360" height="105" rx="26" fill="#F4F7F9"/>
+  <text x="800" y="718" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#172B3A">報告は「出血部位・時刻・製剤・体温・イオン化Ca・凝固・介入反応」を一続きで</text>
+  <text x="800" y="755" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#526B7A">MTP＝massive transfusion protocol（大量輸血プロトコル）／Ca＝calcium（カルシウム）</text>
+  <text x="800" y="862" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#526B7A">FIG-T-HEM-001・European Trauma Bleeding Guideline 2023／外傷性出血SSOT・確認日 2026-08-12</text>
+</svg>

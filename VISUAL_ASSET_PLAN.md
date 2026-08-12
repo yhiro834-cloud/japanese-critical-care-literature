@@ -64,3 +64,4 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 - 2026-08-12 Phase 3 complete: FIG-V-VENT-005、FIG-I-SEPSIS-001を追加し、Phase 3残件を完了。
 - 2026-08-12 Phase 5 complete: FIG-CR-001–004、FIG-P-POCUS-001を追加し、本文・症例・Slide Readyへ統合。
 - 2026-08-12 Visual plan complete: planned 36 figures are implemented, indexed, linked, XML-tested, and render-reviewed. Additional domain-specific figures are future extensions, not untracked required deliverables.
+- 2026-08-12 Visual Quality V2 expansion started: `VISUAL_QUALITY_STANDARD_V2.md`を追加し、FIG-T-HEM-001とFIG-ENDO-001を自然な日本語・正式名称中心の図として実装した。既存36図の略語・文字密度監査を基に順次改訂する。

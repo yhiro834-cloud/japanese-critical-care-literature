@@ -41,7 +41,7 @@ ssot: false
 ## Optional Figure Extensions
 
 - `<C>ABCDE` reassessment loopはSlide 1–4の反復手順で扱う。独立図は将来の任意拡張。
-- hemorrhage control–MTP–OR/IR parallel lanesはSlide 5–9の並行行動表で扱う。独立図は将来の任意拡張。
+- [外傷性大出血で同時に進める行動](../../assets/trauma/hemorrhage_parallel_actions.svg)（作成済み：Slide 5–9）。出血源制御、輸血体制、悪循環の是正、再評価を並行表示する。
 - burn fluid titration loopはSlide 10–14の再評価表で扱う。独立図は将来の任意拡張。
 
 ## References for Slides

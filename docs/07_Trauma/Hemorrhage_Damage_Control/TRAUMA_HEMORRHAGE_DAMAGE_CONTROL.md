@@ -50,6 +50,10 @@ ssot: true
 
 ## Parallel damage-control bundle
 
+![外傷性大出血で同時に進める行動](../../../assets/trauma/hemorrhage_parallel_actions.svg)
+
+**Figure FIG-T-HEM-001 — 外傷性大出血の並行行動。** 出血源制御、大量輸血体制、低体温・凝固障害・低カルシウム血症・アシドーシスへの対応、反応の再評価を直列ではなく同時に進める。図中のMTPはmassive transfusion protocol（大量輸血プロトコル）、Caはcalcium（カルシウム）を表す。固定した製剤比や投与量を示す図ではない。
+
 1. **Control:** direct pressure、wound packing、適切なtourniquet、骨盤輪損傷が疑わしい場合のbinder、迅速な手術/IVR/転送。
 2. **Activate:** ongoing major hemorrhageが疑われればMTPを早期起動し、血液銀行・手術・麻酔・IVRへ共通mental modelを伝える。
 3. **Resuscitate:** crystalloid過剰を避け、施設protocolに基づき血液製剤を提供。出血制御までの血圧目標はTBI、妊娠、脊髄虚血等で異なる。
