@@ -14,6 +14,27 @@ ssot: true
 
 # Bedside Emergency and Alarm Response
 
+## 0. まず覚える
+
+bedside emergencyでは、alarm名やmonitor値の診断より、**患者を見て応援を呼び、ABCDEを支え、患者・interface・回路・機械・供給源を切り分ける**ことが先である。
+
+**簡単に言うと：** alarmを止めるのではなく、患者の危険を止める。改善後も原因と再発防止まで閉じる。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| independent support | 問題deviceと別の方法で生命機能を一時的に支えること | manual ventilationやbackup pumpなどをtrained teamで行う |
+| troubleshooting | 原因候補を系統的に切り分けること | 同じ失敗介入を反復せず、反応で次へ進む |
+| working diagnosis | 現時点で最も疑う仮の原因 | 新情報と反応に応じて更新し、固定しない |
+| nuisance alarm | 患者危険を示さない反復alarm | 無効化せずsensor、limit、delay、workflowを修正する |
+| alarm fatigue | 多数のalarmにより反応性が低下する危険 | 優先度設計、個別limit、保守、event reviewで対処する |
+| debrief | event後に経過・判断・改善点を振り返ること | 時刻、介入と反応、未解決事項、再発防止を共有する |
+
+**新人看護師の到達点：** alarm時に患者の反応、pulse、呼吸、皮膚/灌流を確認して早期に応援要請し、airway、oxygen、line、circuit、電源・gasを両端まで見る。介入時刻と反応を記録し、原因不明・改善なしを即時escalateできる。
+
+> **報告例：** 「突然SpO₂が低下し、胸郭運動も低下しています。応援要請し、airwayとcircuitを確認、manual supportを準備しています。probe artifactだけとせず、tube閉塞・脱落、気胸を含む緊急評価をお願いします。」
+
+**ベテラン向け深掘り：** manual ventilationで改善した/しないという一所見でpatient/device causeを二分せず、technique、airway、胸郭、肺血流を再評価する。alarm limit変更には根拠、期限、戻すownerを持たせ、event後のdevice・薬剤・logを保全する。
+
 ## Universal sequence
 
 **患者を見る → 応援/緊急call → ABCDE → independent support → patient/device/circuit/sourceを並行確認 → 原因修正 → response確認 → debrief。** monitorだけを見ず、pulse、意識、呼吸、skin/perfusionを確認する。
@@ -66,5 +87,6 @@ event timeline、baselineとの差、interventions and response、unresolved dif
 
 ## Review log
 
+- 2026-08-12: V2導入、independent support/troubleshooting/alarm fatigue/debrief等の用語、新人の初動・報告を追加。AHA 2025を再確認。
 - 2026-08-12: first-minute team split, manual ventilation limits, timeline triggers, alarm accountability, and post-event handoff expanded.
 - 2026-08-11: Cross-domain emergency synthesis; simulation/local rapid-response validation required.

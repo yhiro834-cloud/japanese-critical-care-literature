@@ -135,6 +135,19 @@ ssot: true
 | ICU-AW | ICU-acquired weakness | ICU経過中に生じるびまん性筋力低下 | strength、weaning、ADL、非対称性、栄養・鎮静を確認 |
 | PICS / PICS-F | 集中治療後症候群 / 家族の集中治療後症候群 | ICU後の身体・認知・精神問題 / 家族の問題 | 本人と家族のscreen、担当者、予約、到達確認を行う |
 
+## 手技・monitoring・device・看護安全
+
+| 用語 | 正式名称 | 簡単に言うと | 看護で結びつけること |
+|---|---|---|---|
+| timeout | 手技開始前のteam安全確認 | 全員が止まり、患者・手技・部位・risk・救済を声に出す | 変更時の再timeoutと疑問を言える環境を確認 |
+| artifact | 測定artifact | 患者の生理でない偽signal | 患者を見てsignal chainを点検し、別測定で照合 |
+| pleth | pulse oximeter脈波 | SpO₂測定で得られる脈動signal | 波形quality、pulse、末梢灌流、probeを確認 |
+| level / zero | 圧transducerの高さ / 基準設定 | 圧測定の物理的基準 | 体位変更、移送、異常値で再確認 |
+| device dependency | device依存性 | device停止が患者へ及ぼす速さ・大きさ | backup、spare、電源・gas、人員を事前確認 |
+| alarm fatigue | alarm疲労 | alarm過多で反応が遅れ・低下する危険 | alarm無効化でなく個別limit、sensor、保守、workflowを修正 |
+| closed-loop communication | 閉ループcommunication | 指示を復唱し、実施と結果まで戻す伝達 | 誰が何をいつ行いどうなったかを確認 |
+| omitted care | 未実施care | 必要だが延期・省略されたcare | 理由、risk、代替、再実施時刻、ownerをhandover |
+
 ## 用語を使うときの3問
 
 1. これは患者の何を表す言葉・値か。

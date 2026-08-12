@@ -14,6 +14,27 @@ ssot: true
 
 # Device Lifecycle and Backup Safety
 
+## 0. まず覚える
+
+生命維持deviceは、挿入・接続時だけでなく、適応決定、設定、固定、日常点検、故障時backup、抜去まで一連のlifecycleで管理する。**止まると何が起きるか、代替手段は何かを使用前から共有する。**
+
+**簡単に言うと：** deviceのalarmを消すのではなく、患者を別の方法で支え、患者側から電源・gasまで原因をたどる。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| device dependency | 患者の生命機能がdeviceへ依存する程度 | 停止後どれほど早く危険になるかを共有する |
+| backup | device停止時の代替手段 | spare、手動support、必要人員、連絡先を準備する |
+| securement | tube・line・cannula等を安全に固定すること | depth、皮膚、張力、体位変更後を確認する |
+| connector / route | deviceやlineの接続部 / 投与経路 | 両端をtraceし、unknown lineへ注入しない |
+| change control | 設定・部品・接続変更のriskを管理すること | 変更前に効果と害、変更後に患者反応を確認する |
+| preventive maintenance | 故障前に行う定期点検・保守 | 期限、battery、消耗品、software/profileを確認する |
+
+**新人看護師の到達点：** 各deviceの目的、設定、depth/固定、接続、電源・gas、alarm、出力、backupを確認し、lineを挿入部から末端までtraceできる。故障時は患者supportを確保し、問題機器を再使用されないよう報告できる。
+
+> **報告例：** 「人工呼吸器が停止し、manual ventilationで患者supportを確保しました。酸素源とairwayは確認済みです。故障機は設定とlogを保全して隔離し、代替器への安全な切替をお願いします。」
+
+**ベテラン向け深掘り：** device交換・software/profile・filter・濃度・体位の複数変更を同時に行う場合はtimestampし、因果を追えるようにする。故障後は患者care優先のうえ、log・部品・写真を保全し、clinical engineeringとsystem reviewへつなぐ。
+
 ## Lifecycle
 
 適応/goal → correct device/configuration → insertion/connection confirmation → secure/label → function/infection/skin daily checks → emergency backup → prompt removal。各deviceにowner、settings、dependencies、alarm response、removal/exit criteriaを持たせる。
@@ -73,5 +94,6 @@ recognize patient dependence → independent support
 
 ## Review log
 
+- 2026-08-12: V2導入、dependency/backup/securement/connector/change control等の用語、新人のtrace・故障報告を追加。FDA/WHO sourceを再確認。
 - 2026-08-12: dependency map, line map, change control, failure/log preservation expanded.
 - 2026-08-11: Device safety framework review; biomedical engineering/manufacturer/local inventory review required.

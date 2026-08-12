@@ -14,6 +14,27 @@ ssot: true
 
 # Procedural Safety Framework
 
+## 0. まず覚える
+
+侵襲的手技の安全は、穿刺や挿入の技術だけで決まらない。**適応、同意、team timeout、監視、救済準備、合併症確認、記録、device抜去まで**を一つのprocedure lifecycleとして扱う。
+
+**簡単に言うと：** 「入った」で終わらず、正しい患者・部位・手技か、機能しているか、合併症がないか、いつ抜くかまで閉じる。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| indication | 手技を行う医学的理由 | 結果やdeviceが治療をどう変えるかを明示する |
+| informed consent | 利益・risk・代替・行わない選択を理解した同意 | 署名だけでなくcapacity、通訳、surrogateを確認する |
+| timeout | 開始前にteam全員で患者・手技・部位・risk等を確認する中断 | 全員が作業を止め、疑問を言える状態で行う |
+| abort criterion | 手技を中断・撤退する条件 | unexpected pain、抵抗、低酸素、低血圧等を事前共有する |
+| rescue plan | 合併症時の救済手段と人員・器材 | airway、出血、気胸、循環破綻を想定して準備する |
+| post-check | 手技後の位置・機能・合併症確認 | device使用開始前に方法と責任者を明示する |
+
+**新人看護師の到達点：** timeoutで患者、手技、部位/左右、体位、allergy、抗血栓薬、鎮静、検体、救済物品を声に出して確認し、手技中の呼吸・循環・意識変化を報告できる。終了後にdepth、固定、出血、機能、次回確認を記録する。
+
+> **報告例：** 「中心静脈catheter挿入後、各lumenの機能は確認できましたが、SpO₂低下と右呼吸音低下があります。使用開始前に気胸を含む合併症確認をお願いします。」
+
+**ベテラン向け深掘り：** 緊急時も可能な範囲の短いtimeoutを維持し、operator/site/手技変更や患者移動後は再timeoutする。同じ失敗方法を反復せず、attempt数と残るoptionを共有してoperator、imaging、場所、手技をescalateする。
+
 ## Before: indication, alternatives, rescue
 
 procedureが結果/治療をどう変えるか、より安全なalternative、urgency、operator/supervision、consent、goals of careを確認する。anatomy/imaging、coagulation/antithrombotic、allergy、infection、pregnancy、airway/hemodynamic reserveをreviewし、合併症rescue resourcesを準備する。
@@ -65,5 +86,6 @@ procedure/attempt/operator、device type/depth/site、specimen、estimated loss�
 
 ## Review log
 
+- 2026-08-12: V2導入、適応・同意・timeout・中止/救済・post-checkの用語、新人の確認・報告を追加。WHO/CDC公式資料を再確認。
 - 2026-08-12: problem statement, consent, re-timeout, sedation, attempt escalation, and closure bundle expanded.
 - 2026-08-11: WHO/CDC safety framework review; credentialing/local procedure policy required.
