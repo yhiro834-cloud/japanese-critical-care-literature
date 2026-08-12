@@ -78,6 +78,22 @@ ssot: true
 | NCSE | 非痙攣性てんかん重積 | 目立つ全身痙攣なしに発作が続く状態 | 意識回復、微細運動、EEG、薬剤を確認 |
 | source control | 感染源制御 | 感染が続く原因を処置で除くこと | consultation、実施時刻、検体、drain、反応を追う |
 
+## 外傷・熱傷・心臓集中治療
+
+| 用語 | 正式名称 | 簡単に言うと | 看護で結びつけること |
+|---|---|---|---|
+| primary survey | 外傷一次評価 | 直ちに生命を脅かす問題を順に探し、その場で処置する評価 | 介入後に`<C>ABCDE`を最初から再評価 |
+| MTP | 大量輸血protocol（massive transfusion protocol） | 大出血時に製剤・検査・人員を迅速に連動させる手順 | 患者/製剤照合、加温、投与時刻、Ca、体温、反応を追う |
+| coagulopathy | 凝固障害 | 血液が適切に固まりにくい状態 | 出血、体温、pH、fibrinogen、platelet、抗凝固薬を確認 |
+| TBSA | 総熱傷面積（total body surface area） | 熱傷が体表面の何%を占めるか | 算定法と除外した発赤、時刻、再評価を記録 |
+| inhalation injury | 吸入損傷 | 煙・熱・化学物質による気道や肺の損傷 | 声、煤、閉鎖空間、呼吸、CO曝露、浮腫の進行を確認 |
+| ACS | 急性冠症候群（acute coronary syndrome） | 冠動脈血流が急に減り心筋が危険にさらされる病態群 | 症状、ECG、troponin、循環、時刻を一つのtimelineで追う |
+| congestion | うっ血 | 血液が肺や静脈系に滞り圧が高い状態 | 肺音、JVP、浮腫、体重、出納、呼吸を統合 |
+| cardiogenic shock | 心原性shock | 心臓のpump failureで臓器への血流が不足する状態 | 血圧だけでなく意識、皮膚、尿量、lactate、薬剤需要を追う |
+| synchronized cardioversion | 同期式cardioversion | 心拍の特定時点に同期して行う電気治療 | pulse、SYNC表示、pad、鎮静、clear、反応を確認 |
+| defibrillation | 除細動 | 心拍へ同期せず行う電気shock | 適応調律、CPR中断、全員clear、shock後CPR再開を確認 |
+| ROSC | 自己心拍再開（return of spontaneous circulation） | 心停止後に有効な自発循環が戻ること | 血圧・波形等で確認し、直ちにpost-arrest careへ移る |
+
 ## 用語を使うときの3問
 
 1. これは患者の何を表す言葉・値か。

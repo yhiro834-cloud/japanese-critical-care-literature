@@ -2,8 +2,8 @@
 title: "Trauma Initial Assessment"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -13,6 +13,26 @@ ssot: true
 ---
 
 # Trauma Initial Assessment
+
+## 0. まず覚える
+
+外傷初療（trauma initial assessment）は、けがの名前をすべて決める前に、**いま生命を脅かす問題を一定の順序で探し、見つけたらその場で処置し、同じ順序で確かめ直す**診療である。
+
+**簡単に言うと：** `<C>ABCDE`は一度だけ埋めるchecklistではなく、「発見→介入→反応確認」を何度も回す安全の型である。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| 受傷機転（mechanism of injury） | どのような力が、どこへ、どの程度加わったか | 見えていない損傷を予測する手掛かりであり、診断そのものではない |
+| primary survey | 直ちに生命を脅かす問題を`<C>ABCDE`で探す一次評価 | 異常を見つけたら評価を止めて処置し、直後に再評価する |
+| secondary survey | 緊急問題を安定化した後の病歴と頭から足までの詳細評価 | primary surveyの再評価を中断しない |
+| tertiary survey | 入院後に診察・画像・検査を再照合する見逃し損傷確認 | 鎮静、挿管、緊急手術で隠れた所見を拾う |
+| MARCH / `<C>ABCDE` | 大出血または循環を先行して扱う外傷評価の枠組み | 現場・施設のprotocolに従い、順序より生命危機への即応を優先する |
+
+**新人看護師の到達点：** 安全確保と応援要請を行い、気道・呼吸・循環・意識・露出/保温を時刻付きで観察し、介入後に同じ項目を再評価できる。報告は「受傷機転、現在の最重要異常、変化、実施した介入、反応、次に必要な支援」の順で簡潔に行う。
+
+> **報告例：** 「交通外傷の患者です。右呼吸音低下とSpO₂低下があり、酸素投与後も改善していません。血圧も低下傾向です。胸部緊急処置と大量出血対応が必要か、直ちに評価をお願いします。」
+
+**ベテラン向け深掘り：** 正常に見える単一のvital signで安心せず、代償期shock、高齢者・妊婦・β遮断薬使用者・抗凝固薬使用者、複数損傷、搬送中のtrajectoryを統合する。CTへ進む判断は「撮影できるか」ではなく、患者が蘇生区域を離れても安全か、結果が直ちに治療経路を変えるかで考える。
 
 ## Core model
 
@@ -88,4 +108,5 @@ Detect immediate threat → intervene → repeat <C>ABCDE
 
 ## Review log
 
+- 2026-08-12: V2導入、用語、新人の観察・報告、複合病態の判断を追加。ACS TQP best-practice sourceを再確認。
 - 2026-08-11: Initial evidence review; specialist/local trauma-system review required.

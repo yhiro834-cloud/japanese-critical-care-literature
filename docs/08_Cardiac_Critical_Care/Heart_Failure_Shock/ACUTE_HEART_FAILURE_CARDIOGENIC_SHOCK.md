@@ -14,6 +14,27 @@ ssot: true
 
 # Acute Heart Failure and Cardiogenic Shock
 
+## 0. まず覚える
+
+急性心不全は、心臓が全身の需要に合う血液を送り出せない、または送り出すために異常に高い充満圧を必要とする状態である。bedsideではまず、**うっ血（congestion）があるか、低灌流（hypoperfusion）があるか**を分けて考える。
+
+**簡単に言うと：** 「水が多いか少ないか」だけでなく、血液が肺や静脈に滞っているか、臓器へ届いているかを同時に見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| congestion | 心臓へ戻る血液が滞り、肺・静脈系の圧が高い状態 | 呼吸困難、肺うっ血、JVP、浮腫、体重・出納を統合 |
+| hypoperfusion | 臓器に必要な血流が届かない状態 | 意識、皮膚、尿量、lactate、腎肝機能の推移で捉える |
+| LV / RV failure | 左心室または右心室が主に機能不全となる状態 | 同じ低血圧でも輸液・利尿・血管作動薬への反応が異なる |
+| afterload | 心室が血液を送り出す際に抗する負荷 | 体血管、肺血管、弁病変で意味が変わる |
+| cardiogenic shock | 心臓のpump failureにより低灌流と臓器障害を来すshock | 血圧だけでなくflowと臓器障害のtrajectoryで判断 |
+| temporary MCS | 一時的機械的循環補助 | device開始前に目的、選択理由、合併症、離脱/移行方針を決める |
+
+**新人看護師の到達点：** 呼吸仕事量、肺音、JVP/浮腫、血圧波形、調律、末梢灌流、尿量、体重・出納、血管作動薬の変化を関連づけ、急な肺水腫・新規雑音・低灌流悪化を報告できる。
+
+> **報告例：** 「肺うっ血が強い一方、四肢冷感、尿量低下、乳酸上昇が進み、noradrenaline必要量も増えています。wet-coldの心原性shock悪化を疑い、原因とhemodynamic strategy、shock teamへのescalationを再評価してください。」
+
+**ベテラン向け深掘り：** 左心・右心、弁/機械的合併症、虚血、tamponade、肺血管病態をechoと臨床所見で区別し、blind fluidまたは一律利尿を避ける。MCSは血圧を作るdeviceではなく、bridge-to-recovery/decision/therapyの目的とexit strategyを伴う治療として評価する。
+
 ## Phenotype before reflex treatment
 
 急性心不全はcongestionとperfusionの組合せで評価し、原因/trigger（ACS、arrhythmia、valve/mechanical complication、infection、hypertension、medication、PE等）を同時に探す。cardiogenic shockは低血圧だけでなく、心原性の低灌流と臓器障害のtrajectoryで認識する。
@@ -56,5 +77,6 @@ shock stage/trajectoryを1時間・24時間の節目で再評価し、薬剤増�
 
 ## Review log
 
+- 2026-08-12: V2導入、congestion/低灌流/MCS等の用語、新人観察・報告、LV/RVとexit strategyを追加。
 - 2026-08-12: 1/24-hour trajectory、escalate/reconfigure/wean、exit criteriaを2025 ACC guidanceに沿って追加。local review required.
 - 2026-08-11: Current ACC guidance review.

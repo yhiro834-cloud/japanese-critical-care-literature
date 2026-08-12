@@ -14,6 +14,27 @@ ssot: true
 
 # Cardiac Arrest and Post-Cardiac Arrest Care
 
+## 0. まず覚える
+
+心停止（cardiac arrest）は、心臓が有効な血流を生み出せず、反応がなく、正常な呼吸がなく、pulseを確実に確認できない状態である。**認識、応援要請、高品質CPR、早期defibrillationを止めずに、原因治療へつなぐ。**
+
+**簡単に言うと：** ROSC（自己心拍再開）は蘇生の終点ではなく、脳・心臓・全身を守りながら原因を治療するpost-arrest careの開始点である。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| BLS / ALS | 一次救命処置 / 二次救命処置 | CPRとAEDを直ちに開始し、高度気道・薬剤・原因治療へ連結する |
+| shockable rhythm | VFまたはpulseless VTなど電気shockが適応となる調律 | shock後はpulse確認のため長く止まらずCPRを再開する |
+| non-shockable rhythm | PEAまたはasystoleなどshock適応でない調律 | CPR、薬剤、可逆的原因の治療を優先する |
+| ROSC | return of spontaneous circulation、自己心拍再開 | 血圧、ETCO₂、波形などで確認し、直ちに全身管理へ移る |
+| ETCO₂ | 呼気終末二酸化炭素 | tube確認、CPRの質、肺血流変化の補助。単独で予後を決めない |
+| Hs & Ts | 心停止の代表的な可逆的原因 | 暗唱だけでなく、病歴・所見・POCUS等から優先順位をつける |
+
+**新人看護師の到達点：** 胸骨圧迫の中断を最小化し、役割とclosed-loop communicationを保ち、rhythm・shock・薬剤・airway・ROSCをtimestampできる。ROSC後は酸素化、換気、血圧、体温、血糖、神経所見の変化を一つのtimelineで追う。
+
+> **報告例：** 「VFに2回shock後、ROSCしました。現在MAP 58 mmHg、SpO₂測定可能、12誘導ECGを準備中です。低血圧が持続しており、原因検索、循環補助、coronary pathwayを含むpost-arrest bundle開始をお願いします。」
+
+**ベテラン向け深掘り：** ETCO₂やPOCUSの単一所見で蘇生継続・終了を決めず、pauseを増やす検査を避ける。ROSC後はpost-arrest myocardial dysfunction、vasoplegia、ongoing causeを分け、発熱予防とtemperature strategy、EEG、冠動脈評価、交絡を除いた遅延multimodal neuroprognosticationを連結する。
+
 ## During arrest
 
 arrestを認識しcode activation、高品質CPR、defibrillator/AEDを直ちに開始する。rhythmに応じshockable/nonshockable algorithmを進め、pauseを最小化し、waveform capnography等でCPR/airwayを監視する。Hs & Tsはlist暗唱でなく機転と所見から並行治療する。
@@ -62,5 +83,6 @@ ROSC → stabilize oxygen/ventilation/circulation
 
 ## Review log
 
+- 2026-08-12: V2導入、BLS/ALS/ROSC等の用語、新人のcode記録・報告、単一所見に依存しない高度判断を追加。AHA 2025公式指針を再確認。
 - 2026-08-12: PaCO₂、post-arrest shock phenotype、予後評価可能時刻を含むhandoverを深化。local review required.
 - 2026-08-11: AHA 2025 review.

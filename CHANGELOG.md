@@ -381,6 +381,15 @@
 - **影響ページ:** `assets/ventilation/`、Mechanical Ventilation、Respiratory Support Slide Ready、Figure Index、Visual Asset Plan
 - **要確認:** 波形は定性的な教育用模式図。測定条件と患者努力を確認し、単独で診断・設定変更に使わない。人工呼吸専門家のsign-offは継続課題
 
+### 2026-08-12 — Textbook V2 Trauma / Cardiac
+
+- **テーマ:** 外傷・熱傷・ACS・心不全/心原性shock・不整脈・心停止の二層学習化
+- **変更内容:** 7本のSSOTへ「まず覚える」、用語表、新人看護師の到達点と報告例、ベテラン向け例外判断を追加し、領域READMEと共通用語集を同期
+- **新しいEvidence:** 2025 ACC/AHA ACS、2025 AHA CPR/ECC、ACS Trauma Quality Programs、ABA Burn Shock Resuscitation 2024を公式sourceで再確認
+- **臨床的に何が変わったか:** 単一vital/検査/monitor値への依存、止血前の数値改善への固定、輸液式の自動適用、同期/非同期shockの混同、ROSCを終点とする誤解を防ぐ学習導線を追加
+- **影響ページ:** `docs/07_Trauma/`、`docs/08_Cardiac_Critical_Care/`、共通用語集、V2移行台帳
+- **要確認:** trauma/burn/cardiology/resuscitation専門家および施設protocol review
+
 ## Entry template
 
 ### YYYY-MM-DD — Topic

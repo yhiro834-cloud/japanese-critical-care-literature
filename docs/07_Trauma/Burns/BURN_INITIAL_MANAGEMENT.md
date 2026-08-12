@@ -2,8 +2,8 @@
 title: "Burn Initial Management"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -13,6 +13,27 @@ ssot: true
 ---
 
 # Burn Initial Management
+
+## 0. まず覚える
+
+熱傷初期管理では、創面だけでなく、**気道、呼吸、循環、低体温、併存外傷を先に守る**。見た目が軽くても、吸入損傷や全周性熱傷は時間とともに悪化しうる。
+
+**簡単に言うと：** 燃焼を止め、`<C>ABCDE`で生命危機を処置し、熱傷範囲と深さを見積もり、保温しながら専門施設へ早期相談する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| TBSA | total body surface area、熱傷した体表面積の割合 | 輸液計算では通常、浅達性II度以上を数え、発赤のみは含めない |
+| burn depth | 熱が皮膚のどの深さまで傷害したか | 初期所見だけで固定せず、時間経過で再評価する |
+| inhalation injury | 煙、熱、化学物質による気道・肺の損傷 | 通常のSpO₂だけでは一酸化炭素曝露を除外できない |
+| eschar | 深い熱傷で生じる硬い壊死組織 | 全周性では胸郭運動や末梢循環を妨げることがある |
+| burn shock | 大面積熱傷後の血管透過性亢進などによる循環不全 | 輸液式は開始量の目安であり、反応を見て調整する |
+| fluid creep | 必要量を超えて輸液量が増え続けること | 浮腫、肺障害、腹部/四肢compartment syndromeにつながる |
+
+**新人看護師の到達点：** 受傷時刻と機転、閉鎖空間曝露、声・呼吸の変化、TBSA根拠、輸液量、尿量、体温、創部・末梢循環を記録し、濡れた被覆の放置や氷による冷却を避けられる。
+
+> **報告例：** 「閉鎖空間火災で顔面熱傷があります。嗄声と頸部浮腫が進行し、SpO₂は保たれていますが吸入損傷を否定できません。困難気道化する前の評価とburn centerへの相談をお願いします。」
+
+**ベテラン向け深掘り：** Parklandなどの式を自動投与量とせず、尿量だけでなく灌流、lactate、呼吸、腹圧、心腎機能、累積balanceでtitrateする。小児、妊娠、電撃、化学熱傷、外傷併存では標準式から外れる理由を明確にする。
 
 ## First actions
 
@@ -66,4 +87,5 @@ ssot: true
 
 ## Review log
 
+- 2026-08-12: V2導入、TBSA/吸入損傷等の用語、新人観察、fluid creepを含む高度判断を追加。ABA 2024 guidelineを再確認。
 - 2026-08-11: Initial evidence review; burn center and local transfer-protocol review required.
