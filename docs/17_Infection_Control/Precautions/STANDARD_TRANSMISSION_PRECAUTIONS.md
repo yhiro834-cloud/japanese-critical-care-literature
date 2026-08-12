@@ -14,6 +14,11 @@ ssot: true
 
 # Standard and Transmission-Based Precautions
 
+![標準予防策を土台に接触・飛沫・空気予防策を追加する判断図](../../../assets/infection_control/precautions_decision_map.svg)
+
+> [!NOTE]
+> 標準予防策は全患者に適用し、症候と予想される伝播経路から接触・飛沫・空気予防策を追加します。個人防護具だけで完了せず、部屋、換気、器材、動線、清掃も一体で整えます。
+
 ## 0. まず覚える
 
 標準予防策（standard precautions）は、感染症の診断に関係なくすべての患者careへ適用する基本策である。感染経路別予防策（transmission-based precautions）は、接触・飛沫・空気などの伝播riskに応じて追加する。

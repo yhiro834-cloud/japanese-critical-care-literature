@@ -61,6 +61,10 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-NUT-001 | 経腸栄養ルート | 胃内・幽門後・胃瘻の終末位置と投与前確認を理解 | `assets/nutrition/enteral_route_safety.svg` | `docs/14_Nutrition/Critical_Care_Nutrition/CRITICAL_CARE_NUTRITION.md` | SVG anatomy schematic | Yes | 経腸栄養導入 | Critical Care Nutrition SSOT | 2026-08-12 |
 | FIG-PADIS-001 | PADIS日次サイクル | 痛み・鎮静・せん妄・睡眠・離床・意思疎通を統合 | `assets/padis/padis_daily_cycle.svg` | `docs/15_Pain_Sedation_Delirium/PADIS/PADIS_BEDSIDE_CARE.md` | SVG clinical cycle | Yes | PADIS・回診 | PADIS SSOT | 2026-08-12 |
 | FIG-REHAB-001 | 早期離床段階 | 体位変換から歩行まで安全な次の一段を選ぶ | `assets/rehabilitation/early_mobility_ladder.svg` | `docs/16_Rehabilitation_PICS/Early_Mobility/ICU_EARLY_MOBILITY.md` | SVG staged ladder | Yes | 離床計画・多職種連携 | Early Mobility / PICS SSOT | 2026-08-12 |
+| FIG-IPC-001 | 感染経路別予防策 | 標準予防策を土台に接触・飛沫・空気予防策を追加 | `assets/infection_control/precautions_decision_map.svg` | `docs/17_Infection_Control/Precautions/STANDARD_TRANSMISSION_PRECAUTIONS.md` | SVG decision map | Yes | 感染対策導入 | Infection Control SSOT | 2026-08-12 |
+| FIG-PROC-001 | 手技安全ライフサイクル | 適応から手技後管理・抜去までを一つの過程として理解 | `assets/procedures/procedure_lifecycle_safety.svg` | `docs/18_Procedures/Safety_Framework/PROCEDURAL_SAFETY_FRAMEWORK.md` | SVG lifecycle | Yes | 手技前ブリーフ | Procedural Safety SSOT | 2026-08-12 |
+| FIG-DEVICE-001 | 機器依存・バックアップ | 患者接続部から供給源をたどり停止時の代替を準備 | `assets/devices/device_dependency_backup_map.svg` | `docs/20_Devices/Lifecycle/DEVICE_LIFECYCLE_BACKUP.md` | SVG dependency map | Yes | 機器安全・搬送 | Device Lifecycle SSOT | 2026-08-12 |
+| FIG-NURS-001 | 系統的ICU看護 | 基準状態・変化・介入・反応・次の計画を時間軸で統合 | `assets/nursing/systematic_nursing_timeline.svg` | `docs/22_Nursing/Systematic_Care/SYSTEMATIC_ICU_NURSING_CARE.md` | SVG clinical timeline | Yes | 看護導入・引継ぎ | Systematic ICU Nursing SSOT | 2026-08-12 |
 
 ## Index rules
 

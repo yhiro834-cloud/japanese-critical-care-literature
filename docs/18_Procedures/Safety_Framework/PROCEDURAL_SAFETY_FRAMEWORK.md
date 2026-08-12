@@ -14,6 +14,11 @@ ssot: true
 
 # Procedural Safety Framework
 
+![適応から手技後管理・抜去までの侵襲的手技安全ライフサイクル](../../../assets/procedures/procedure_lifecycle_safety.svg)
+
+> [!NOTE]
+> タイムアウトは開始直前の確認だけでなく、適応、同意、監視、中断、救済、位置・機能・合併症確認へつながる一工程です。術者や手技が変われば再確認します。
+
 ## 0. まず覚える
 
 侵襲的手技の安全は、穿刺や挿入の技術だけで決まらない。**適応、同意、team timeout、監視、救済準備、合併症確認、記録、device抜去まで**を一つのprocedure lifecycleとして扱う。
