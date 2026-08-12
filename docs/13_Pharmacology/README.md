@@ -1,5 +1,11 @@
 # 13 Pharmacology
 
+## 推奨学習順序
+
+1. [Critical-care PK/PD](PKPD/CRITICAL_CARE_PKPD.md)で薬物分布・消失とdose再評価を学ぶ。
+2. [High-alert infusion safety](Medication_Safety/HIGH_ALERT_INFUSION_SAFETY.md)で濃度、単位、line、pump、患者反応のclosed loopを学ぶ。
+3. その後、vasoactive、抗菌薬、抗凝固、鎮痛・鎮静など用途別SSOTへ進む。
+
 薬剤は用途別SSOTと相互参照し、organ support、TDM、投与system、再評価を統合します。
 
 - [Critical-care PK/PD](PKPD/CRITICAL_CARE_PKPD.md)

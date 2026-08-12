@@ -14,6 +14,27 @@ ssot: true
 
 # Early Mobility and ICU-acquired Weakness
 
+## 0. まず覚える
+
+ICU早期離床・運動は、入室直後から患者の安全と能力に合わせ、体位変換、能動運動、座位、立位、歩行などを段階的に行う治療である。**毎日、安全性をscreenし、具体的な活動量と中止基準を処方する。**
+
+**簡単に言うと：** 「歩けるか」だけでなく、今日できる最も意味のある活動を決め、実施後の回復まで確認する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| early mobility | ICU早期から行う段階的な身体活動 | passive ROMから歩行まで患者別に設定する |
+| ICU-acquired weakness（ICU-AW） | ICU経過中に生じるびまん性・対称性筋力低下 | focal/asymmetricな所見は別の神経疾患を疑う |
+| readiness screen | 離床前の神経・呼吸・循環・device・人員評価 | 単一vitalや「挿管中」だけで可否を決めない |
+| stop criteria | sessionを中止・減量する条件 | 症状、循環、呼吸、device、神経変化を事前共有する |
+| recovery time | 活動後にbaselineへ戻るまでの時間 | 次回のdose・進行/後退判断に用いる |
+| ADL | activities of daily living、日常生活動作 | 洗面、着替え、移乗など患者に意味ある課題を含む |
+
+**新人看護師の到達点：** 離床前にairway、酸素、循環、意識、line・drain、疼痛、人員を確認し、役割とstop criteriaを共有する。実施中・後の症状、vital、device、回復時間を記録できる。
+
+> **報告例：** 「端座位2分で呼吸仕事量と心拍が増え、SpO₂低下と回復遅延がありました。airwayとlineは保たれています。今日の活動量を後退させ、呼吸負荷と次回条件を再評価してください。」
+
+**ベテラン向け深掘り：** vasopressor、人工呼吸、CRRT、ECMOを自動的禁忌にせず、trajectory、securement、trained teamで判断する。一方、active ischemia、増悪shock/oxygen、unsafe airway/device、新規神経eventでは延期し、未実施理由と解除条件を残す。
+
 ## Mobility is a daily prescription
 
 baseline function/frailty、neurological status、strength、hemodynamics、oxygenation/ventilator、lines/devices、pain、staff/equipmentをscreenし、その日のhighest safe activity goalを設定する。passive ROMからsitting/standing/walkingまで段階化し、量だけでなくmeaningful taskを選ぶ。
@@ -70,5 +91,6 @@ post-extubation dysphagia、voice、cough、secretion、aspiration riskをscreen
 
 ## Review log
 
+- 2026-08-12: V2導入、早期離床/ICU-AW/readiness/stop criteria等の用語、新人の安全huddle・報告を追加。SCCM ICU Liberationを再確認。
 - 2026-08-12: prescription, readiness matrix, stop/recovery, distributed prevention, and documentation expanded.
 - 2026-08-11: SCCM mobility resources review; PT/OT/SLT/local safety screen review required.

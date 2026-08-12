@@ -14,6 +14,27 @@ ssot: true
 
 # PICS, PICS-F, and Recovery
 
+## 0. まず覚える
+
+PICS（post-intensive care syndrome）は重症疾患・ICU治療後に新たに生じる、または悪化する身体・認知・精神面の問題を表す枠組みである。PICS-Fは家族・介護者に生じる不安、抑うつ、trauma、悲嘆、負担などを指す。
+
+**簡単に言うと：** ICUを退室・退院できても回復が終わったわけではない。本人と家族の生活上の困りごとを見つけ、担当者のいる支援へつなぎ、届いたか確認する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| PICS | ICU後の身体・認知・精神面の問題群 | 単一診断ではなく、別疾患や薬剤も評価する |
+| PICS-F | ICU患者の家族・介護者に生じる問題群 | 家族自身の睡眠、安全、悲嘆、負担を確認する |
+| cognitive impairment | 記憶、注意、処理、遂行機能などの低下 | delirium歴、薬剤、睡眠、神経疾患を含め評価する |
+| functional status | 日常生活をどの程度行えるか | 発症前baselineと現在、介助量、回復目標を比較する |
+| care transition | ICUから病棟・施設・自宅へcareを引き継ぐ過程 | pending result、薬剤理由、red flag、follow-up ownerを明示 |
+| caregiver burden | 家族・介護者の身体・心理・社会的負担 | 支援を希望しない選択も尊重し、繰り返し確認する |
+
+**新人看護師の到達点：** 発症前の生活、現在の筋力・ADL、嚥下・栄養、認知、睡眠、気分、家族負担を確認し、plain-language summaryと臨床handoverの両方へ残せる。
+
+> **報告例：** 「退院可能ですが、発症前は自立していた患者に新たな歩行介助、記憶低下、悪夢があり、家族も睡眠不足です。rehab、認知・精神面、家族支援の担当者と予約日を明確にしてください。」
+
+**ベテラン向け深掘り：** 新症状をすべてPICSとせず、再発、心肺・神経疾患、薬剤、低栄養、social determinantsを検索する。screen→referralで終わらず、予約access、受診、結果、目標達成、caregiver capacityをloopで追う。
+
 ## Recovery begins in ICU
 
 PICSはcritical illness後のphysical、cognitive、mental-health impairment。PICS-Fは家族/介護者のanxiety、depression、PTSD、grief、burdenを含む。予防は退院時でなく、pain/sedation/delirium/mobility/family engagement、communicationから始まる。
@@ -63,5 +84,6 @@ family presence/participationは本人・家族の希望、安全、privacy、�
 
 ## Review log
 
+- 2026-08-12: V2導入、PICS/PICS-F/機能/care transition等の用語、新人の退院支援・報告、follow-up loopを追加。
 - 2026-08-12: domain map, ICU-to-home summary, follow-up loop, and family choice expanded.
 - 2026-08-11: Current SCCM resources reviewed; formal PICS/PICS-F guideline under development for 2026–2027.

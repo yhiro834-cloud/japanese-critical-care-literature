@@ -14,6 +14,27 @@ ssot: true
 
 # Critical Care Pharmacokinetics and Dose Reassessment
 
+## 0. まず覚える
+
+薬物動態（pharmacokinetics: PK）は体が薬をどう処理するか、薬力学（pharmacodynamics: PD）は薬が体や病原体へどう作用するかを扱う。重症患者では浮腫、臓器不全、CRRT、ECMOなどで通常の投与設計が外れやすい。
+
+**簡単に言うと：** 「腎機能が悪いから減らす」だけでなく、最初に必要量を届かせるloadingと、その後に蓄積させないmaintenanceを分け、効果と毒性で調整する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| volume of distribution（Vd） | 薬が体内へどの程度広がるかを表す見かけの容積 | 浮腫・capillary leakで水溶性薬のloadingに影響 |
+| clearance | 単位時間に薬が体から除去される能力 | 腎肝機能、KRT、臓器血流で変化する |
+| loading dose | 目標濃度へ早く到達するための初回量 | 主にVdで考え、腎障害だけで自動減量しない |
+| maintenance dose | 目標曝露を維持するための継続量 | clearanceと臓器機能のtrajectoryで再評価する |
+| TDM | therapeutic drug monitoring、治療薬物monitoring | 採血時刻、投与時刻、部位、targetをそろえて解釈する |
+| augmented renal clearance | 重症時に腎clearanceが予想以上に増える状態 | serum creatinineが低くてもunderexposureを起こしうる |
+
+**新人看護師の到達点：** 適応、投与量・時刻、採血時刻・部位、尿量/腎肝機能、CRRT実稼働、ECMO、効果・毒性を同じtimelineで記録し、臓器support変更時に薬剤再評価を依頼できる。
+
+> **報告例：** 「CRRTが6時間停止していましたが、薬剤は稼働中の設定で継続されています。尿量も減少し薬剤蓄積riskがあります。実際のclearanceに合わせたmaintenance doseとTDM時刻の再評価をお願いします。」
+
+**ベテラン向け深掘り：** non-steady-state creatinine、低筋量、fluid dilution、蛋白結合、active metabolite、ECMO sequestrationを考慮する。TDM値が臨床像と合わない場合はdose変更前にline contamination、sampling window、missed dose、assay限界を検証する。
+
 ## Why usual dosing fails
 
 critical illness changes volume of distribution、protein binding、organ perfusion、clearance。fluid resuscitation/capillary leakはhydrophilic drug exposureを下げ、AKI/acute liver injuryは蓄積を、augmented renal clearanceはunderexposureを起こし得る。ECMO、CRRT、plasma exchange、obesity、burnsが重なる。
@@ -77,5 +98,6 @@ AKIのcreatinineは遅れて変化し、fluid balanceや低筋量で希釈/過�
 
 ## Review log
 
+- 2026-08-12: V2導入、PK/PD、Vd、clearance、loading/maintenance、TDM等の用語、新人のtimeline報告を追加。
 - 2026-08-12: loading/maintenance separation, dynamic organ assessment, extracorporeal handoff, TDM integrity, and reconciliation expanded.
 - 2026-08-11: PK/PD review; ICU pharmacist/local TDM review required.

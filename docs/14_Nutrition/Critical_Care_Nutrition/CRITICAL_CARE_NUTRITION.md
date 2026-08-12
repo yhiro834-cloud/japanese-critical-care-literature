@@ -14,6 +14,27 @@ ssot: true
 
 # Critical Care Nutrition
 
+## 0. まず覚える
+
+重症患者の栄養療法は、単にcalorieを満たすのではなく、病期、消化管灌流、栄養risk、臓器supportに合わせて**安全に開始し、実投与量と耐容性を再評価する治療**である。
+
+**簡単に言うと：** 処方した量ではなく実際に届いた量を数え、腸が安全に使えるか、過不足が患者の回復を妨げていないかを見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| EN | enteral nutrition、経腸栄養 | 消化管を用いる栄養。oral不十分で腸が使用可能なら検討 |
+| PN | parenteral nutrition、静脈栄養 | 消化管を介さず静脈から栄養を投与する方法 |
+| delivered dose | 実際に患者へ投与された栄養量 | 中断、propofol、dextrose、citrateも24時間で集計する |
+| feeding intolerance | 栄養投与を安全に進めにくい状態 | 胃残量だけでなく腹部、嘔吐、便、灌流、lactateを統合 |
+| indirect calorimetry | 呼吸gasからenergy消費を推定する測定 | 利用可能なら処方精度を高めるが、病期で再評価する |
+| aspiration | 口腔・胃内容が気道へ流入すること | 体位、嚥下、意識、tube、嘔吐、口腔careを確認する |
+
+**新人看護師の到達点：** formula、route、rate、tube位置確認、実投与量、中断理由、腹部・便・嘔吐、glucose/TG/electrolyte、誤嚥徴候を記録し、hold後の再開時刻と責任者を明確にできる。
+
+> **報告例：** 「処方は目標量ですが、検査と処置で過去24時間の実投与は45%です。腹部所見と灌流は安定しています。回避可能な中断を減らし、再開・補完計画を確認してください。」
+
+**ベテラン向け深掘り：** shock、腸管虚血、active bleeding、IAH/ACSではEN安全性を優先し、gastric residual単独で中断しない。acute early phaseのoverfeeding、CO₂ burden、fluid、KRTによる栄養損失、PN感染riskと機能回復を統合する。
+
 ## Assess and prescribe as a trajectory
 
 admission時にpre-illness intake/weight loss、body composition、frailty、GI function、dysphagia、refeeding riskを評価する。albumin/prealbumin単独をnutrition status markerにしない。daily intakeの**delivered dose**（nutrition、propofol、dextrose、citrate等）と目標との差を記録する。
@@ -88,5 +109,6 @@ route/access、delivered/held reason、energy/protein、GI tolerance、glucose/T
 
 ## Review log
 
+- 2026-08-12: V2導入、EN/PN、実投与量、耐容性等の用語、新人の投与・再開報告、病期別判断を追加。ASPEN/ESPEN公式資料を再確認。
 - 2026-08-12: nutrition representation, route table, delivered dose, intolerance, organ support, and nursing safety expanded.
 - 2026-08-11: ASPEN/ESPEN review; dietitian/pharmacy/local feeding protocol review required.
