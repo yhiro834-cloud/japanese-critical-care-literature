@@ -36,7 +36,8 @@
   <path d="M1115 445H1455" stroke="#5B5BD6" stroke-width="5" marker-end="url(#arr)"/>
   <path d="M1455 445H1115" stroke="#5B5BD6" stroke-width="5" marker-end="url(#arr)"/>
   <rect x="1035" y="730" width="505" height="80" rx="22" fill="#FFF4F2" stroke="#C74440" stroke-width="3"/>
-  <text x="1288" y="765" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" font-weight="700" fill="#C74440">SpO₂は酸素運搬量（CaO₂ / DO₂）そのものではない</text>
-  <text x="1288" y="795" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#172B3A">Hbと心拍出量も合わせて評価</text>
+  <text x="1288" y="753" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="18" font-weight="700" fill="#C74440">SpO₂は酸素含量（CaO₂）や</text>
+  <text x="1288" y="777" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="18" font-weight="700" fill="#C74440">酸素供給量（DO₂）そのものではない</text>
+  <text x="1288" y="801" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="17" fill="#172B3A">Hbと心拍出量も合わせて評価</text>
   <text x="80" y="865" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">FIG-P-RESP-003 · 定性的な教育用曲線 · SSOT: Respiratory Physiology · 確認日 2026-08-12</text>
 </svg>
