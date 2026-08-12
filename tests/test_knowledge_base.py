@@ -229,6 +229,35 @@ def test_raster_medical_illustrations_are_indexed_and_high_resolution():
     assert not failures, "Raster illustration failures:\n" + "\n".join(failures)
 
 
+def test_master_reference_phase1_audit_is_exhaustive():
+    required = {
+        "AUDIT_REPORT.md", "CONTENT_GAP_ANALYSIS.md", "VISUAL_AUDIT.md",
+        "REFERENCE_AUDIT.md", "REVISION_ROADMAP.md",
+        "HUMAN_REVIEW_REQUIRED.md", "REVISION_STATUS.md", "PHASE1_REPORT.md",
+    }
+    assert all((ROOT / name).exists() for name in required)
+    audit = (ROOT / "AUDIT_REPORT.md").read_text()
+    audited_files = set(re.findall(r"\| `(docs/[^`]+\.md)` \|", audit))
+    expected_pages = {
+        str(path.relative_to(ROOT))
+        for path in DOCS.rglob("*.md")
+        if "_templates" not in path.parts and path.name != "README.md" and path.read_text().startswith("---\n")
+    }
+    assert audited_files == expected_pages
+    visual = (ROOT / "VISUAL_AUDIT.md").read_text()
+    audited_assets = set(re.findall(r"`(assets/[^`]+\.(?:svg|png))`", visual))
+    expected_assets = {str(path.relative_to(ROOT)) for path in (ROOT / "assets").rglob("*") if path.suffix in {".svg", ".png"}}
+    assert audited_assets == expected_assets
+    revision = (ROOT / "REVISION_STATUS.md").read_text()
+    real_ssot = {
+        str(path.relative_to(ROOT))
+        for path in DOCS.rglob("*.md")
+        if "_templates" not in path.parts and "\nssot: true\n" in path.read_text()
+    }
+    audited_ssot = set(re.findall(r"\| `(docs/[^`]+\.md)` \| Audited \|", revision))
+    assert audited_ssot == real_ssot
+
+
 def test_learning_asset_coverage_registers_all_twenty_domains():
     coverage = (DOCS / "LEARNING_ASSET_COVERAGE.md").read_text()
     registered = set(re.findall(r"^\| ([A-Z][A-Z0-9_]+) \|", coverage, re.MULTILINE))

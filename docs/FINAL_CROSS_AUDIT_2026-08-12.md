@@ -25,7 +25,7 @@ Phase 1–32とTextbook V2再構築で深化したKnowledge Baseを、構造、�
 
 | Gate | Result | 継続上の意味 |
 |---|---:|---|
-| SSOT identity/review metadata | 74/74（当時） | 後続監査で75 SSOT・全本文`reviewed`へ更新 |
+| SSOT identity/review metadata | 74/74 | 後続の75件表記はtemplateを含む集計誤りであり、74実体SSOTへ訂正 |
 | V2 staged-learning markers | 74/74 | 平易な入口、新人看護、ベテラン深掘りの欠落を検出 |
 | Direct external Evidence identity | 74/74 | 各SSOTからDOI、PMIDまたは公式一次sourceへ直接到達 |
 | Internal Markdown links | pass | rename/move時のリンク切れをCIで検出 |
