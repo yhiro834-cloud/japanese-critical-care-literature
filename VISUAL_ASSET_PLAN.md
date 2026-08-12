@@ -61,3 +61,4 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 - 2026-08-12 Phase 3A complete: FIG-B-ARDS-001–003、FIG-C-HEMO-001–003、FIG-C-SHOCK-001–002。全図をSVG/XML検証、PNG render、目視確認し、本文・症例・Slide Readyへ統合。次はFIG-V-VENT-005とFIG-I-SEPSIS-001。
 - 2026-08-12 Phase 4A complete: FIG-N-ICP-001–002。次はCRRTとECMO/MCS回路series。
 - 2026-08-12 Phase 4B complete: FIG-R-CRRT-001–003、FIG-E-ECMO-001–003。本文・Slide Readyへ統合後、SVG/XMLとrenderを検証。
+- 2026-08-12 Phase 3 complete: FIG-V-VENT-005、FIG-I-SEPSIS-001を追加し、Phase 3残件を完了。

@@ -118,6 +118,14 @@ Volume-targetedとpressure-targetedは「何を保証し、何が変動するか
 
 **Figure Interpretation** — 呼気flowが基線へ戻る前に次の吸気が始まる所見はair trappingを示唆します。呼気時間、抵抗、compliance、呼吸数、VT、患者努力を一緒に確認します。
 
+![患者–人工呼吸器非同調の代表波形](../../../assets/ventilation/asynchrony_series.svg)
+
+*Caption — 正常に近い同調、ineffective effort（無効努力）、double triggering（二重トリガー）の定性的比較。*
+
+**Figure Interpretation** — 小さな努力が送気につながらない場合と、十分な呼出前に次の送気が始まる場合を区別します。波形だけで確定せず、患者のdrive・努力、airway/回路、trigger、flow、cyclingを確認します。
+
+**Clinical Meaning** — 鎮静・筋弛緩を先に強めるのではなく、痛み、不安、代謝性acidosis、呼吸仕事量、設定不一致などの原因を評価し、調整後の患者と波形を再評価します。
+
 **Clinical Meaning** — 波形は発見の手掛かりです。定量には適切な呼気終末holdなどが必要で、外因性PEEPを反射的に増減せず原因へ介入して再評価します。
 
 ## 6. Clinical Reasoning and Treatment

@@ -43,6 +43,7 @@ ssot: false
 - [PpeakとPplatの比較](../../assets/ventilation/peak_vs_plateau_pressure.svg)（作成済み）
 - [正常時間波形の基本](../../assets/ventilation/normal_time_waveforms.svg)（作成済み）
 - [auto-PEEPを疑う呼気流波形](../../assets/ventilation/auto_peep_waveform.svg)（作成済み）
+- [患者–人工呼吸器非同調の代表波形](../../assets/ventilation/asynchrony_series.svg)（作成済み：Slide 6）
 - [ARDS肺胞障害](../../assets/breathing/ards_alveolar_injury.svg)（作成済み：Slide 7）
 - [ARDSのshunt機序](../../assets/breathing/ards_shunt_mechanism.svg)（作成済み：Slide 7または症例解説）
 - [腹臥位療法の考え方](../../assets/breathing/prone_position_mechanism.svg)（作成済み：Slide 9）
