@@ -34,6 +34,10 @@ ssot: true
 
 **ベテラン向け深掘り：** LV/RV、心嚢、肺、静脈うっ血、VTI responseをpressure・flow・perfusionへ統合し、不一致時は上位検査へつなぎます。
 
+## Visual：肺POCUS artifact
+
+[肺POCUS artifactの模式図](../../../assets/pocus/lung_ultrasound_schematic.svg)は、胸膜線/A-line、B-line、胸水、consolidationの概念を比較します。実際の超音波画像ではなく、artifactと病名を一対一対応させないための導入図です。実技は認定された教育、実機、画像保存、supervision、QAで学びます。
+
 ## 1. Overview
 
 ESICM 2025はshock typeを評価するfirst-line imagingとしてechocardiographyを推奨し、SCCM 2024はcardiogenic shockやtargeted volume management等でCCUSを提案しています。POCUSは「volume status測定器」でなく、心・肺・静脈・腹部を臨床文脈に統合する反復検査です。

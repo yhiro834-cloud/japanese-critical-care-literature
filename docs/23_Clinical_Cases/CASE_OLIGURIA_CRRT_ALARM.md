@@ -15,6 +15,7 @@ tags: [case, aki, crrt, oliguria]
 - [CRRT回路の基本](../../assets/crrt/crrt_circuit.svg)
 - [CRRTの除去機序](../../assets/crrt/crrt_clearance_mechanisms.svg)
 - [CRRT alarmの臨床推論](../../assets/crrt/crrt_alarm_reasoning.svg)
+- [尿量低下の臨床推論](../../assets/clinical_reasoning/low_urine_output_reasoning.svg)
 
 回路を患者から返血まで指で追い、「alarmが示す場所」と「患者への影響」を別々に説明してから症例へ進みます。
 

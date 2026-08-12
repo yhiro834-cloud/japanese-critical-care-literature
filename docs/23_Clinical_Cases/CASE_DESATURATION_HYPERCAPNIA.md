@@ -13,6 +13,8 @@ linked_topics: [../02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md
 
 ## Learning Objectives
 
+- [SpO₂突然低下の臨床推論図](../../assets/clinical_reasoning/spo2_drop_reasoning.svg)を使い、患者・signal・airway/breathing・device/循環を分ける
+
 - SpO₂ alarmを患者・airway・device・breathingへ分解する
 - oxygenation failureとventilation failureを区別する
 - ABGを採血条件とclinical trendから解釈する

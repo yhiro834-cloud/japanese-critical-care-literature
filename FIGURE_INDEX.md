@@ -35,6 +35,11 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-E-ECMO-003 | VV vs VA | 補助範囲とmode別monitoringを比較 | `assets/ecmo/va_vs_vv_ecmo.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG comparison | Yes | ECMO導入・Summary | ELSO VV/VA-ECMO 2021; ECMO SSOT | 2026-08-12 |
 | FIG-V-VENT-005 | 患者–人工呼吸器非同調 | 無効努力と二重トリガーを代表波形で比較 | `assets/ventilation/asynchrony_series.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG waveform series | Yes | 波形・非同調discussion | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
 | FIG-I-SEPSIS-001 | 敗血症の病態 | 感染・宿主反応・循環異常・臓器障害を分ける | `assets/sepsis/sepsis_pathophysiology.svg` | `docs/03_Circulation/Shock/SEPTIC_SHOCK.md` | SVG mechanism | Yes | Sepsis導入・症例discussion | SSC 2026; Septic Shock SSOT | 2026-08-12 |
+| FIG-CR-001 | SpO₂低下推論 | patient-firstでsignal・airway・lung・device・循環を分ける | `assets/clinical_reasoning/spo2_drop_reasoning.svg` | `docs/21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md` | SVG algorithm | Yes | 急変simulation・症例 | Bedside Emergency / Respiratory SSOT | 2026-08-12 |
+| FIG-CR-002 | 低血圧推論 | 測定・灌流・表現型・drug deliveryを分ける | `assets/clinical_reasoning/hypotension_reasoning.svg` | `docs/21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md` | SVG algorithm | Yes | Shock・急変simulation | Shock / Monitoring SSOT | 2026-08-12 |
+| FIG-CR-003 | 意識変化推論 | 即時可逆因子・confounder・構造/電気的原因を整理 | `assets/clinical_reasoning/altered_consciousness_reasoning.svg` | `docs/21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md` | SVG algorithm | Yes | Neuro・急変simulation | Neuro Assessment / Emergency SSOT | 2026-08-12 |
+| FIG-CR-004 | 尿量低下推論 | 測定/閉塞・灌流・うっ血・腎/薬剤を分ける | `assets/clinical_reasoning/low_urine_output_reasoning.svg` | `docs/21_Emergency_Troubleshooting/Bedside_Emergencies/BEDSIDE_EMERGENCY_ALARM_RESPONSE.md` | SVG algorithm | Yes | AKI・急変simulation | AKI / CRRT / Emergency SSOT | 2026-08-12 |
+| FIG-P-POCUS-001 | 肺POCUS artifact | A-line・B-line・胸水・consolidation模式を比較 | `assets/pocus/lung_ultrasound_schematic.svg` | `docs/03_Circulation/POCUS/HEMODYNAMIC_POCUS.md` | SVG schematic | Yes | POCUS導入・限界 | SCCM CCUS 2024; POCUS SSOT | 2026-08-12 |
 
 ## Index rules
 
