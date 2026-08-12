@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Ventilator Visual Onboarding
+
+- **テーマ:** 第三者・初学者・スマートフォン閲覧者向けの図解導入
+- **変更内容:** 4図を1項目ずつ表示し、「一言でいうと」「最初に見る場所」「ミニ症例」「ここでは決められないこと」を添えたクイックガイドを追加
+- **新しいEvidence:** 新規推奨なし。AARC Patient-Ventilator Assessment CPG 2024とMechanical Ventilation SSOTを再利用
+- **臨床的に何が変わったか:** 図の読み始めと限界を明示し、初学者が単独所見を診断や設定変更へ短絡するリスクを減らした
+- **影響ページ:** Ventilator Visual Quick Guide、Mechanical Ventilation、Respiratory Support Slide Ready
+- **要確認:** 人工呼吸専門家のsign-offと、実際の初学者による理解度テストは継続課題
+
 ### 2026-08-12 — GI / Liver / Pancreas Depth Phase 29
 
 - **テーマ:** GI bleeding、acute liver failure/HE、acute pancreatitis、IAH/ACS

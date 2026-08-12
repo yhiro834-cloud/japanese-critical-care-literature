@@ -37,6 +37,7 @@ ssot: false
 
 ## Key Figures Needed
 
+- [人工呼吸器の図解クイックガイド](../02_Breathing/Mechanical_Ventilation/VENTILATOR_VISUAL_QUICK_GUIDE.md)（初学者・スマートフォン向け）
 - 呼吸support escalationと再評価loop（未作成）
 - [気道内圧の構成](../../assets/ventilation/airway_pressure_components.svg)（作成済み）
 - [PpeakとPplatの比較](../../assets/ventilation/peak_vs_plateau_pressure.svg)（作成済み）

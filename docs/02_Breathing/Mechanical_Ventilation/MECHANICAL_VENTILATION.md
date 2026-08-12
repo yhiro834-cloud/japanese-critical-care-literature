@@ -17,6 +17,9 @@ ssot: true
 > [!CAUTION]
 > 設定は診断、肺mechanics、循環、患者努力、施設protocolで個別化します。本頁は固定設定の処方箋ではありません。急変時は患者を先に評価し、必要ならventilatorから離してmanual ventilationし支援を要請します。
 
+> [!TIP]
+> 初めて図を見る場合やスマートフォンで読む場合は、[人工呼吸器の図解クイックガイド](VENTILATOR_VISUAL_QUICK_GUIDE.md)から始めてください。「一言でいうと」「最初に見る場所」「ミニ症例」の順で4枚を分割して説明しています。
+
 ## 1. Overview
 
 人工呼吸器はoxygenationとventilationを支え、呼吸仕事量を軽減する一方、VILI、循環抑制、横隔膜障害、鎮静関連害を生じ得ます。目標はgasを正常化することではなく、許容できるgas exchangeを最小限の害で確保し原因回復を待つことです。
