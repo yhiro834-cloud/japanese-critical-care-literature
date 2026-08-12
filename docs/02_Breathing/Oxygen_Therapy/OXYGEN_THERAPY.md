@@ -1,9 +1,9 @@
 ---
-title: "Oxygen Therapy"
+title: "酸素療法"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -12,10 +12,31 @@ related: [../Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md, ../HFNC/HFNC.md]
 ssot: true
 ---
 
-# Oxygen Therapy
+# 酸素療法
 
 > [!CAUTION]
 > 酸素は薬剤です。低酸素血症の原因治療、換気評価、投与後の再評価を伴わない「SpO₂だけの補正」は危険です。目標範囲とdevice escalationは施設手順・患者背景で個別化してください。
+
+## 0. まず覚える
+
+**酸素療法（oxygen therapy）**は、吸入する酸素濃度を高めて低酸素血症を改善するsupportです。原因そのものを治すとは限りません。
+
+**簡単に言うと：** SpO₂の数字を上げる処置ではなく、患者へ酸素を届ける時間を確保しながら悪化原因を探す治療です。
+
+| 用語 | 意味 | 注意 |
+|---|---|---|
+| SpO₂ | pulse oximeterによる酸素飽和度の推定 | 波形、末梢循環、体動等で誤差が生じる |
+| FiO₂ | 吸入気中の酸素割合 | device、flow、呼吸様式で実際の値が変わり得る |
+| oxygenation | 血液へ酸素を取り込むこと | ventilationとは別に評価する |
+| ventilation | CO₂を肺胞から排出すること | SpO₂が保たれていても換気不全はあり得る |
+
+**新人看護師の到達点：** deviceとflow、SpO₂波形、呼吸数、呼吸努力、意識、循環を確認し、変更後の反応と悪化を報告できること。
+
+**ベテラン向け深掘り：** 酸素含量と酸素運搬、shunt、V/Q、hypercapnia risk、酸素毒性、device failure、escalation遅延を統合します。
+
+### 報告例
+
+> 「酸素deviceは○○、flow/FiO₂は○○です。SpO₂は○○ですが、呼吸数、努力、意識、血圧は○○で、○分前から○○へ変化しています。device位置と供給源を確認し、介入後の反応は○○です。」
 
 ## 1. Overview
 
@@ -75,4 +96,5 @@ ssot: true
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / novice-to-expert nursing / reassessment | Staged-learning introduction added; respiratory nursing review needed |
 | 2026-08-11 | Codex | evidence / safety / nursing | Evidence reviewed; local respiratory-care review needed |

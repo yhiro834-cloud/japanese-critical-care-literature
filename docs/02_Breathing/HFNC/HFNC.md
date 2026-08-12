@@ -1,9 +1,9 @@
 ---
-title: "High-Flow Nasal Cannula"
+title: "高流量鼻カニュラ酸素療法"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -12,10 +12,30 @@ related: [../Oxygen_Therapy/OXYGEN_THERAPY.md, ../NIV/NIV.md]
 ssot: true
 ---
 
-# High-Flow Nasal Cannula
+# 高流量鼻カニュラ酸素療法
 
 > [!CAUTION]
 > HFNC trialは挿管適応を消しません。意識障害、airway protection不良、循環不安定、疲弊、進行性acidosisでは直ちに上位supportを検討します。
+
+## 0. まず覚える
+
+**高流量鼻カニュラ酸素療法（high-flow nasal cannula：HFNC）**は、加温・加湿した高流量gasを鼻カニュラから投与する呼吸supportです。
+
+**簡単に言うと：** 通常の鼻カニュラより安定した酸素供給と高いflowで患者の吸気需要を支えますが、人工呼吸器の代わりになるとは限りません。
+
+| 用語 | 意味 | 観察 |
+|---|---|---|
+| flow | 1分間に流すgas量 | 患者の吸気需要、comfort、口呼吸、leak |
+| FiO₂ | 吸入酸素濃度 | SpO₂だけでなく必要量のtrendを見る |
+| ROX index | SpO₂/FiO₂と呼吸数から算出する指標 | 単独cutoffで挿管可否を決めない |
+
+**新人看護師の到達点：** flowとFiO₂を区別し、呼吸数、努力、意識、循環、装着、加温加湿、皮膚を経時的に評価すること。
+
+**ベテラン向け深掘り：** 数字が保たれていても努力・疲弊・acidosisが進むfailureを見抜き、trial開始時に再評価時刻とescalation条件を共有します。
+
+### 報告例
+
+> 「HFNCはflow○、FiO₂○です。SpO₂は○ですが、呼吸数は○から○へ、努力と会話、意識、血圧は○○です。開始○分後で改善/不変/悪化しています。」
 
 ## 1. Overview / Physiology
 
@@ -64,4 +84,5 @@ ERS 2022は成人hypoxemic acute respiratory failureでHFNCをconventional oxyge
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / failure recognition / reporting | Staged-learning introduction added; respiratory nursing review needed |
 | 2026-08-11 | Codex | guideline / safety / nursing | Evidence reviewed; local protocol review needed |

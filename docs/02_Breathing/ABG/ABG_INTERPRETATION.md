@@ -1,9 +1,9 @@
 ---
-title: "ABG and Acid–Base Interpretation"
+title: "動脈血液ガスと酸塩基平衡"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -12,10 +12,32 @@ related: [../Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md]
 ssot: true
 ---
 
-# ABG and Acid–Base Interpretation
+# 動脈血液ガスと酸塩基平衡
 
 > [!CAUTION]
 > ABGは採血時点のsnapshotです。数式は近似であり、患者評価・経時変化・原因診断を置き換えません。重篤なacidemia、呼吸疲弊、急速な変化は直ちに担当チームへescalationしてください。
+
+## 0. まず覚える
+
+**動脈血液ガス分析（arterial blood gas：ABG）**は、動脈血のpH、PaCO₂、PaO₂などを測定し、酸塩基、換気、酸素化を評価する検査です。
+
+**簡単に言うと：** 1枚の結果表を読むのではなく、「患者・採血条件・pH・CO₂・HCO₃⁻・酸素化・代償・原因」を順番に確認します。
+
+| 用語 | 意味 | 主に何を見るか |
+|---|---|---|
+| pH | 血液の酸性・アルカリ性の程度 | acidemiaかalkalemiaか |
+| PaCO₂ | 動脈血二酸化炭素分圧 | 肺胞換気の結果 |
+| HCO₃⁻ | 重炭酸イオン | 代謝性成分と腎の調節 |
+| PaO₂ | 動脈血酸素分圧 | FiO₂、PEEP、体位等を含む酸素化 |
+| AG | anion gap | 測定されない陰イオン増加の手掛かり |
+
+**新人看護師の到達点：** 患者名、採血時刻、動脈/静脈、FiO₂・device・PEEP・体位を確認し、pHから順に読み、危険な変化を患者所見とともに報告すること。
+
+**ベテラン向け深掘り：** 代償の妥当性、混合性障害、albumin、電解質、lactate、腎機能、慢性baseline、sampling errorを統合します。
+
+### 報告例
+
+> 「○時の動脈血です。採血時はdevice○、FiO₂○、PEEP○、体位○です。pH○、PaCO₂○、HCO₃⁻○、PaO₂○で、前回から○○へ変化しました。意識、呼吸努力、循環は○○です。」
 
 ## 1. Overview
 
@@ -216,4 +238,5 @@ Identifiers and official pages verified 2026-08-11. Compensation formulae are st
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / sampling context / reporting | Staged-learning introduction added; critical care review needed |
 | 2026-08-11 | Codex | evidence identity / equations / sample safety / nursing | Evidence reviewed; respiratory/clinical laboratory expert review needed |

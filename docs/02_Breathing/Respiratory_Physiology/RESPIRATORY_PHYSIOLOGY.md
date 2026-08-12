@@ -1,5 +1,5 @@
 ---
-title: "Respiratory Physiology"
+title: "呼吸生理"
 status: review-needed
 created: 2026-08-11
 last_updated: 2026-08-12
@@ -12,10 +12,28 @@ related: [../ABG/ABG_INTERPRETATION.md]
 ssot: true
 ---
 
-# Respiratory Physiology
+# 呼吸生理
 
 > [!CAUTION]
 > 教育目的の成人向け資料です。酸素投与、換気補助、人工呼吸器設定は患者の病態と施設protocolに基づき担当チームが判断してください。
+
+## 0. まず覚える
+
+呼吸は、空気を肺胞へ運ぶ**換気（ventilation）**、肺胞と血液の間で気体が移動する**拡散（diffusion）**、肺へ血液を運ぶ**灌流（perfusion）**の3要素で成り立ちます。
+
+**簡単に言うと：** SpO₂低下やPaCO₂上昇を見たら、「空気が届かない」「酸素が血液へ移れない」「血流との組み合わせが悪い」に分けます。
+
+| 用語 | 意味 | 混同しやすい点 |
+|---|---|---|
+| oxygenation | 血液へ酸素を取り込むこと | ventilationと同義ではない |
+| ventilation | 肺胞へ気体を出入りさせCO₂を排出すること | SpO₂が正常でも換気不全はあり得る |
+| V/Q | 換気と灌流の比 | 肺全体の平均値だけで局所不均一は分からない |
+| shunt | 換気されない肺胞へ血流がある状態 | 高濃度酸素への反応が乏しいことがある |
+| dead space | 換気されても有効な灌流が乏しい状態 | minute ventilationがあってもCO₂排出効率が悪い |
+
+**新人看護師の到達点：** SpO₂、呼吸数、呼吸努力、意識、ETCO₂、device、FiO₂、循環を同じ時刻で確認し、酸素化と換気を分けて報告すること。
+
+**ベテラン向け深掘り：** oxygen content、DO₂、V/Q不均一、shunt、dead space、Hb、CO、微小循環を統合し、SpO₂だけで組織酸素供給を判断しません。
 
 ## 1. Overview
 
