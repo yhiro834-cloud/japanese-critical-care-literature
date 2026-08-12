@@ -2,6 +2,8 @@
 
 循環生理、shock、組織灌流、血行動態、fluid responsiveness、輸液/輸血、vasopressor/inotrope、POCUSを扱います。
 
+MAPやCRTなどの略語は、[学習案内の用語表](../FIRST_THIRD_STUDY_GUIDE.md#略語の読み方)で正式名称、患者の何を表すか、測定限界を確認してください。
+
 ## 新人看護師の読み順
 
 1. [Shock](Shock/SHOCK.md)：血圧ではなく組織灌流から考える

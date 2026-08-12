@@ -141,6 +141,27 @@ def test_svg_visual_assets_are_parseable_accessible_and_widescreen():
     assert not failures, "SVG asset failures:\n" + "\n".join(failures)
 
 
+def test_svg_visual_assets_use_japanese_readable_font_stack():
+    failures = []
+    expected = "Hiragino Sans, Yu Gothic, Arial, sans-serif"
+    for asset in (ROOT / "assets").rglob("*.svg"):
+        text = asset.read_text()
+        font_stacks = re.findall(r'font-family="([^"]+)"', text)
+        if not font_stacks:
+            failures.append(f"{asset.relative_to(ROOT)}: no explicit font stack")
+        elif any(stack != expected for stack in font_stacks):
+            failures.append(f"{asset.relative_to(ROOT)}: inconsistent Japanese font stack")
+    assert not failures, "SVG font failures:\n" + "\n".join(failures)
+
+
+def test_first_third_study_guide_covers_core_abbreviations_and_domains():
+    guide = (DOCS / "FIRST_THIRD_STUDY_GUIDE.md").read_text()
+    for abbreviation in ("SpO₂", "ETCO₂", "ABG", "MAP", "CRT", "GCS", "ICP", "AKI", "CRRT"):
+        assert f"| {abbreviation} |" in guide
+    for domain in ("00_Fundamentals", "01_Airway", "02_Breathing", "03_Circulation", "04_Neurology", "05_Renal"):
+        assert domain in guide
+
+
 def test_completed_figure_index_files_exist():
     index = (ROOT / "FIGURE_INDEX.md").read_text()
     missing = []

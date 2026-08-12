@@ -44,6 +44,8 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-ENDO-001 | 高血糖緊急症 | DKAとHHSの違い、並行治療、改善判定を理解 | `assets/endocrine/dka_hhs_parallel_treatment.svg` | `docs/10_Endocrine_Metabolic/Hyperglycemic_Crises/DKA_HHS.md` | SVG comparison flow | Yes | DKA/HHS導入・症例 | Hyperglycemic Crises Consensus Report 2024; DKA/HHS SSOT | 2026-08-12 |
 | FIG-R-ELEC-001 | 高カリウム血症 | 心筋保護・細胞内移動・体外除去・再評価を区別 | `assets/renal/hyperkalemia_actions.svg` | `docs/05_Renal/Electrolytes/ELECTROLYTE_EMERGENCIES.md` | SVG action flow | Yes | 電解質緊急症・症例 | UK Kidney Association Hyperkalaemia Guideline 2023; Electrolyte SSOT | 2026-08-12 |
 | FIG-I-ABX-001 | 抗菌薬タイムアウト | 感染確率・培養・感染源制御から治療を再処方 | `assets/infection/antibiotic_timeout.svg` | `docs/06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md` | SVG reassessment flow | Yes | 抗菌薬適正使用・症例 | Surviving Sepsis Campaign 2026; Antimicrobial SSOT | 2026-08-12 |
+| FIG-A-RESCUE-001 | 気道緊急時の救助 | 酸素化を保ちながら段階的に救助手段を進める | `assets/airway/airway_rescue_sequence.svg` | `docs/01_Airway/Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md` | SVG escalation flow | Yes | 気道評価・救助計画 | ASA Difficult Airway 2022; PUMA 2022; Airway SSOT | 2026-08-12 |
+| FIG-P-ABG-001 | 動脈血液ガス | 採血条件から酸塩基・換気・酸素化を順序立てて読む | `assets/physiology/abg_interpretation_sequence.svg` | `docs/02_Breathing/ABG/ABG_INTERPRETATION.md` | SVG interpretation flow | Yes | ABG・酸塩基導入 | AARC Blood Gas Analysis Guideline; ABG SSOT | 2026-08-12 |
 
 ## Index rules
 
