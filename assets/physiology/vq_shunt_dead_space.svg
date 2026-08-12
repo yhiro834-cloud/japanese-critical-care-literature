@@ -3,10 +3,10 @@
   <desc id="desc">換気と灌流の相対関係をshunt、low V/Q、matched V/Q、high V/Q、dead spaceの5つで比較する模式図。</desc>
   <defs><marker id="air" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#1976A3"/></marker><marker id="blood" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#C74440"/></marker></defs>
   <rect width="1600" height="900" fill="#fff"/>
-  <text x="80" y="78" font-family="Arial" font-size="42" font-weight="700" fill="#172B3A">V/Qは「ある・ない」ではなく連続体</text>
-  <text x="80" y="120" font-family="Arial" font-size="24" fill="#526B7A">V = 換気　Q = 灌流　｜　両者の釣り合いがガス交換効率を決める</text>
+  <text x="80" y="78" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">V/Qは「ある・ない」ではなく連続体</text>
+  <text x="80" y="120" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="24" fill="#526B7A">V = 換気　Q = 灌流　｜　両者の釣り合いがガス交換効率を決める</text>
 
-  <g font-family="Arial" text-anchor="middle">
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" text-anchor="middle">
     <text x="180" y="205" font-size="28" font-weight="700" fill="#C74440">Shunt</text><text x="180" y="238" font-size="20" fill="#526B7A">V/Q = 0</text>
     <text x="490" y="205" font-size="28" font-weight="700" fill="#D97706">Low V/Q</text><text x="490" y="238" font-size="20" fill="#526B7A">換気 ＜ 灌流</text>
     <text x="800" y="205" font-size="28" font-weight="700" fill="#16856B">釣り合うV/Q</text><text x="800" y="238" font-size="20" fill="#526B7A">換気 ≈ 灌流</text>
@@ -21,13 +21,13 @@
   <g fill="none" stroke="#C74440" marker-end="url(#blood)"><path d="M65 610H290" stroke-width="18"/><path d="M375 610H600" stroke-width="18"/><path d="M685 610H910" stroke-width="18"/><path d="M995 610H1220" stroke-width="9"/><path d="M1305 610H1525" stroke-width="2" stroke-dasharray="8 10"/></g>
 
   <g fill="none" stroke="#1976A3" marker-end="url(#air)"><path d="M180 285V315" stroke-width="2" stroke-dasharray="7 9"/><path d="M490 270V320" stroke-width="7"/><path d="M800 255V320" stroke-width="15"/><path d="M1110 245V320" stroke-width="21"/><path d="M1420 240V320" stroke-width="24"/></g>
-  <g font-family="Arial" text-anchor="middle" font-size="21" fill="#172B3A">
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" text-anchor="middle" font-size="21" fill="#172B3A">
     <text x="180" y="680">灌流はあるが換気なし</text><text x="490" y="680">換気不足の肺胞へ灌流</text><text x="800" y="680">相対的に釣り合う</text><text x="1110" y="680">灌流が相対的に不足</text><text x="1420" y="680">換気はあるが灌流なし</text>
   </g>
   <path d="M180 760H1420" stroke="#5B5BD6" stroke-width="7"/>
   <path d="M180 748V772M1420 748V772" stroke="#5B5BD6" stroke-width="7"/>
-  <text x="180" y="815" text-anchor="middle" font-family="Arial" font-size="23" fill="#C74440">酸素への反応が乏しくなり得る</text>
-  <text x="1420" y="815" text-anchor="middle" font-family="Arial" font-size="23" fill="#1976A3">無駄な換気が増える</text>
-  <text x="800" y="815" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#5B5BD6">実際の肺では複数の領域が同時に存在する</text>
-  <text x="80" y="865" font-family="Arial" font-size="19" fill="#526B7A">FIG-P-RESP-002 · 矢印の太さは相対量の概念であり定量値ではない · 確認日 2026-08-12</text>
+  <text x="180" y="815" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#C74440">酸素への反応が乏しくなり得る</text>
+  <text x="1420" y="815" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#1976A3">無駄な換気が増える</text>
+  <text x="800" y="815" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" font-weight="700" fill="#5B5BD6">実際の肺では複数の領域が同時に存在する</text>
+  <text x="80" y="865" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">FIG-P-RESP-002 · 矢印の太さは相対量の概念であり定量値ではない · 確認日 2026-08-12</text>
 </svg>

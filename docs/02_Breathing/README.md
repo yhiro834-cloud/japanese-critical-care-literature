@@ -2,6 +2,8 @@
 
 Bでは、酸素化、換気、呼吸仕事量を分け、患者・device・循環・経時変化を統合します。
 
+この章で頻出するSpO₂、ETCO₂、ABGは、[学習案内の用語表](../FIRST_THIRD_STUDY_GUIDE.md#略語の読み方)で正式名称と限界を確認してから使用します。
+
 ## 新人看護師の読み順
 
 1. [呼吸生理](Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md)：oxygenation、ventilation、V/Q、shunt、dead space

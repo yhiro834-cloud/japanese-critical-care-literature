@@ -41,6 +41,10 @@ ssot: true
 
 ## 1. Overview
 
+![動脈血液ガスを順序立てて解釈する](../../../assets/physiology/abg_interpretation_sequence.svg)
+
+**Figure FIG-P-ABG-001 — 動脈血液ガスの解釈順序。** 患者と採血条件、pH、動脈血二酸化炭素分圧、重炭酸、代償と混合性、酸素化、原因と緊急性の順に確認する。ABGはarterial blood gas analysis（動脈血液ガス分析）の略であり、一つの値だけで診断しない。
+
 ABGはpH、PaCO₂、PaO₂を測定し、HCO₃⁻等を算出してventilation、oxygenation、acid–baseを評価します。正しい解釈は「値を読む」だけでなく、検体、FiO₂、体位、時刻、介入との関係を確認する作業です。
 
 ## 2. Why It Matters

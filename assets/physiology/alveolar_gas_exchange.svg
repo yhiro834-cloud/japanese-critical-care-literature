@@ -7,34 +7,34 @@
     <marker id="greenArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#16856B"/></marker>
   </defs>
   <rect width="1600" height="900" fill="#fff"/>
-  <text x="80" y="78" font-family="Arial" font-size="42" font-weight="700" fill="#172B3A">肺胞ガス交換：3つの過程を分けて考える</text>
-  <text x="80" y="120" font-family="Arial" font-size="24" fill="#526B7A">換気（Ventilation）→ 拡散（Diffusion）→ 灌流（Perfusion）</text>
+  <text x="80" y="78" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">肺胞ガス交換：3つの過程を分けて考える</text>
+  <text x="80" y="120" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="24" fill="#526B7A">換気（Ventilation）→ 拡散（Diffusion）→ 灌流（Perfusion）</text>
 
   <path d="M330 185V330" stroke="#31546D" stroke-width="62" stroke-linecap="round"/>
   <path d="M330 250V345" stroke="#1976A3" stroke-width="8" marker-end="url(#blueArrow)"/>
-  <text x="330" y="180" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#1976A3">換気</text>
-  <text x="330" y="220" text-anchor="middle" font-family="Arial" font-size="22" fill="#172B3A">O₂を取り込み・CO₂を排出</text>
+  <text x="330" y="180" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="28" font-weight="700" fill="#1976A3">換気</text>
+  <text x="330" y="220" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#172B3A">O₂を取り込み・CO₂を排出</text>
 
   <path d="M330 340 C180 350 135 500 230 620 C300 705 435 700 515 620 C610 520 560 365 405 340 Z" fill="#EAF6FB" stroke="#1976A3" stroke-width="6"/>
-  <text x="350" y="470" text-anchor="middle" font-family="Arial" font-size="31" font-weight="700" fill="#1976A3">肺胞</text>
-  <text x="350" y="510" text-anchor="middle" font-family="Arial" font-size="22" fill="#172B3A">肺胞気</text>
+  <text x="350" y="470" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="31" font-weight="700" fill="#1976A3">肺胞</text>
+  <text x="350" y="510" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#172B3A">肺胞気</text>
 
   <path d="M190 655 C300 760 515 755 620 620 C690 530 670 410 590 345" fill="none" stroke="#CBD8E1" stroke-width="75" stroke-linecap="round"/>
   <path d="M190 655 C300 760 515 755 620 620 C690 530 670 410 590 345" fill="none" stroke="#31546D" stroke-width="5" stroke-linecap="round"/>
   <path d="M195 655 C300 745 495 745 610 620" fill="none" stroke="#1976A3" stroke-width="24" marker-end="url(#blueArrow)"/>
   <path d="M610 620 C680 515 655 410 590 350" fill="none" stroke="#C74440" stroke-width="24" marker-end="url(#redArrow)"/>
-  <text x="145" y="720" font-family="Arial" font-size="22" fill="#1976A3">肺動脈側</text>
-  <text x="130" y="750" font-family="Arial" font-size="19" fill="#526B7A">O₂低・CO₂高</text>
-  <text x="610" y="300" font-family="Arial" font-size="22" fill="#C74440">肺静脈側</text>
-  <text x="610" y="330" font-family="Arial" font-size="19" fill="#526B7A">O₂高・CO₂低</text>
+  <text x="145" y="720" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#1976A3">肺動脈側</text>
+  <text x="130" y="750" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">O₂低・CO₂高</text>
+  <text x="610" y="300" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#C74440">肺静脈側</text>
+  <text x="610" y="330" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">O₂高・CO₂低</text>
 
   <path d="M450 505H650" stroke="#C74440" stroke-width="8" marker-end="url(#redArrow)"/>
-  <text x="550" y="475" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#C74440">O₂</text>
+  <text x="550" y="475" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="26" font-weight="700" fill="#C74440">O₂</text>
   <path d="M650 585H455" stroke="#1976A3" stroke-width="8" marker-end="url(#blueArrow)"/>
-  <text x="550" y="625" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#1976A3">CO₂</text>
-  <text x="555" y="555" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#5B5BD6">拡散</text>
+  <text x="550" y="625" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="26" font-weight="700" fill="#1976A3">CO₂</text>
+  <text x="555" y="555" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="24" font-weight="700" fill="#5B5BD6">拡散</text>
 
-  <g font-family="Arial">
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
     <rect x="825" y="205" width="670" height="140" rx="28" fill="#EAF6FB" stroke="#1976A3" stroke-width="4"/>
     <text x="870" y="255" font-size="29" font-weight="700" fill="#1976A3">1　換気</text><text x="870" y="300" font-size="23" fill="#172B3A">肺胞へ新鮮な気体を届け、CO₂を排出する</text>
     <rect x="825" y="380" width="670" height="140" rx="28" fill="#F6F3FF" stroke="#5B5BD6" stroke-width="4"/>
@@ -44,6 +44,6 @@
   </g>
   <path d="M1160 345V370M1160 520V545" stroke="#5B5BD6" stroke-width="6" marker-end="url(#greenArrow)"/>
   <rect x="820" y="745" width="680" height="65" rx="22" fill="#FFF4F2" stroke="#C74440" stroke-width="3"/>
-  <text x="1160" y="787" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700" fill="#C74440">どこが障害されても、低酸素血症または高CO₂血症を起こし得る</text>
-  <text x="80" y="855" font-family="Arial" font-size="19" fill="#526B7A">FIG-P-RESP-001 · 教育用模式図 · SSOT: Respiratory Physiology · 確認日 2026-08-12</text>
+  <text x="1160" y="787" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" font-weight="700" fill="#C74440">どこが障害されても、低酸素血症または高CO₂血症を起こし得る</text>
+  <text x="80" y="855" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">FIG-P-RESP-001 · 教育用模式図 · SSOT: Respiratory Physiology · 確認日 2026-08-12</text>
 </svg>

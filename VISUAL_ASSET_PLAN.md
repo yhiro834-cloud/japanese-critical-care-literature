@@ -65,3 +65,4 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 - 2026-08-12 Phase 5 complete: FIG-CR-001–004、FIG-P-POCUS-001を追加し、本文・症例・Slide Readyへ統合。
 - 2026-08-12 Visual plan complete: planned 36 figures are implemented, indexed, linked, XML-tested, and render-reviewed. Additional domain-specific figures are future extensions, not untracked required deliverables.
 - 2026-08-12 Visual Quality V2 expansion started: `VISUAL_QUALITY_STANDARD_V2.md`を追加し、FIG-T-HEM-001とFIG-ENDO-001を自然な日本語・正式名称中心の図として実装した。既存36図の略語・文字密度監査を基に順次改訂する。
+- 2026-08-12 Textbook V3 first-third pass: 基礎から腎臓までの31 SSOTと29既存図を監査。全42 SVGの日本語font stackを統一し、気道救助・動脈血液ガスの2図を追加。高頻度図の英語見出しと説明なし略語を日本語正式名称中心へ改訂した。

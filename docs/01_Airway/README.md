@@ -2,6 +2,8 @@
 
 気道（airway）は、空気が鼻・口から肺へ出入りする通り道です。Aでは、いま開通しているか、維持できるか、悪化時に酸素化を救えるかを評価します。
 
+略語は暗記せず、[学習案内の用語表](../FIRST_THIRD_STUDY_GUIDE.md#略語の読み方)で正式名称と臨床的な意味を確認してください。
+
 ## 新人看護師の読み順
 
 1. [気道評価と気道緊急事態](Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md)：発語、音、airflow、危険徴候、応援要請

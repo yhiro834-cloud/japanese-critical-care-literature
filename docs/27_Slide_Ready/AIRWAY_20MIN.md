@@ -37,6 +37,8 @@ ssot: false
 
 ## Optional Figure Extensions
 
+- [気道緊急時の評価と救助](../../assets/airway/airway_rescue_sequence.svg)（作成済み：Slide 2–8）。略語を抑え、評価・基本救助・器具・最終救助・再評価を一枚で示す。
+
 - airway assessment/rescue loopはSlide 2–5の箇条書きflowで扱う。独立図は将来の任意拡張。
 - sustained exhaled CO₂ conceptはSlide 6の説明で扱う。図示する場合もPUMA原図を転載せず独自作図する。
 - artificial airway troubleshootingはSlide 8のDOPES型flowで扱う。独立図は将来の任意拡張。

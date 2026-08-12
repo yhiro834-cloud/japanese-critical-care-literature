@@ -2,6 +2,8 @@
 
 Dでは、意識・瞳孔・左右差を同じ条件で反復し、ABC、血糖、薬剤、体温、代謝などの可逆的原因を同時に確認します。
 
+GCS、ICPなどの略語は、[学習案内の用語表](../FIRST_THIRD_STUDY_GUIDE.md#略語の読み方)で正式名称と単独評価の限界を確認してください。
+
 ## 新人看護師の読み順
 
 1. [神経学的評価](Assessment/NEUROLOGICAL_ASSESSMENT.md)

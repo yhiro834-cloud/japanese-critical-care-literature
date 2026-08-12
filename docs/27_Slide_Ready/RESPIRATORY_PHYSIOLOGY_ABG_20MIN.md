@@ -42,6 +42,8 @@ next_review: 2027-02-11
 
 ## Key Figures Needed
 
+- [動脈血液ガスの解釈順序](../../assets/physiology/abg_interpretation_sequence.svg)（作成済み：酸塩基導入）。患者と採血条件から始め、酸塩基・換気・酸素化を分ける。
+
 | Figure | Purpose | Status |
 |---|---|---|
 | [肺胞ガス交換](../../assets/physiology/alveolar_gas_exchange.svg) | 換気・拡散・灌流 | FIG-P-RESP-001、利用可能 |

@@ -3,9 +3,9 @@
   <desc id="desc">糖尿病性ケトアシドーシスと高浸透圧高血糖状態で、輸液、カリウム安全確認、インスリン、誘因治療を並行し、血糖値だけでなくケトン体、酸塩基、浸透圧、意識を再評価する流れを示す。</desc>
   <defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7Z" fill="#31546D"/></marker></defs>
   <rect width="1600" height="900" fill="#FFFFFF"/>
-  <text x="70" y="70" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#172B3A">高血糖緊急症：血糖値だけを下げる治療ではない</text>
-  <text x="70" y="114" font-family="Arial, sans-serif" font-size="22" fill="#526B7A">糖尿病性ケトアシドーシスと高浸透圧高血糖状態は重なることがある</text>
-  <g font-family="Arial, sans-serif">
+  <text x="70" y="70" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="40" font-weight="700" fill="#172B3A">高血糖緊急症：血糖値だけを下げる治療ではない</text>
+  <text x="70" y="114" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#526B7A">糖尿病性ケトアシドーシスと高浸透圧高血糖状態は重なることがある</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
     <rect x="65" y="165" width="700" height="145" rx="28" fill="#FFF2D9"/>
     <text x="415" y="214" text-anchor="middle" font-size="28" font-weight="700" fill="#8A5A00">糖尿病性ケトアシドーシス（DKA）</text>
     <text x="415" y="255" text-anchor="middle" font-size="21">ケトン体増加 ＋ 代謝性アシドーシスが中心</text>
@@ -38,7 +38,7 @@
   </g>
   <g stroke="#31546D" stroke-width="4" fill="none" marker-end="url(#arrow)"><path d="M398 510 H437"/><path d="M778 510 H817"/><path d="M1158 510 H1197"/></g>
   <rect x="110" y="690" width="1380" height="112" rx="28" fill="#F4F7F9"/>
-  <text x="800" y="732" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#172B3A">再評価：血糖・カリウム・pH／重炭酸・血中ケトン体・Na／浸透圧・意識・尿量</text>
-  <text x="800" y="772" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#526B7A">K＝potassium（カリウム）／Na＝sodium（ナトリウム）。値の変化速度と介入時刻を一緒に記録する。</text>
-  <text x="800" y="862" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#526B7A">FIG-ENDO-001・Hyperglycemic Crises Consensus Report 2024／DKA・HHS SSOT・確認日 2026-08-12</text>
+  <text x="800" y="732" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="25" font-weight="700" fill="#172B3A">再評価：血糖・カリウム・pH／重炭酸・血中ケトン体・Na／浸透圧・意識・尿量</text>
+  <text x="800" y="772" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">K＝potassium（カリウム）／Na＝sodium（ナトリウム）。値の変化速度と介入時刻を一緒に記録する。</text>
+  <text x="800" y="862" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="17" fill="#526B7A">FIG-ENDO-001・Hyperglycemic Crises Consensus Report 2024／DKA・HHS SSOT・確認日 2026-08-12</text>
 </svg>

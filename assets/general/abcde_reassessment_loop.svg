@@ -6,12 +6,12 @@
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#172B3A" flood-opacity=".12"/></filter>
   </defs>
   <rect width="1600" height="900" fill="#FFFFFF"/>
-  <text x="80" y="82" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#172B3A">ABCDEは再評価のループ</text>
-  <text x="80" y="126" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#526B7A">生命危機を優先し、介入の反応から次の仮説と行動を更新する</text>
+  <text x="80" y="82" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">ABCDEは再評価のループ</text>
+  <text x="80" y="126" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="24" fill="#526B7A">生命危機を優先し、介入の反応から次の仮説と行動を更新する</text>
 
   <rect x="80" y="180" width="270" height="100" rx="24" fill="#EAF2F7" stroke="#31546D" stroke-width="3"/>
-  <text x="215" y="220" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#31546D">安全確認＋第一印象</text>
-  <text x="215" y="255" text-anchor="middle" font-family="Arial" font-size="22" fill="#172B3A">患者を直接確認 · 応援要請</text>
+  <text x="215" y="220" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="26" font-weight="700" fill="#31546D">安全確認＋第一印象</text>
+  <text x="215" y="255" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#172B3A">患者を直接確認 · 応援要請</text>
   <path d="M350 230H415" stroke="#5B5BD6" stroke-width="6" marker-end="url(#arrow)"/>
 
   <g filter="url(#shadow)">
@@ -21,7 +21,7 @@
     <rect x="1090" y="165" width="190" height="130" rx="28" fill="#EEEAFE" stroke="#5B5BD6" stroke-width="4"/>
     <rect x="1310" y="165" width="190" height="130" rx="28" fill="#FDE9E8" stroke="#C74440" stroke-width="4"/>
   </g>
-  <g font-family="Arial" text-anchor="middle">
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" text-anchor="middle">
     <text x="525" y="218" font-size="42" font-weight="700" fill="#1976A3">A</text><text x="525" y="258" font-size="24" fill="#172B3A">気道</text>
     <text x="745" y="218" font-size="42" font-weight="700" fill="#16856B">B</text><text x="745" y="258" font-size="24" fill="#172B3A">呼吸</text>
     <text x="965" y="218" font-size="42" font-weight="700" fill="#D97706">C</text><text x="965" y="258" font-size="24" fill="#172B3A">循環</text>
@@ -30,7 +30,7 @@
   </g>
   <path d="M620 230H642M840 230H862M1060 230H1082M1280 230H1302" stroke="#5B5BD6" stroke-width="5" marker-end="url(#arrow)"/>
 
-  <g font-family="Arial">
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
     <rect x="170" y="385" width="350" height="150" rx="24" fill="#FFF" stroke="#C74440" stroke-width="4"/>
     <path d="M205 420L230 390L255 420Z" fill="#C74440"/><text x="275" y="420" font-size="28" font-weight="700" fill="#C74440">危険な徴候は？</text>
     <text x="205" y="468" font-size="23" fill="#172B3A">不可逆的危機には直ちに介入</text>
@@ -49,7 +49,7 @@
   <path d="M520 460H617M975 460H1072" stroke="#5B5BD6" stroke-width="6" marker-end="url(#arrow)"/>
   <path d="M1255 535V620C1255 680 1195 705 1130 705H455C390 705 345 680 345 620V545" fill="none" stroke="#5B5BD6" stroke-width="7" stroke-dasharray="14 10" marker-end="url(#arrow)"/>
   <rect x="560" y="640" width="480" height="125" rx="28" fill="#F6F7FF" stroke="#5B5BD6" stroke-width="4"/>
-  <text x="800" y="686" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#5B5BD6">仮説と優先順位を更新</text>
-  <text x="800" y="730" text-anchor="middle" font-family="Arial" font-size="23" fill="#172B3A">改善しない／新しい異常 → ABCDEを再開</text>
-  <text x="80" y="850" font-family="Arial" font-size="19" fill="#526B7A">FIG-G-ABCDE-001 · 教育用模式図 · SSOT: ABCDE Map · 確認日 2026-08-12</text>
+  <text x="800" y="686" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="30" font-weight="700" fill="#5B5BD6">仮説と優先順位を更新</text>
+  <text x="800" y="730" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#172B3A">改善しない／新しい異常 → ABCDEを再開</text>
+  <text x="80" y="850" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="19" fill="#526B7A">FIG-G-ABCDE-001 · 教育用模式図 · SSOT: ABCDE Map · 確認日 2026-08-12</text>
 </svg>
