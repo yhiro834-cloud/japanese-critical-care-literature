@@ -38,6 +38,14 @@ ssot: true
 
 > 「ARDS管理中、現在の体位○、FiO₂○、PEEP○、SpO₂○、直近PaO₂○です。Pplat/呼気VT/波形は○○、血圧・尿量・fluid balanceは○○で、体位または設定変更後に○○へ変化しています。」
 
+## Visual Series：肺胞障害・shunt・腹臥位
+
+1. [正常肺胞とARDSの障害肺胞](../../../assets/breathing/ards_alveolar_injury.svg)：透過性亢進、虚脱、不均一な「使える肺」を理解する。
+2. [ARDSのshunt機序](../../../assets/breathing/ards_shunt_mechanism.svg)：血流はあるが換気されない肺胞が低酸素血症を起こす流れを理解する。
+3. [腹臥位療法の考え方](../../../assets/breathing/prone_position_mechanism.svg)：換気・stress分布の変化と、実施前後の安全な再評価を結びつける。
+
+いずれも教育用模式図であり、個別患者の設定値や実施手順を指示するものではありません。勉強会への再利用条件と根拠は[Figure Index](../../../FIGURE_INDEX.md)を参照してください。
+
 ## 1. Overview / Pathophysiology
 
 炎症性肺障害によりpermeability edema、surfactant dysfunction、dependent atelectasis、heterogeneous “baby lung”が生じます。同じairway pressureでも局所stress/strainは不均一で、volutrauma、barotrauma、atelectrauma、biotraumaとpatient self-inflicted lung injuryが問題になります。

@@ -2,7 +2,7 @@
 title: "Slide Ready: Shock / Septic Shock"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 audience: intermediate-icu-nurse
 duration_minutes: 20
 source_pages: [../03_Circulation/Shock/SHOCK.md, ../03_Circulation/Shock/SEPTIC_SHOCK.md]
@@ -47,10 +47,11 @@ next_review: 2027-02-11
 
 | Figure | Learning purpose | Source / status |
 |---|---|---|
-| CO = HR × SV、MAP ≈ CO × SVR | 循環分解 | 未作成。自作schematicが必要 |
-| 4 phenotypes matrix | 鑑別 | 本文表を再構成可能 |
-| Clinical reasoning flow | 所見から再評価 | 本文textから自作可能 |
-| Fluid benefit vs harm balance | responsivenessとtolerance | 未作成 |
+| [圧・流れ・組織灌流](../../assets/circulation/pressure_flow_perfusion.svg) | 循環分解 | 完成：Slide 3/5 |
+| [Shockの4表現型](../../assets/shock/shock_classification.svg) | 鑑別 | 完成：Slide 4 |
+| [Shock臨床推論loop](../../assets/shock/shock_reasoning_loop.svg) | 所見から再評価 | 完成：Slide 6/10 |
+| [Frank–Starling曲線](../../assets/circulation/frank_starling_concept.svg) | responsiveness・need・tolerance | 完成：Slide 9 |
+| [PLRの臨床推論](../../assets/circulation/plr_reasoning.svg) | dynamic testの流れ | 補助図：Slide 9または質疑 |
 
 ## Speaker Notes
 

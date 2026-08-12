@@ -42,6 +42,9 @@ ssot: true
 | auto-PEEP | 内因性PEEP（intrinsic PEEP） | 息を吐き切れず、肺内に残った圧 | 呼気flow、呼気時間、抵抗、循環、trigger困難を確認 |
 | compliance | コンプライアンス、伸展性 | 圧の変化に対して肺・胸壁がどれだけ膨らむか | 同じVTに必要な圧のtrend、体位、肺/胸壁病態を確認 |
 | resistance | 気道抵抗 | 気体が気道・tube・回路を流れる際の通りにくさ | 分泌物、気管支攣縮、tube屈曲、filter、吸気flowを確認 |
+| ARDS | 急性呼吸窮迫症候群（acute respiratory distress syndrome） | 炎症により肺胞が浸水・虚脱し、使える肺が不均一に減るsyndrome | 原因、FiO₂/PEEP/体位、gas、圧・VT、自発努力、循環を同時に評価 |
+| shunt | 肺内シャント | 血流はあるが換気されない肺領域を血液が通過すること | 酸素への反応、体位、肺胞虚脱・浸水、循環を統合 |
+| prone positioning | 腹臥位療法 | うつ伏せにして肺の換気・stress分布を変える治療 | tube/line、眼・顔面、皮膚、腹部、循環、実施前後の反応を確認 |
 
 ## 循環・灌流
 
@@ -55,6 +58,8 @@ ssot: true
 | lactate | 乳酸 | 産生と代謝・除去の差を反映する指標 | 高値を低酸素だけと決めつけず、原因と推移を確認 |
 | shock | ショック | 組織へ必要な血流を届けられない生命危機 | 血圧だけでなく意識、CRT、皮膚、尿量、lactateを見る |
 | fluid responsiveness | 輸液反応性 | 輸液でSV/COが増える可能性 | 輸液が必要・安全という意味ではない |
+| PLR | 受動的下肢挙上（passive leg raise） | 体位で静脈還流を一時的に増やす、元に戻せるpreload test | 基準条件、real-time SV/CO、戻り、疼痛・体位・測定限界を確認 |
+| shock phenotype | ショック表現型 | 循環破綻を量・pump・血管緊張・閉塞などの型で捉える仮説 | 混合型と時間変化を前提に、介入反応から更新 |
 | vasopressor | 昇圧薬 | 主に血管toneを高めて圧を支える薬 | 投与経路、濃度、pump、灌流、虚血を監視 |
 | inotrope | 強心薬 | 主に心収縮を支える薬 | CO、調律、心筋虚血、灌流反応を確認 |
 

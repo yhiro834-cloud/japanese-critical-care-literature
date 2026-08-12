@@ -109,3 +109,12 @@ def test_completed_figure_index_files_exist():
         if not (ROOT / target).exists():
             missing.append(target)
     assert not missing, "Indexed figures missing:\n" + "\n".join(missing)
+
+
+def test_figure_index_related_knowledge_pages_exist():
+    index = (ROOT / "FIGURE_INDEX.md").read_text()
+    missing = []
+    for target in re.findall(r"`(docs/[^`]+\.md)`", index):
+        if not (ROOT / target).exists():
+            missing.append(target)
+    assert not missing, "Indexed knowledge pages missing:\n" + "\n".join(missing)

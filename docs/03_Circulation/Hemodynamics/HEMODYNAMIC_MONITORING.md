@@ -34,6 +34,14 @@ ssot: true
 
 **ベテラン向け深掘り：** dynamic testの適用条件、RV failure、腹腔/胸腔圧、arrhythmia、spontaneous effort、測定法間差を統合します。
 
+## Visual Series：pressure・flow・perfusion
+
+1. [圧・流れ・組織灌流](../../../assets/circulation/pressure_flow_perfusion.svg)：monitor値を臓器反応へつなげる。
+2. [Frank–Starling曲線とfluid responsiveness](../../../assets/circulation/frank_starling_concept.svg)：反応性、必要性、耐容性を分ける。
+3. [PLRの臨床推論](../../../assets/circulation/plr_reasoning.svg)：戻せるpreload challengeを、基準測定から再評価まで追う。
+
+図は定性的なmental modelです。測定方法・判定閾値・禁忌は使用機器、施設protocol、担当teamの判断に従ってください。
+
 ## 1. Overview
 
 血行動態monitoringの目的は、shockの有無と型、酸素供給不足の機序、介入に反応する可能性、害を検出することです。ESICM 2025はserial tissue perfusion、dynamic fluid responsiveness、非反応例でのarterial pressureとCO/SV monitoring、shock type評価のfirst-line echocardiographyを強調します。
