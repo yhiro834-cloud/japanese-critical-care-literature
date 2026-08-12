@@ -38,6 +38,10 @@ ssot: true
 
 > 「感染源は○○を疑い、○時から臓器障害として○○があります。培養○時、抗菌薬○時、source controlは○○です。MAP、CRT、意識、尿量、lactateは○○で、輸液/昇圧薬後に○○へ変化しています。」
 
+## Visual：感染から臓器障害まで
+
+[敗血症の病態と臨床評価](../../../assets/sepsis/sepsis_pathophysiology.svg)では、感染、制御不全の宿主反応、血管拡張・毛細血管漏出・心機能/微小循環異常、臓器障害を分けて示します。図は単一経路ではなく、感染治療と循環・臓器supportを並行するためのmental modelです。
+
 ## 1. Overview
 
 Septic shockはsepsisのうち、特に強い循環・細胞・代謝異常を伴う高リスクのsubsetです。感染治療と循環蘇生を同時に開始し、反復評価で個別化します。

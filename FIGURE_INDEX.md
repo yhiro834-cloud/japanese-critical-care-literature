@@ -33,6 +33,8 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-E-ECMO-001 | VV-ECMO回路 | 静脈脱血・静脈返血とgas exchange補助を理解 | `assets/ecmo/vv_ecmo_circuit.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG circuit | Yes | VV導入・低酸素推論 | ELSO VV-ECMO 2021; ECMO SSOT | 2026-08-12 |
 | FIG-E-ECMO-002 | VA-ECMO回路 | 動脈返血と循環補助・新たな負荷を理解 | `assets/ecmo/va_ecmo_circuit.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG circuit | Yes | VA導入・合併症 | ELSO VA-ECMO 2021; ECMO SSOT | 2026-08-12 |
 | FIG-E-ECMO-003 | VV vs VA | 補助範囲とmode別monitoringを比較 | `assets/ecmo/va_vs_vv_ecmo.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG comparison | Yes | ECMO導入・Summary | ELSO VV/VA-ECMO 2021; ECMO SSOT | 2026-08-12 |
+| FIG-V-VENT-005 | 患者–人工呼吸器非同調 | 無効努力と二重トリガーを代表波形で比較 | `assets/ventilation/asynchrony_series.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG waveform series | Yes | 波形・非同調discussion | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
+| FIG-I-SEPSIS-001 | 敗血症の病態 | 感染・宿主反応・循環異常・臓器障害を分ける | `assets/sepsis/sepsis_pathophysiology.svg` | `docs/03_Circulation/Shock/SEPTIC_SHOCK.md` | SVG mechanism | Yes | Sepsis導入・症例discussion | SSC 2026; Septic Shock SSOT | 2026-08-12 |
 
 ## Index rules
 

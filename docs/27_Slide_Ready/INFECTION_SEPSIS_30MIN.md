@@ -2,7 +2,7 @@
 title: "Infection / Sepsis — 30-minute Slide Ready"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 evidence_reviewed: 2026-08-11
 next_review: 2027-02-11
 owners: []
@@ -40,6 +40,10 @@ ssot: false
 - diagnostic probability loop（未作成）
 - source-control decision flow（未作成）
 - antibiotic timeout checklist（未作成）
+
+## Available Core Figure
+
+- [敗血症の病態と臨床評価](../../assets/sepsis/sepsis_pathophysiology.svg)：Slide 1/2で、感染・宿主反応・循環異常・臓器障害を区別する。
 
 ## References for Slides
 

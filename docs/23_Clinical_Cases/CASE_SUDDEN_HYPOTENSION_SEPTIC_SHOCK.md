@@ -22,6 +22,7 @@ linked_topics: [../03_Circulation/Shock/SHOCK.md, ../03_Circulation/Shock/SEPTIC
 - [Shockの4表現型](../../assets/shock/shock_classification.svg)
 - [Shock臨床推論loop](../../assets/shock/shock_reasoning_loop.svg)
 - [圧・流れ・組織灌流](../../assets/circulation/pressure_flow_perfusion.svg)
+- [敗血症の病態と臨床評価](../../assets/sepsis/sepsis_pathophysiology.svg)
 
 図を見た後、「この患者ではどの表現型が混在し得るか」「どの所見を介入前後でそろえるか」を言語化してから症例へ進みます。
 
