@@ -17,63 +17,98 @@ ssot: true
 > [!CAUTION]
 > 教育目的の資料です。個別患者では最新ガイドライン、施設プロトコル、担当チームの判断を優先してください。
 
-## 1. Overview
+## この章の使い方
 
-## 2. Why It Matters
+- **新人看護師:** 「まず覚える」「観察・報告・再評価」「Red Flags」を先に読む。
+- **中堅・ベテラン:** 病態生理、測定限界、複合病態、Evidenceの不確実性まで読む。
 
-## 3. Physiology
+## 1. まず覚える
 
-## 4. Pathophysiology
+### 一言でいうと
 
-## 5. Causes / Etiology
+### 重要用語
 
-## 6. Assessment
+| 用語・略語 | 正式名称 | 簡単な意味 | この章での注意 |
+|---|---|---|---|
 
-## 7. Monitoring
+## 2. 新人看護師の到達目標
 
-## 8. Interpretation
+- 患者の何を観察するか説明できる。
+- 危険な変化を認識し、必要な情報を添えて報告できる。
+- 介入後に何を再評価するか説明できる。
 
-## 9. Diagnosis
+## 3. Overview
+
+## 4. Why It Matters
+
+## 5. Physiology
+
+## 6. Pathophysiology
+
+## 7. Causes / Etiology
+
+## 8. Bedside Assessment
+
+| 見るもの | なぜ見るか | 異常時に追加確認すること |
+|---|---|---|
+
+## 9. Monitoring and Measurement Limits
+
+## 10. Interpretation
+
+## 11. Diagnosis
 
 診断基準の版・対象集団・限界を明記する。
 
-## 10. Clinical Reasoning
+## 12. Clinical Reasoning
 
 **所見 → 仮説 → 追加評価 → 解釈 → 対応 → 再評価**
 
-## 11. Treatment
+## 13. Treatment and Team Collaboration
 
 推奨、一般的臨床慣行、専門家意見を区別する。高リスク介入は単一の固定値を正解として示さない。
 
-## 12. Nursing Points
+## 14. Nursing Practice
 
-## 13. ICU Nursing Pearls
+### 観察
 
-## 14. Red Flags
+### ケアと安全確認
 
-## 15. Troubleshooting
+### 報告・連携
+
+### 介入後の再評価
+
+## 15. ベテラン看護師向け深掘り
+
+## 16. Red Flags
+
+## 17. Troubleshooting
 
 まず患者を評価し、患者側・回路側・機器側を分け、介入後に再評価する。
 
-## 16. Common Pitfalls
+## 18. Common Pitfalls
 
-## 17. Clinical Case
+## 19. Clinical Case
 
 関連するCase Libraryへリンクする。
 
-## 18. Clinical Questions
+## 20. Clinical Questions
 
-## 19. Quiz
+## 21. Quiz
 
 関連するQuiz bankへリンクする。
 
-## 20. Take Home Messages
+## 22. Visual Learning
+
+図ごとにCaption、最初に見る場所、Clinical Meaning、判断限界、ミニ症例を記載する。
+
+## 23. Take Home Messages
 
 1. Message 1
 2. Message 2
 3. Message 3
 
-## 21. Slide Ready Summary
+## 24. Slide Ready Summary
 
 ### Learning Objectives
 
@@ -87,7 +122,7 @@ ssot: true
 
 ### References for Slides
 
-## 22. References
+## 25. References
 
 | Field | Value |
 |---|---|
