@@ -14,6 +14,26 @@ ssot: true
 
 # Unstable Arrhythmias
 
+## 0. まず覚える
+
+不整脈（arrhythmia）は心拍の速さ・遅さ・規則性・興奮の伝わり方の異常である。緊急度はmonitorの見た目だけでなく、**その調律が低血圧、意識障害、虚血性胸部不快感、急性心不全などを起こしているか**で判断する。
+
+**簡単に言うと：** 「波形が危険そうか」より先に、脈があるか、その不整脈で患者が不安定かを確認する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| tachycardia / bradycardia | 頻脈 / 徐脈 | 数値だけでなく原因と臓器灌流への影響を見る |
+| synchronized cardioversion | R波へ同期して行う電気的cardioversion | pulseのある不安定な特定の頻脈に用い、SYNC表示を確認する |
+| defibrillation | 心周期へ同期せず行う電気shock | VF/pulseless VTなど。同期shockとの取り違えを防ぐ |
+| capture | pacing刺激が実際の心筋収縮とpulseを生むこと | spikeやQRSだけでなく、pulse・血圧でmechanical captureを確認 |
+| wide-complex tachycardia | QRS幅が広い頻拍 | 規則性、QT、薬剤、電解質、虚血を確認し、危険な治療遅延を避ける |
+
+**新人看護師の到達点：** 意識・呼吸・pulseを最初に確認し、症状、血圧、12誘導ECG、電解質・薬剤、開始時刻を整理する。除細動器ではSYNC/非同期、pad、全員clear、通電後のpulse・血圧・調律を声に出して確認できる。
+
+> **報告例：** 「wide-complex tachycardiaが持続し、血圧低下と意識変容があります。pulseは触知します。tachyarrhythmiaによる不安定化を疑い、同期cardioversion準備と原因評価をお願いします。」
+
+**ベテラン向け深掘り：** 不安定性が不整脈の原因か、sepsis・出血・低酸素などへの代償性頻脈かを区別する。irregular wide-complex tachycardia、polymorphic VT、高度房室block、薬物中毒では一般algorithmから外れる点を予測し、電気治療と原因治療を並行する。
+
 ## First question: pulse and instability
 
 反応、呼吸、pulseを確認し、cardiac arrestなら直ちにresuscitation algorithmへ。pulseありではhypotension/shock、acute altered mental status、ischemic chest discomfort、acute heart failureがrhythmに起因するかを短時間で判断する。同時にmonitor/defibrillator、IV/IO、12-lead（遅延させない範囲）、oxygenation/ventilationを整える。
@@ -54,5 +74,6 @@ K/Mg/Ca、酸塩基、oxygenation、temperature、ischemia、drug level/interact
 
 ## Review log
 
+- 2026-08-12: V2導入、不安定性・同期cardioversion・capture等の用語、新人の安全確認と報告例を追加。
 - 2026-08-12: polymorphic VT、bradycardia bridge、mechanical capture、post-conversion safeguardsをAHA 2025に沿って深化。local review required.
 - 2026-08-11: AHA 2025 ALS review.

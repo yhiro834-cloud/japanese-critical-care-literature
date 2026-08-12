@@ -2,8 +2,8 @@
 title: "Traumatic Hemorrhage and Damage Control"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -13,6 +13,27 @@ ssot: true
 ---
 
 # Traumatic Hemorrhage and Damage Control
+
+## 0. まず覚える
+
+外傷性大出血では、血圧を一時的に上げることだけが蘇生ではない。**出血源を止めながら、酸素を運ぶ血液と止血機能を保ち、低体温などの悪循環を断つ**ことがdamage-control resuscitation（ダメージコントロール蘇生）である。
+
+**簡単に言うと：** 「血を入れる」と「血を止める」を同時に進め、数値が良くなっても出血源が未制御なら安心しない。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| hemorrhagic shock | 出血により循環血液量と酸素運搬が不足したshock | 初期Hbや血圧が正常でも否定できない |
+| source control / definitive hemostasis | 手術、IVR、圧迫などで出血源を実際に止めること | 輸血は止血そのものではない |
+| MTP | massive transfusion protocol、大量輸血protocol | 血液製剤、検査、加温、人員を迅速に連動させる施設手順 |
+| coagulopathy | 血液が適切に固まりにくい状態 | 希釈、低体温、acidosis、消費など複数要因で悪化する |
+| lethal diamond | 低体温、acidosis、coagulopathy、低Ca血症の悪循環 | 4項目を別々でなく同時に監視・是正する |
+| permissive hypotension | 止血前に過度な血圧上昇を避ける戦略 | TBI、妊娠、脊髄虚血などでは一律適用しない |
+
+**新人看護師の到達点：** 出血部位、vital/意識/末梢灌流、製剤名と投与時刻、体温、ionized Ca、検査推移、尿量を一つのtimelineで追い、MTP機器・加温・line・患者/製剤照合を安全に実施できる。
+
+> **報告例：** 「骨盤損傷疑いでMTP開始後、赤血球製剤4単位投与中ですが、MAP低下、体温35.2℃、ionized Ca低下、乳酸上昇が続いています。出血源未制御とlethal diamond進行を疑い、手術/IVRへの移行と補正方針の再評価をお願いします。」
+
+**ベテラン向け深掘り：** 一過性の血圧反応を止血成功と誤認せず、閉塞性shockやTBI併存、抗凝固薬、妊娠、製剤供給制約を含めて戦略を更新する。MTPの開始基準だけでなく、解除、過剰蘇生、血栓症、ARDS、輸血反応までexit planとして扱う。
 
 ## Clinical priority
 
@@ -80,4 +101,5 @@ MTPは「開始」だけでなく解除条件を共有する。出血制御後�
 
 ## Review log
 
+- 2026-08-12: V2導入、MTP/lethal diamond等の用語、新人のtimeline観察と報告例、停止判断を追加。ACS TQP sourceを再確認。
 - 2026-08-11: Initial evidence review; local MTP/trauma surgery/transfusion review required.
