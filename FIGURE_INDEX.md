@@ -25,6 +25,8 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-C-HEMO-003 | PLR臨床推論 | reversible preload challengeの流れと限界を理解 | `assets/circulation/plr_reasoning.svg` | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | SVG sequence | Yes | dynamic test・症例討議 | ESICM Hemodynamic Monitoring 2025; Hemodynamics SSOT | 2026-08-12 |
 | FIG-C-SHOCK-001 | Shockの4表現型 | 量・pump・血管緊張・閉塞と混合型を比較 | `assets/shock/shock_classification.svg` | `docs/03_Circulation/Shock/SHOCK.md` | SVG comparison | Yes | Shock鑑別 | Shock SSOT | 2026-08-12 |
 | FIG-C-SHOCK-002 | Shock推論loop | 測定・灌流・仮説・介入・再評価を循環化 | `assets/shock/shock_reasoning_loop.svg` | `docs/03_Circulation/Shock/SHOCK.md` | SVG algorithm | Yes | 症例討議・Summary | Shock / Hemodynamics SSOT | 2026-08-12 |
+| FIG-N-ICP-001 | Monro–Kellie | 頭蓋内volumeの代償とICP急上昇を理解 | `assets/neurology/monro_kellie_doctrine.svg` | `docs/04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md` | SVG stacked volume | Yes | 神経集中治療導入 | BTF Severe TBI 4th ed.; ICP/CPP/TBI SSOT | 2026-08-12 |
+| FIG-N-ICP-002 | ICPとCPP | MAP・ICP・CPPの関係と式の限界を理解 | `assets/neurology/icp_cpp_relationship.svg` | `docs/04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md` | SVG concept map | Yes | ICP/CPP・急変discussion | BTF Severe TBI 4th ed.; ICP/CPP/TBI SSOT | 2026-08-12 |
 
 ## Index rules
 

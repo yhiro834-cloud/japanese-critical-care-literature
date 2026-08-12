@@ -59,3 +59,4 @@ PriorityはP1（臨床推論またはmechanism理解への効果が大きい）�
 - 2026-08-12 Phase 2A complete: FIG-P-RESP-001–003。次はairway pressure componentsとnormal/abnormal ventilator waveform series。
 - 2026-08-12 Phase 2B complete: FIG-V-VENT-001–004。次はpatient–ventilator asynchronyとARDS visual series。
 - 2026-08-12 Phase 3A complete: FIG-B-ARDS-001–003、FIG-C-HEMO-001–003、FIG-C-SHOCK-001–002。全図をSVG/XML検証、PNG render、目視確認し、本文・症例・Slide Readyへ統合。次はFIG-V-VENT-005とFIG-I-SEPSIS-001。
+- 2026-08-12 Phase 4A complete: FIG-N-ICP-001–002。次はCRRTとECMO/MCS回路series。

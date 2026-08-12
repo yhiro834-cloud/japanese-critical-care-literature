@@ -34,6 +34,13 @@ ssot: true
 
 **ベテラン向け深掘り：** autoregulation、venous outflow、PaCO₂、胸腔内圧、CVP、systemic injuryを統合し、単一ICP/CPP値を処方目標にしません。
 
+## Visual Series：頭蓋内volumeと脳灌流
+
+1. [Monro–Kellieの考え方](../../../assets/neurology/monro_kellie_doctrine.svg)：代償域を超えた後のICP急上昇を理解する。
+2. [ICPとCPPの関係](../../../assets/neurology/icp_cpp_relationship.svg)：`CPP = MAP − ICP`を全身循環と頭蓋内病態へ分ける。
+
+図は実際のvolume比や患者別targetを示しません。急な神経悪化やherniation徴候では、図の確認より緊急対応・専門team招集・原因治療を優先します。
+
 ## 1. Physiology
 
 頭蓋内volumeは脳実質・血液・CSFで構成され、代償域を超えると小さなvolume増加でICPが急上昇します。`CPP = MAP − ICP`（CVPがICPより高い等では単純式に限界）。PaCO₂、oxygenation、temperature、seizure、venous drainage、metabolismがCBF/ICPへ影響します。
