@@ -4,7 +4,7 @@ Last audited: 2026-08-12
 
 ## Coverage achieved
 
-- FundamentalsからAirway/Breathing/Circulation、臓器別、ECMO/MCS、全身管理、bedside systems、special populations、toxicology、ethics/safetyまでTopic MapへSSOT入口を配置
+- FundamentalsからAirway/Breathing/Circulation、臓器別、ECMO/MCS、全身管理、bedside systems、special populations、toxicology、ethics/safetyまで74実体SSOT入口を配置
 - 各実装PhaseにCase、Clinical Question、基礎/中級/上級/症例Quiz、30分Slide Readyを配置
 - 5/10/20/30分 × 新人/中堅/リーダーへ再構成する教材workflowと実例を配置
 - Guidelines/References台帳、Evidence review、Next Review、CHANGELOG、SSOT更新規則を配置
@@ -15,10 +15,12 @@ Last audited: 2026-08-12
 - Python test suite
 - all internal Markdown links
 - Markdown frontmatter/status/date coverage for SSOT pages
-- placeholder/stale phase language search
+- V2 staged-learning marker、placeholder/stale phase language search
 - `git diff --check`
-- 72 SSOT（template除外）のidentity/review log/minimum-depth gate
+- 74 SSOT（template除外）のidentity/review log/minimum-depth/新人・ベテラン導線gate
 - 20領域のClinical Questions・Quiz・Slide Readyの集合一致
+- 20領域のSSOT・CQ・Quiz・Slide・Case・Visual/rationale同期台帳
+- 36 SVGのFigure Index一意登録、XML/16:9/accessibility、関連SSOT gate
 
 詳細結果は[Final Cross-Audit 2026-08-12](FINAL_CROSS_AUDIT_2026-08-12.md)を参照。
 

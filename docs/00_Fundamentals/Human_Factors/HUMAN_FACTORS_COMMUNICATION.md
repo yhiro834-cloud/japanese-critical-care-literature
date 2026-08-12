@@ -14,6 +14,20 @@ ssot: true
 
 # Human Factors and Team Communication
 
+## 0. まず覚える
+
+**Human factors（ヒューマンファクター）**は、人の能力と限界、機器、環境、仕事の設計が安全へどう影響するかを扱う考え方です。
+
+**簡単に言うと：** 「注意する人を増やす」のではなく、疲労や中断があっても間違いが患者へ届きにくい仕組みを作ります。
+
+**新人看護師の到達点：** 指示を名指しで受け、復唱し、実施結果まで返すclosed-loop communicationを使い、懸念が解決しなければ具体的事実と依頼を添えてescalateできること。
+
+**ベテラン向け深掘り：** 個人の失敗に閉じず、workload、authority gradient、interface、handoff、staffing、latent conditionを分析し、owner・期限・効果指標のあるsystem対策へ変換します。
+
+### 報告例
+
+> 「患者○○さんのvasopressor濃度が指示とpump表示で一致しません。投与を安全に保ったままlineと原指示を独立照合し、薬剤師/担当医と確認してください。解決まで私が監視します。」
+
 ## Design for predictable limits
 
 fatigue、interruptions、noise、workload、similar packaging、mode confusion、authority gradientは通常のhuman limitationsである。memoryと注意だけに依存せず、standardization、forcing function、independent check、labeling、workspace design、staffing/escalationで防御層を作る。
