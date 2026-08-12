@@ -27,6 +27,12 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-C-SHOCK-002 | Shock推論loop | 測定・灌流・仮説・介入・再評価を循環化 | `assets/shock/shock_reasoning_loop.svg` | `docs/03_Circulation/Shock/SHOCK.md` | SVG algorithm | Yes | 症例討議・Summary | Shock / Hemodynamics SSOT | 2026-08-12 |
 | FIG-N-ICP-001 | Monro–Kellie | 頭蓋内volumeの代償とICP急上昇を理解 | `assets/neurology/monro_kellie_doctrine.svg` | `docs/04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md` | SVG stacked volume | Yes | 神経集中治療導入 | BTF Severe TBI 4th ed.; ICP/CPP/TBI SSOT | 2026-08-12 |
 | FIG-N-ICP-002 | ICPとCPP | MAP・ICP・CPPの関係と式の限界を理解 | `assets/neurology/icp_cpp_relationship.svg` | `docs/04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md` | SVG concept map | Yes | ICP/CPP・急変discussion | BTF Severe TBI 4th ed.; ICP/CPP/TBI SSOT | 2026-08-12 |
+| FIG-R-CRRT-001 | CRRT回路 | accessからreturnまでと液経路を追う | `assets/crrt/crrt_circuit.svg` | `docs/05_Renal/CRRT/CRRT.md` | SVG circuit | Yes | CRRT導入・回路確認 | KDIGO AKI; CRRT SSOT | 2026-08-12 |
+| FIG-R-CRRT-002 | CRRT除去機序 | diffusion・convection・限外濾過を区別 | `assets/crrt/crrt_clearance_mechanisms.svg` | `docs/05_Renal/CRRT/CRRT.md` | SVG comparison | Yes | mode/dose説明 | KDIGO AKI; CRRT SSOT | 2026-08-12 |
+| FIG-R-CRRT-003 | CRRT alarm推論 | patientからmachineまで安全に確認 | `assets/crrt/crrt_alarm_reasoning.svg` | `docs/05_Renal/CRRT/CRRT.md` | SVG algorithm | Yes | alarm・症例discussion | CRRT SSOT; device manual boundary | 2026-08-12 |
+| FIG-E-ECMO-001 | VV-ECMO回路 | 静脈脱血・静脈返血とgas exchange補助を理解 | `assets/ecmo/vv_ecmo_circuit.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG circuit | Yes | VV導入・低酸素推論 | ELSO VV-ECMO 2021; ECMO SSOT | 2026-08-12 |
+| FIG-E-ECMO-002 | VA-ECMO回路 | 動脈返血と循環補助・新たな負荷を理解 | `assets/ecmo/va_ecmo_circuit.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG circuit | Yes | VA導入・合併症 | ELSO VA-ECMO 2021; ECMO SSOT | 2026-08-12 |
+| FIG-E-ECMO-003 | VV vs VA | 補助範囲とmode別monitoringを比較 | `assets/ecmo/va_vs_vv_ecmo.svg` | `docs/09_ECMO_MCS/ECMO_Foundations/ECMO_FOUNDATIONS_DAILY_MANAGEMENT.md` | SVG comparison | Yes | ECMO導入・Summary | ELSO VV/VA-ECMO 2021; ECMO SSOT | 2026-08-12 |
 
 ## Index rules
 

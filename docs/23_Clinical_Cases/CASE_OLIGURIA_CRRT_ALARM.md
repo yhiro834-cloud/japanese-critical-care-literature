@@ -10,6 +10,14 @@ tags: [case, aki, crrt, oliguria]
 
 # Case: Oliguria and CRRT Alarm
 
+## 症例前に見る図
+
+- [CRRT回路の基本](../../assets/crrt/crrt_circuit.svg)
+- [CRRTの除去機序](../../assets/crrt/crrt_clearance_mechanisms.svg)
+- [CRRT alarmの臨床推論](../../assets/crrt/crrt_alarm_reasoning.svg)
+
+回路を患者から返血まで指で追い、「alarmが示す場所」と「患者への影響」を別々に説明してから症例へ進みます。
+
 Septic shock治療中。尿量が3時間低下し、酸素需要増加。スタッフから「脱水なのでfluid bolus」と提案された。
 
 ## Pause 1

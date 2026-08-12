@@ -77,6 +77,10 @@ ssot: true
 |---|---|---|---|
 | AKI | 急性腎障害（acute kidney injury） | 短期間に腎機能が低下した状態 | creatinineだけでなく尿量、fluid balance、薬剤、閉塞を確認 |
 | CRRT | 持続的腎代替療法 | 緩徐かつ持続的に水分・溶質を調整する治療 | access、回路、圧、抗凝固、出納、電解質、体温を監視 |
+| diffusion | 拡散 | 濃度の高い側から低い側へ溶質が移動する仕組み | dialysate、flow、濃度差、停止時間を確認 |
+| convection | 対流 | 膜を通る水の流れと一緒に溶質を運ぶ仕組み | replacement、濾過分画、filter clotを確認 |
+| ultrafiltration | 限外濾過 | 圧差を利用して膜を越えて水分を除くこと | machine除水量と患者全体の収支を混同しない |
+| effluent | 排液 | CRRTでfilterから排出される液体 | 量、色、bag、処方と実投与量、検体取扱いを確認 |
 | sepsis | 敗血症 | 感染に対する制御不全の生体反応で臓器障害を来す状態 | 感染源、臓器障害、培養、抗菌薬、循環、再評価時刻を追う |
 | ICP | 頭蓋内圧 | 頭蓋骨内の圧 | 瞳孔、GCS、EVD、CPP/MAP、体位、PaCO₂を統合 |
 | CPP | 脳灌流圧 | 脳へ血液を送る圧の指標 | `MAP−ICP`を基本とし全身循環と頭蓋内病態を確認 |

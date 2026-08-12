@@ -35,6 +35,14 @@ ECMO（extracorporeal membrane oxygenation、体外式膜型人工肺）は、�
 
 **ベテラン向け深掘り：** oxygen deliveryをECMO flowやSpO₂だけで代用せず、Hb、native cardiac output、SaO₂、VO₂、distributionを統合する。VA-ECMOでは左室拡張、aortic valve opening、肺水腫、右上肢酸素化、下肢虚血を同時に捉え、毎日bridgeの妥当性とtime-limited trialを更新する。
 
+## Visual Series：VV・VA回路と補助範囲
+
+1. [VV-ECMO回路](../../../assets/ecmo/vv_ecmo_circuit.svg)：静脈脱血・静脈返血とgas exchange supportを追う。
+2. [VA-ECMO回路](../../../assets/ecmo/va_ecmo_circuit.svg)：静脈脱血・動脈返血と循環補助、新たに生じる負荷を理解する。
+3. [VVとVAの比較](../../../assets/ecmo/va_vs_vv_ecmo.svg)：補助対象、直接支えないもの、mode別観察を比較する。
+
+図のcannulationは代表概念です。実患者ではcannulaの本数・位置・返血方向、monitoring部位、回路構成を個別に確認します。
+
 ## Purpose and mode
 
 ECMOは原因治療ではなく、recovery、decision、transplant/VAD等への**bridge**。開始前にindication、reversibility、contraindications、目標、time-limited reassessment、exit strategyを共有する。
