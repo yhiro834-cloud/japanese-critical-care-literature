@@ -38,6 +38,14 @@ ssot: true
 
 > 「○時から血圧○、MAP○ですが、意識、CRT、皮膚、尿量、lactateは○○です。心拍・調律、呼吸、出血/感染所見は○○、介入○○後の反応は○○です。」
 
+## Visual Series：Shockの型と再評価
+
+1. [Shockの4表現型](../../../assets/shock/shock_classification.svg)：循環破綻を量・pump・血管緊張・閉塞へ分け、混合型を疑う。
+2. [Shock臨床推論loop](../../../assets/shock/shock_reasoning_loop.svg)：患者、測定、灌流、仮説、介入、反応と害を循環させる。
+3. [圧・流れ・組織灌流](../../../assets/circulation/pressure_flow_perfusion.svg)：MAPだけで蘇生完了としない理由を整理する。
+
+図は診断algorithmの代用ではありません。緊急原因への処置と応援要請を遅らせず、介入ごとに仮説を更新します。
+
 ## 1. Overview
 
 Shockは「血圧が低い状態」ではなく、循環が組織の酸素・基質需要を満たせず、細胞・臓器障害が進む臨床症候群です。正常血圧でも起こり、低血圧でも組織灌流が保たれる場面があります。

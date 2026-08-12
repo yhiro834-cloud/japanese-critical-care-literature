@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">ARDSのシャント機序</title><desc id="desc">換気されない肺胞にも血流が続き、酸素化されない血液が左心系へ戻るシャントを示す模式図。</desc>
+  <rect width="1600" height="900" fill="#fff"/>
+  <text x="80" y="78" font-family="Arial" font-size="42" font-weight="700" fill="#172B3A">Shunt（シャント）：血流はあるが、換気されない</text><text x="80" y="120" font-family="Arial" font-size="24" fill="#526B7A">酸素を増やすだけでは改善が限定的な低酸素血症の重要な機序</text>
+  <g font-family="Arial" text-anchor="middle"><text x="420" y="210" font-size="31" font-weight="700" fill="#2B7A9B">換気された肺胞</text><text x="1180" y="210" font-size="31" font-weight="700" fill="#C74440">浸水・虚脱した肺胞</text></g>
+  <circle cx="420" cy="390" r="145" fill="#DFF4FA" stroke="#2B7A9B" stroke-width="8"/><path d="M420 245 V170" stroke="#2B7A9B" stroke-width="28"/><path d="M380 175 l40 -45 l40 45" fill="none" stroke="#2B7A9B" stroke-width="10"/><ellipse cx="1180" cy="430" rx="160" ry="65" fill="#F2AAA3" stroke="#C74440" stroke-width="8"/><path d="M1180 360 V170" stroke="#C74440" stroke-width="28"/><path d="M1140 175 l40 -45 l40 45" fill="none" stroke="#C74440" stroke-width="10"/>
+  <path d="M180 610 C380 520 500 520 690 610 S1010 700 1360 620" fill="none" stroke="#31546D" stroke-width="45"/><path d="M1340 555 L1460 595 L1370 685 Z" fill="#31546D"/><circle cx="300" cy="570" r="17" fill="#6B76C9"/><circle cx="570" cy="570" r="17" fill="#D94848"/><circle cx="1050" cy="650" r="17" fill="#6B76C9"/><circle cx="1320" cy="630" r="17" fill="#6B76C9"/>
+  <g font-family="Arial" text-anchor="middle"><text x="420" y="680" font-size="24" fill="#172B3A">血液が酸素化される</text><text x="1180" y="720" font-size="24" fill="#B21F2D">酸素化されない血液が通過</text><text x="800" y="785" font-size="27" font-weight="700" fill="#172B3A">左右の血液が混ざる → 動脈血酸素化が低下</text><text x="800" y="825" font-size="22" fill="#526B7A">肺胞を開く戦略・腹臥位・原因治療を検討し、圧損傷と循環への害も再評価</text></g>
+  <text x="800" y="880" text-anchor="middle" font-family="Arial" font-size="17" fill="#526B7A">FIG-B-ARDS-002 · 教育用模式図 · 酸素投与への反応だけで病態を確定しない · 確認日 2026-08-12</text>
+</svg>

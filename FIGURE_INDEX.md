@@ -17,6 +17,14 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-V-VENT-002 | PpeakとPplat | 抵抗上昇とcompliance低下を比較 | `assets/ventilation/peak_vs_plateau_pressure.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG comparison | Yes | 高圧alarm推論 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
 | FIG-V-VENT-003 | 正常時間波形 | 圧・流量・容量を同じ時間軸で読む | `assets/ventilation/normal_time_waveforms.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG waveform | Yes | 波形読解導入 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
 | FIG-V-VENT-004 | auto-PEEP波形 | 呼気flowのzero復帰からair trappingを疑う | `assets/ventilation/auto_peep_waveform.svg` | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | SVG comparison algorithm | Yes | auto-PEEP推論 | AARC Patient-Ventilator Assessment 2024; Mechanical Ventilation SSOT | 2026-08-12 |
+| FIG-B-ARDS-001 | ARDS肺胞障害 | 正常肺胞と透過性亢進・虚脱・不均一性を比較 | `assets/breathing/ards_alveolar_injury.svg` | `docs/02_Breathing/ARDS/ARDS.md` | SVG medical schematic | Yes | ARDS導入・baby lung | ATS ARDS 2024; ARDS SSOT | 2026-08-12 |
+| FIG-B-ARDS-002 | ARDSのshunt | 換気されない肺胞への血流と低酸素血症を理解 | `assets/breathing/ards_shunt_mechanism.svg` | `docs/02_Breathing/ARDS/ARDS.md` | SVG mechanism | Yes | 低酸素血症・機序説明 | ARDS / Respiratory Physiology SSOT | 2026-08-12 |
+| FIG-B-ARDS-003 | 腹臥位の考え方 | 換気・stress分布と安全な再評価を結びつける | `assets/breathing/prone_position_mechanism.svg` | `docs/02_Breathing/ARDS/ARDS.md` | SVG comparison | Yes | ARDS管理・看護checklist | ATS ARDS 2024; PROSEVA; ARDS SSOT | 2026-08-12 |
+| FIG-C-HEMO-001 | 圧・流れ・組織灌流 | monitor値を臓器反応へ統合 | `assets/circulation/pressure_flow_perfusion.svg` | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | SVG concept map | Yes | 血行動態・Shock導入 | ESICM Hemodynamic Monitoring 2025; Hemodynamics SSOT | 2026-08-12 |
+| FIG-C-HEMO-002 | Frank–Starling概念 | responsiveness・need・toleranceを分ける | `assets/circulation/frank_starling_concept.svg` | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | SVG graph | Yes | 輸液判断 | ESICM Hemodynamic Monitoring 2025; Fluid / Hemodynamics SSOT | 2026-08-12 |
+| FIG-C-HEMO-003 | PLR臨床推論 | reversible preload challengeの流れと限界を理解 | `assets/circulation/plr_reasoning.svg` | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | SVG sequence | Yes | dynamic test・症例討議 | ESICM Hemodynamic Monitoring 2025; Hemodynamics SSOT | 2026-08-12 |
+| FIG-C-SHOCK-001 | Shockの4表現型 | 量・pump・血管緊張・閉塞と混合型を比較 | `assets/shock/shock_classification.svg` | `docs/03_Circulation/Shock/SHOCK.md` | SVG comparison | Yes | Shock鑑別 | Shock SSOT | 2026-08-12 |
+| FIG-C-SHOCK-002 | Shock推論loop | 測定・灌流・仮説・介入・再評価を循環化 | `assets/shock/shock_reasoning_loop.svg` | `docs/03_Circulation/Shock/SHOCK.md` | SVG algorithm | Yes | 症例討議・Summary | Shock / Hemodynamics SSOT | 2026-08-12 |
 
 ## Index rules
 

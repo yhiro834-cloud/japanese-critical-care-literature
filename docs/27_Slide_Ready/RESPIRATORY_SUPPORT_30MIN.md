@@ -43,7 +43,9 @@ ssot: false
 - [PpeakとPplatの比較](../../assets/ventilation/peak_vs_plateau_pressure.svg)（作成済み）
 - [正常時間波形の基本](../../assets/ventilation/normal_time_waveforms.svg)（作成済み）
 - [auto-PEEPを疑う呼気流波形](../../assets/ventilation/auto_peep_waveform.svg)（作成済み）
-- ARDS heterogeneous lung概念図（未作成）
+- [ARDS肺胞障害](../../assets/breathing/ards_alveolar_injury.svg)（作成済み：Slide 7）
+- [ARDSのshunt機序](../../assets/breathing/ards_shunt_mechanism.svg)（作成済み：Slide 7または症例解説）
+- [腹臥位療法の考え方](../../assets/breathing/prone_position_mechanism.svg)（作成済み：Slide 9）
 - liberation decision tree（未作成）
 
 ## Speaker Notes

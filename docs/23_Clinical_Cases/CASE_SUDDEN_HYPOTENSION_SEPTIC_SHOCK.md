@@ -17,6 +17,14 @@ linked_topics: [../03_Circulation/Shock/SHOCK.md, ../03_Circulation/Shock/SEPTIC
 - septic shockでもalternative/mixed shockを再検索する
 - 介入ごとに期待反応と害を設定する
 
+### 症例前に見る図
+
+- [Shockの4表現型](../../assets/shock/shock_classification.svg)
+- [Shock臨床推論loop](../../assets/shock/shock_reasoning_loop.svg)
+- [圧・流れ・組織灌流](../../assets/circulation/pressure_flow_perfusion.svg)
+
+図を見た後、「この患者ではどの表現型が混在し得るか」「どの所見を介入前後でそろえるか」を言語化してから症例へ進みます。
+
 ## Case Stem
 
 72歳。肺炎疑いで入院し、酸素投与中。発熱、頻呼吸があり、30分前の血圧112/64 mmHgから78/42 mmHgへ低下。HR 118/min、SpO₂ 93%。「血圧低下」alarmが鳴った。
