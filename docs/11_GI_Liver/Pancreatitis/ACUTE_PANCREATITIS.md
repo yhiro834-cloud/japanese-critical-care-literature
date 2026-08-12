@@ -14,6 +14,26 @@ ssot: true
 
 # Acute Pancreatitis
 
+## 0. まず覚える
+
+急性膵炎は膵臓の急性炎症で、局所の痛みだけでなく呼吸・循環・腎などの臓器不全を来しうる。**固定量の大量輸液ではなく、反応と害を見ながら輸液・鎮痛・早期栄養・原因治療を行う。**
+
+**簡単に言うと：** enzyme値を追う病気ではなく、臓器不全、輸液耐容性、壊死・感染・腹腔内圧を時間経過で見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| lipase / amylase | 膵由来酵素 | 診断に使うが、高さだけで重症度や治癒を決めない |
+| organ failure | 呼吸・循環・腎などの臓器機能破綻 | 持続時間とtrajectoryが重症度判断に重要 |
+| pancreatic necrosis | 膵または周囲組織の壊死 | 発熱だけで感染と決めず、安定例では介入時期を専門teamで判断 |
+| enteral nutrition | 消化管を使う栄養 | 耐容可能なら早期に開始し、長期NPOを惰性で続けない |
+| step-up approach | drainageから段階的に侵襲度を上げる治療戦略 | shock・出血・穿孔など待てない病態を除く |
+
+**新人看護師の到達点：** 痛み、呼吸、血圧・灌流、尿量、BUN/Cr/Hct、出納、栄養耐容、腹部膨満をtrend化し、輸液後の改善と肺水腫・IAHなどの害を報告できる。
+
+> **報告例：** 「輸液後も尿量と末梢灌流が改善せず、酸素需要と腹部緊満、気道内圧が増えています。単純な脱水だけでなくfluid overloadとIAH/ACSを含む再評価をお願いします。」
+
+**ベテラン向け深掘り：** persistent organ failureを軸にriskを更新し、感染性壊死、胆管炎、出血、腸管虚血、ACSを区別する。routine早期CT、予防的抗菌薬、aggressive fixed-volume fluid、長期NPOを避ける。
+
 ## Diagnose and risk-stratify dynamically
 
 typical pain、lipase/amylase elevation、characteristic imagingのうち2項目で診断する。臓器不全、SIRS、BUN/hematocrit/renal trend、hypoxemia、pleural effusion、comorbidityを反復評価する。早期routine CTは診断明確例で不要なことがあり、悪化/診断不確実/合併症評価で選ぶ。
@@ -54,5 +74,6 @@ infection疑いではclinical deterioration、gas/culture、他sourceを評価�
 
 ## Review log
 
+- 2026-08-12: V2導入、臓器不全・壊死・早期栄養等の用語、新人観察・報告、輸液害とstep-up判断を追加。ACG 2024公式資料を再確認。
 - 2026-08-12: serial severity, monitored fluid trial, nutrition restart, and necrosis/source-control reasoning expanded.
 - 2026-08-11: ACG 2024 review; GI/surgery/nutrition/local pathway review required.

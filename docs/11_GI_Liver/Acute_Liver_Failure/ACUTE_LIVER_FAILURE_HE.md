@@ -14,6 +14,26 @@ ssot: true
 
 # Acute Liver Failure and Hepatic Encephalopathy
 
+## 0. まず覚える
+
+急性肝不全（acute liver failure: ALF）は、既存の肝硬変がない患者に急性肝障害、凝固異常、肝性脳症が生じる重篤な病態である。**原因検索と臓器supportを行いながら、早期に移植可能施設へ相談する。**
+
+**簡単に言うと：** 肝機能の数値を待つだけでなく、意識、glucose、凝固、腎機能、循環が悪化する前に治療可能な原因と移植可能性を動かす。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| hepatic encephalopathy | 肝機能低下・門脈体循環shuntに関連する脳機能障害 | ammonia値だけで診断せず、低血糖・sepsis・薬剤・発作を除外 |
+| INR | 外因系凝固時間を標準化した指標 | ALFの重症度情報だが、単独で出血riskを表さない |
+| ammonia | 肝で処理される窒素代謝物 | 高値とtrendは参考になるが意識・脳浮腫を単独で決めない |
+| NAC | N-acetylcysteine | acetaminophen中毒などで用い、適応と開始を専門protocolで判断 |
+| transplant center | 肝移植評価・実施が可能な施設 | 明確な移植基準到達を待たず早期相談する |
+
+**新人看護師の到達点：** 意識・瞳孔、glucose、INR/fibrinogen、lactate、ammonia、尿量、薬剤/acetaminophen曝露、sedationを時刻付きで追い、低血糖・神経悪化・出血・循環悪化を即時報告できる。
+
+> **報告例：** 「急性肝障害でINRと乳酸が上昇し、新たな見当識障害と低血糖があります。急性肝不全進行を疑い、原因治療と移植施設への早期相談をお願いします。」
+
+**ベテラン向け深掘り：** ALFと肝硬変に伴う慢性肝性脳症を同一protocolにせず、原因・時間軸・脳浮腫risk・移植適応を分ける。INRのroutine補正でtrendを隠さず、出血・手技・viscoelastic評価と統合する。
+
 ## Recognize early and call transplant center
 
 既存cirrhosisなしのacute hepatic injuryにcoagulopathyとencephalopathyが出現した状態をALFとして疑い、重症化前にtransplant-capable centerへ相談する。原因と時刻（acetaminophen/薬剤、viral、autoimmune、ischemic、pregnancy、vascular、Wilson等）を同時検索する。
@@ -62,5 +82,6 @@ etiology/timeline、encephalopathy/pupil、airway/sedation、INR/fibrinogen/plat
 
 ## Review log
 
+- 2026-08-12: V2導入、ALF/肝性脳症/INR/NAC等の用語、新人観察・報告、早期移植相談を追加。
 - 2026-08-12: early transfer, etiology timeline, organ loop, and transfer handoff expanded.
 - 2026-08-11: ACG/AASLD review; transplant hepatology/local referral review required.

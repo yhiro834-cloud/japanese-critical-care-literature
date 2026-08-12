@@ -14,6 +14,27 @@ ssot: true
 
 # DKA and HHS
 
+## 0. まず覚える
+
+DKA（糖尿病性ketoacidosis）はinsulin不足でketoneが増え、代謝性acidosisを来す病態である。HHS（高浸透圧高血糖状態）は著明な高血糖と脱水・高浸透圧が中心で、両者は重なることがある。
+
+**簡単に言うと：** glucoseだけを下げる治療ではない。輸液、K、insulin、原因治療を並行し、DKAではketosis/acidosis、HHSでは浸透圧と意識まで改善したかを確認する。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| ketone / β-hydroxybutyrate | 脂肪分解で生じる酸性物質 / DKAで中心となるketone | 尿ketoneより血中β-hydroxybutyrateが病勢・改善を反映しやすい |
+| metabolic acidosis | 酸の増加などで血液pH/HCO₃が低下した状態 | 呼吸性代償、lactate、腎障害、Cl負荷も区別する |
+| osmolality | 血液中の溶質濃度を表す指標 | HHSでは変化が速すぎないか、Na・意識とともに追う |
+| euglycemic DKA | glucoseが著明に高くなくてもketosisとacidosisがあるDKA | SGLT2 inhibitor、妊娠、摂取低下などで見逃さない |
+| corrected sodium | 高血糖による水移動を考慮して解釈するNa | measured Naだけで輸液方針を決めない |
+| resolution | 急性代謝異常が治療終了基準まで改善した状態 | glucose低下のみを治癒としない |
+
+**新人看護師の到達点：** glucose、K、pH/HCO₃、β-hydroxybutyrate、Na/osmolality、意識、尿量を時刻付きで追い、輸液・insulin・K・dextrose変更との前後関係を説明できる。insulin中断、栄養変更、低血糖・低K・神経悪化を即時報告する。
+
+> **報告例：** 「glucoseは210 mg/dLまで低下しましたが、β-hydroxybutyrate高値とacidosisが残っています。Kも低下傾向です。glucoseだけでinsulinを終了せず、K補正とdextrose併用を含むprotocol再評価をお願いします。」
+
+**ベテラン向け深掘り：** HHS・DKA overlap、SGLT2関連euglycemic DKA、心腎機能低下、妊娠を区別する。anion gapは高Cl性acidosisで誤解しうるため、β-hydroxybutyrateとpH/HCO₃を優先し、再発予防ではinsulin accessや社会的barrierまで介入する。
+
 ## Diagnose the physiology
 
 2024 consensusではDKAをdiabetes/hyperglycemia、ketosis、metabolic acidosisの組合せで捉え、HHSをsevere hyperglycemia/hyperosmolality、著明なketosis/acidosisを欠く状態として扱う。overlapは珍しくない。SGLT2 inhibitor関連ではglucoseが高度でないeuglycemic DKAもある。
@@ -59,5 +80,6 @@ precipitant、SGLT2 inhibitor/insulin pump、sick-day rule、ketone測定、insu
 
 ## Review log
 
+- 2026-08-12: V2導入、ketone/osmolality/euglycemic DKA等の用語、新人のflow-sheet観察・報告、resolution判断を追加。2024国際consensusを再確認。
 - 2026-08-12: osmolality/K timeline、β-hydroxybutyrate-based resolution、transition/recurrent-barrier safeguardsを深化。local review required.
 - 2026-08-11: 2024 consensus review.

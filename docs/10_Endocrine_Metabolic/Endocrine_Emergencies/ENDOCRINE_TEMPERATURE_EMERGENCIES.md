@@ -14,6 +14,27 @@ ssot: true
 
 # Endocrine and Temperature Emergencies
 
+## 0. まず覚える
+
+内分泌・体温緊急症は、検査値が確定する前にshock、意識障害、不整脈、換気不全、多臓器障害が進むことがある。**症候群を臨床的に疑い、ABCDEと原因特異的治療を並行する。**
+
+**簡単に言うと：** 「検査結果待ち」で治療を遅らせず、体温だけでなく循環・呼吸・神経・代謝への影響を繰り返し見る。
+
+| 用語 | 意味 | 実践上のポイント |
+|---|---|---|
+| adrenal crisis | cortisol不足による生命を脅かす循環・代謝破綻 | steroid中断歴、低血圧、低Na、高K、低血糖を確認 |
+| thyroid storm | 甲状腺hormone作用過剰による多臓器代償不全 | hormone値だけでなく体温、心臓、CNS、消化器所見で臨床診断 |
+| myxedema coma | 重症甲状腺機能低下による低体温・換気/循環・意識障害 | 昏睡は必須でなく、鎮静薬や感染との重なりに注意 |
+| hyperthermia | 調節能力を超えた熱産生・熱曝露による高体温 | 発熱とは機序が異なり、解熱薬が冷却の代替にならないことがある |
+| core temperature | 深部体温 | 重症例では表面温でなく信頼できる測定部位とtrendを使う |
+| afterdrop | 復温中も深部体温が一時的に低下する現象 | 循環・不整脈・復温方法とともに監視する |
+
+**新人看護師の到達点：** 正確な深部体温、意識、調律、血圧、換気、glucose、Na/K、尿量、冷却/復温方法と時刻を追い、薬剤・steroid中断・熱曝露を聴取できる。急な不整脈、shock、意識悪化を即時報告する。
+
+> **報告例：** 「長期steroidが急に中断され、低血圧が輸液と昇圧薬に反応せず、低Na・低血糖があります。adrenal crisisを疑い、治療前検体が可能か確認しつつ、検査結果を待たない治療をお願いします。」
+
+**ベテラン向け深掘り：** sepsis、薬物中毒、serotonin syndrome、NMS、malignant hyperthermia、non-thyroidal illnessを鑑別する。thyroid stormのβ遮断はheart failure/shockで害となり得る。重症低体温ではpulse検出困難とECLS搬送可能性を早期に考える。
+
 ## Adrenal crisis
 
 unexplained refractory hypotension、volume depletion、hyponatremia、hyperkalemia、hypoglycemia、fever/abdominal symptomsに、既知のadrenal insufficiency、current/recent glucocorticoid、pituitary diseaseを重ねて疑う。可能ならcortisol/ACTH等を治療前に採取するが、**重症時は検査結果を待たずparenteral stress-dose glucocorticoidとfluid/glucose/electrolyte support**を開始する。
@@ -58,5 +79,6 @@ gentle handling、core temperature、pulse/rhythm、glucose、K、coagulation、
 
 ## Review log
 
+- 2026-08-12: V2導入、adrenal crisis/thyroid storm/core temperature等の用語、新人観察・報告、鑑別と治療例外を追加。
 - 2026-08-12: cooling documentation/stop point、低体温時のpulse確認とECLS transfer、handover safeguardsを深化。local review required.
 - 2026-08-11: Endocrine guidance review.
