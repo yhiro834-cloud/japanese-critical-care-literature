@@ -10,6 +10,8 @@ tags: [case, neuro, icp, seizure]
 
 # Case: Acute Neurological Decline
 
+[急な意識変化の臨床推論図](../../assets/clinical_reasoning/altered_consciousness_reasoning.svg)で即時可逆因子と構造/電気的原因を確認してから症例へ進みます。
+
 SAH治療中の患者。1時間前は命令に従っていたが、現在開眼せず右瞳孔が拡大。鎮静薬は変更なし。
 
 ## Pause 1

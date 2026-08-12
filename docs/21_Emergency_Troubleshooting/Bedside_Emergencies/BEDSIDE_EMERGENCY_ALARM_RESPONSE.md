@@ -35,6 +35,15 @@ bedside emergencyでは、alarm名やmonitor値の診断より、**患者を見�
 
 **ベテラン向け深掘り：** manual ventilationで改善した/しないという一所見でpatient/device causeを二分せず、technique、airway、胸郭、肺血流を再評価する。alarm limit変更には根拠、期限、戻すownerを持たせ、event後のdevice・薬剤・logを保全する。
 
+## Visual Series：急変時の臨床推論
+
+1. [SpO₂突然低下](../../../assets/clinical_reasoning/spo2_drop_reasoning.svg)：患者・signal・airway/breathing・device/循環を並行評価する。
+2. [突然の低血圧](../../../assets/clinical_reasoning/hypotension_reasoning.svg)：測定、灌流、循環表現型、drug deliveryを分ける。
+3. [急な意識変化](../../../assets/clinical_reasoning/altered_consciousness_reasoning.svg)：ABC、血糖、神経所見、薬剤、構造/電気的原因を追う。
+4. [尿量低下](../../../assets/clinical_reasoning/low_urine_output_reasoning.svg)：測定/閉塞、灌流、うっ血、腎/薬剤を分ける。
+
+図は急変対応を遅らせる順番表ではありません。応援要請と生命機能supportを先行し、複数人なら評価・支持・記録を並行します。
+
 ## Universal sequence
 
 **患者を見る → 応援/緊急call → ABCDE → independent support → patient/device/circuit/sourceを並行確認 → 原因修正 → response確認 → debrief。** monitorだけを見ず、pulse、意識、呼吸、skin/perfusionを確認する。

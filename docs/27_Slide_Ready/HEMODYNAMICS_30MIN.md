@@ -2,7 +2,7 @@
 title: "Hemodynamics — 30-minute Slide Ready"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 evidence_reviewed: 2026-08-11
 next_review: 2027-02-11
 owners: []
@@ -37,9 +37,10 @@ ssot: false
 
 ## Key Figures Needed
 
-- pressure–flow–perfusion map（未作成）
+- [圧・流れ・組織灌流](../../assets/circulation/pressure_flow_perfusion.svg)（作成済み：Slide 1–3）
 - need–responsiveness–tolerance Venn（未作成）
-- intervention/reassessment loop（未作成）
+- [Shock臨床推論loop](../../assets/shock/shock_reasoning_loop.svg)（作成済み：Slide 11/12）
+- [肺POCUS artifact模式図](../../assets/pocus/lung_ultrasound_schematic.svg)（補助図：Slide 8）
 
 ## References for Slides
 
