@@ -1,6 +1,6 @@
 ---
 title: "Case: Culture-negative Sepsis Reassessment"
-status: review-needed
+status: reviewed
 created: 2026-08-11
 last_updated: 2026-08-11
 evidence_reviewed: 2026-08-11

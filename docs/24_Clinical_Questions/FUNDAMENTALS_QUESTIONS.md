@@ -1,6 +1,6 @@
 ---
 title: "Critical Care Fundamentals Questions"
-status: review-needed
+status: reviewed
 created: 2026-08-12
 last_updated: 2026-08-12
 evidence_reviewed: 2026-08-12

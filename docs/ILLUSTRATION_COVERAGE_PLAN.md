@@ -1,6 +1,6 @@
 ---
 title: "全カテゴリー・イラスト整備計画"
-status: active
+status: reviewed
 created: 2026-08-12
 last_updated: 2026-08-12
 evidence_reviewed: 2026-08-12

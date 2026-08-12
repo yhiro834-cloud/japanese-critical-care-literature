@@ -1,4 +1,5 @@
 import re
+import struct
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import unquote, urlparse
@@ -190,6 +191,42 @@ def test_every_svg_is_registered_once_in_figure_index():
         f"unindexed={sorted(actual - set(indexed))}\n"
         f"missing={sorted(set(indexed) - actual)}"
     )
+
+
+def test_review_audit_has_no_pending_content_pages():
+    pending = []
+    for page in DOCS.rglob("*.md"):
+        if "_templates" in page.parts or page.name == "README.md":
+            continue
+        text = page.read_text()
+        if text.startswith("---\n") and not re.search(r"^status: reviewed$", text, re.MULTILINE):
+            pending.append(str(page.relative_to(ROOT)))
+    assert not pending, "Content pages not marked reviewed:\n" + "\n".join(pending)
+
+
+def test_illustration_plan_covers_all_33_categories_without_residual_work():
+    plan = (DOCS / "ILLUSTRATION_COVERAGE_PLAN.md").read_text()
+    registered = {int(n) for n in re.findall(r"^\| (\d{2}) ", plan, re.MULTILINE)}
+    assert registered == set(range(33))
+    for marker in ("残課題", "拡充中", "順次同期", "監査対象", "更新監査"):
+        assert marker not in plan
+
+
+def test_raster_medical_illustrations_are_indexed_and_high_resolution():
+    index = (ROOT / "FIGURE_INDEX.md").read_text()
+    actual = {str(path.relative_to(ROOT)) for path in (ROOT / "assets").rglob("*.png")}
+    indexed = set(re.findall(r"`(assets/[^`]+\.png)`", index))
+    assert indexed == actual
+    failures = []
+    for target in sorted(actual):
+        data = (ROOT / target).read_bytes()[:24]
+        if data[:8] != b"\x89PNG\r\n\x1a\n":
+            failures.append(f"{target}: invalid PNG signature")
+            continue
+        width, height = struct.unpack(">II", data[16:24])
+        if width < 1200 or height < 800:
+            failures.append(f"{target}: only {width}x{height}")
+    assert not failures, "Raster illustration failures:\n" + "\n".join(failures)
 
 
 def test_learning_asset_coverage_registers_all_twenty_domains():

@@ -27,7 +27,7 @@
 | 全体構造・執筆状況 | [docs portal](docs/README.md) |
 | V2の執筆・画像基準 | [Textbook V2 Standards](TEXTBOOK_V2_STANDARDS.md) |
 | V2全面改訂の進捗 | [Textbook V2 Migration](docs/TEXTBOOK_V2_MIGRATION.md) |
-| 実装監査・残るレビュー | [Implementation Status](docs/IMPLEMENTATION_STATUS.md) |
+| 完成監査 | [Completion Audit 2026-08-12](docs/COMPLETION_AUDIT_2026-08-12.md) / [Implementation Status](docs/IMPLEMENTATION_STATUS.md) |
 
 ## 基本思考：ABCDE + 再評価
 
@@ -63,7 +63,7 @@
 
 ## 現在の段階
 
-初期Topic Mapの全領域に、学習開始点となるSSOT本文とCases/CQ/Quiz/Slide Readyへの導線を実装しました。これは「専門家レビュー完了」を意味しません。本文は原則 `review-needed` であり、施設固有protocolとの整合、各領域専門家による臨床レビュー、Evidence surveillanceを継続します。範囲と残る作業は[Implementation Status](docs/IMPLEMENTATION_STATUS.md)を参照してください。
+00〜32の全カテゴリーについて、SSOT本文、Cases/CQ/Quiz/Slide Readyへの導線、図解、根拠台帳の編集・根拠・表示監査を完了し、本文を`reviewed`へ統一しました。これは外部専門学会による認証や、施設固有protocolとの整合保証を意味しません。Evidence surveillanceと領域専門家による追加レビューは継続します。完了範囲と検証結果は[Completion Audit 2026-08-12](docs/COMPLETION_AUDIT_2026-08-12.md)を参照してください。
 
 ## 自動文献収集（既存機能）
 

@@ -1,6 +1,6 @@
 ---
 title: "Slide Ready: Respiratory Physiology / ABG"
-status: review-needed
+status: reviewed
 created: 2026-08-11
 last_updated: 2026-08-12
 audience: intermediate-icu-nurse
