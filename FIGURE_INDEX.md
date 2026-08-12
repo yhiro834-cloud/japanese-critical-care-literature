@@ -1,21 +1,5 @@
 # Figure Index
 
-## Special populations, toxicology, environment, ethics, and safety
-
-- 小児・妊産婦の初期対応 — `assets/special_populations/pediatric_obstetric_adaptation.svg`
-- 急性中毒の初期対応と中毒症候群 — `assets/toxicology/toxidrome_comparison.svg`
-- 低体温症と熱中症の比較 — `assets/environmental/temperature_emergency_spectrum.svg`
-- 共同意思決定の流れ — `assets/ethics/capacity_goals_decision.svg`
-- 安全を高める学習システム — `assets/safety/learning_system_loop.svg`
-- 気管切開の解剖と急変時安全確認 — `assets/airway/tracheostomy_safety_anatomy.svg`
-- 外傷で見えない大出血を探す体腔図 — `assets/trauma/occult_bleeding_cavities.svg`
-- 腹腔内圧上昇による多臓器への影響 — `assets/gastrointestinal/intra_abdominal_pressure_effects.svg`
-- 輸血反応を疑うときの初期対応 — `assets/hematology/transfusion_reaction_response.svg`
-- 重症患者の薬物動態と投与量再評価 — `assets/pharmacology/pkpd_dose_reassessment.svg`
-- 再栄養症候群の細胞内移動と臓器障害 — `assets/nutrition/refeeding_shift_mechanism.svg`
-- 生体信号からモニター表示までの信号経路 — `assets/monitoring/signal_chain_artifact.svg`
-- 急性脳卒中の機序比較 — `assets/neurology/stroke_mechanism_comparison.svg`
-
 Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正本とし、図単独を診療protocolとして使用しない。
 
 | Figure ID | Topic | Learning Objective | File | Related Knowledge Page | Figure Type | PowerPoint Reusable | Suggested Slide Use | Evidence Source | Last Reviewed |
@@ -81,9 +65,23 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-PROC-001 | 手技安全ライフサイクル | 適応から手技後管理・抜去までを一つの過程として理解 | `assets/procedures/procedure_lifecycle_safety.svg` | `docs/18_Procedures/Safety_Framework/PROCEDURAL_SAFETY_FRAMEWORK.md` | SVG lifecycle | Yes | 手技前ブリーフ | Procedural Safety SSOT | 2026-08-12 |
 | FIG-DEVICE-001 | 機器依存・バックアップ | 患者接続部から供給源をたどり停止時の代替を準備 | `assets/devices/device_dependency_backup_map.svg` | `docs/20_Devices/Lifecycle/DEVICE_LIFECYCLE_BACKUP.md` | SVG dependency map | Yes | 機器安全・搬送 | Device Lifecycle SSOT | 2026-08-12 |
 | FIG-NURS-001 | 系統的ICU看護 | 基準状態・変化・介入・反応・次の計画を時間軸で統合 | `assets/nursing/systematic_nursing_timeline.svg` | `docs/22_Nursing/Systematic_Care/SYSTEMATIC_ICU_NURSING_CARE.md` | SVG clinical timeline | Yes | 看護導入・引継ぎ | Systematic ICU Nursing SSOT | 2026-08-12 |
+| FIG-SP-001 | 小児・妊産婦の初期対応 | 成人との共通原則と適応変更を区別 | `assets/special_populations/pediatric_obstetric_adaptation.svg` | `docs/30_Special_Populations/Pediatric_Obstetric/PEDIATRIC_OBSTETRIC_CRITICAL_CARE.md` | SVG comparison | Yes | 特殊集団導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-TOX-001 | 急性中毒と中毒症候群 | 所見の組合せから初期安定化と原因検索を整理 | `assets/toxicology/toxidrome_comparison.svg` | `docs/31_Toxicology_Environmental/Toxicology/TOXICOLOGY_INITIAL_APPROACH.md` | SVG comparison | Yes | 中毒導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-ENV-001 | 低体温症と熱中症 | 体温異常の機序と臓器影響を比較 | `assets/environmental/temperature_emergency_spectrum.svg` | `docs/31_Toxicology_Environmental/Environmental/ENVIRONMENTAL_EMERGENCIES.md` | SVG comparison | Yes | 環境障害導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-ETH-001 | 共同意思決定 | 意思決定能力・価値観・治療目標をつなぐ | `assets/ethics/capacity_goals_decision.svg` | `docs/32_Ethics_Safety_Systems/Ethics/GOALS_SHARED_DECISION_END_OF_LIFE.md` | SVG flow | Yes | 倫理・対話 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-SAFE-001 | 安全を高める学習システム | 事象報告から再発予防までを循環として理解 | `assets/safety/learning_system_loop.svg` | `docs/32_Ethics_Safety_Systems/Safety_Systems/HUMAN_FACTORS_TRANSPORT_DISASTER_QI.md` | SVG loop | Yes | 医療安全導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-A-TRACH-001 | 気管切開の解剖と安全確認 | 気管孔・カニューレ・上気道の関係を理解 | `assets/airway/tracheostomy_safety_anatomy.svg` | `docs/01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md` | SVG anatomy | Yes | 気管切開導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-T-CAV-001 | 外傷の潜在的大出血部位 | 外表から見えない出血腔を系統的に確認 | `assets/trauma/occult_bleeding_cavities.svg` | `docs/07_Trauma/Initial_Assessment/TRAUMA_INITIAL_ASSESSMENT.md` | SVG anatomy map | Yes | 外傷初期評価 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-GI-IAH-001 | 腹腔内圧上昇の臓器影響 | 圧上昇と呼吸・循環・腎への影響を関連付ける | `assets/gastrointestinal/intra_abdominal_pressure_effects.svg` | `docs/11_GI_Liver/IAH_ACS/INTRA_ABDOMINAL_HYPERTENSION.md` | SVG mechanism | Yes | 腹部緊急症 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-H-TRANS-001 | 輸血反応の初期対応 | 反応を疑う所見と安全確認の順序を理解 | `assets/hematology/transfusion_reaction_response.svg` | `docs/12_Hematology/Transfusion/TRANSFUSION_PBM.md` | SVG safety flow | Yes | 輸血安全 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-PHARM-PKPD-001 | 重症患者の薬物動態 | 分布・消失変化と投与量再評価を結ぶ | `assets/pharmacology/pkpd_dose_reassessment.svg` | `docs/13_Pharmacology/PKPD/CRITICAL_CARE_PKPD.md` | SVG mechanism | Yes | 薬物動態導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-NUT-REFEED-001 | 再栄養症候群 | 栄養再開後の細胞内移動と臓器影響を理解 | `assets/nutrition/refeeding_shift_mechanism.svg` | `docs/14_Nutrition/Refeeding/REFEEDING_SYNDROME.md` | SVG mechanism | Yes | 栄養管理 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-M-SIGNAL-001 | 生体信号の測定経路 | 患者から画面表示までの誤差発生点を追う | `assets/monitoring/signal_chain_artifact.svg` | `docs/19_Monitoring/Core_Monitoring/MONITORING_WAVEFORMS_ARTIFACT.md` | SVG signal chain | Yes | モニター基礎 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
+| FIG-N-STROKE-001 | 急性脳卒中の機序 | 虚血と出血の機序を区別し緊急評価へつなぐ | `assets/neurology/stroke_mechanism_comparison.svg` | `docs/04_Neurology/Stroke_SAH/ACUTE_STROKE_SAH.md` | SVG comparison | Yes | 脳卒中導入 | SSOT; evidence remapping pending | NEEDS FURTHER REVIEW |
 
 ## Index rules
 
 - `PowerPoint Reusable: Yes`は16:9、vector、単独理解、短いlabelを満たすものだけに付与する。
 - Figure更新時はFile、Evidence Source、Last Reviewedを同じPRで更新する。
 - 未作成Figureは[Visual Asset Plan](VISUAL_ASSET_PLAN.md)で管理し、このIndexには完成後のみ登録する。
+- Figure Claimと詳細な査読条件は[図版・医療イラスト標準](FIGURE_STANDARD.md)に従う。

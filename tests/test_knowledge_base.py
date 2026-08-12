@@ -258,6 +258,33 @@ def test_master_reference_phase1_audit_is_exhaustive():
     assert audited_ssot == real_ssot
 
 
+def test_master_reference_phase2_foundation_is_explicit_and_traceable():
+    required = {
+        "STYLE_GUIDE.md", "EVIDENCE_AND_CITATION_STANDARD.md",
+        "THRESHOLD_REGISTRY.md", "FIGURE_STANDARD.md", "PHASE2_REPORT.md",
+    }
+    assert all((ROOT / name).exists() for name in required)
+    template = (DOCS / "_templates" / "knowledge-page.md").read_text()
+    for marker in (
+        "Quick Review", "Core", "Advanced", "ICU Nursing Pearls",
+        "[RECOMMENDATION]", "[UNCERTAINTY]", "Claim-level References",
+        "Population", "Context", "Recommendation strength", "Exceptions / limits",
+        "介入後のモニタリングと再評価",
+    ):
+        assert marker in template
+    thresholds = (ROOT / "THRESHOLD_REGISTRY.md").read_text()
+    for marker in ("対象集団", "測定条件", "Source ID", "例外", "NEEDS SOURCE REMAPPING"):
+        assert marker in thresholds
+
+
+def test_figure_index_has_only_structured_asset_registrations():
+    index = (ROOT / "FIGURE_INDEX.md").read_text()
+    assert not re.search(r"^- .*`assets/", index, re.MULTILINE)
+    rows = [line for line in index.splitlines() if re.match(r"\| (?:FIG|ILL)-", line)]
+    assert len(rows) == 74
+    assert all("| Yes |" in row for row in rows)
+
+
 def test_learning_asset_coverage_registers_all_twenty_domains():
     coverage = (DOCS / "LEARNING_ASSET_COVERAGE.md").read_text()
     registered = set(re.findall(r"^\| ([A-Z][A-Z0-9_]+) \|", coverage, re.MULTILINE))

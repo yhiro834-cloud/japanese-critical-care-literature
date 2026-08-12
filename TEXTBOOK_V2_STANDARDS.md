@@ -2,6 +2,9 @@
 
 この基準は、同じ章を新人看護師と経験豊富な看護師が異なる深さで利用できるようにするための共通仕様です。既存ページは削除せず、基準に沿って順次改訂します。
 
+> [!IMPORTANT]
+> Phase 1の全面監査後、本書は再構築中です。過去の `reviewed` や完了表記だけでは医学的完成を意味しません。用語は [STYLE_GUIDE.md](STYLE_GUIDE.md)、主張と引用は [EVIDENCE_AND_CITATION_STANDARD.md](EVIDENCE_AND_CITATION_STANDARD.md)、数値は [THRESHOLD_REGISTRY.md](THRESHOLD_REGISTRY.md)、図は [FIGURE_STANDARD.md](FIGURE_STANDARD.md) を正本とします。
+
 ## 想定する読者
 
 | 読者 | 読後にできること |
