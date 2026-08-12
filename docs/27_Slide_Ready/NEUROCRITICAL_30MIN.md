@@ -2,7 +2,7 @@
 title: "Neurocritical Care — 30-minute Slide Ready"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 evidence_reviewed: 2026-08-11
 next_review: 2027-02-11
 owners: []
@@ -37,7 +37,8 @@ ssot: false
 
 ## Key Figures Needed
 
-- ICP compensation curve（未作成）
+- [Monro–Kellieの考え方](../../assets/neurology/monro_kellie_doctrine.svg)（作成済み：Slide 3）
+- [ICPとCPPの関係](../../assets/neurology/icp_cpp_relationship.svg)（作成済み：Slide 3/4）
 - acute neuro decline flow（未作成）
 - multimodal prognostication timeline（未作成）
 
