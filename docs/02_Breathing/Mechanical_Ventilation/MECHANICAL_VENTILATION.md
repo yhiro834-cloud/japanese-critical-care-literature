@@ -51,6 +51,15 @@ ssot: true
 
 人工呼吸器はoxygenationとventilationを支え、呼吸仕事量を軽減する一方、VILI、循環抑制、横隔膜障害、鎮静関連害を生じ得ます。目標はgasを正常化することではなく、許容できるgas exchangeを最小限の害で確保し原因回復を待つことです。
 
+![人工呼吸器・回路・人工気道・肺の位置関係](../../../assets/illustrations/mechanical_ventilation_system_v2.png)
+
+**Illustration ILL-VENT-002 — 人工呼吸器から肺までの位置関係（概念図）**
+
+- **最初に見る場所:** 右側の人工呼吸器から2本の回路脚をたどり、患者側の分岐、気管チューブ、気管、左右肺へ進みます。
+- **Clinical Meaning:** 画面の数値は人工呼吸器単体ではなく、患者、人工気道、回路、肺・胸壁がつながった系から生じます。
+- **重要な限界:** 生成AIを用いた概念イラストです。特定機種の正しい接続、加温加湿器の配置、回路交換、気管チューブ先端確認を教える手技図ではありません。実機構成は添付文書、臨床工学技士、施設手順で確認してください。
+- **査読状態:** 二度の生成・目視修正を実施しましたが、呼吸療法・臨床工学・解剖の専門家確認前のため `REVISE / HUMAN REVIEW REQUIRED` です。
+
 ## 2. 基本となる力学
 
 - **Equation of motion:** `Pvent + Pmus = (V/Crs) + (Flow × R) + PEEPtotal`
@@ -97,7 +106,7 @@ Volume-targetedとpressure-targetedは「何を保証し、何が変動するか
 5. measured：exhaled VT/minute ventilation、Ppeak/Pplat/total PEEP、waveforms
 6. cause and trend：病態、画像、gas、介入反応
 
-## 5. Waveform Reasoning
+## 5. 波形による臨床推論
 
 - pressure rise/flow starvation、double triggering、ineffective effort、auto-trigger、premature/delayed cyclingを「患者要求と機械送気の不一致」として読む
 - expiratory flowが次の吸気前にzeroへ戻らない所見はair trappingを示唆するが、測定条件とpatient effortを確認
