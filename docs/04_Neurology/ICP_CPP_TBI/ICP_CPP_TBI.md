@@ -14,6 +14,11 @@ ssot: true
 
 # ICP, CPP, Cerebral Edema, and Severe TBI
 
+![脳・脳室・脳脊髄液腔・頭蓋骨の教育用矢状断イラスト](../../../assets/illustrations/intracranial_anatomy_v1.png)
+
+> [!NOTE]
+> 頭蓋内の位置関係を理解するための教育用模式図です。病変、実際の容量比、患者固有の頭蓋内圧を表すものではありません。
+
 > [!CAUTION]
 > impending herniationはclinical emergencyです。hyperosmolar therapy、ventilation、surgery等は病態・monitor・循環・電解質を踏まえ専門チームと施設protocolで実施します。固定用量や単一CPP targetを本頁から処方しません。
 

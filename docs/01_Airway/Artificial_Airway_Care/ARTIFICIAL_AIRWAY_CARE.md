@@ -14,6 +14,11 @@ ssot: true
 
 # 気管チューブ・気管切開の管理
 
+![気道・肺・気管チューブ・人工呼吸器回路の教育用イラスト](../../../assets/illustrations/airway_ventilator_anatomy_v1.png)
+
+> [!NOTE]
+> 解剖と機器の位置関係をつかむための教育用イラストです。実際のチューブ位置は呼気二酸化炭素波形、左右換気、深さ、画像などで確認し、図だけで判断しません。
+
 > [!CAUTION]
 > 人工気道患者の突然の悪化ではdisplacement、obstruction、pneumothorax、equipment failureを即時評価します。気管切開の成熟度や術式により再挿入の危険性が異なるため、施設emergency algorithmを優先してください。
 

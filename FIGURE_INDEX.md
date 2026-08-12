@@ -46,6 +46,9 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | FIG-I-ABX-001 | 抗菌薬タイムアウト | 感染確率・培養・感染源制御から治療を再処方 | `assets/infection/antibiotic_timeout.svg` | `docs/06_Infection_Sepsis/Antimicrobial_Source_Control/ANTIMICROBIAL_SOURCE_CONTROL.md` | SVG reassessment flow | Yes | 抗菌薬適正使用・症例 | Surviving Sepsis Campaign 2026; Antimicrobial SSOT | 2026-08-12 |
 | FIG-A-RESCUE-001 | 気道緊急時の救助 | 酸素化を保ちながら段階的に救助手段を進める | `assets/airway/airway_rescue_sequence.svg` | `docs/01_Airway/Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md` | SVG escalation flow | Yes | 気道評価・救助計画 | ASA Difficult Airway 2022; PUMA 2022; Airway SSOT | 2026-08-12 |
 | FIG-P-ABG-001 | 動脈血液ガス | 採血条件から酸塩基・換気・酸素化を順序立てて読む | `assets/physiology/abg_interpretation_sequence.svg` | `docs/02_Breathing/ABG/ABG_INTERPRETATION.md` | SVG interpretation flow | Yes | ABG・酸塩基導入 | AARC Blood Gas Analysis Guideline; ABG SSOT | 2026-08-12 |
+| ILL-AIRWAY-001 | 気道・人工呼吸器解剖 | 気管チューブ、気管分岐部、肺、回路の位置関係を理解 | `assets/illustrations/airway_ventilator_anatomy_v1.png` | `docs/01_Airway/Artificial_Airway_Care/ARTIFICIAL_AIRWAY_CARE.md` | Raster medical illustration | Yes | 人工気道導入 | Airway SSOTを正本として目視監査 | 2026-08-12 |
+| ILL-CIRC-001 | 心肺循環解剖 | 右心系・肺循環・左心系・体循環の経路を理解 | `assets/illustrations/cardiopulmonary_circulation_anatomy_v1.png` | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | Raster medical illustration | Yes | 血行動態導入 | Hemodynamics SSOTを正本として目視監査 | 2026-08-12 |
+| ILL-NEURO-001 | 頭蓋内解剖 | 脳、脳室、脳脊髄液腔、頭蓋骨の位置関係を理解 | `assets/illustrations/intracranial_anatomy_v1.png` | `docs/04_Neurology/ICP_CPP_TBI/ICP_CPP_TBI.md` | Raster medical illustration | Yes | ICP・CPP導入 | ICP/CPP/TBI SSOTを正本として目視監査 | 2026-08-12 |
 
 ## Index rules
 
