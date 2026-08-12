@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">感染源を探し制御するための全身マップ</title>
+  <desc id="desc">感染を肺、血流・カテーテル、腹腔・胆道、尿路、皮膚軟部組織、中枢神経などに分け、検体採取、抗菌薬、感染源制御、再評価を並行する考え方。</desc>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#31546D"/></marker></defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="70" y="72" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">感染源の評価：培養だけでなく「どこを、どう制御するか」まで考える</text>
+  <text x="70" y="116" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#526B7A">感染部位、宿主要因、機器、画像、処置可能性を同じ時間軸で更新する</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
+    <rect x="60" y="170" width="360" height="560" rx="34" fill="#F6F8FA" stroke="#A8BAC5" stroke-width="4"/>
+    <circle cx="240" cy="260" r="55" fill="#F0D7C5"/><rect x="170" y="320" width="140" height="310" rx="65" fill="#EAF2F7"/>
+    <path d="M165 365 L95 520 M315 365 L385 520" stroke="#A8BAC5" stroke-width="28" stroke-linecap="round"/>
+    <path d="M205 630 L170 700 M275 630 L310 700" stroke="#A8BAC5" stroke-width="30" stroke-linecap="round"/>
+    <ellipse cx="215" cy="390" rx="28" ry="45" fill="#77C8E5"/><ellipse cx="265" cy="390" rx="28" ry="45" fill="#77C8E5"/>
+    <path d="M240 455 C205 470 205 525 240 540 C275 525 275 470 240 455" fill="#B55A52"/>
+    <ellipse cx="240" cy="575" rx="45" ry="25" fill="#FFF2D9"/>
+    <circle cx="240" cy="260" r="8" fill="#C74440"/><circle cx="205" cy="390" r="8" fill="#C74440"/><circle cx="275" cy="390" r="8" fill="#C74440"/><circle cx="240" cy="500" r="8" fill="#C74440"/><circle cx="240" cy="575" r="8" fill="#C74440"/><circle cx="135" cy="510" r="8" fill="#C74440"/>
+    <text x="240" y="765" text-anchor="middle" font-size="22" font-weight="700" fill="#172B3A">患者全体と挿入機器を確認</text>
+
+    <g font-size="22"><rect x="490" y="175" width="300" height="120" rx="24" fill="#EAF2F7"/><text x="640" y="220" text-anchor="middle" font-weight="700">肺・胸腔</text><text x="520" y="260">喀痰、画像、胸水、誤嚥</text>
+    <rect x="830" y="175" width="300" height="120" rx="24" fill="#FDE9E8"/><text x="980" y="220" text-anchor="middle" font-weight="700">血流・カテーテル</text><text x="860" y="260">血液培養、挿入部、必要性</text>
+    <rect x="1170" y="175" width="360" height="120" rx="24" fill="#FFF2D9"/><text x="1350" y="220" text-anchor="middle" font-weight="700">腹腔・胆道・消化管</text><text x="1200" y="260">画像、閉塞、穿孔、膿瘍、ドレーン</text>
+    <rect x="490" y="330" width="300" height="120" rx="24" fill="#FFF2D9"/><text x="640" y="375" text-anchor="middle" font-weight="700">尿路</text><text x="520" y="415">尿、閉塞、尿道カテーテル</text>
+    <rect x="830" y="330" width="300" height="120" rx="24" fill="#E7F6EE"/><text x="980" y="375" text-anchor="middle" font-weight="700">皮膚・軟部組織</text><text x="860" y="415">創、壊死、深部感染、圧迫部位</text>
+    <rect x="1170" y="330" width="360" height="120" rx="24" fill="#EEEAFE"/><text x="1350" y="375" text-anchor="middle" font-weight="700">中枢神経・その他</text><text x="1200" y="415">髄液、関節、骨、心内膜など</text></g>
+
+    <text x="1010" y="520" text-anchor="middle" font-size="28" font-weight="700" fill="#172B3A">並行して進める4本柱</text>
+    <rect x="490" y="545" width="490" height="82" rx="20" fill="#EAF2F7"/><text x="515" y="577" font-size="20" font-weight="700">1 適切な検体</text><text x="515" y="607" font-size="18">採取部位・時刻・量・抗菌薬前後を記録</text>
+    <rect x="1010" y="545" width="520" height="82" rx="20" fill="#FFF2D9"/><text x="1035" y="577" font-size="20" font-weight="700">2 経験的抗菌薬</text><text x="1035" y="607" font-size="18">重症度・感染源・耐性リスク・臓器機能で選ぶ</text>
+    <rect x="490" y="645" width="490" height="82" rx="20" fill="#FDE9E8"/><text x="515" y="677" font-size="20" font-weight="700">3 感染源制御</text><text x="515" y="707" font-size="18">排膿・除去・解除・修復の必要性と時機</text>
+    <rect x="1010" y="645" width="520" height="82" rx="20" fill="#E7F6EE"/><text x="1035" y="677" font-size="20" font-weight="700">4 再評価</text><text x="1035" y="707" font-size="18">反応・培養・画像・代替診断から狭域化・中止も判断</text>
+  </g>
+  <path d="M430 445 H470" stroke="#31546D" stroke-width="7" marker-end="url(#a)"/>
+  <rect x="170" y="780" width="1260" height="62" rx="22" fill="#FFF1EF"/>
+  <text x="800" y="820" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" font-weight="700" fill="#B21F2D">培養陰性でも感染は否定できず、陽性でも汚染・定着・真の感染を区別する</text>
+  <text x="800" y="880" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="17" fill="#526B7A">FIG-I-SOURCE-001 · 感染評価・抗菌薬・感染源制御SSOTを参照 · 教育用模式図 · 確認日 2026-08-12</text>
+</svg>

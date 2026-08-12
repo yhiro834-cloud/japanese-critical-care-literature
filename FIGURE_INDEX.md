@@ -53,6 +53,10 @@ Visual Assetのsource of truth。医学的内容はRelated Knowledge Pageを正�
 | ILL-GI-001 | 肝胆膵・門脈解剖 | 肝血流、胆汁、膵管、周辺臓器の関係を理解 | `assets/illustrations/hepatobiliary_pancreas_portal_anatomy_v1.png` | `docs/11_GI_Liver/Acute_Liver_Failure/ACUTE_LIVER_FAILURE_HE.md` | Raster medical illustration | Yes | 肝不全・消化器導入 | GI/Liver SSOTを正本として目視監査 | 2026-08-12 |
 | ILL-HEME-001 | 一次・二次止血 | 血小板血栓とフィブリン安定化を区別 | `assets/illustrations/hemostasis_platelet_fibrin_v1.png` | `docs/12_Hematology/DIC_Thrombocytopenia/DIC_THROMBOCYTOPENIA.md` | Raster medical illustration | Yes | DIC・血小板減少導入 | Hematology SSOTを正本として目視監査 | 2026-08-12 |
 | ILL-ENDO-001 | 内分泌臓器 | 下垂体、甲状腺、副腎、膵島の位置と組織を理解 | `assets/illustrations/endocrine_organs_adrenal_islet_v1.png` | `docs/10_Endocrine_Metabolic/Endocrine_Emergencies/ENDOCRINE_TEMPERATURE_EMERGENCIES.md` | Raster medical illustration | Yes | 内分泌緊急症導入 | Endocrine SSOTを正本として目視監査 | 2026-08-12 |
+| FIG-I-SOURCE-001 | 感染源評価 | 全身の感染源候補から検体・抗菌薬・感染源制御を並行化 | `assets/infection/infection_source_control_map.svg` | `docs/06_Infection_Sepsis/Infection_Assessment/INFECTION_ASSESSMENT.md` | SVG body map | Yes | 感染評価・敗血症導入 | Infection Assessment / Source Control SSOT | 2026-08-12 |
+| FIG-T-BURN-001 | 熱傷深度 | 表皮・真皮・皮下組織と障害深度を比較 | `assets/trauma/burn_depth_skin_layers.svg` | `docs/07_Trauma/Burns/BURN_INITIAL_MANAGEMENT.md` | SVG anatomy comparison | Yes | 熱傷初期評価 | Burn Initial Management SSOT | 2026-08-12 |
+| FIG-CARD-ANAT-001 | 冠循環・刺激伝導 | 心筋血流と電気刺激の経路を区別 | `assets/cardiac/coronary_conduction_overview.svg` | `docs/08_Cardiac_Critical_Care/ACS/ACUTE_CORONARY_SYNDROME.md` | SVG anatomy overview | Yes | ACS・不整脈導入 | ACS / Arrhythmia SSOT | 2026-08-12 |
+| FIG-M-LINE-001 | 侵襲的ライン | CVCと動脈圧ラインの目的・接続・測定系を区別 | `assets/monitoring/invasive_lines_monitoring.svg` | `docs/19_Monitoring/Core_Monitoring/MONITORING_WAVEFORMS_ARTIFACT.md` | SVG device schematic | Yes | ライン・圧波形導入 | Monitoring / Device Safety SSOT | 2026-08-12 |
 
 ## Index rules
 

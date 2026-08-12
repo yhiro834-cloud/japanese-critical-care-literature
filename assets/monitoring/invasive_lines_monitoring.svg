@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">中心静脈カテーテルと動脈圧ラインの目的と安全確認</title>
+  <desc id="desc">中心静脈カテーテルは薬剤投与などの静脈アクセス、動脈圧ラインは連続血圧と採血に用い、先端位置、接続、基準高、ゼロ点、波形、末梢循環、感染を区別して確認する。</desc>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#31546D"/></marker></defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="70" y="72" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">侵襲的ライン：目的、先端、接続、測定系を混同しない</text>
+  <text x="70" y="116" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#526B7A">中心静脈カテーテルは静脈アクセス、動脈ラインは圧波形の測定系として別々に確認する</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
+    <rect x="70" y="165" width="700" height="580" rx="34" fill="#F2FAFD" stroke="#2B7A9B" stroke-width="5"/>
+    <text x="420" y="220" text-anchor="middle" font-size="31" font-weight="700" fill="#2B7A9B">中心静脈カテーテル（CVC）</text>
+    <circle cx="230" cy="330" r="52" fill="#F0D7C5"/><rect x="165" y="385" width="130" height="210" rx="55" fill="#EAF2F7"/>
+    <path d="M230 380 C250 430 245 505 245 565" stroke="#72899A" stroke-width="24" fill="none"/>
+    <path d="M185 355 C210 390 225 440 242 505" stroke="#2B7A9B" stroke-width="10" fill="none"/>
+    <circle cx="242" cy="505" r="12" fill="#2B7A9B"/>
+    <path d="M185 355 C130 345 115 315 105 280" stroke="#2B7A9B" stroke-width="8" fill="none"/>
+    <rect x="90" y="250" width="90" height="42" rx="12" fill="#FFFFFF" stroke="#2B7A9B" stroke-width="4"/>
+    <text x="345" y="300" font-size="23" font-weight="700">主な目的</text><text x="345" y="340" font-size="21">・高浸透圧薬、昇圧薬などの投与</text><text x="345" y="377" font-size="21">・複数の静脈ルート確保</text><text x="345" y="414" font-size="21">・適応に応じた静脈圧・採血</text>
+    <text x="345" y="475" font-size="23" font-weight="700">毎回確認</text><text x="345" y="515" font-size="21">先端位置、逆血、ルーメン、接続</text><text x="345" y="552" font-size="21">挿入部、ドレッシング、必要性</text><text x="345" y="589" font-size="21">薬剤濃度・専用ルート・配合変化</text>
+    <rect x="115" y="645" width="610" height="65" rx="20" fill="#FFF1EF"/><text x="420" y="686" text-anchor="middle" font-size="21" font-weight="700" fill="#B21F2D">空気混入、接続外れ、閉塞、血栓、感染を警戒</text>
+
+    <rect x="830" y="165" width="700" height="580" rx="34" fill="#FFF3F1" stroke="#C74440" stroke-width="5"/>
+    <text x="1180" y="220" text-anchor="middle" font-size="31" font-weight="700" fill="#B21F2D">動脈圧ライン（A-line）</text>
+    <path d="M890 450 H1040" stroke="#C74440" stroke-width="12"/><circle cx="920" cy="450" r="18" fill="#C74440"/><text x="900" y="405" font-size="20">動脈カテーテル</text>
+    <path d="M1040 450 H1160" stroke="#C74440" stroke-width="8"/><rect x="1160" y="415" width="105" height="70" rx="16" fill="#FFFFFF" stroke="#31546D" stroke-width="5"/><text x="1213" y="457" text-anchor="middle" font-size="19">変換器</text>
+    <path d="M1265 450 H1435" stroke="#31546D" stroke-width="7" marker-end="url(#a)"/><rect x="1395" y="305" width="105" height="125" rx="16" fill="#EAF2F7"/><path d="M1410 370 q20 -60 40 0 t40 0" fill="none" stroke="#C74440" stroke-width="5"/>
+    <line x1="860" y1="515" x2="1490" y2="515" stroke="#8A9BA6" stroke-width="3" stroke-dasharray="12 10"/><text x="1180" y="548" text-anchor="middle" font-size="20" fill="#526B7A">基準高：右心房の高さを目安に施設手順で合わせる</text>
+    <text x="890" y="300" font-size="23" font-weight="700">主な目的</text><text x="890" y="340" font-size="21">・連続動脈圧と波形</text><text x="1120" y="340" font-size="21">・動脈採血</text>
+    <text x="890" y="595" font-size="23" font-weight="700">測定の信頼性</text><text x="890" y="635" font-size="21">基準高、ゼロ点、気泡、屈曲、接続、波形</text><text x="890" y="672" font-size="21">カフ血圧との整合、体位、末梢循環を確認</text>
+  </g>
+  <rect x="190" y="780" width="1220" height="62" rx="22" fill="#EAF2F7"/>
+  <text x="800" y="820" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" font-weight="700" fill="#172B3A">値だけで判断せず、患者所見・測定品質・適応・感染予防・不要時の抜去を同時に再評価</text>
+  <text x="800" y="880" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="17" fill="#526B7A">FIG-M-LINE-001 · 一般化した教育用模式図 · 製品取扱説明書・施設手順を優先 · 確認日 2026-08-12</text>
+</svg>

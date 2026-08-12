@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">皮膚の層と熱傷深度の模式図</title>
+  <desc id="desc">表皮、真皮、皮下組織の層と、表在性、浅達性Ⅱ度、深達性Ⅱ度、Ⅲ度熱傷の到達深度を比較し、外観だけで深度を固定しないことを示す。</desc>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="70" y="72" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">熱傷深度：皮膚のどの層まで障害が及ぶかを時間経過で評価する</text>
+  <text x="70" y="116" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" fill="#526B7A">色や痛みだけで断定せず、循環、温度、汚染、部位、経時変化、専門評価を統合する</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif">
+    <text x="105" y="190" font-size="23" font-weight="700">正常皮膚の層</text>
+    <rect x="90" y="220" width="350" height="70" rx="18" fill="#F6C7B6"/><text x="265" y="265" text-anchor="middle" font-size="25">表皮</text>
+    <rect x="90" y="290" width="350" height="250" fill="#F2A98F"/><text x="265" y="340" text-anchor="middle" font-size="25">真皮</text>
+    <path d="M140 380 C190 330 240 430 290 360 S380 390 410 335" fill="none" stroke="#C74440" stroke-width="8"/>
+    <g fill="#8B5B00"><circle cx="160" cy="470" r="15"/><circle cx="220" cy="450" r="15"/><circle cx="300" cy="485" r="15"/><circle cx="375" cy="455" r="15"/></g>
+    <rect x="90" y="540" width="350" height="170" fill="#FFF2D9"/><text x="265" y="625" text-anchor="middle" font-size="25">皮下組織</text>
+    <text x="265" y="755" text-anchor="middle" font-size="20" fill="#526B7A">血管・神経・毛包などは真皮内を走る</text>
+
+    <g text-anchor="middle"><text x="620" y="190" font-size="23" font-weight="700">表在性</text><text x="890" y="190" font-size="23" font-weight="700">浅達性Ⅱ度</text><text x="1160" y="190" font-size="23" font-weight="700">深達性Ⅱ度</text><text x="1430" y="190" font-size="23" font-weight="700">Ⅲ度</text></g>
+    <g><rect x="500" y="220" width="240" height="70" rx="16" fill="#F6C7B6"/><rect x="500" y="290" width="240" height="250" fill="#F2A98F"/><rect x="500" y="540" width="240" height="170" fill="#FFF2D9"/><rect x="500" y="220" width="240" height="58" rx="16" fill="#E98080" opacity=".8"/>
+    <rect x="770" y="220" width="240" height="70" rx="16" fill="#F6C7B6"/><rect x="770" y="290" width="240" height="250" fill="#F2A98F"/><rect x="770" y="540" width="240" height="170" fill="#FFF2D9"/><rect x="770" y="220" width="240" height="155" rx="16" fill="#E98080" opacity=".75"/>
+    <rect x="1040" y="220" width="240" height="70" rx="16" fill="#F6C7B6"/><rect x="1040" y="290" width="240" height="250" fill="#F2A98F"/><rect x="1040" y="540" width="240" height="170" fill="#FFF2D9"/><rect x="1040" y="220" width="240" height="285" rx="16" fill="#D8615D" opacity=".75"/>
+    <rect x="1310" y="220" width="240" height="70" rx="16" fill="#F6C7B6"/><rect x="1310" y="290" width="240" height="250" fill="#F2A98F"/><rect x="1310" y="540" width="240" height="170" fill="#FFF2D9"/><rect x="1310" y="220" width="240" height="390" rx="16" fill="#91413D" opacity=".8"/></g>
+    <g font-size="20" text-anchor="middle"><text x="620" y="755">表皮内</text><text x="890" y="755">真皮浅層まで</text><text x="1160" y="755">真皮深層まで</text><text x="1430" y="755">皮膚全層</text></g>
+  </g>
+  <rect x="180" y="790" width="1240" height="55" rx="20" fill="#EAF2F7"/>
+  <text x="800" y="825" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" font-weight="700" fill="#172B3A">熱傷は進行して深くなることがある。面積・部位・気道・循環・感染・疼痛とともに反復評価</text>
+  <text x="800" y="880" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="17" fill="#526B7A">FIG-T-BURN-001 · 深度の定性的模式図（実寸・診断写真ではない） · 熱傷SSOTを参照 · 確認日 2026-08-12</text>
+</svg>
