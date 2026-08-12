@@ -2,8 +2,8 @@
 title: "Electrolyte Emergencies"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > 急速なNa補正、重症K異常、IV calcium/K/Mg/Phosは致死的害を起こし得ます。症状、急性/慢性、ECG、腎機能、投与経路を確認し、施設の濃度・速度・再検protocolを使用してください。
+
+## 0. まず覚える
+
+電解質異常は数値の異常だけでなく、心筋・神経・筋・水分分布へ急速な害を生じます。
+
+**簡単に言うと：** 検査値、症状、ECG、急性/慢性、腎機能、治療後の再検時刻を一組で管理します。
+
+| 用語 | 意味 | 重要な注意 |
+|---|---|---|
+| hyperkalemia | 高K血症 | ECG正常でも重症を除外できない |
+| membrane stabilization | 心筋膜安定化 | IV calciumはK値を下げない |
+| intracellular shift | Kを一時的に細胞内へ移す | reboundと低血糖を監視 |
+| osmotic demyelination | 急速なNa補正後の神経障害 | 慢性・高risk患者で補正速度を厳密管理 |
+
+**新人看護師の到達点：** 検体溶血、ECG、症状、腎機能、投与route、再検時刻を確認し、治療を「投与して終了」にしないこと。
+
+**ベテラン向け深掘り：** pH/glucose/albumin補正、redistribution、total body deficit/excess、ongoing loss、dialysis適応、過補正rescueを統合します。
 
 ## 1. General Approach
 
@@ -80,4 +97,5 @@ critical value → patient/ECG + sample validity → immediate threat stabilizat
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / medication safety / repeat testing | Staged-learning introduction added; nephrology/pharmacy review needed |
 | 2026-08-11 | Codex | electrolyte guideline / safety / nursing | Evidence reviewed; nephrology/pharmacy/local protocol review needed |

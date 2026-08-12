@@ -2,8 +2,8 @@
 title: "Acute Kidney Injury"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > KDIGO 2026 AKI/AKDは2026-08-11時点でpublic-review draftであり、最終版ではありません。本頁の診断stageは現行最終版KDIGO 2012を使用し、草案の新規推奨を確定事項として採用しません。
+
+## 0. まず覚える
+
+**急性腎障害（acute kidney injury：AKI）**は、短期間に腎機能が低下するsyndromeで、血清creatinine上昇または尿量低下で定義・stage分類します。
+
+**簡単に言うと：** creatinineだけでなく尿量、循環、うっ血、閉塞、薬剤、時間経過を一緒に見ます。
+
+| 用語 | 意味 | 限界 |
+|---|---|---|
+| SCr | 血清creatinine | 変化が遅く筋量・希釈の影響を受ける |
+| oliguria | 尿量低下 | catheter閉塞、体格、diuretic等も影響 |
+| nephrotoxin | 腎障害を起こし得る薬剤・物質 | 適応、dose、濃度、併用、回避可能性を確認 |
+| congestion | 静脈うっ血 | 腎灌流は動脈側だけでなく静脈側にも影響される |
+
+**新人看護師の到達点：** 時間尿、catheter、fluid balance、体重、血圧、浮腫、薬剤、検査trendを確認し、急な乏尿を報告すること。
+
+**ベテラン向け深掘り：** creatinine dilution、baseline不明、AKD、demand–capacity、venous congestion、腹腔内圧、薬物動態、回復後riskを統合します。
 
 ## 1. Overview
 
@@ -86,4 +103,5 @@ SCr↑/尿量↓ → 本物か・baseline/時間 → stageと緊急合併症
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / draft-vs-final KDIGO / nursing | Staged-learning introduction added; nephrology review needed |
 | 2026-08-11 | Codex | current/draft status / AKI / nursing | Evidence reviewed; nephrology review needed |

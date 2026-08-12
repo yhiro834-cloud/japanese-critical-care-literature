@@ -2,8 +2,8 @@
 title: "Infection Assessment in the Critically Ill"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > 感染疑いとsepsisは同義ではなく、sepsis mimicも多くあります。一方、shock/高probability感染で検査完了を待って治療を遅らせないでください。診断確率と緊急度を明示します。
+
+## 0. まず覚える
+
+**感染評価**は、宿主risk、症候群、解剖学的感染源、病原体、臓器障害、代替診断を繰り返し更新するprocessです。
+
+**簡単に言うと：** 発熱やCRPだけで感染と決めず、「どこに、何が、どの確率で、どれほど緊急か」を考えます。
+
+| 用語 | 意味 | 注意 |
+|---|---|---|
+| colonization | 病原体が存在するが感染を起こしていない状態 | 培養陽性だけで治療しない |
+| contamination | 採取過程等で混入した微生物 | 採取法、set、菌種、臨床像を確認 |
+| diagnostic stewardship | 適切な患者・検体・時点で検査する考え方 | 不適切検体は過剰治療を生む |
+| sepsis mimic | sepsisに似た非感染性病態 | 出血、PE、薬剤、内分泌等を並行評価 |
+
+**新人看護師の到達点：** device、創、皮膚、呼吸、尿、腹部、意識を系統的に見て、検体の種類・採取法・時刻・抗菌薬前後を記録すること。
+
+**ベテラン向け深掘り：** pretest probability、host phenotype、MDR risk、検体quality、colonization、source control、治療反応とalternative diagnosisを統合します。
 
 ## 1. Overview
 
@@ -80,4 +97,5 @@ possible infection → stability/organ dysfunction → source syndrome + host/MD
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / diagnostic stewardship / specimen quality | Staged-learning introduction added; ID/microbiology review needed |
 | 2026-08-11 | Codex | diagnostic strategy / specimen / nursing | Evidence reviewed; ID/microbiology/local lab review needed |

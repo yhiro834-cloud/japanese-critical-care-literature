@@ -2,8 +2,8 @@
 title: "Neurological Assessment in Critical Care"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,27 @@ ssot: true
 
 > [!CAUTION]
 > 意識変化は神経疾患だけでなく低酸素、低灌流、低血糖、薬剤、CO₂、感染、電解質異常で起こります。新規の瞳孔不同・局在徴候・急速なGCS低下は直ちにescalationしてください。
+
+## 0. まず覚える
+
+**神経学的評価**は、意識・瞳孔・眼球・言語・運動・感覚などを同じ条件で繰り返し、基準値からの変化を捉える評価です。
+
+**簡単に言うと：** 合計点を記録するのではなく、「いつ、どの刺激で、どの反応が、左右どのように変わったか」を伝えます。
+
+| 用語 | 意味 | 注意 |
+|---|---|---|
+| GCS | 開眼・言語・運動反応の尺度 | E/V/Mを個別記録し、評価不能を推測しない |
+| JCS | 日本で用いられる意識尺度 | 詳細な神経所見を置き換えない |
+| pupil | 瞳孔 | 径、左右差、形、対光反射、測定条件を記録 |
+| focal deficit | 局在性神経症状 | 顔面・上下肢・言語・視野等の左右差 |
+
+**新人看護師の到達点：** ABCと血糖を先に確認し、GCS各項目、瞳孔、左右差、鎮静薬、変化時刻をそろえて報告すること。
+
+**ベテラン向け深掘り：** 薬剤蓄積、低体温、臓器不全、NMB、眼疾患、baseline障害を交絡として分離し、画像・EEG・ICP等へ接続します。
+
+### 報告例
+
+> 「最終正常○時、○時に変化を確認しました。GCSはE○V○M○で前回から○、瞳孔は右○mm/左○mm・反応○○、顔面と四肢の左右差は○○です。SpO₂、血圧、血糖、PaCO₂、鎮静薬は○○です。」
 
 ## 1. Overview
 
@@ -65,4 +86,5 @@ sedative/analgesic、neuromuscular blocker、hypothermia、organ failureによ�
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / serial assessment / reporting | Staged-learning introduction added; neurocritical nursing review needed |
 | 2026-08-11 | Codex | assessment / safety / nursing | Clinical framework reviewed; neurocritical expert review needed |

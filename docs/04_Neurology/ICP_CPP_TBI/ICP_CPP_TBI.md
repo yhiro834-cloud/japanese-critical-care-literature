@@ -2,8 +2,8 @@
 title: "ICP, CPP, Cerebral Edema, and Severe TBI"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > impending herniationはclinical emergencyです。hyperosmolar therapy、ventilation、surgery等は病態・monitor・循環・電解質を踏まえ専門チームと施設protocolで実施します。固定用量や単一CPP targetを本頁から処方しません。
+
+## 0. まず覚える
+
+**頭蓋内圧（intracranial pressure：ICP）**は頭蓋骨内の圧、**脳灌流圧（cerebral perfusion pressure：CPP）**は脳へ血液を送る圧の指標です。基本式は `CPP = MAP − ICP` です。
+
+**簡単に言うと：** 頭蓋内の余裕がなくなるとICPが急上昇し、脳へ届く血流が減るため、脳と全身循環を同時に守ります。
+
+| 用語 | 意味 | 看護で見ること |
+|---|---|---|
+| Monro–Kellie | 頭蓋内volumeは脳・血液・CSFで構成 | 小さなvolume増加でも代償後はICP急上昇 |
+| EVD | 脳室ドレナージ | level/zero、clamp、排液、波形、挿入部 |
+| herniation | 脳組織の危険な偏位 | 瞳孔、意識、運動、呼吸、循環の急変 |
+| hyperosmolar therapy | 浸透圧を利用した脳浮腫治療 | Na、osmolality、腎、循環、反応を監視 |
+
+**新人看護師の到達点：** 頭頸部alignment、瞳孔・GCS、EVD基準面、ICP/CPP/MAP、体温、酸素化、Naと介入時刻を確認すること。
+
+**ベテラン向け深掘り：** autoregulation、venous outflow、PaCO₂、胸腔内圧、CVP、systemic injuryを統合し、単一ICP/CPP値を処方目標にしません。
 
 ## 1. Physiology
 
@@ -72,4 +89,5 @@ neuro/ICP悪化 → artifact/level/position → ABCDE・pupil・herniation signs
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / EVD safety / systemic integration | Staged-learning introduction added; neurocritical/neurosurgical review needed |
 | 2026-08-11 | Codex | ICP/TBI guideline / nursing | Evidence reviewed; neurosurgery/neurocritical review needed |

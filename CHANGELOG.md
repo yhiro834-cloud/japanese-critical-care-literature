@@ -4,6 +4,15 @@
 
 ## Unreleased
 
+### 2026-08-12 — Textbook V2 Neuro / Renal / Infection
+
+- **テーマ:** Dから腎・感染までの段階学習化
+- **変更内容:** 神経5章、腎3章、感染2章へ用語、新人到達点、ベテラン深掘り、測定・治療限界を追加し、READMEとGlossaryを同期
+- **新しいEvidence:** AHA/ASA AIS 2026、NCS neuroprognostication 2023を公式資料で再確認。KDIGO 2026 AKI/AKDは草案として維持し、確定推奨へ格上げしない
+- **臨床的に何が変わったか:** score・creatinine・培養等の単独判断を防ぎ、時刻、条件、左右差、出納、検体quality、介入反応へ接続した
+- **影響ページ:** Neurology、Renal、Infection/Sepsis、Glossary、V2 Migration
+- **要確認:** 各領域専門家、薬剤師、臨床工学技士、ICU看護教育担当のsign-offは継続課題
+
 ### 2026-08-12 — Textbook V2 Circulation
 
 - **テーマ:** Cをpressure・flow・perfusionの順で再構築

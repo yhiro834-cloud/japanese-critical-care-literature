@@ -2,8 +2,8 @@
 title: "Seizure, NCSE, and Critical Care EEG"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,22 @@ ssot: true
 
 > [!CAUTION]
 > convulsive statusは時間依存の緊急事態です。ABC、glucose、first-line treatmentと原因検索を同時に開始します。薬剤・用量はstatus protocol、年齢、妊娠、臓器機能、循環に従ってください。
+
+## 0. まず覚える
+
+**痙攣（seizure）**は脳の異常な電気活動による一過性症状、**てんかん重積状態（status epilepticus）**は発作が遷延または反復し回復しない時間依存性緊急事態です。**非痙攣性てんかん重積（NCSE）**では目立つ全身痙攣がないことがあります。
+
+**簡単に言うと：** 動きを止めるだけでなく、発作開始時刻、ABC、血糖、原因、意識回復、脳波上の発作継続を確認します。
+
+| 用語 | 意味 | 観察 |
+|---|---|---|
+| semiology | 発作の症状・動き方 | 開始部位、左右、眼球、時間、意識、回復 |
+| cEEG | 持続脳波monitoring | clinical seizure消失後の電気的発作を評価 |
+| artifact | 脳波に混入する非脳由来信号 | 体動、筋電、機器を臨床所見と照合 |
+
+**新人看護師の到達点：** 発症時刻、持続時間、左右差、意識、SpO₂、血糖、薬剤投与時刻と反応を記録し、外傷を防ぐこと。
+
+**ベテラン向け深掘り：** ictal–interictal continuum、鎮静/NMB下のclinical masking、薬剤蓄積、refractory statusの循環・換気・EEG目標を統合します。
 
 ## 1. Recognition
 
@@ -73,4 +89,5 @@ seizure → time/ABC/glucose → first-line treatment → parallel cause search
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / seizure timeline / EEG limits | Staged-learning introduction added; epilepsy/neurocritical review needed |
 | 2026-08-11 | Codex | status/EEG / nursing | Evidence reviewed; epilepsy/neurocritical review needed |

@@ -28,7 +28,7 @@ Last audited: 2026-08-12
 | V2-1 | Fundamentals / ABCDE | 安全な初期評価、正常と異常、報告、再評価 | 用語基盤を実装、ABCDE本文は未着手 |
 | V2-2 | Airway / Breathing | 酸素療法、人工気道、人工呼吸、ARDS、離脱 | Airway 3章とBreathing 8章のV2導線を実装 |
 | V2-3 | Circulation / Shock | 血圧・flow・灌流、輸液、血管作動薬、POCUS | 主要6章のV2導線を実装 |
-| V2-4 | Neuro / Renal / Infection | 意識・ICP、AKI/CRRT、感染・sepsis | 未着手 |
+| V2-4 | Neuro / Renal / Infection | 意識・ICP、AKI/CRRT、感染・sepsis | 主要10章のV2導線を実装 |
 | V2-5 | Trauma / Cardiac / ECMO-MCS | 高リスク急変とdevice safety | 未着手 |
 | V2-6 | Endocrine / GI / Hematology | 代謝、出血、肝・膵、凝固・輸血 | 未着手 |
 | V2-7 | 薬剤 / 栄養 / PADIS / Rehab | 投薬安全、comfort、回復 | 未着手 |
@@ -59,6 +59,7 @@ Last audited: 2026-08-12
 - [x] Airway評価・RSI/困難気道・人工気道管理のV2化
 - [x] 呼吸生理・酸素療法・HFNC・NIV・ABG・人工呼吸・ARDS・離脱のV2導線
 - [x] Shock・血行動態・輸液・昇圧薬/強心薬・敗血症性shock・POCUSのV2導線
+- [x] 神経5章・腎3章・感染2章のV2導線
 - [x] 画像の用語説明・初学者導線・勉強会利用基準
 - [ ] 既存SSOT全ページのV2変換
 - [ ] 多職種専門家review

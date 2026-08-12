@@ -2,8 +2,8 @@
 title: "Acute Stroke, ICH, and Aneurysmal SAH"
 status: review-needed
 created: 2026-08-11
-last_updated: 2026-08-11
-evidence_reviewed: 2026-08-11
+last_updated: 2026-08-12
+evidence_reviewed: 2026-08-12
 next_review: 2027-02-11
 owners: []
 reviewers: [Codex evidence review]
@@ -16,6 +16,23 @@ ssot: true
 
 > [!CAUTION]
 > stroke治療は発症/last-known-well、画像、薬剤、血圧、施設能力で時間依存です。thrombolysis、thrombectomy、reversal、aneurysm securing、血圧目標はstroke team protocolを直ちに起動してください。
+
+## 0. まず覚える
+
+**脳卒中（stroke）**は、脳血管の閉塞または破綻により急に神経症状を生じる状態です。虚血性脳卒中、脳内出血（ICH）、くも膜下出血（SAH）では治療が異なります。
+
+**簡単に言うと：** 症状だけで種類を決めず、最終正常時刻、血糖、抗凝固薬、画像を急いでそろえます。
+
+| 用語 | 意味 | 看護で結びつけること |
+|---|---|---|---|
+| last-known-well | 最後に正常だった時刻 | 発見時刻と区別し、治療選択へ直結 |
+| thrombolysis | 薬剤で血栓を溶かす再灌流治療 | 適応、禁忌、血圧、出血、神経所見を監視 |
+| EVT | 血管内治療 | 搬送、穿刺部、再灌流後の神経・血圧管理 |
+| DCI | SAH後の遅発性脳虚血 | 新規神経変化と交絡を系統的に除外 |
+
+**新人看護師の到達点：** 発症/最終正常時刻、GCS、瞳孔、顔面・四肢・言語、血糖、抗凝固薬、血圧を迅速に報告すること。
+
+**ベテラン向け深掘り：** 2026 AIS guidelineの拡大適応、再灌流後の過度な降圧の害、ICHの治療制限bias、SAHのDCI鑑別を統合します。
 
 ## 1. Recognition and First Actions
 
@@ -73,4 +90,5 @@ acute deficit/headache → ABCDE/glucose/last-known-well → stroke activation
 
 | Date | Reviewer | Scope | Result |
 |---|---|---|---|
+| 2026-08-12 | Codex | V2 terminology / AHA 2026 AIS / nursing timeline | Staged-learning introduction added; stroke/neurosurgery review needed |
 | 2026-08-11 | Codex | current guideline identity / nursing | Evidence reviewed; stroke/neurosurgery review needed |
