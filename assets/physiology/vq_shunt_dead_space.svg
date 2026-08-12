@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-  <title id="title">V/Qの連続体：shuntからdead spaceまで</title>
-  <desc id="desc">換気と灌流の相対関係をshunt、low V/Q、matched V/Q、high V/Q、dead spaceの5つで比較する模式図。</desc>
+  <title id="title">換気血流比の連続体：シャントから死腔まで</title>
+  <desc id="desc">換気と灌流の相対関係をシャント、低換気血流比、相対的に釣り合う状態、高換気血流比、死腔の5つで比較する模式図。</desc>
   <defs><marker id="air" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#1976A3"/></marker><marker id="blood" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#C74440"/></marker></defs>
   <rect width="1600" height="900" fill="#fff"/>
   <text x="80" y="78" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">V/Qは「ある・ない」ではなく連続体</text>
   <text x="80" y="120" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="24" fill="#526B7A">V = 換気　Q = 灌流　｜　両者の釣り合いがガス交換効率を決める</text>
 
   <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" text-anchor="middle">
-    <text x="180" y="205" font-size="28" font-weight="700" fill="#C74440">Shunt</text><text x="180" y="238" font-size="20" fill="#526B7A">V/Q = 0</text>
-    <text x="490" y="205" font-size="28" font-weight="700" fill="#D97706">Low V/Q</text><text x="490" y="238" font-size="20" fill="#526B7A">換気 ＜ 灌流</text>
-    <text x="800" y="205" font-size="28" font-weight="700" fill="#16856B">釣り合うV/Q</text><text x="800" y="238" font-size="20" fill="#526B7A">換気 ≈ 灌流</text>
-    <text x="1110" y="205" font-size="28" font-weight="700" fill="#D97706">High V/Q</text><text x="1110" y="238" font-size="20" fill="#526B7A">換気 ＞ 灌流</text>
-    <text x="1420" y="205" font-size="28" font-weight="700" fill="#1976A3">Dead space</text><text x="1420" y="238" font-size="20" fill="#526B7A">Q ≈ 0</text>
+    <text x="180" y="205" font-size="28" font-weight="700" fill="#C74440">シャント</text><text x="180" y="238" font-size="20" fill="#526B7A">Shunt：V = 0</text>
+    <text x="490" y="205" font-size="28" font-weight="700" fill="#D97706">低V/Q</text><text x="490" y="238" font-size="20" fill="#526B7A">Low V/Q：換気 ＜ 灌流</text>
+    <text x="800" y="205" font-size="28" font-weight="700" fill="#16856B">相対的に釣り合う</text><text x="800" y="238" font-size="20" fill="#526B7A">換気と灌流が対応</text>
+    <text x="1110" y="205" font-size="28" font-weight="700" fill="#D97706">高V/Q</text><text x="1110" y="238" font-size="20" fill="#526B7A">High V/Q：換気 ＞ 灌流</text>
+    <text x="1420" y="205" font-size="28" font-weight="700" fill="#1976A3">死腔</text><text x="1420" y="238" font-size="20" fill="#526B7A">Dead space：Q → 0</text>
   </g>
 
   <g fill="#EAF6FB" stroke="#31546D" stroke-width="4">

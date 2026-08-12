@@ -93,12 +93,12 @@ def test_real_ssot_pages_have_direct_external_evidence_identity():
         if "\nssot: true\n" not in text:
             continue
         match = re.search(
-            r"^## (?:\d+\. )?References\s*$\n(.*?)(?=^## |\Z)",
+            r"^## (?:\d+\. )?(?:Claim-level )?References\s*$\n(.*?)(?=^## |\Z)",
             text,
             re.MULTILINE | re.DOTALL,
         )
         if not match:
-            failures.append(f"{page.relative_to(ROOT)}: missing References section")
+            failures.append(f"{page.relative_to(ROOT)}: missing References or Claim-level References section")
         elif not re.search(r"https?://|\bDOI\b|\bPMID\b", match.group(1), re.IGNORECASE):
             failures.append(f"{page.relative_to(ROOT)}: no direct external evidence identifier")
     assert not failures, "SSOT evidence identity failures:\n" + "\n".join(failures)

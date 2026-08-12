@@ -19,7 +19,7 @@
 | 人工呼吸器の基本用語 | `docs/02_Breathing/Mechanical_Ventilation/VENTILATOR_TERMS.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | 非侵襲的換気 | `docs/02_Breathing/NIV/NIV.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | 酸素療法 | `docs/02_Breathing/Oxygen_Therapy/OXYGEN_THERAPY.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
-| 呼吸生理 | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
+| 呼吸生理 | `docs/02_Breathing/Respiratory_Physiology/RESPIRATORY_PHYSIOLOGY.md` | Audited | Claim mapping in progress | Major revision | Text/label review complete | 2 SVGs revised | Not started | No | Yes |
 | 人工呼吸器離脱と抜管評価 | `docs/02_Breathing/Weaning/VENTILATOR_LIBERATION.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | Fluid Therapy: Resuscitation to De-escalation | `docs/03_Circulation/Fluid_Therapy/FLUID_THERAPY.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | Hemodynamic Monitoring and Fluid Responsiveness | `docs/03_Circulation/Hemodynamics/HEMODYNAMIC_MONITORING.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
