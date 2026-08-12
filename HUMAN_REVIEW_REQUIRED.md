@@ -21,6 +21,7 @@ AI review cannot certify local policy, device behavior, exact anatomy, legal req
 | Ethics/end of life | Capacity, surrogate, DNAR, withdrawal and donation | Jurisdiction, law and institutional policy cannot be generalized | Legal/local policy review required | Clinical ethicist + legal counsel + palliative care |
 | Infection control | Isolation, device bundles, outbreak and occupational exposure | Local epidemiology and policy can supersede generic text | CDC/Japanese guidance and local IPC policy | Infection prevention specialist |
 | AI raster anatomy (7 files) | Airway, cardiopulmonary, endocrine, hemostasis, hepatobiliary, intracranial and renal images | Generated anatomy lacks traceable source layers and independent anatomic sign-off | `VISUAL_AUDIT.md`: REDRAW | Medical illustrator + relevant anatomist/specialist |
+| Artificial ventilation overview (ILL-VENT-002) | Ventilator, two-limb circuit, patient connection, endotracheal tube, trachea and lungs | AI-assisted illustration improved after one rejected draft and a targeted correction, but it is not a device connection guide and still lacks independent sign-off | `VISUAL_AUDIT.md`: REVISE / HUMAN REVIEW REQUIRED | Respiratory therapist + clinical engineer + airway specialist + medical illustrator |
 
 ## Sign-off record requirements
 

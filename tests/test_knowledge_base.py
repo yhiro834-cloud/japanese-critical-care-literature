@@ -281,7 +281,8 @@ def test_figure_index_has_only_structured_asset_registrations():
     index = (ROOT / "FIGURE_INDEX.md").read_text()
     assert not re.search(r"^- .*`assets/", index, re.MULTILINE)
     rows = [line for line in index.splitlines() if re.match(r"\| (?:FIG|ILL)-", line)]
-    assert len(rows) == 74
+    indexed_assets = re.findall(r"`(assets/[^`]+\.(?:svg|png))`", index)
+    assert len(rows) == len(indexed_assets)
     assert all("| Yes |" in row for row in rows)
 
 

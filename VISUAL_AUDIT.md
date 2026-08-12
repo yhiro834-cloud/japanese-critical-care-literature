@@ -2,7 +2,7 @@
 
 > Every asset is treated as unverified until its anatomy/physiology, arrows, labels, and evidence match are independently checked against the rewritten master text. Successful rendering is not medical validation.
 
-Assets audited: **74** (SVG 67, PNG 7).
+Phase 1 baseline: **74** assets (SVG 67, PNG 7). Current registered total after Phase 3 addition: **75** (SVG 67, PNG 8).
 
 | Figure ID | File | Topic | Anatomical Accuracy | Physiological Accuracy | Direction / Arrow Accuracy | Label Accuracy | Scale / Proportion | Clinical Accuracy | Educational Value | Readability | PowerPoint Utility | Evidence Match | Final Decision |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---|
@@ -38,6 +38,7 @@ Assets audited: **74** (SVG 67, PNG 7).
 | FIG-G-ABCDE-001 | `assets/general/abcde_reassessment_loop.svg` | abcde reassessment loop | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
 | UNSTRUCTURED-031 | `assets/hematology/transfusion_reaction_response.svg` | transfusion reaction response | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
 | ILL-AIRWAY-001 | `assets/illustrations/airway_ventilator_anatomy_v1.png` | airway ventilator anatomy v1 | 2 | 2 | 3 | 3 | 2 | 2 | 3 | 4 | Yes (raster; limited editing) | 2 | REDRAW |
+| ILL-VENT-002 | `assets/illustrations/mechanical_ventilation_system_v2.png` | ventilator–circuit–airway–lung overview | 2 | 2 | 2 | 3 | 2 | 2 | 4 | 4 | Yes (raster; limited editing) | 2 | REVISE / HUMAN REVIEW REQUIRED |
 | ILL-CIRC-001 | `assets/illustrations/cardiopulmonary_circulation_anatomy_v1.png` | cardiopulmonary circulation anatomy v1 | 2 | 2 | 3 | 3 | 2 | 2 | 3 | 4 | Yes (raster; limited editing) | 2 | REDRAW |
 | ILL-ENDO-001 | `assets/illustrations/endocrine_organs_adrenal_islet_v1.png` | endocrine organs adrenal islet v1 | 2 | 2 | 3 | 3 | 2 | 2 | 3 | 4 | Yes (raster; limited editing) | 2 | REDRAW |
 | ILL-HEME-001 | `assets/illustrations/hemostasis_platelet_fibrin_v1.png` | hemostasis platelet fibrin v1 | 2 | 2 | 3 | 3 | 2 | 2 | 3 | 4 | Yes (raster; limited editing) | 2 | REDRAW |
