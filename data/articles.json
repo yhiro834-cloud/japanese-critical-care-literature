@@ -17500,5 +17500,52 @@
     "free_full_text": false,
     "retrieved_at": "2026-08-10T23:59:36.819432+00:00",
     "manual_review_status": "未確認"
+  },
+  {
+    "article_key": "doi:10.18943/safety.65.4_256",
+    "jstage_article_id": "safety/65_256",
+    "cinii_id": "記載なし",
+    "doi": "10.18943/safety.65.4_256",
+    "title_ja": "人工呼吸器システムへの STPA の適用",
+    "title_en": "Application of STPA to a Ventilator System",
+    "abstract_ja": "日本語抄録なし",
+    "abstract_en": "記載なし",
+    "authors": [
+      "山口 晋一"
+    ],
+    "affiliations": [],
+    "journal": "安全工学",
+    "issn": "2424-0656",
+    "volume": "65",
+    "issue": "4",
+    "start_page": "256",
+    "end_page": "260",
+    "publication_year": "2026",
+    "publication_date": "記載なし",
+    "online_date": "2026-08-15T09:00+09:00",
+    "updated_date": "2026-08-15T09:00+09:00",
+    "article_type": "記載なし",
+    "keywords": [],
+    "categories": [
+      "人工呼吸"
+    ],
+    "matched_keywords": [
+      "人工呼吸",
+      "人工呼吸器",
+      "ventilat"
+    ],
+    "importance_score": 2,
+    "importance_reason": "資料種別を特定できないため基礎点2。機械的な一次選別であり、論文の質を保証しません。",
+    "source_databases": [
+      "J-STAGE"
+    ],
+    "jstage_url": "https://www.jstage.jst.go.jp/article/safety/65/4/65_256/_article/-char/ja/",
+    "cinii_url": "記載なし",
+    "doi_url": "https://doi.org/10.18943/safety.65.4_256",
+    "pdf_url": "記載なし",
+    "html_url": "https://www.jstage.jst.go.jp/article/safety/65/4/65_256/_article/-char/ja/",
+    "free_full_text": false,
+    "retrieved_at": "2026-08-14T22:58:16.656556+00:00",
+    "manual_review_status": "未確認"
   }
 ]
