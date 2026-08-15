@@ -41,12 +41,12 @@ jobs:
       - name: Commit new literature only
         shell: bash
         run: |
-          if git diff --quiet -- data literature; then
+          if git diff --quiet -- data literature evidence; then
             echo "新規文献はありません。"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data literature
+          git add data literature evidence
           git commit -m "docs: add Japanese literature report $(date -u -d '+9 hours' +%F)"
           git push
