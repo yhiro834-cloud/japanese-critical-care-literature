@@ -36,6 +36,8 @@ def parse_cinii(payload: dict[str, Any], retrieved_at: str) -> list[Article]:
         cinii_id = url.rstrip("/").split("/")[-1] if url != NA else NA
         doi = _value(item, "prism:doi")
         title = _value(item, "title")
+        descriptions = _list(item, "dc:description")
+        abstract = descriptions[0] if descriptions else "日本語抄録なし"
         date_value = _value(item, "prism:publicationDate")
         articles.append(Article(
             article_key=(f"doi:{doi.casefold()}" if doi != NA else f"cinii:{cinii_id}"),
@@ -45,6 +47,7 @@ def parse_cinii(payload: dict[str, Any], retrieved_at: str) -> list[Article]:
             start_page=_value(item, "prism:startingPage"), end_page=_value(item, "prism:endingPage"),
             publication_year=(date_value[:4] if date_value != NA else NA), publication_date=date_value,
             article_type=_value(item, "dc:type"), source_databases=["CiNii Research"], cinii_url=url,
+            abstract_ja=abstract, keywords=_list(item, "dc:subject"),
             doi_url=(f"https://doi.org/{doi}" if doi != NA else NA), retrieved_at=retrieved_at,
         ))
     return articles

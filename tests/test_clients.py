@@ -8,6 +8,7 @@ def test_parse_jstage_official_atom_shape():
       <article_link><ja>https://www.jstage.jst.go.jp/article/jsicm/33/0/33_R3/_article/-char/ja/</ja></article_link>
       <author><ja><name>山田太郎</name></ja></author>
       <material_title><ja>集中治療医学会誌</ja></material_title><pubyear>2026</pubyear>
+      <summary><ja>目的：架空の抄録。</ja></summary>
       <prism:doi>10.1/example</prism:doi><updated>2026-08-01T00:00:00+09:00</updated></entry></feed>'''.encode()
     article = parse_jstage(xml, "now")[0]
     assert article.title_ja == "集中治療"
@@ -16,3 +17,4 @@ def test_parse_jstage_official_atom_shape():
     assert article.journal == "集中治療医学会誌"
     assert article.publication_year == "2026"
     assert article.jstage_article_id == "jsicm/33_R3"
+    assert article.abstract_ja == "目的：架空の抄録。"

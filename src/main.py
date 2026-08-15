@@ -6,11 +6,13 @@ from datetime import date, datetime, timedelta, timezone
 
 from src import cinii_client, jstage_client
 from src.classifier import classify
+from src.content_analyzer import analyze
 from src.config import SEARCH_GROUPS, Config, jst_today
 from src.deduplicator import duplicate_of, merge_articles
 from src.models import Article, NA
 from src.scorer import score
-from src.storage import append_articles, load_articles, save_processed, write_report
+from src.storage import append_articles, load_articles, rank_articles, save_processed, write_report
+from src.evidence_card import write_cards
 
 LOG = logging.getLogger(__name__)
 
@@ -61,8 +63,11 @@ def collect(config: Config) -> list[Article]:
     for article in new:
         article.categories, article.matched_keywords = classify(article)
         article.importance_score, article.importance_reason = score(article)
+        analyze(article)
     new.sort(key=lambda a: a.importance_score, reverse=True)
-    return new[:config.max_articles]
+    selected = new[:config.max_articles]
+    rank_articles(selected)
+    return selected
 
 
 def run(config: Config) -> int:
@@ -77,9 +82,11 @@ def run(config: Config) -> int:
         return 0
     data_path = config.root / "data" / "articles.json"
     processed_path = config.root / "data" / "processed_articles.json"
+    day = jst_today()
+    write_cards(config.root, articles, day)
     append_articles(data_path, articles)
     save_processed(processed_path, load_articles(processed_path) + articles)
-    path = write_report(config.root, articles, jst_today())
+    path = write_report(config.root, articles, day)
     LOG.info("%d件を保存しました: %s", len(articles), path)
     return len(articles)
 
