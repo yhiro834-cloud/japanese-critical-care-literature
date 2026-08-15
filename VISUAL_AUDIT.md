@@ -2,7 +2,7 @@
 
 > Every asset is treated as unverified until its anatomy/physiology, arrows, labels, and evidence match are independently checked against the rewritten master text. Successful rendering is not medical validation.
 
-Phase 1 baseline: **74** assets (SVG 67, PNG 7). Current registered total after Phase 3 addition: **75** (SVG 67, PNG 8).
+Phase 1 baseline: **74** assets (SVG 67, PNG 7). Current registered total after Phase 3 additions: **76** (SVG 68, PNG 8).
 
 | Figure ID | File | Topic | Anatomical Accuracy | Physiological Accuracy | Direction / Arrow Accuracy | Label Accuracy | Scale / Proportion | Clinical Accuracy | Educational Value | Readability | PowerPoint Utility | Evidence Match | Final Decision |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---|
@@ -11,6 +11,7 @@ Phase 1 baseline: **74** assets (SVG 67, PNG 7). Current registered total after 
 | FIG-B-ARDS-001 | `assets/breathing/ards_alveolar_injury.svg` | ards alveolar injury | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
 | FIG-B-ARDS-002 | `assets/breathing/ards_shunt_mechanism.svg` | ards shunt mechanism | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
 | FIG-B-ARDS-003 | `assets/breathing/prone_position_mechanism.svg` | prone position mechanism | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
+| FIG-B-ARDS-004 | `assets/breathing/ards_definition_comparison.svg` | Berlin vs New Global Definition | 3 | 3 | 3 | 4 | 3 | 3 | 4 | 4 | Yes (SVG) | 4 | CORRECT; specialist review pending |
 | FIG-CARD-ANAT-001 | `assets/cardiac/coronary_conduction_overview.svg` | coronary conduction overview | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
 | FIG-C-HEMO-002 | `assets/circulation/frank_starling_concept.svg` | frank starling concept | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
 | FIG-C-HEMO-003 | `assets/circulation/plr_reasoning.svg` | plr reasoning | 3 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | Yes (SVG) | 2 | CORRECT |
