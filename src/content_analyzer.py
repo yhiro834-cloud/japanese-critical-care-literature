@@ -118,3 +118,38 @@ def relevance(text: str) -> dict[str, str]:
         count = sum(word.casefold() in folded for word in words)
         result[label] = "high" if count >= 2 else ("medium" if count == 1 else "low")
     return result
+
+
+def analyze_fulltext(article: Article, text: str) -> Article:
+    """PDF抽出本文から、明示された文だけをEvidence Card項目へ追加する。"""
+    article.fulltext_reviewed = True
+    article.content_review_level = "fulltext_reviewed"
+    section_patterns = {
+        "research_objective": r"(?:目的|Objective|Aim|Purpose)\s*[:：]?\s*([^。\n]{10,300}[。]?)",
+        "key_results": r"(?:結果|Results?)\s*[:：]?\s*([^。\n]{10,500}[。]?)",
+        "authors_conclusion": r"(?:結論|Conclusions?)\s*[:：]?\s*([^。\n]{10,400}[。]?)",
+        "reported_limitations": r"(?:研究の限界|限界|Limitations?)\s*[:：]?\s*([^。\n]{10,400}[。]?)",
+    }
+    found: list[tuple[str, str]] = []
+    for field_name, pattern in section_patterns.items():
+        match = re.search(pattern, text, re.I)
+        if not match:
+            continue
+        value = match.group(1).strip()
+        if field_name in {"key_results", "reported_limitations"}:
+            setattr(article, field_name, [value])
+        else:
+            setattr(article, field_name, value)
+        article.evidence_sources[field_name] = "fulltext"
+        found.append((field_name, value))
+    design, attributes = detect_design(text)
+    if design != "判定不能":
+        article.study_design = design
+        article.study_design_attributes = attributes
+        article.evidence_sources["study_design"] = "fulltext"
+    article.extractive_summary = [value for _, value in found[:8]]
+    article.summary_sources = ["results" if name == "key_results" else "conclusion" if name == "authors_conclusion" else "fulltext" for name, _ in found[:8]]
+    article.extraction_confidence = "high" if len(found) >= 3 else "medium"
+    article.research_usability = "A" if len(found) >= 3 else "B"
+    article.automatic_cautions = [x for x in article.automatic_cautions if x != "全文未確認"]
+    return article

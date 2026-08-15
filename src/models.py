@@ -73,6 +73,9 @@ class Article:
     literature_review_status: str = "未判定"
     exclusion_reason: str = NA
     evidence_card_path: str = NA
+    pdf_review_status: str = "未確認"
+    pdf_checked_at: str = NA
+    fulltext_character_count: int = 0
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)

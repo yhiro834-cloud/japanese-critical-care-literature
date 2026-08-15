@@ -38,6 +38,9 @@ def render(article: Article, day: date) -> str:
 - CiNii Research URL：{article.cinii_url}
 - DOI URL：{article.doi_url}
 - PDF URL：{article.pdf_url}
+- PDF確認状況：{article.pdf_review_status}
+- PDF確認日時：{article.pdf_checked_at}
+- 本文抽出文字数：{article.fulltext_character_count}
 - HTML全文URL：{article.html_url}
 
 ## 内容確認状況
