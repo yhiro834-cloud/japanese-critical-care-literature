@@ -55,6 +55,8 @@ def parse_jstage(xml: bytes, retrieved_at: str) -> list[Article]:
             if name:
                 authors.append(name)
         online = _text(entry, ["a:updated"])
+        abstract_ja = _text(entry, ["a:abstract/a:ja", "a:summary/a:ja", "a:summary"], "日本語抄録なし")
+        abstract_en = _text(entry, ["a:abstract/a:en"], NA)
         parts = urlparse(url).path.strip("/").split("/") if url != NA else []
         article_id = f"{parts[1]}/{parts[4]}" if len(parts) > 5 and parts[0] == "article" else NA
         articles.append(Article(
@@ -65,6 +67,7 @@ def parse_jstage(xml: bytes, retrieved_at: str) -> list[Article]:
             issue=_text(entry, ["p:number"]), start_page=_text(entry, ["p:startingPage"]),
             end_page=_text(entry, ["p:endingPage"]), publication_year=_text(entry, ["a:pubyear"]),
             online_date=online, updated_date=online, source_databases=["J-STAGE"], jstage_url=url,
+            abstract_ja=abstract_ja, abstract_en=abstract_en,
             doi_url=(f"https://doi.org/{doi}" if doi != NA else NA), html_url=url,
             free_full_text=False, retrieved_at=retrieved_at,
         ))
