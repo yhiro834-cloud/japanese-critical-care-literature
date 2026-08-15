@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">ARDSのBerlin定義とNew Global Definitionの比較</title>
+  <desc id="desc">共通する診断骨格とNew Global Definitionで拡張された肺超音波、酸素飽和度比、高流量鼻カニュラ、資源制約環境を比較する教育用模式図。</desc>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="80" y="72" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="42" font-weight="700" fill="#172B3A">ARDS定義：共通する骨格と拡張された範囲</text>
+  <text x="80" y="112" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="22" fill="#526B7A">診断時は「どの定義・呼吸補助条件・体位・測定時刻か」を明記する</text>
+
+  <rect x="80" y="155" width="1440" height="130" rx="26" fill="#EAF6FB" stroke="#1976A3" stroke-width="4"/>
+  <text x="800" y="200" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="29" font-weight="700" fill="#1976A3">両定義に共通する診断の骨格</text>
+  <text x="800" y="245" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="24" fill="#172B3A">急性誘因と1週間以内の経過　＋　両側の含気低下　＋　主に心原性・体液過剰だけでは説明しない低酸素血症</text>
+
+  <rect x="80" y="325" width="680" height="405" rx="28" fill="#F7FAFC" stroke="#31546D" stroke-width="4"/>
+  <text x="420" y="380" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="34" font-weight="700" fill="#31546D">Berlin定義（2012）</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="25" fill="#172B3A">
+    <circle cx="130" cy="438" r="8" fill="#31546D"/><text x="155" y="447">胸部X線またはCTの両側陰影</text>
+    <circle cx="130" cy="505" r="8" fill="#31546D"/><text x="155" y="514">P/F比で酸素化重症度を分類</text>
+    <circle cx="130" cy="572" r="8" fill="#31546D"/><text x="155" y="581">PEEP / CPAP条件を用いる</text>
+    <circle cx="130" cy="639" r="8" fill="#31546D"/><text x="155" y="648">軽症・中等症・重症の3段階</text>
+  </g>
+  <text x="420" y="695" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="20" fill="#526B7A">広く使われてきた基準。HFNOや資源制約環境は十分扱わない</text>
+
+  <rect x="840" y="325" width="680" height="405" rx="28" fill="#EEF9F5" stroke="#16856B" stroke-width="4"/>
+  <text x="1180" y="380" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="30" font-weight="700" fill="#16856B">新しい国際定義（New Global Definition）</text>
+  <g font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="25" fill="#172B3A">
+    <circle cx="890" cy="438" r="8" fill="#16856B"/><text x="915" y="447">訓練者による肺超音波を追加</text>
+    <circle cx="890" cy="505" r="8" fill="#16856B"/><text x="915" y="514">条件付きでS/F比を追加</text>
+    <circle cx="890" cy="572" r="8" fill="#16856B"/><text x="915" y="581">HFNO 30 L/min以上を含む</text>
+    <circle cx="890" cy="639" r="8" fill="#16856B"/><text x="915" y="648">資源制約環境のカテゴリーを追加</text>
+  </g>
+  <text x="1180" y="695" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="20" fill="#526B7A">Berlinを拡張したコンセンサス定義。治療推奨そのものではない</text>
+
+  <rect x="235" y="770" width="1130" height="72" rx="20" fill="#FFF4F2" stroke="#C74440" stroke-width="3"/>
+  <text x="800" y="804" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="23" font-weight="700" fill="#C74440">定義を混在させない：P/F・S/F、FiO₂、PEEP、流量、体位、安定後の測定時刻を記録</text>
+  <text x="800" y="832" text-anchor="middle" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="18" fill="#526B7A">S/FはSpO₂ ≤97%かつ良好な波形で使用。異常ヘモグロビンを疑う場合はパルスオキシメトリだけに依存しない</text>
+  <text x="80" y="878" font-family="Hiragino Sans, Yu Gothic, Arial, sans-serif" font-size="18" fill="#526B7A">FIG-B-ARDS-004 · 定義比較の教育用模式図 · Source: Berlin 2012 / New Global Definition 2024 · 確認日 2026-08-15</text>
+</svg>

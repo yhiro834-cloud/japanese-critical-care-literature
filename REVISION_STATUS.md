@@ -13,7 +13,7 @@
 | 気道評価と気道緊急事態 | `docs/01_Airway/Assessment_Emergencies/AIRWAY_ASSESSMENT_EMERGENCIES.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | 迅速導入気管挿管と困難気道管理 | `docs/01_Airway/Intubation_Difficult_Airway/RSI_DIFFICULT_AIRWAY.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | 動脈血液ガスと酸塩基平衡 | `docs/02_Breathing/ABG/ABG_INTERPRETATION.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
-| 急性呼吸窮迫症候群 | `docs/02_Breathing/ARDS/ARDS.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
+| 急性呼吸窮迫症候群 | `docs/02_Breathing/ARDS/ARDS.md` | Audited | Core claims mapped | Major reconstruction | 4 SVGs reviewed | 1 new + 3 labels revised | Not started | No | Yes |
 | 高流量鼻カニュラ酸素療法 | `docs/02_Breathing/HFNC/HFNC.md` | Audited | Not started | Not started | Not started | Not started | Not started | No | Yes |
 | 人工呼吸管理 | `docs/02_Breathing/Mechanical_Ventilation/MECHANICAL_VENTILATION.md` | Audited | Claim mapping in progress | Major revision in progress | 5 SVGs + 1 raster reviewed | 1 raster generated/revised | Not started | No | Yes |
 | 人工呼吸器の基本用語 | `docs/02_Breathing/Mechanical_Ventilation/VENTILATOR_TERMS.md` | Audited | Core claims mapped | Major revision | Not started | Not started | Not started | No | Yes |
