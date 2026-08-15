@@ -310,8 +310,8 @@
     "literature_review_status": "未判定",
     "exclusion_reason": "記載なし",
     "evidence_card_path": "記載なし",
-    "pdf_review_status": "未確認",
-    "pdf_checked_at": "記載なし",
+    "pdf_review_status": "PDF取得・解析不可",
+    "pdf_checked_at": "2026-08-15T22:55:57.774797+00:00",
     "fulltext_character_count": 0
   },
   {
@@ -351,17 +351,20 @@
     "jstage_url": "https://www.jstage.jst.go.jp/article/jsicm/32/0/32_32_R45/_article/-char/ja/",
     "cinii_url": "記載なし",
     "doi_url": "https://doi.org/10.3918/jsicm.32_R45",
-    "pdf_url": "記載なし",
+    "pdf_url": "https://www.jstage.jst.go.jp/article/jsicm/32/0/32_32_R45/_pdf/-char/ja/",
     "html_url": "https://www.jstage.jst.go.jp/article/jsicm/32/0/32_32_R45/_article/-char/ja/",
     "free_full_text": false,
     "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
     "manual_review_status": "未確認",
-    "content_review_level": "title_and_metadata",
+    "content_review_level": "fulltext_reviewed",
     "abstract_reviewed": false,
-    "fulltext_reviewed": false,
-    "study_design": "判定不能",
-    "study_design_attributes": [],
-    "research_objective": "抄録から確認できず",
+    "fulltext_reviewed": true,
+    "study_design": "診療ガイドライン",
+    "study_design_attributes": [
+      "多施設研究",
+      "単施設研究"
+    ],
+    "research_objective": "にした個室においては陽圧，陰圧専用の部屋が望",
     "pico_applicable": true,
     "population": "抄録から判定不能",
     "intervention_or_exposure": "抄録から判定不能",
@@ -371,24 +374,41 @@
     "sample_size": "記載なし",
     "number_of_facilities": "記載なし",
     "study_setting": [],
-    "key_results": [],
+    "key_results": [
+      "としてICU患者の重症度が高くなり， ICUス"
+    ],
     "key_numeric_results": [],
     "authors_conclusion": "確認できず",
-    "reported_limitations": [],
+    "reported_limitations": [
+      "が示唆される 9) 。"
+    ],
     "automatic_cautions": [],
-    "extractive_summary": [],
-    "summary_sources": [],
-    "evidence_sources": {},
-    "extraction_confidence": "low",
-    "research_usability": "D",
+    "extractive_summary": [
+      "にした個室においては陽圧，陰圧専用の部屋が望",
+      "としてICU患者の重症度が高くなり， ICUス",
+      "が示唆される 9) 。"
+    ],
+    "summary_sources": [
+      "fulltext",
+      "results",
+      "fulltext"
+    ],
+    "evidence_sources": {
+      "research_objective": "fulltext",
+      "key_results": "fulltext",
+      "reported_limitations": "fulltext",
+      "study_design": "fulltext"
+    },
+    "extraction_confidence": "high",
+    "research_usability": "A",
     "relevance": {},
     "ranking_reason": "記載なし",
     "literature_review_status": "未判定",
     "exclusion_reason": "記載なし",
-    "evidence_card_path": "記載なし",
-    "pdf_review_status": "未確認",
-    "pdf_checked_at": "記載なし",
-    "fulltext_character_count": 0
+    "evidence_card_path": "evidence/2026/08/10.3918_jsicm.32_r45.md",
+    "pdf_review_status": "本文解析済み",
+    "pdf_checked_at": "2026-08-15T22:56:09.525574+00:00",
+    "fulltext_character_count": 39054
   },
   {
     "article_key": "doi:10.4264/numa.84.4_127",
@@ -430,16 +450,20 @@
     "jstage_url": "https://www.jstage.jst.go.jp/article/numa/84/4/84_127/_article/-char/ja/",
     "cinii_url": "記載なし",
     "doi_url": "https://doi.org/10.4264/numa.84.4_127",
-    "pdf_url": "記載なし",
+    "pdf_url": "https://www.jstage.jst.go.jp/article/numa/84/4/84_127/_pdf/-char/ja/",
     "html_url": "https://www.jstage.jst.go.jp/article/numa/84/4/84_127/_article/-char/ja/",
     "free_full_text": false,
     "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
     "manual_review_status": "未確認",
-    "content_review_level": "title_and_metadata",
+    "content_review_level": "fulltext_reviewed",
     "abstract_reviewed": false,
-    "fulltext_reviewed": false,
-    "study_design": "判定不能",
-    "study_design_attributes": [],
+    "fulltext_reviewed": true,
+    "study_design": "診療ガイドライン",
+    "study_design_attributes": [
+      "観察研究",
+      "前向き",
+      "後ろ向き"
+    ],
     "research_objective": "抄録から確認できず",
     "pico_applicable": true,
     "population": "抄録から判定不能",
@@ -457,17 +481,19 @@
     "automatic_cautions": [],
     "extractive_summary": [],
     "summary_sources": [],
-    "evidence_sources": {},
-    "extraction_confidence": "low",
-    "research_usability": "D",
+    "evidence_sources": {
+      "study_design": "fulltext"
+    },
+    "extraction_confidence": "medium",
+    "research_usability": "B",
     "relevance": {},
     "ranking_reason": "記載なし",
     "literature_review_status": "未判定",
     "exclusion_reason": "記載なし",
-    "evidence_card_path": "記載なし",
-    "pdf_review_status": "未確認",
-    "pdf_checked_at": "記載なし",
-    "fulltext_character_count": 0
+    "evidence_card_path": "evidence/2026/08/10.4264_numa.84.4_127.md",
+    "pdf_review_status": "本文解析済み",
+    "pdf_checked_at": "2026-08-15T22:56:21.893637+00:00",
+    "fulltext_character_count": 8998
   },
   {
     "article_key": "doi:10.18902/jaen.28.0_1",
