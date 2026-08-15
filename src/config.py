@@ -47,6 +47,10 @@ class Config:
     enable_pubmed_japanese: bool = False
     days_back: int = 7
     request_interval: float = 1.0
+    enable_pdf_review: bool = True
+    pdf_review_limit: int = 3
+    pdf_request_interval: float = 10.0
+    pdf_max_bytes: int = 20 * 1024 * 1024
 
     @classmethod
     def from_env(cls, root: Path | None = None) -> "Config":
@@ -66,4 +70,8 @@ class Config:
             dry_run=_bool("DRY_RUN", False),
             enable_cinii=_bool("ENABLE_CINII", True),
             enable_pubmed_japanese=_bool("ENABLE_PUBMED_JAPANESE", False),
+            enable_pdf_review=_bool("ENABLE_PDF_REVIEW", True),
+            pdf_review_limit=max(0, min(3, int(os.getenv("PDF_REVIEW_LIMIT", "3")))),
+            pdf_request_interval=max(10.0, float(os.getenv("PDF_REQUEST_INTERVAL", "10"))),
+            pdf_max_bytes=max(1, min(20, int(os.getenv("PDF_MAX_MB", "20")))) * 1024 * 1024,
         )

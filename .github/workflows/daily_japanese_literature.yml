@@ -24,6 +24,10 @@ jobs:
       DRY_RUN: ${{ vars.DRY_RUN || 'false' }}
       ENABLE_CINII: ${{ vars.ENABLE_CINII || 'true' }}
       ENABLE_PUBMED_JAPANESE: ${{ vars.ENABLE_PUBMED_JAPANESE || 'false' }}
+      ENABLE_PDF_REVIEW: ${{ vars.ENABLE_PDF_REVIEW || 'true' }}
+      PDF_REVIEW_LIMIT: ${{ vars.PDF_REVIEW_LIMIT || '3' }}
+      PDF_REQUEST_INTERVAL: ${{ vars.PDF_REQUEST_INTERVAL || '10' }}
+      PDF_MAX_MB: ${{ vars.PDF_MAX_MB || '20' }}
     steps:
       - uses: actions/checkout@v4
         with:

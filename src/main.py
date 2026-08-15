@@ -11,8 +11,9 @@ from src.config import SEARCH_GROUPS, Config, jst_today
 from src.deduplicator import duplicate_of, merge_articles
 from src.models import Article, NA
 from src.scorer import score
-from src.storage import append_articles, load_articles, rank_articles, save_processed, write_report
+from src.storage import load_articles, rank_articles, save_processed, write_report
 from src.evidence_card import write_cards
+from src.pdf_reviewer import review_pdf_backlog
 
 LOG = logging.getLogger(__name__)
 
@@ -77,18 +78,31 @@ def run(config: Config) -> int:
         for article in articles:
             LOG.info("文献ID: %s", article.article_key)
         return len(articles)
-    if not articles:
-        LOG.info("新規文献はありません。ファイルは変更しません。")
-        return 0
     data_path = config.root / "data" / "articles.json"
     processed_path = config.root / "data" / "processed_articles.json"
     day = jst_today()
-    write_cards(config.root, articles, day)
-    append_articles(data_path, articles)
-    save_processed(processed_path, load_articles(processed_path) + articles)
-    path = write_report(config.root, articles, day)
-    LOG.info("%d件を保存しました: %s", len(articles), path)
-    return len(articles)
+    existing = load_articles(data_path)
+    pdf_checked = review_pdf_backlog(existing, config.pdf_review_limit, config.pdf_max_bytes,
+                                     config.pdf_request_interval) if config.enable_pdf_review else []
+    cards = articles + [a for a in pdf_checked if a.fulltext_reviewed]
+    if cards:
+        write_cards(config.root, cards, day)
+    if articles:
+        existing.extend(articles)
+        path = write_report(config.root, articles, day)
+        LOG.info("%d件を保存しました: %s", len(articles), path)
+    if not articles and not pdf_checked:
+        LOG.info("新規文献・PDF再確認対象はありません。ファイルは変更しません。")
+        return 0
+    save_processed(data_path, existing)
+    processed = load_articles(processed_path)
+    latest = {a.article_key: a for a in existing}
+    processed = [latest.get(a.article_key, a) for a in processed]
+    processed_keys = {a.article_key for a in processed}
+    processed.extend(a for a in articles if a.article_key not in processed_keys)
+    save_processed(processed_path, processed)
+    LOG.info("PDF再確認 %d件、本文解析済み %d件", len(pdf_checked), sum(a.fulltext_reviewed for a in pdf_checked))
+    return len(articles) + len(pdf_checked)
 
 
 if __name__ == "__main__":
