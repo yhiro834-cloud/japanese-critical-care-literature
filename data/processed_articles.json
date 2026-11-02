@@ -1241,7 +1241,7 @@
     "jstage_url": "https://www.jstage.jst.go.jp/article/koreanstudies/13/0/13_131/_article/-char/ja/",
     "cinii_url": "記載なし",
     "doi_url": "https://doi.org/10.69356/koreanstudies.13.0_131",
-    "pdf_url": "記載なし",
+    "pdf_url": "https://www.jstage.jst.go.jp/article/koreanstudies/13/0/13_131/_pdf/-char/ja/",
     "html_url": "https://www.jstage.jst.go.jp/article/koreanstudies/13/0/13_131/_article/-char/ja/",
     "free_full_text": false,
     "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
@@ -1276,8 +1276,8 @@
     "literature_review_status": "未判定",
     "exclusion_reason": "記載なし",
     "evidence_card_path": "記載なし",
-    "pdf_review_status": "未確認",
-    "pdf_checked_at": "記載なし",
+    "pdf_review_status": "PDF取得・解析不可",
+    "pdf_checked_at": "2026-11-02T01:30:20.153658+00:00",
     "fulltext_character_count": 0
   },
   {
@@ -1319,17 +1319,17 @@
     "jstage_url": "https://www.jstage.jst.go.jp/article/tmjutmed/36/1/36_1/_article/-char/ja/",
     "cinii_url": "記載なし",
     "doi_url": "https://doi.org/10.57561/tmjutmed.36.1_1",
-    "pdf_url": "記載なし",
+    "pdf_url": "https://www.jstage.jst.go.jp/article/tmjutmed/36/1/36_1/_pdf/-char/ja/",
     "html_url": "https://www.jstage.jst.go.jp/article/tmjutmed/36/1/36_1/_article/-char/ja/",
     "free_full_text": false,
     "retrieved_at": "2026-08-04T22:53:30.220955+00:00",
     "manual_review_status": "未確認",
-    "content_review_level": "title_and_metadata",
+    "content_review_level": "fulltext_reviewed",
     "abstract_reviewed": false,
-    "fulltext_reviewed": false,
-    "study_design": "判定不能",
+    "fulltext_reviewed": true,
+    "study_design": "指針",
     "study_design_attributes": [],
-    "research_objective": "抄録から確認できず",
+    "research_objective": "としたものではなかっ",
     "pico_applicable": true,
     "population": "抄録から判定不能",
     "intervention_or_exposure": "抄録から判定不能",
@@ -1339,24 +1339,36 @@
     "sample_size": "記載なし",
     "number_of_facilities": "記載なし",
     "study_setting": [],
-    "key_results": [],
+    "key_results": [
+      "，新規医療の導入や希少疾"
+    ],
     "key_numeric_results": [],
     "authors_conclusion": "確認できず",
     "reported_limitations": [],
     "automatic_cautions": [],
-    "extractive_summary": [],
-    "summary_sources": [],
-    "evidence_sources": {},
-    "extraction_confidence": "low",
-    "research_usability": "D",
+    "extractive_summary": [
+      "としたものではなかっ",
+      "，新規医療の導入や希少疾"
+    ],
+    "summary_sources": [
+      "fulltext",
+      "results"
+    ],
+    "evidence_sources": {
+      "research_objective": "fulltext",
+      "key_results": "fulltext",
+      "study_design": "fulltext"
+    },
+    "extraction_confidence": "medium",
+    "research_usability": "B",
     "relevance": {},
     "ranking_reason": "記載なし",
     "literature_review_status": "未判定",
     "exclusion_reason": "記載なし",
-    "evidence_card_path": "記載なし",
-    "pdf_review_status": "未確認",
-    "pdf_checked_at": "記載なし",
-    "fulltext_character_count": 0
+    "evidence_card_path": "evidence/2026/11/10.57561_tmjutmed.36.1_1.md",
+    "pdf_review_status": "本文解析済み",
+    "pdf_checked_at": "2026-11-02T01:30:51.937424+00:00",
+    "fulltext_character_count": 16214
   },
   {
     "article_key": "doi:10.2468/jbes.77.192",
@@ -1432,8 +1444,8 @@
     "literature_review_status": "未判定",
     "exclusion_reason": "記載なし",
     "evidence_card_path": "記載なし",
-    "pdf_review_status": "未確認",
-    "pdf_checked_at": "記載なし",
+    "pdf_review_status": "PDF取得・解析不可",
+    "pdf_checked_at": "2026-11-02T01:31:07.930339+00:00",
     "fulltext_character_count": 0
   },
   {
